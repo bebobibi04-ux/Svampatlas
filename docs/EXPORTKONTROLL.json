@@ -460,5 +460,9 @@
     "personlig progress",
     "videofil"
   ],
-  "githubDeploymentPerformed": false
+  "githubDeploymentPerformed": true,
+  "githubPagesUrl": "https://bebobibi04-ux.github.io/Svampatlas/",
+  "githubRepository": "https://github.com/bebobibi04-ux/Svampatlas",
+  "publicationDate": "2026-10-10",
+  "initialPublicationCommit": "2d8d97f3b3a3974b296a092e48f873544c739ade"
 }

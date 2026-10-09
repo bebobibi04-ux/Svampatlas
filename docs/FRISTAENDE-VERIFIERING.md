@@ -2,6 +2,8 @@
 
 Datum: 2026-10-09.
 
+**Uppdatering 2026-10-10:** Svampatlas är nu publicerad och kontrollerad på [GitHub Pages](https://bebobibi04-ux.github.io/Svampatlas/). Se [GITHUB-PAGES-PUBLICERING.md](GITHUB-PAGES-PUBLICERING.md). Resten av denna rapport dokumenterar exportkontrollen den 9 oktober, före publiceringen.
+
 Den befintliga färdigbyggda koden har återanvänts. Webbplatsen består av vanlig HTML, CSS, JavaScript och lokala resurser. Den kräver ingen inloggning, ChatGPT Sites, OpenAI-tjänst, API-nyckel, serverfunktion eller installation av paket. Studiedata är redan inbakade i JavaScript; inget byggsteg krävs för publicering.
 
 ## Bevarat material och beteende
@@ -28,7 +30,7 @@ Webbplatsen öppnades i en vanlig webbläsarvy via en separat lokal statisk serv
 
 ## Kontrollens gränser och flytt av progress
 
-GitHub-publicering har inte utförts. Ingen verklig GitHub Pages-adress har därför testats. Den lokala kontrollen använder motsvarande undermappsstruktur. Direkt öppning av `index.html` via filsystemet har inte browser-testats; en statisk webbserver eller GitHub Pages ger stabilare lagring mellan studiepass.
+Vid exportkontrollen den 9 oktober hade GitHub-publicering ännu inte utförts. Den lokala kontrollen använde motsvarande undermappsstruktur. Direkt öppning av `index.html` via filsystemet har inte browser-testats; en statisk webbserver eller GitHub Pages ger stabilare lagring mellan studiepass. Den verkliga publiceringen och webbläsarkontrollen den 10 oktober dokumenteras i rapporten ovan.
 
 Backupformatets kompatibilitet och bevarandet av öppna provsvar har verifierats automatiskt. En extra kontroll med syntetisk backup från originalversionen kunde inte slutföras i webbläsarverktyget eftersom filväljarhändelsen inte kunde fångas. Det testets fil följde inte med i leveransen. Den fristående versionens importkod är bevarad.
 

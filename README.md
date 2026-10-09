@@ -1,5 +1,7 @@
 # Svampatlas – fristående webbplats
 
+**Publicerad 2026-10-10:** [Öppna Svampatlas](https://bebobibi04-ux.github.io/Svampatlas/) · [Källkod på GitHub](https://github.com/bebobibi04-ux/Svampatlas).
+
 Det här är den befintliga färdigbyggda Svampatlas, exporterad för vanlig webbhosting och GitHub Pages. Besökare behöver ingen inloggning. Webbplatsen behöver varken ChatGPT, OpenAI-tjänster, API-nycklar, databas, installation av paket eller byggsteg.
 
 Allt studiematerial, filmkorrigeringarna, designen, navigationen, bilderna och studieverktygen är bevarade. Endast den valfria agentintegrationen har tagits bort och backupinstruktionen har anpassats till byte av valfri webbadress. Koden använder vanlig HTML, CSS och JavaScript.
@@ -14,7 +16,7 @@ Allt studiematerial, filmkorrigeringarna, designen, navigationen, bilderna och s
 
 GitHub Free stöder Pages från offentliga repositories. Webbplatsen blir offentligt tillgänglig. Instruktionerna följer [GitHubs publiceringsguide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) och [inställningarna för publiceringskälla](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
-GitHub-publicering har inte utförts åt dig. Paketet är färdigt för uppladdning. Använd den adress GitHub faktiskt visar efter publiceringen.
+Publiceringen är genomförd i repositoryt `bebobibi04-ux/Svampatlas`, från **main** och **/(root)**. Instruktionerna ovan gäller om du vill publicera en egen kopia. Se [publiceringskontrollen](docs/GITHUB-PAGES-PUBLICERING.md) för verifieringen av den verkliga GitHub Pages-adressen.
 
 ### Om du laddar upp i webbläsaren
 
@@ -78,4 +80,4 @@ node --test tests/standalone.test.cjs
 
 Webbplatsen kräver inte Node.js för att användas eller publiceras. Kontrollera även originalbilder, källinventering och övningar efter innehållsändringar. Ändras bok- eller artmaterial avsiktligt behöver jämförelseunderlaget i testerna uppdateras.
 
-Se `docs/FRISTAENDE-VERIFIERING.md` för den nya kontrollen. Tidigare innehållsrapport och filmgranskning följer med som dokumentation.
+Se `docs/GITHUB-PAGES-PUBLICERING.md` för kontrollen av den publicerade webbplatsen och `docs/FRISTAENDE-VERIFIERING.md` för exportkontrollen. Tidigare innehållsrapport och filmgranskning följer med som dokumentation.
