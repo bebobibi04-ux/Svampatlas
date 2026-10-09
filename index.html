@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Studera svampar, träna 54 svampnamn och repetera boken och filmen inför provet.">
+  <meta name="theme-color" content="#123b32"><title>Svampatlas · Din studieplats</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23123b32'/%3E%3Cpath d='M5 17a11 11 0 0122 0H5m8 1v9h6v-9' fill='%237ce7ae'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="js/core.js"></script><script defer src="js/data.js"></script><script defer src="js/views.js"></script><script defer src="js/sessions.js"></script><script defer src="js/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Hoppa till innehållet</a>
+<aside id="sidebar" aria-label="Huvudnavigation">
+  <a class="brand" href="#oversikt"><span class="brand-symbol" aria-hidden="true">S</span><span>Svampatlas<small>DIN STUDIEPLATS</small></span></a>
+  <div class="nav-label">INFÖR PROVET</div>
+  <nav><a href="#oversikt" data-nav="oversikt">Översikt</a><a href="#arter" data-nav="arter">Artbibliotek <span>54</span></a><a href="#arttraning" data-nav="arttraning">Träna artkunskap</a><a href="#studera" data-nav="studera">Studera teori</a></nav>
+  <div class="nav-label">TESTA & REPETERA</div>
+  <nav><a href="#kort" data-nav="kort">Flashcards</a><a href="#recall" data-nav="recall">Active recall</a><a href="#quiz" data-nav="quiz">Quiz</a><a href="#prov" data-nav="prov">Provläge</a><a href="#repetera" data-nav="repetera">Repetera</a><a href="#begrepp" data-nav="begrepp">Begrepp</a></nav>
+  <div class="sidebar-bottom"><a href="#kallor" data-nav="kallor">Källor & originalmaterial</a><a href="#framsteg" data-nav="framsteg">Min progress & backup</a><p>Två provdelar. En studieplats.</p></div>
+</aside>
+<div class="workspace">
+  <header class="topbar"><button class="icon-button menu-toggle" id="menu-toggle" aria-label="Öppna navigation" aria-expanded="false">☰</button><span class="topbar-label">BIOLOGI <span>/</span> SVAMPAR</span><form id="search-form" role="search"><label class="sr-only" for="global-search">Sök i studieplattformen</label><input id="global-search" type="search" placeholder="Sök begrepp, svampar, avsnitt…" autocomplete="off"><button class="sr-only" type="submit">Sök</button></form><button class="icon-button" id="theme-toggle" aria-label="Växla till mörkt läge">◐</button></header>
+  <main id="main" tabindex="-1"></main>
+  <footer class="footer">Svampatlas <span>Din progress sparas i denna webbläsare.</span><a href="#framsteg">Säkerhetskopiera</a></footer>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+<dialog id="image-dialog" aria-label="Förstorad bild"><button class="dialog-close" aria-label="Stäng bild">✕</button><img alt=""><p></p></dialog>
+<dialog id="concept-dialog" aria-label="Begreppsförklaring"><button class="dialog-close" aria-label="Stäng förklaring">✕</button><div class="dialog-content"></div></dialog>
+<dialog id="confirm-dialog" aria-labelledby="confirm-title"><div class="dialog-content"><h2 id="confirm-title">Bekräfta</h2><p id="confirm-message"></p><div class="row"><button class="button secondary" data-confirm="no">Avbryt</button><button class="button" data-confirm="yes">Fortsätt</button></div></div></dialog>
+</body></html>

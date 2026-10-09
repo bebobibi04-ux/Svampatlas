@@ -1,0 +1,464 @@
+{
+  "exportedFrom": "Befintlig färdigbyggd Svampatlas, filmrevision 2",
+  "requiredServices": [],
+  "authenticationRequired": false,
+  "preservedWebsiteFiles": [
+    {
+      "file": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "index.html",
+      "sha256": "786173aae4088822f35e161af4e230d19b344096e0580c9084b1041e2883eb4b"
+    },
+    {
+      "file": "styles.css",
+      "sha256": "6ec4303dfaa201e84d213a38a6e0dea3404604aae63eac287e843279ec15486c"
+    },
+    {
+      "file": "assets/Svampar-att-lara-in.xlsx",
+      "sha256": "7381482ad97909ae5ceba0d40bbe3a8dc58a8a55b7669eff8208252c9e674c02"
+    },
+    {
+      "file": "assets/Svampar.pdf",
+      "sha256": "3c74ca4bce686a35e72d38c6eaf751a73a2af5316ff667af81150ad1029528d7"
+    },
+    {
+      "file": "assets/undertexter.vtt",
+      "sha256": "950c05f84c5f5064b40d2d3f8af5687b4084f529334f4bfea2b44f08037156c8"
+    },
+    {
+      "file": "js/core.js",
+      "sha256": "26d5d38d3b634bda3b617f8444beb799869317bf176d646e00ef38d048bfc167"
+    },
+    {
+      "file": "js/data.js",
+      "sha256": "a57e067ed825eb09af04081507a5b4221473285344fc3c3bad37f8696d6e9677"
+    },
+    {
+      "file": "js/sessions.js",
+      "sha256": "f0eb53652252a03ffaef3567e7978debb5c62bb268fe7521c62997b4d5934a46"
+    },
+    {
+      "file": "assets/book/266.jpg",
+      "sha256": "40b8210b4d9c2f09bcce783ef6b1a81779688f5297de263b53223d165bc8702e"
+    },
+    {
+      "file": "assets/book/267.jpg",
+      "sha256": "06e0d4d30e02386812e4f65de898d137df32d9e1e247ddb8a1a68bcad1551bca"
+    },
+    {
+      "file": "assets/book/268.jpg",
+      "sha256": "72a4c7e4ee61fb3a3b5607d38ff6416189e3f7aa47d4f2b6589f6e8e24320dd0"
+    },
+    {
+      "file": "assets/book/269.jpg",
+      "sha256": "e1d807bfc49cb1d2fb755ee59157ffe98f82d2b640ee334d973fdd6684f2b607"
+    },
+    {
+      "file": "assets/figures/book-266-mycel-hyf.jpg",
+      "sha256": "28bd1cd9a6ca88922ee1386b41f80b59366d2df42c96c6e316d0cd2e3cb46182"
+    },
+    {
+      "file": "assets/figures/book-267-haxring.jpg",
+      "sha256": "6bf1861e5e7474255c9ed6036f3bdac39a55001bbc4548776d7f05b7fe5958e1"
+    },
+    {
+      "file": "assets/figures/book-267-hyfer-vaxtceller.jpg",
+      "sha256": "fc673d99b6f1ed80adcacc7105f0e99990cf3a77c10900bc3f9087bd80b4f760"
+    },
+    {
+      "file": "assets/figures/book-268-lav-natverk.jpg",
+      "sha256": "92e4ff6a278a25cea736771c2bff873b0278999091ffd2d2680440da500c80c9"
+    },
+    {
+      "file": "assets/figures/book-269-livscykler.jpg",
+      "sha256": "5fc23256e4a5848f12dbc0c23c163cd7cf6c35e3ae9580e6f35532b9aaf5855c"
+    },
+    {
+      "file": "assets/pdf/page-1.jpg",
+      "sha256": "d53a5e1bbf349d500da64e8b73279e3f4fd047351b9aa5b6ec772389e7275738"
+    },
+    {
+      "file": "assets/pdf/page-10.jpg",
+      "sha256": "84a32f49bb4d7c67464eae46a746396aa4bf1f09347a1de4a1f785a1d9a04530"
+    },
+    {
+      "file": "assets/pdf/page-11.jpg",
+      "sha256": "95417b9fea40087f5d7175df321b96f7a98eefc545ece17681522e88689ac681"
+    },
+    {
+      "file": "assets/pdf/page-12.jpg",
+      "sha256": "f7f2d1a2ca0bf5c7efb50273c691af23d2445f21a9bf7201d789945d4ed58e45"
+    },
+    {
+      "file": "assets/pdf/page-13.jpg",
+      "sha256": "2cff0ea85b1f20fbaaa21c74b216d3c4db7bc8a82f479d5463964233cf4a28ef"
+    },
+    {
+      "file": "assets/pdf/page-14.jpg",
+      "sha256": "3eb6aec2849c49b74d8b24c9e618792d3eff9843a3c6b450cee0d15806843b9b"
+    },
+    {
+      "file": "assets/pdf/page-15.jpg",
+      "sha256": "c44002b0b2fac41f1f6ca9856532771ac276750e0d3b9819ea53fbe812c50148"
+    },
+    {
+      "file": "assets/pdf/page-16.jpg",
+      "sha256": "af184520661fd5a1f120cb3d05909f0c76f4e53b7ba7df8ec6bdb629707b98cb"
+    },
+    {
+      "file": "assets/pdf/page-17.jpg",
+      "sha256": "88509a1480975f6a71907b0e60f079e5088cef7388dd71b884e38adbe1f491ee"
+    },
+    {
+      "file": "assets/pdf/page-18.jpg",
+      "sha256": "601348f767d3c21e48b53da682e93d2b9a13e19c3abf58956b627e3fec1eef95"
+    },
+    {
+      "file": "assets/pdf/page-19.jpg",
+      "sha256": "832ad024c835661cd2f4692a06f3a87ba42b453ba872a6b3406d924516303276"
+    },
+    {
+      "file": "assets/pdf/page-2.jpg",
+      "sha256": "aab9edb39f6a427168e3f3744bf9b22e65bd262331806697cd610c095aa4d560"
+    },
+    {
+      "file": "assets/pdf/page-20.jpg",
+      "sha256": "36fe2711b08f6006ab66c37f391a243cfbe2686ba56a1514c07c568523094980"
+    },
+    {
+      "file": "assets/pdf/page-21.jpg",
+      "sha256": "50cef3446b9628f4878ae0ad40411d7dfdefa8949b20beb038a41f516fa03286"
+    },
+    {
+      "file": "assets/pdf/page-22.jpg",
+      "sha256": "62a94042426bcbd19782c13a55ef6f1986eea8fd99286ea44895988b8a106622"
+    },
+    {
+      "file": "assets/pdf/page-23.jpg",
+      "sha256": "950b8151cdfda27dea4fdcad3c3a5621196aebd54243f01b70835fe51c7169f0"
+    },
+    {
+      "file": "assets/pdf/page-24.jpg",
+      "sha256": "099a3ccb04b9b70c0d02f7e79c1172f25f060f846a181ecb21697903e0966d7d"
+    },
+    {
+      "file": "assets/pdf/page-25.jpg",
+      "sha256": "bbbafc1e831547a2e3597b0b9b1ad3cc3e1dbf4295dfe0c7280e157c86dde695"
+    },
+    {
+      "file": "assets/pdf/page-26.jpg",
+      "sha256": "acb404f97ee47bfcee5d7b9aad09262dcc35a6c275a96c33339d06d2a23325d5"
+    },
+    {
+      "file": "assets/pdf/page-27.jpg",
+      "sha256": "4b7ec935c6bccb5cdad1016389ef54fa1f23904ea44cbcb6b485a97a0bb7b437"
+    },
+    {
+      "file": "assets/pdf/page-28.jpg",
+      "sha256": "7fb682f892118a01061f5a3eb14a4d6c6df44c19258cdb969e17dde3c339c1be"
+    },
+    {
+      "file": "assets/pdf/page-29.jpg",
+      "sha256": "3fda9ca58c35e141e5a2a464f2738336089733c9c26d66021d848b2dbfcfc783"
+    },
+    {
+      "file": "assets/pdf/page-3.jpg",
+      "sha256": "4bed6df0e70ad343f702e1ae58f3f8134007b0c200b454d6f03335d7e0c694ee"
+    },
+    {
+      "file": "assets/pdf/page-30.jpg",
+      "sha256": "6e57886bcd0a503485dd074f53e0b705b782f77a6fca1b6d8277a4877a93d3ef"
+    },
+    {
+      "file": "assets/pdf/page-31.jpg",
+      "sha256": "5f65041e2b24468ff0adade1136efc5aec91b72a2bbdedad59b54b06b33c9f16"
+    },
+    {
+      "file": "assets/pdf/page-32.jpg",
+      "sha256": "be1ef92fcffb0843cafd92eb6cc8d1082cd5488f1ef6558c03a2b8eed73247ef"
+    },
+    {
+      "file": "assets/pdf/page-33.jpg",
+      "sha256": "59c2eefe3757143a0405ffcf2b82cfcd4ea38dff81fab66b8fb59a95b1ae87d2"
+    },
+    {
+      "file": "assets/pdf/page-34.jpg",
+      "sha256": "0e2bf8e62c61a73ee2a91a57b6556870058288623165439e0f6e556a050a8cbd"
+    },
+    {
+      "file": "assets/pdf/page-35.jpg",
+      "sha256": "7869855ad27f3f6bdfd222b482b5800cb9701815d9036a506d2f75cb4019d8cb"
+    },
+    {
+      "file": "assets/pdf/page-36.jpg",
+      "sha256": "4a9a027b0dda92c55d894650bbabefbaad2d6efd1f87f35bd935b2223b702a8c"
+    },
+    {
+      "file": "assets/pdf/page-37.jpg",
+      "sha256": "4973abc2dc155c5db240644defd7b390a07ca9bee5de0d7c8e5e65b65040b512"
+    },
+    {
+      "file": "assets/pdf/page-38.jpg",
+      "sha256": "98561b5afc3f5a0e8c028a0c21219ad6a7bf2d8548b138f9998090bb438fcc3c"
+    },
+    {
+      "file": "assets/pdf/page-39.jpg",
+      "sha256": "1ce82dfaa8e55db2580edfb8e3e1d13e852c565195e21d6770633103dcc7f091"
+    },
+    {
+      "file": "assets/pdf/page-4.jpg",
+      "sha256": "3039967bb6ebe0d73c43bedf4c017b9cb1630c7878132fef3e6e2d3173e80e2b"
+    },
+    {
+      "file": "assets/pdf/page-5.jpg",
+      "sha256": "0d810af7b2ff534fcad555db0dfb0ac23d954c89d9abe8c9ca2d769b19466996"
+    },
+    {
+      "file": "assets/pdf/page-6.jpg",
+      "sha256": "1cd527095b71f99eec6696d45f1723dd9ea5e47df8fff4ebee512a600976fa7f"
+    },
+    {
+      "file": "assets/pdf/page-7.jpg",
+      "sha256": "a27ea07e97d776a1d64a7e236ebed97a518f7c1c3d97a7b455dc04859c0433c5"
+    },
+    {
+      "file": "assets/pdf/page-8.jpg",
+      "sha256": "19bf61ca7d4f57a24467cd253aff2453b8f34c24d9deecfb4fe62e2940c0e62a"
+    },
+    {
+      "file": "assets/pdf/page-9.jpg",
+      "sha256": "24d9a8ece91335e9dde7c1d68b401b5652e6cf9a215991d9c976cab5536a59da"
+    },
+    {
+      "file": "assets/species/angschampinjon.webp",
+      "sha256": "aec5611bf97a8010f16635cf5d70c89d82d2d2feb3f5a8dc714c8bb7681786bc"
+    },
+    {
+      "file": "assets/species/angsvaxskivling.webp",
+      "sha256": "13694a3fb8984a1f1bcdba0a11267591f31e593d61e0544ce4168d57be0039dc"
+    },
+    {
+      "file": "assets/species/aspsopp.webp",
+      "sha256": "75eb170b1b8d013473283550d7b421d91d317602918e9751f2cf7720a3bc12d4"
+    },
+    {
+      "file": "assets/species/bjorksopp.webp",
+      "sha256": "12d069e43b61b140578fb9e1b780022842d27768704817ff031cdb1a29771e59"
+    },
+    {
+      "file": "assets/species/blamusseron.webp",
+      "sha256": "c0af5401e7ff27c1ee6c0ebfae7c071be3e68e2e7275a667fa6cc693bc524d74"
+    },
+    {
+      "file": "assets/species/blek-taggsvamp.webp",
+      "sha256": "e11fea72f87faf1df5262f62f0d82b2ae7dd14ef758f43b4faaecac492564829"
+    },
+    {
+      "file": "assets/species/blodchampinjon.webp",
+      "sha256": "9520c32707a5ddf13f7a11ccbb0d67e13e3932d1d1166a28605db93332fce049"
+    },
+    {
+      "file": "assets/species/blodriska.webp",
+      "sha256": "107936ca86a18df77f00fa041fb326d69f55d1e295881a5194d101c77fbf8ef4"
+    },
+    {
+      "file": "assets/species/blomkalssvamp.webp",
+      "sha256": "4319580d6e4a4e5f99bbf67556afd9f80f47dcddb6e10fcafb0005cf2cad3c2b"
+    },
+    {
+      "file": "assets/species/bolmortskivling.webp",
+      "sha256": "bd1df09a4870ac8e46773e51d6736ac60c17aa98b041969939e881a5a7da0656"
+    },
+    {
+      "file": "assets/species/brun-flugsvamp.webp",
+      "sha256": "3b5492e60883164550eda9db25d36008634becef0e26c52d3c5392899fd14a97"
+    },
+    {
+      "file": "assets/species/brunsopp.webp",
+      "sha256": "e83e705a6e2847aa758ccf7c58aca31566a59173457da8d38bb5c3cb6ca0f830"
+    },
+    {
+      "file": "assets/species/citronslemskivling.webp",
+      "sha256": "9bd5a62974ee23ea24aaf3545c16e76143ea150f83749369bcfae063b2f6c2b4"
+    },
+    {
+      "file": "assets/species/farticka.webp",
+      "sha256": "b3b0375374f4266c66314b61c5c77697b7244129d8ce457a3eef9a68bdbb9a0d"
+    },
+    {
+      "file": "assets/species/fjallig-blacksvamp.webp",
+      "sha256": "7b59a322f84a95df1466fcd6707ffe0b9fe874b0bca1c830f5d0393177549f6d"
+    },
+    {
+      "file": "assets/species/gifthatting.webp",
+      "sha256": "4663fca1fef4e77c8aff1e2f9d603284d47b328b4522155bbf3d265862252ca3"
+    },
+    {
+      "file": "assets/species/gra-blacksvamp.webp",
+      "sha256": "8992534ee0a00cf519f691b64bae44e24414a62e576630b63b35f1dc401937b9"
+    },
+    {
+      "file": "assets/species/grynsopp.webp",
+      "sha256": "03703f42dc9d08cbf4899d8dba5fdf61f4699aa51039a76b1c93b1f52e8a589f"
+    },
+    {
+      "file": "assets/species/gulkremla.webp",
+      "sha256": "845d4ec646a88bbe2f14b463cc11183930b77a8b7d3d47e6f630c48d27a31c14"
+    },
+    {
+      "file": "assets/species/honungsskivling.webp",
+      "sha256": "20f2d6245b09c36823576fd9d7154d05b6f8c4027450cf2aa5a87d308d6632c6"
+    },
+    {
+      "file": "assets/species/hostmusseron.webp",
+      "sha256": "0225dde627cc7d8cafe89d2ef68e413c09c0c96f0d342c2be89cf096a19ea513"
+    },
+    {
+      "file": "assets/species/kantarell.webp",
+      "sha256": "6f70c10ce490cbacd67c8c5c1d8990d6897c4bdb53fa22ecbebb0029c483c8c7"
+    },
+    {
+      "file": "assets/species/kantkremla.webp",
+      "sha256": "39581590100603fe031baf8de81ace29f99e8ec39c859243f355fe2256716d1e"
+    },
+    {
+      "file": "assets/species/knolchampinjon.webp",
+      "sha256": "e28afb21de112705f9f7a137aa822dbf1a99969bf71bb992517b5d49582d98d7"
+    },
+    {
+      "file": "assets/species/larksopp.webp",
+      "sha256": "8e36318e854a623c54ff3a3101949ee3bb8d17750a0c9cdd0e885dd9ecf049f1"
+    },
+    {
+      "file": "assets/species/lomsk-flugsvamp.webp",
+      "sha256": "0c31f825a5c891fbbd4aa5f2bd517dc14e24444273b592b8c915dedb5723e549"
+    },
+    {
+      "file": "assets/species/mandelkremla.webp",
+      "sha256": "6b835e549b3a449d1844848879e2ba339be7e89cb877c519d309b55cf7bde5a3"
+    },
+    {
+      "file": "assets/species/mandelriska.webp",
+      "sha256": "5f3ec6dad6b4f8e1c624bd9c7c3544501b8bad1dcbbc916c048e97c6dd58d510"
+    },
+    {
+      "file": "assets/species/orangebrun-giftspindling.webp",
+      "sha256": "bac1c01c4290c4d46aaa2127dc4b34ade8531622bbabc4c9bcf2f8a47f1e527d"
+    },
+    {
+      "file": "assets/species/ostronmussling.webp",
+      "sha256": "40dd76d6ac04143a3b24e72d39851ea2b2b569bbfbe93ec320be55daf3792eee"
+    },
+    {
+      "file": "assets/species/panterflugsvamp.webp",
+      "sha256": "6f5d29c48bd67556d32224d00a34532f585e00dfdce7ee7df33df4f676cf006b"
+    },
+    {
+      "file": "assets/species/pepparriska.webp",
+      "sha256": "098c7dcae12fa175588b3aae297688f2336128447135999d0bba3667ee6e02ca"
+    },
+    {
+      "file": "assets/species/pluggskivling.webp",
+      "sha256": "9265e69f5e316d118b164063a8f326f41c3b42dcadd194dbff1b4e783ef30a1d"
+    },
+    {
+      "file": "assets/species/rod-flugsvamp.webp",
+      "sha256": "2ae6f7d424aabdd9615fc6bbfa15dddf66742702f13f15b82f14d3cb5dc935f8"
+    },
+    {
+      "file": "assets/species/rodgul-taggsvamp.webp",
+      "sha256": "15bd9b5dce6fb514c95d87ea19233bf40b635b353b4c1ce834bf3017c1da6ce8"
+    },
+    {
+      "file": "assets/species/rodgul-trumpetsvamp.webp",
+      "sha256": "dae8627b5b7ffdd121f81bbdfb28281783da57660aaa8796ea0ba3ec63d96111"
+    },
+    {
+      "file": "assets/species/sammetssopp.webp",
+      "sha256": "d899a6b302d08194060e3971535f1cf5993fedc6071103836dc5d495e863a916"
+    },
+    {
+      "file": "assets/species/sandsopp.webp",
+      "sha256": "d596efd4eb2db40a4fcd043e43e8642ca36cb3efbc5d7993c104819d056bf2b0"
+    },
+    {
+      "file": "assets/species/sillkremla.webp",
+      "sha256": "1fb63a49630db225f79bfd86dd0c3223a8538409e975701c00dac7c4e91c420d"
+    },
+    {
+      "file": "assets/species/skogschampinjon.webp",
+      "sha256": "ce12b2eef8429e2d8c6c11ddc7d26b83c056250ce6977383279538f7986ff0b1"
+    },
+    {
+      "file": "assets/species/skogsriska.webp",
+      "sha256": "c48cb230bb3c744cbc8ed7af705d7cb0d7f9da08ba6433ce403eef801b05c48a"
+    },
+    {
+      "file": "assets/species/smorsopp.webp",
+      "sha256": "a7fb88c438d5528c7688462a9addcaa0f398c41f018feaef9ca775bae0e9ae4c"
+    },
+    {
+      "file": "assets/species/snobollschampinjon.webp",
+      "sha256": "c3e06b2d80e54a0b5d9c92ebb3ef8f73720369cd93909e8342ac5ef0999dae1e"
+    },
+    {
+      "file": "assets/species/stensopp.webp",
+      "sha256": "f058a8a90eda589c1cef438ba6dfe905b66dd03bf2c412a87dd6721ff361069d"
+    },
+    {
+      "file": "assets/species/stolt-fjallskivling.webp",
+      "sha256": "a96da0ee29651b4b58c2d3f05f1d551afd080881260e946d47f7911685980afe"
+    },
+    {
+      "file": "assets/species/storkremla.webp",
+      "sha256": "51ae64c89ec02ef11126855aa6da74e7516c40b8ccaf6d934ff696267ff25dc1"
+    },
+    {
+      "file": "assets/species/svart-trumpetsvamp.webp",
+      "sha256": "73eda28d0feb523799ff72451c40477d064fbf2949d3f2e416e10c4f7aff5f3b"
+    },
+    {
+      "file": "assets/species/tegelkremla.webp",
+      "sha256": "d82e122bddfacf04164cd8231db6e1dc98b612d3507059a685ee8954bcdbe065"
+    },
+    {
+      "file": "assets/species/tegelrod-bjorksopp.webp",
+      "sha256": "8e7115d87d272f7095289d1d24f96066655ee4bef87cc05e789065562d995b9f"
+    },
+    {
+      "file": "assets/species/toppig-giftspindling.webp",
+      "sha256": "b651731c8a091ef40b42d8752b2fb5614ddfd22dcc3c41ebe20db8dff83328ef"
+    },
+    {
+      "file": "assets/species/toppmurkla.webp",
+      "sha256": "f99d0b1143fd00019f403a02039cb5f359295ceb95634b1107c738793db78292"
+    },
+    {
+      "file": "assets/species/trattkantarell.webp",
+      "sha256": "eeef944511f772e61c7e3f5ae6fe6564aba243c911e20774231eca33fe871cd9"
+    },
+    {
+      "file": "assets/species/vinkremla.webp",
+      "sha256": "3342f2135a313be73e48da9e73446880c7a3701bac75b24f1bccef1118ad8281"
+    },
+    {
+      "file": "assets/species/vit-flugsvamp.webp",
+      "sha256": "03eb14287156506326a97d21e3d57d9a085dc7988220aee68ef2110a52330ab7"
+    }
+  ],
+  "intentionalRuntimeChanges": {
+    "js/app.js": "Den valfria WebMCP-agentintegrationen har tagits bort. Studieverktyg och lagringsnycklar är oförändrade.",
+    "js/views.js": "Backupinstruktionen gäller byte av valfri webbadress."
+  },
+  "courseSha256": "3e0dac1d4facf4be0a940e2d3869a2cf1b474222304a922c18e8d12824710e8a",
+  "excluded": [
+    "Sites-konfiguration och projektnyckel",
+    "Git-metadata",
+    "publiceringsarkiv",
+    "personlig progress",
+    "videofil"
+  ],
+  "githubDeploymentPerformed": false
+}

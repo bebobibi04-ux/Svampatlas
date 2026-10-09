@@ -1,0 +1,3432 @@
+{
+  "title": "Frisk av magiska svampar – filmens innehåll och källkritik",
+  "language": "sv",
+  "sourceYear": 2022,
+  "framing": "All medicinsk, historisk och regulatorisk information återger vad programmet rapporterar 2022. Materialet uppdaterar inte forskningsläget och ger inga behandlingsanvisningar.",
+  "sections": [
+    {
+      "id": "film-introduktion",
+      "title": "Från gamla läkekonster till prövbar behandling",
+      "source": {
+        "kind": "film",
+        "time": "00:00:01"
+      },
+      "blocks": [
+        {
+          "heading": "Filmens utgångspunkt",
+          "text": "Vetenskapens värld – Frisk av magiska svampar skildrar år 2022 forskning om psykedeliska substanser tillsammans med terapi. Programmet börjar på ett gammalt apotek med föreställningen att sjukdom berodde på kroppsvätskor i obalans. Spansk fluga kunde användas för att framkalla blåsor, och mumiepulver tillskrevs läkande egenskaper. Exemplen fungerar som en kontrast till senare kritiskt tänkande och läkemedelsutveckling. Att en behandling väcker hopp eller har en lång historia räcker alltså inte för att bedöma dess effekt."
+        },
+        {
+          "heading": "Två huvudspår",
+          "text": "Filmen följer framför allt MDMA tillsammans med terapi vid PTSD och psilocybin tillsammans med terapi vid depression. Patientberättelser blandas med forskarintervjuer, försöksupplägg, resultat och kritik. Begreppet psykedelisk terapi används som ett samlingsnamn i programmet, men de två substanserna, tillstånden och försöken behöver hållas isär."
+        },
+        {
+          "heading": "Så ska uppgifterna läsas",
+          "text": "Materialet återger vad filmen rapporterar vid sin tidpunkt 2022. Lovande försöksresultat, personliga erfarenheter och forskarnas förklaringar är olika typer av uppgifter. Filmen innehåller både starka förhoppningar och invändningar om preliminära resultat, förväntanseffekter, risker och praktiskt genomförande.",
+          "bullets": [
+            "MDMA-spåret gäller främst posttraumatisk stress.",
+            "Psilocybin-spåret gäller främst depression.",
+            "Filmuppgifter om godkännande, pågående studier och framtidsprognoser gäller 2022."
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-introduktion-fact-1",
+          "text": "Programmet använder spansk fluga och mumiepulver som exempel på äldre läkekonster.",
+          "time": "00:00:11",
+          "evidenceTimes": [
+            "00:00:11",
+            "00:00:27"
+          ]
+        },
+        {
+          "id": "film-introduktion-fact-2",
+          "text": "MDMA kopplas i filmen till behandling av PTSD, medan psilocybin kopplas till depression.",
+          "time": "00:01:13",
+          "evidenceTimes": [
+            "00:01:13",
+            "00:01:17",
+            "00:03:35",
+            "00:19:03"
+          ]
+        },
+        {
+          "id": "film-introduktion-fact-3",
+          "text": "MAPS-intervjun beskriver slutet av 2023 som nästa år, vilket placerar programmets dåtida perspektiv i 2022.",
+          "time": "00:17:00"
+        },
+        {
+          "id": "film-introduktion-fact-4",
+          "text": "Berättarrösten beskriver hur kritiskt tänkande inom medicinen och nyare läkemedel följde efter de äldre läkekonsterna.",
+          "time": "00:00:48",
+          "evidenceTimes": [
+            "00:00:48",
+            "00:00:54"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Psykedelisk terapi",
+          "definition": "I filmens framställning: behandling där en psykedelisk substans används tillsammans med terapeutiskt stöd; exempel är MDMA vid PTSD och psilocybin vid depression."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-introduktion-card-1",
+          "question": "Vilka två behandlingsspår dominerar filmen?",
+          "answer": "MDMA tillsammans med terapi vid PTSD och psilocybin tillsammans med terapi vid depression.",
+          "type": "fact",
+          "factIds": [
+            "film-introduktion-fact-2"
+          ]
+        },
+        {
+          "id": "film-introduktion-card-2",
+          "question": "Vad illustrerar filmens gamla apotek?",
+          "answer": "Att äldre behandlingsidéer kunde bygga på föreställningar som senare möttes av kritiskt tänkande och utveckling av nya läkemedel.",
+          "type": "explanation",
+          "factIds": [
+            "film-introduktion-fact-1",
+            "film-introduktion-fact-4"
+          ]
+        },
+        {
+          "id": "film-introduktion-card-3",
+          "question": "Vilket årtal gäller filmens bild av forskningsläget?",
+          "answer": "År 2022. Pågående försök, godkännanden och prognoser i materialet ska läsas som filmens dåtida uppgifter.",
+          "type": "fact",
+          "factIds": [
+            "film-introduktion-fact-3"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-introduktion-recall-1",
+          "question": "Förklara filmens huvudfråga och hur olika typer av belägg behöver skiljas åt.",
+          "answer": "Filmen undersöker om psykedeliska substanser tillsammans med terapi kan hjälpa vid PTSD och depression. Patienters berättelser visar individuella erfarenheter, försöksresultat gäller undersökta grupper och forskarnas mekanismer är förklaringar som måste prövas. Alla uppgifter hör till forskningsläget som filmen återger 2022.",
+          "checkpoints": [
+            "MDMA/PTSD",
+            "Psilocybin/depression",
+            "Personlig berättelse skiljs från försöksresultat",
+            "Årtalet 2022"
+          ],
+          "factIds": [
+            "film-introduktion-fact-2",
+            "film-introduktion-fact-3",
+            "film-mdma-studie-fact-4",
+            "film-psilocybin-steve-fact-4",
+            "film-metodkritik-fact-1",
+            "film-osakerhet-framtid-fact-1"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-introduktion-quiz-1",
+          "question": "Vilken kombination motsvarar filmens två huvudspår?",
+          "options": [
+            "MDMA–PTSD och psilocybin–depression",
+            "MDMA–cancer och psilocybin–tandvärk",
+            "LSD–PTSD och mumiepulver–depression",
+            "Psilocybin–PTSD och spansk fluga–ångest"
+          ],
+          "correct": 0,
+          "explanation": "Programmet följer framför allt MDMA-terapi vid PTSD och psilocybin-terapi vid depression.",
+          "factIds": [
+            "film-introduktion-fact-2"
+          ]
+        },
+        {
+          "id": "film-introduktion-quiz-2",
+          "question": "Hur bör en uppgift om en planerad studie i filmen tolkas?",
+          "options": [
+            "Som en garanti för att behandlingen fungerar",
+            "Som en uppgift om läget när filmen gjordes 2022",
+            "Som ett aktuellt godkännande i Sverige",
+            "Som ett resultat från alla patienter i världen"
+          ],
+          "correct": 1,
+          "explanation": "Filmen är en källa till vad som rapporterades 2022, inte till dagens forsknings- eller godkännandeläge.",
+          "factIds": [
+            "film-introduktion-fact-3",
+            "film-ki-psilocybin-fact-1",
+            "film-svensk-mdma-fact-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-ptsd-ron",
+      "title": "PTSD och Ron Bowmans berättelse",
+      "source": {
+        "kind": "film",
+        "time": "00:03:05"
+      },
+      "blocks": [
+        {
+          "heading": "Traumat följer med in i vardagen",
+          "text": "Programmet beskriver PTSD som ett tillstånd där människor ständigt kan återuppleva svåra livshändelser. Ron Bowman hade arbetat med telekom och finansinstitut vid World Trade Center. Den 11 september 2001 skulle han ha varit i tvillingtornen men hade bytt arbetsuppgift med en kollega. Han berättar om telefonsamtal med människor i tornen och om att bära sorg, skam och skuld efteråt. Filmen följer hur minnen och sinnesintryck fortsatte att påverka hans liv."
+        },
+        {
+          "heading": "Tidigare behandling och egen hantering",
+          "text": "Berättarrösten uppger att Ron fick samtalsterapi, antidepressiv medicin och senare ögonrörelseterapi, men att detta inte räckte för honom. Han försökte också hantera känslorna med krävande uthållighetssporter. Hans fall presenteras som en person som inte blivit tillräckligt hjälpt av tidigare behandling, inte som ett bevis för att sådana behandlingar generellt saknar effekt."
+        },
+        {
+          "heading": "Traumaminnen som fragment",
+          "text": "En psykolog förklarar i den inbrända intervjutexten att ett trauma kan vara överväldigande för nervsystemet och inte lagras som ett samlat minne. Ljud, lukter och andra fragment kan senare utlösa reaktioner. Terapin beskrivs som ett arbete med att sätta ihop fragmenten till en sammanhängande helhet, så att personen kan förstå att händelsen ligger i det förflutna. Detta är filmens terapeutiska förklaring, inte en fullständig diagnostisk beskrivning."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-ptsd-ron-fact-1",
+          "text": "Ron hade fått samtalsterapi, antidepressiv medicin och senare ögonrörelseterapi, men enligt programmet räckte behandlingarna inte för honom före MDMA-studien.",
+          "time": "00:06:26",
+          "evidenceTimes": [
+            "00:06:26",
+            "00:06:31"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-fact-2",
+          "text": "Ron berättar att han använde uthållighetssporter för att hantera ilska och skam.",
+          "time": "00:06:04"
+        },
+        {
+          "id": "film-ptsd-ron-fact-3",
+          "text": "I filmens förklaring kan traumaminnen bestå av fragment, till exempel ljud och lukter.",
+          "time": "00:08:56"
+        },
+        {
+          "id": "film-ptsd-ron-fact-4",
+          "text": "Terapeuten förklarar hur minnesfragment kan sättas ihop till en sammanhängande helhet så att den drabbade förstår reaktionen och att händelsen ligger i det förflutna.",
+          "time": "00:09:12",
+          "evidenceTimes": [
+            "00:09:12",
+            "00:09:16",
+            "00:09:20",
+            "00:09:28"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-fact-5",
+          "text": "Programmet använder det fullständiga namnet posttraumatiskt stressyndrom och förkortningen PTSD.",
+          "time": "00:03:05"
+        },
+        {
+          "id": "film-ptsd-ron-fact-6",
+          "text": "Personer med PTSD beskrivs som ständigt återupplevande svåra livshändelser.",
+          "time": "00:03:30"
+        },
+        {
+          "id": "film-ptsd-ron-fact-7",
+          "text": "Ron berättar om sorg, skam och skuld; programmet beskriver också påminnelser som återför skräckbilder och lukter från attacken.",
+          "time": "00:05:24",
+          "evidenceTimes": [
+            "00:05:24",
+            "00:05:36",
+            "00:05:46"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "PTSD",
+          "definition": "Posttraumatiskt stressyndrom; filmen beskriver framför allt återupplevande av svåra livshändelser och starka reaktioner på påminnelser om dem."
+        },
+        {
+          "term": "Utlösande påminnelse",
+          "definition": "Ett ljud, en lukt eller annat sinnesintryck som enligt filmens traumaförklaring kan sätta igång en reaktion kopplad till ett tidigare trauma."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-ptsd-ron-card-1",
+          "question": "Vad står PTSD för?",
+          "answer": "Posttraumatiskt stressyndrom.",
+          "type": "definition",
+          "factIds": [
+            "film-ptsd-ron-fact-5"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-card-2",
+          "question": "Hur beskriver filmen ett centralt problem vid PTSD?",
+          "answer": "Personen kan återuppleva svåra livshändelser och reagera starkt på påminnelser om traumat.",
+          "type": "definition",
+          "factIds": [
+            "film-ptsd-ron-fact-6"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-card-3",
+          "question": "Vilka behandlingar hade Ron fått innan MDMA-studien?",
+          "answer": "Samtalsterapi, antidepressiv medicin och senare ögonrörelseterapi.",
+          "type": "fact",
+          "factIds": [
+            "film-ptsd-ron-fact-1"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-card-4",
+          "question": "Vilka minnesfragment nämns i terapeutens förklaring?",
+          "answer": "Bland annat ljud och lukter från traumat.",
+          "type": "fact",
+          "factIds": [
+            "film-ptsd-ron-fact-3"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-card-5",
+          "question": "Vad ska arbetet med traumaminnen hjälpa personen att förstå?",
+          "answer": "Att fragmenten hör till en sammanhängande händelse i det förflutna och vad som händer när en påminnelse utlöser en reaktion.",
+          "type": "explanation",
+          "factIds": [
+            "film-ptsd-ron-fact-3",
+            "film-ptsd-ron-fact-4"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-ptsd-ron-recall-1",
+          "question": "Beskriv Rons problem före studien och filmens förklaring till hur traumaminnen kan bearbetas.",
+          "answer": "Ron hade återkommande reaktioner efter terrorattacken och bar sorg, skuld och skam. Samtalsterapi, antidepressiv medicin och ögonrörelseterapi hade inte räckt för honom. En terapeut förklarar att traumaminnen kan vara fragmenterade; terapin hjälper till att sätta samman ljud, lukter och andra delar och förstå att händelsen ligger i det förflutna.",
+          "checkpoints": [
+            "Återupplevande och påminnelser",
+            "Tidigare behandlingar",
+            "Fragmenterade minnen",
+            "Sammanhängande helhet och dåtid"
+          ],
+          "factIds": [
+            "film-ptsd-ron-fact-1",
+            "film-ptsd-ron-fact-3",
+            "film-ptsd-ron-fact-4",
+            "film-ptsd-ron-fact-6",
+            "film-ptsd-ron-fact-7"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-ptsd-ron-quiz-1",
+          "question": "Vilket påstående återger Rons fall korrekt?",
+          "options": [
+            "Han hade aldrig prövat behandling före studien",
+            "Han hade fått flera tidigare behandlingar som inte räckt för honom",
+            "Han behandlades endast med fysisk träning",
+            "Han deltog i en studie om psilocybin och tandvärk"
+          ],
+          "correct": 1,
+          "explanation": "Programmet nämner samtalsterapi, antidepressiv medicin och ögonrörelseterapi före MDMA-studien.",
+          "factIds": [
+            "film-ptsd-ron-fact-1"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-quiz-2",
+          "question": "Vad är terapins mål i filmens förklaring av fragmenterade traumaminnen?",
+          "options": [
+            "Att helt sudda ut alla minnen",
+            "Att förstärka varje utlösande lukt",
+            "Att sätta ihop fragmenten och förstå händelsen som förfluten",
+            "Att undvika all kommunikation med patienten"
+          ],
+          "correct": 2,
+          "explanation": "Terapeuten beskriver hur fragment kan bli en sammanhängande helhet och hur patienten kan förstå att traumat hände tidigare.",
+          "factIds": [
+            "film-ptsd-ron-fact-3",
+            "film-ptsd-ron-fact-4"
+          ]
+        },
+        {
+          "id": "film-ptsd-ron-quiz-3",
+          "question": "Vad kan Rons personliga berättelse direkt visa?",
+          "options": [
+            "Att alla patienter blir hjälpta",
+            "Att PTSD alltid försvinner utan behandling",
+            "Att tidigare behandlingar aldrig fungerar",
+            "Hur han själv upplevde sina problem och sin behandling"
+          ],
+          "correct": 3,
+          "explanation": "Ett enskilt fall kan belysa en persons erfarenhet. Gruppresultat måste bedömas genom studier.",
+          "factIds": [
+            "film-ptsd-ron-fact-1",
+            "film-ptsd-ron-fact-7",
+            "film-mdma-studie-fact-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-mdma-studie",
+      "title": "MDMA-studiens upplägg och resultat",
+      "source": {
+        "kind": "film",
+        "time": "00:06:59"
+      },
+      "blocks": [
+        {
+          "heading": "Urval och jämförelse",
+          "text": "Ron valdes enligt programmet ut bland tiotusentals sökande. Personer med psykossjukdom eller missbruk fick inte delta på grund av riskerna. Studien omfattade Ron och nära hundra andra deltagare med PTSD. Hälften fick MDMA-tabletter och resten placebo, som i berättarrösten beskrivs som sockerpiller. Detta är ett urval av deltagare under forskningsvillkor; resultatet kan inte utan vidare överföras till alla med PTSD."
+        },
+        {
+          "heading": "Substans och omfattande terapi",
+          "text": "Alla deltagare fick tre heldagar med samtalsterapi med två terapeuter samt kortare terapisamtal före och efter. Jämförelsen gäller därför MDMA tillsammans med detta terapeutiska stöd jämfört med placebo tillsammans med stöd. Att båda grupperna fick terapi är centralt för att förstå vad studien jämförde."
+        },
+        {
+          "heading": "Vad filmen rapporterar",
+          "text": "Berättarrösten uppger att två tredjedelar av dem som fått den MDMA-assisterade terapin efter två månader mådde så bra att de inte längre hade PTSD. Ron säger sig vara symtomfri och berättar att han kunde bli ledsen vid en senare årsdag utan att återuppleva traumat som förr. Uppgiften om två tredjedelar gäller den redovisade gruppen och uppföljningstidpunkten; den är inte ett löfte om permanent bot för varje individ."
+        },
+        {
+          "heading": "Organisation och krav på fortsatta försök",
+          "text": "Bakom studien stod MAPS, som filmen beskriver som en internationell organisation med långvarigt arbete för att få MDMA-terapi godkänd. Programmet säger att läkemedelsmyndigheterna i USA och EU krävde två lyckade studier med minst hundra patienter vardera, lottning till placebo och terapi för alla. Detta är filmens redovisning av läget och kraven 2022, inte en aktuell kontroll av regelverket."
+        },
+        {
+          "heading": "En förhoppning om godkännande",
+          "text": "I MAPS-intervjun uttrycks en förhoppning om att få godkännande mot slutet av 2023, alltså året efter filmens tidpunkt. Det är ett dåtida mål i intervjun och ska inte omformuleras till att godkännandet hade skett eller senare säkert skulle ske."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-mdma-studie-fact-1",
+          "text": "Studien uteslöt personer med psykossjukdom eller missbruk på grund av riskerna.",
+          "time": "00:07:05"
+        },
+        {
+          "id": "film-mdma-studie-fact-2",
+          "text": "Deltagarna fick tre heldagar samtalsterapi med två terapeuter samt samtal före och efter.",
+          "time": "00:10:23",
+          "evidenceTimes": [
+            "00:10:23",
+            "00:10:27",
+            "00:10:32"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-fact-3",
+          "text": "Hälften fick MDMA och hälften placebo enligt programmet.",
+          "time": "00:10:36"
+        },
+        {
+          "id": "film-mdma-studie-fact-4",
+          "text": "Filmen uppger att två tredjedelar i MDMA-terapigruppen inte längre hade PTSD efter två månader.",
+          "time": "00:11:00",
+          "evidenceTimes": [
+            "00:11:00",
+            "00:11:04"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-fact-5",
+          "text": "MAPS stod bakom studien och arbetade för att få MDMA-terapi godkänd.",
+          "time": "00:15:52"
+        },
+        {
+          "id": "film-mdma-studie-fact-6",
+          "text": "MAPS-intervjun uttrycker ett dåtida hopp om godkännande mot slutet av 2023.",
+          "time": "00:16:52",
+          "evidenceTimes": [
+            "00:16:52",
+            "00:17:00"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-fact-7",
+          "text": "Berättarrösten säger att Ron och nära hundra andra personer med PTSD ingick i studien.",
+          "time": "00:10:23"
+        },
+        {
+          "id": "film-mdma-studie-fact-8",
+          "text": "Placebo i MDMA-studien beskrivs som sockerpiller.",
+          "time": "00:10:40"
+        },
+        {
+          "id": "film-mdma-studie-fact-9",
+          "text": "Ron valdes ut bland tiotusentals sökande till forskningsstudien.",
+          "time": "00:06:59"
+        }
+      ],
+      "concepts": [
+        {
+          "term": "MDMA",
+          "definition": "Substansen som filmen kopplar till ecstasy och som prövas tillsammans med terapi vid PTSD."
+        },
+        {
+          "term": "Placebo",
+          "definition": "En jämförelsebehandling utan den aktiva substansen; programmet använder sockerpiller som exempel."
+        },
+        {
+          "term": "Lottning",
+          "definition": "Fördelning av deltagare mellan försöksgrupper genom slumpen, som nämns i filmens beskrivning av myndighetskrav."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-mdma-studie-card-1",
+          "question": "Vilka deltagare uteslöts ur MDMA-studien enligt filmen?",
+          "answer": "Personer med psykossjukdom eller missbruk, på grund av riskerna.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-studie-fact-1"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-card-2",
+          "question": "Vilken terapi fick deltagarna i den redovisade PTSD-studien?",
+          "answer": "Tre heldagar med två terapeuter samt kortare terapisamtal före och efter.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-studie-fact-2"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-card-3",
+          "question": "Vad jämförde MDMA-studien?",
+          "answer": "MDMA tillsammans med terapi jämfördes med placebo tillsammans med terapi.",
+          "type": "explanation",
+          "factIds": [
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3",
+            "film-mdma-studie-fact-8"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-card-4",
+          "question": "Vilket PTSD-resultat anges efter två månader?",
+          "answer": "Två tredjedelar av dem som fått den MDMA-assisterade terapin uppgavs inte längre ha PTSD.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-studie-fact-4"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-card-5",
+          "question": "Vilken organisation stod bakom MDMA-studien?",
+          "answer": "MAPS, som arbetade för att få MDMA-terapi godkänd.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-studie-fact-5"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-card-6",
+          "question": "Varför kan studieresultatet inte automatiskt gälla alla med PTSD?",
+          "answer": "Deltagarna var utvalda, vissa riskgrupper uteslöts och behandlingen skedde med omfattande stöd i en forskningsmiljö.",
+          "type": "explanation",
+          "factIds": [
+            "film-mdma-studie-fact-1",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-9"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-mdma-studie-recall-1",
+          "question": "Återge MDMA-försökets urval, behandling, jämförelse och resultat utan att överdriva slutsatsen.",
+          "answer": "Nära hundra deltagare med PTSD fick tre heldagar med två terapeuter och samtal före och efter. Hälften fick MDMA och hälften placebo. Psykossjukdom och missbruk var skäl för uteslutning. Filmen rapporterar att två tredjedelar i MDMA-terapigruppen efter två månader inte längre hade PTSD. Resultatet gäller detta försök och denna uppföljning, inte alla patienter eller en garanterad livslång bot.",
+          "checkpoints": [
+            "Urval och uteslutning",
+            "MDMA respektive placebo",
+            "Terapi i båda grupperna",
+            "Två tredjedelar efter två månader",
+            "Begränsad räckvidd"
+          ],
+          "factIds": [
+            "film-mdma-studie-fact-1",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3",
+            "film-mdma-studie-fact-4",
+            "film-mdma-studie-fact-7",
+            "film-mdma-studie-fact-8"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-mdma-studie-quiz-1",
+          "question": "Vad fick placebogruppen i PTSD-studien?",
+          "options": [
+            "Sockerpiller och samma beskrivna terapi",
+            "Enbart väntan utan kontakt",
+            "Psilocybin varje dag",
+            "Endast ögonrörelseterapi"
+          ],
+          "correct": 0,
+          "explanation": "Alla fick terapi; det som skiljde grupperna åt i beskrivningen var MDMA eller placebo.",
+          "factIds": [
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3",
+            "film-mdma-studie-fact-8"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-quiz-2",
+          "question": "Vilket resultat rapporterar filmen för MDMA-terapigruppen efter två månader?",
+          "options": [
+            "Alla var permanent botade",
+            "Två tredjedelar uppgavs inte längre ha PTSD",
+            "Ingen hade förbättrats",
+            "Två tredjedelar hade fått depression"
+          ],
+          "correct": 1,
+          "explanation": "Uppgiften avser gruppen i studien och den aktuella uppföljningstidpunkten.",
+          "factIds": [
+            "film-mdma-studie-fact-4"
+          ]
+        },
+        {
+          "id": "film-mdma-studie-quiz-3",
+          "question": "Vilken formulering bevarar studiens begränsningar?",
+          "options": [
+            "MDMA ensam botar all PTSD",
+            "Ecstasy på egen hand motsvarar försöket",
+            "Resultatet gäller utvalda deltagare som fick MDMA och omfattande terapi",
+            "Myndighetsgodkännande var redan garanterat"
+          ],
+          "correct": 2,
+          "explanation": "Urvalet och terapin ingår i försöket; filmen redovisar även risker och krav på ytterligare studier.",
+          "factIds": [
+            "film-mdma-studie-fact-1",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3",
+            "film-mdma-studie-fact-9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-mdma-mekanism-risk",
+      "title": "MDMA: förklaringar, risker och behov av stöd",
+      "source": {
+        "kind": "film",
+        "time": "00:08:08"
+      },
+      "blocks": [
+        {
+          "heading": "Filmens mekanismförklaring",
+          "text": "I den inbrända intervjutexten förklaras MDMA som ett ämne som dämpar upplevelsen av skräck och aktiviteten i amygdala. Samtidigt sägs det kunna stimulera kognitiv bearbetning i prefrontala cortex. Ron beskriver en tryggare utgångspunkt för att tala om svåra erfarenheter som annars kanske inte hade blivit uttalade. Förklaringen knyter alltså an till att närma sig och bearbeta traumat inom terapin; substansen presenteras inte som att den ensam tar bort händelsen."
+        },
+        {
+          "heading": "Behandlingen kan vara svår",
+          "text": "Programmet tar också upp att Ron fick självmordstankar när MDMA-terapin tog slut alltför snabbt. Hans förbättring kom gradvis. Berättarrösten uppger att han två år senare fortfarande var fri från PTSD, men den vägen innehöll en allvarlig försämring. Fallet visar varför uppföljning och stöd efter sessionerna hör till bedömningen av en behandling."
+        },
+        {
+          "heading": "Riskfrågor måste hållas isär",
+          "text": "Berättarrösten skiljer långvarigt bruk av MDMA från enstaka doser i terapi och uppger att långvarigt bruk kan medföra hjärtsjukdom, depression, ångest och minnesproblem. Programmet lyfter dessutom beroendefrågan och påminner om narkotikaklassningen. Dessa uppgifter innebär inte att försöksbehandlingen beskrivs som riskfri; filmen diskuterar risker även inom de övervakade försöken."
+        },
+        {
+          "heading": "En forskare efterlyser försiktighet",
+          "text": "I en intervju sägs MDMA inte verka beroendeframkallande. Detta återges som den intervjuades bedömning i filmen, inte som en allmän säkerhetsgaranti. Samma del diskuterar minskat blodflöde i hjärnans känslosystem som en möjlig förklaring till social samverkan och känslomässig öppenhet. Forskaren säger uttryckligen att mer forskning behövs för att bekräfta sambandet och varnar för att skynda eller höja förväntningarna för mycket."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-mdma-mekanism-risk-fact-1",
+          "text": "I filmens intervju förklaras MDMA som dämpande på skräckupplevelsen och amygdalaaktiviteten.",
+          "time": "00:08:08"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-2",
+          "text": "MDMA sägs i samma förklaring kunna stimulera kognitiv bearbetning i prefrontala cortex.",
+          "time": "00:08:16"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-3",
+          "text": "Programmet uppger att Ron fick självmordstankar när terapin tog slut alltför snabbt.",
+          "time": "00:17:01"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-4",
+          "text": "Långvarigt bruk kopplas av berättarrösten till hjärtsjukdom, depression, ångest och minnesproblem.",
+          "time": "00:12:34",
+          "evidenceTimes": [
+            "00:12:34",
+            "00:12:40"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-5",
+          "text": "Två år efter behandlingen beskrivs Ron som fortsatt fri från PTSD.",
+          "time": "00:15:02"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-6",
+          "text": "En intervjuad forskare säger att MDMA inte verkar beroendeframkallande; detta är en bedömning i filmen.",
+          "time": "00:12:52"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-7",
+          "text": "Sambandet mellan blodflöde och social/känslomässig öppenhet beskrivs som möjligt och i behov av mer forskning.",
+          "time": "00:13:12",
+          "evidenceTimes": [
+            "00:13:12",
+            "00:13:16",
+            "00:13:20",
+            "00:13:28",
+            "00:13:32"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Amygdala",
+          "definition": "Hjärnområde som i filmens MDMA-förklaring kopplas till skräckreaktionen."
+        },
+        {
+          "term": "Prefrontala cortex",
+          "definition": "Hjärnområde som i filmens MDMA-förklaring kopplas till kognitiv bearbetning."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-mdma-mekanism-risk-card-1",
+          "question": "Hur kopplar filmen MDMA till amygdala?",
+          "answer": "Intervjun säger att MDMA dämpar aktiviteten i amygdala och upplevelsen av skräck.",
+          "type": "explanation",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-1"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-card-2",
+          "question": "Vilken bearbetning sägs MDMA kunna stimulera?",
+          "answer": "Kognitiv bearbetning, som i intervjun kopplas till prefrontala cortex.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-2"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-card-3",
+          "question": "Vilken allvarlig svårighet uppstod för Ron efter terapin?",
+          "answer": "Han fick enligt programmet självmordstankar när terapin tog slut alltför snabbt.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-3"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-card-4",
+          "question": "Vilka risker nämns för långvarigt MDMA-bruk?",
+          "answer": "Hjärtsjukdom, depression, ångest och minnesproblem.",
+          "type": "fact",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-4"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-card-5",
+          "question": "Varför är stöd efter sessionerna viktigt i Rons berättelse?",
+          "answer": "Svåra minnen och starka känslor kan behöva fortsatt bearbetning; filmen beskriver att ett snabbt avslut blev mycket svårt för honom.",
+          "type": "explanation",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-3",
+            "film-mdma-studie-fact-2"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-card-6",
+          "question": "Hur säkert framställs sambandet mellan blodflöde och social öppenhet?",
+          "answer": "Som en möjlighet som behöver mer forskning för att bekräftas.",
+          "type": "explanation",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-7"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-mdma-mekanism-risk-recall-1",
+          "question": "Knyt samman MDMA-förklaringen med terapins roll och filmens riskexempel.",
+          "answer": "Filmens intervju säger att MDMA kan dämpa skräck/amygdalaaktivitet och stimulera kognitiv bearbetning/prefrontala cortex. Det kan ge en tryggare utgångspunkt för att tala om trauma inom terapin. Ron fick samtidigt självmordstankar när terapin avslutades alltför snabbt. Filmen nämner också risker vid långvarigt bruk och skiljer detta från enstaka terapeutiska doser.",
+          "checkpoints": [
+            "Skräck och amygdala",
+            "Kognitiv bearbetning",
+            "Terapeutiskt stöd",
+            "Rons svårigheter efter avslut",
+            "Långvarigt bruk skiljs från försöksbehandling"
+          ],
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-1",
+            "film-mdma-mekanism-risk-fact-2",
+            "film-mdma-mekanism-risk-fact-3",
+            "film-mdma-mekanism-risk-fact-4",
+            "film-mdma-studie-fact-2"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-mdma-mekanism-risk-quiz-1",
+          "question": "Vilken funktion kopplas till amygdala i filmens MDMA-förklaring?",
+          "options": [
+            "Skräckreaktionen",
+            "Hörselns tonhöjd",
+            "Mumiepulvrets färg",
+            "Patentansökningar"
+          ],
+          "correct": 0,
+          "explanation": "Intervjutexten säger att MDMA dämpar upplevelsen av skräck och aktiviteten i amygdala.",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-1"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-quiz-2",
+          "question": "Vad gör Rons berättelse om tiden efter terapin relevant?",
+          "options": [
+            "Den visar att uppföljning kan vara oviktig",
+            "Den belyser risker när en krävande terapi avslutas för snabbt",
+            "Den visar att placebo alltid orsakar självmordstankar",
+            "Den visar att alla patienter behöver samma läkemedel"
+          ],
+          "correct": 1,
+          "explanation": "Programmet beskriver självmordstankar efter ett alltför snabbt avslut och väcker frågan om fortsatt stöd.",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-3"
+          ]
+        },
+        {
+          "id": "film-mdma-mekanism-risk-quiz-3",
+          "question": "Vilken slutsats stöds av filmens riskdiskussion?",
+          "options": [
+            "Övervakad terapi innebär garanterat noll risk",
+            "Långvarigt bruk och försöksbehandling har exakt samma upplägg",
+            "Lovande resultat måste bedömas tillsammans med risker och behov av stöd",
+            "Risker gör det onödigt att forska"
+          ],
+          "correct": 2,
+          "explanation": "Filmen skildrar både förbättringar och allvarliga problem och skiljer mellan olika former av bruk.",
+          "factIds": [
+            "film-mdma-mekanism-risk-fact-3",
+            "film-mdma-mekanism-risk-fact-4",
+            "film-mdma-studie-fact-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-psilocybin-steve",
+      "title": "Psilocybin och Steve Shorneys berättelse",
+      "source": {
+        "kind": "film",
+        "time": "00:18:39"
+      },
+      "blocks": [
+        {
+          "heading": "En annan substans och ett annat tillstånd",
+          "text": "Programmet går sedan över till psilocybin, som finns i magiska svampar. Berättarrösten beskriver ämnet som hallucinogent och narkotikaklassat. I detta huvudspår undersöks depression, framför allt genom en brittisk studie och kaféägaren Steve Shorneys erfarenheter. Psilocybin och MDMA ska därför inte förväxlas i frågor om substans, tillstånd eller försöksupplägg."
+        },
+        {
+          "heading": "Tidigare behandling och deltagande",
+          "text": "Steve hade enligt filmen fått antidepressiva läkemedel i kombination med terapi. Han sökte därefter till ett försök där forskare prövade psilocybin vid depression. Vändpunkten i hans berättelse kopplas till deltagandet i studien. Filmen visar en stark personlig upplevelse, men hans erfarenhet är inte ensam ett mått på behandlingens effekt hos andra."
+        },
+        {
+          "heading": "Upplevelse och långvarig förändring",
+          "text": "Steve skildrar sin psykedeliska upplevelse med starka känslor. Två år efter behandlingen uppger berättarrösten att han inte längre är deprimerad. Filmen använder berättelsen för att konkretisera möjligheten till varaktig förändring, samtidigt som studiens resultat och metodkritiken senare behövs för att bedöma större slutsatser."
+        },
+        {
+          "heading": "Steves egna beskrivningar",
+          "text": "Steve säger att depressionen till slut gjorde det svårt att gå upp ur sängen och liknar den vid en mörk och tung dimma. Han beskriver antidepressiva som känslomässigt dämpande för just honom. Under den första psilocybinupplevelsen berättar han om intensivt förändrade färger och ljud och om att en bild av hans persona eller ego föll samman. Den andra sessionen beskriver han som mörk och fylld av sådant han behövde bearbeta, innan den övergick i starka känslor av kärlek. Dessa är hans personliga erfarenheter, inte vad varje patient förväntas uppleva."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-psilocybin-steve-fact-1",
+          "text": "Psilocybin beskrivs som ett ämne i magiska svampar som ger hallucinationer.",
+          "time": "00:18:46",
+          "evidenceTimes": [
+            "00:18:46",
+            "00:18:56"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-fact-2",
+          "text": "Steve hade fått antidepressiva läkemedel tillsammans med terapi före studien.",
+          "time": "00:20:59"
+        },
+        {
+          "id": "film-psilocybin-steve-fact-3",
+          "text": "Steve deltog i forskning om psilocybin vid depression.",
+          "time": "00:21:43"
+        },
+        {
+          "id": "film-psilocybin-steve-fact-4",
+          "text": "Berättarrösten uppger att Steve drygt två år efter behandlingen inte längre var deprimerad.",
+          "time": "00:32:45",
+          "evidenceTimes": [
+            "00:32:42",
+            "00:32:45"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-fact-5",
+          "text": "Steve beskriver den andra sessionen som mörk och som en konfrontation med tidigare undanträngda erfarenheter.",
+          "time": "00:29:28"
+        },
+        {
+          "id": "film-psilocybin-steve-fact-6",
+          "text": "Steve beskriver den första sessionens förändrade färger och ljud som att vara inne i ett kalejdoskop.",
+          "time": "00:24:40",
+          "evidenceTimes": [
+            "00:24:20",
+            "00:24:40",
+            "00:24:48"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Psilocybin",
+          "definition": "Substansen i magiska svampar som filmen följer i forskning om depression och som beskrivs ge hallucinationer."
+        },
+        {
+          "term": "Hallucinationer",
+          "definition": "Den förändrade sinnesupplevelse som filmen kopplar till psilocybinets psykedeliska effekt; upplevelsen diskuteras både som möjlig behandlingsdel och som biverkan."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-psilocybin-steve-card-1",
+          "question": "Vilken substans i magiska svampar följer filmen?",
+          "answer": "Psilocybin.",
+          "type": "definition",
+          "factIds": [
+            "film-psilocybin-steve-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-card-2",
+          "question": "Vilket tillstånd står i centrum för psilocybin-studien med Steve?",
+          "answer": "Depression.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-steve-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-card-3",
+          "question": "Vilken behandling hade Steve fått tidigare?",
+          "answer": "Antidepressiva läkemedel i kombination med terapi.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-steve-fact-2"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-card-4",
+          "question": "Hur beskrivs Steves tillstånd drygt två år senare?",
+          "answer": "Berättarrösten uppger att han inte längre var deprimerad.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-steve-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-card-5",
+          "question": "Varför behöver Steves berättelse kompletteras med försöksresultat?",
+          "answer": "En personlig berättelse beskriver hans erfarenhet; den visar inte ensam hur stor effekten är för andra eller vad förbättringen beror på.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-steve-fact-4",
+            "film-psilocybin-resultat-fact-3",
+            "film-metodkritik-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-card-6",
+          "question": "Vad visar skillnaden mellan Steves första och andra session?",
+          "answer": "Att upplevelserna även för samma person kan vara olika och att den andra kunde vara mörk och krävande, trots senare positiva känslor.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-steve-fact-5",
+            "film-psilocybin-steve-fact-6"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-psilocybin-steve-recall-1",
+          "question": "Jämför filmens två patientberättelser och håll substans och tillstånd isär.",
+          "answer": "Ron Bowman hade PTSD och deltog i en studie med MDMA och terapi. Steve Shorney hade depression och deltog i en studie med psilocybin och terapeutiskt stöd. Båda hade prövat tidigare behandling och beskriver stora förändringar. Berättelserna är individuella erfarenheter och behöver kompletteras med försöksupplägg, gruppresultat och riskbedömning.",
+          "checkpoints": [
+            "Ron–MDMA–PTSD",
+            "Steve–psilocybin–depression",
+            "Tidigare behandling",
+            "Individuella erfarenheter kontra gruppresultat"
+          ],
+          "factIds": [
+            "film-psilocybin-steve-fact-2",
+            "film-psilocybin-steve-fact-3",
+            "film-psilocybin-steve-fact-4",
+            "film-ptsd-ron-fact-1",
+            "film-mdma-studie-fact-3",
+            "film-metodkritik-fact-1"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-psilocybin-steve-quiz-1",
+          "question": "Vilket påstående om psilocybin överensstämmer med filmen?",
+          "options": [
+            "Det är filmens namn på mumiepulver",
+            "Det är en substans i magiska svampar",
+            "Det är ett annat namn på placebo",
+            "Det är en terapi utan substans"
+          ],
+          "correct": 1,
+          "explanation": "Programmet beskriver psilocybin som den aktiva substansen i magiska svampar.",
+          "factIds": [
+            "film-psilocybin-steve-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-quiz-2",
+          "question": "Vilket tillstånd hade Steve i filmens huvudberättelse?",
+          "options": [
+            "Tandvärk",
+            "PTSD efter terrorattacken",
+            "Depression",
+            "Hjärtsjukdom från långtidsbruk"
+          ],
+          "correct": 2,
+          "explanation": "Steve följs i den brittiska studien om depression.",
+          "factIds": [
+            "film-psilocybin-steve-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-steve-quiz-3",
+          "question": "Vad är en rimlig slutsats av Steves tvåårsuppföljning i filmen?",
+          "options": [
+            "Alla får samma resultat efter två år",
+            "Det bevisar att placebo är omöjligt",
+            "Psilocybin var redan godkänt för alla",
+            "Filmen beskriver en varaktig förbättring för just honom"
+          ],
+          "correct": 3,
+          "explanation": "Uppgiften gäller Steves fall och ska hållas isär från generella effektpåståenden.",
+          "factIds": [
+            "film-psilocybin-steve-fact-4",
+            "film-psilocybin-resultat-fact-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-psilocybin-forsok",
+      "title": "Det brittiska depressionsförsöket",
+      "source": {
+        "kind": "film",
+        "time": "00:22:12"
+      },
+      "blocks": [
+        {
+          "heading": "En aktiv jämförelse",
+          "text": "David Nutt och hans kollegor ville jämföra psilocybin med ett vanligt antidepressivt läkemedel. Nästan sextio personer med depression deltog. Halva gruppen fick antidepressiv medicin dagligen under sex veckor; den andra halvan fick två stora doser psilocybin. Filmens berättarröst säger att den andra dosen gavs tre veckor efter den första."
+        },
+        {
+          "heading": "Terapeutiskt stöd i båda grupperna",
+          "text": "Båda grupperna genomgick två sessioner med terapeuter vid sin sida och samtal före och efter. Det är viktigt att jämförelsen inte beskrivs som ett ensamt piller mot helt ostödd behandling. Sessionerna och stödet ingick i försöket för båda grupperna."
+        },
+        {
+          "heading": "Dubbelblind avsikt och synlig påverkan",
+          "text": "Programmet beskriver försöket som dubbelblint: varken forskare eller deltagare skulle veta vilken grupp de hade hamnat i. Steve visste inte när han svalde pillret om han fått psilocybin eller placebo. Efter omkring trettio minuter blev påverkan dock uppenbar för honom. Filmen ger därmed ett konkret exempel på skillnaden mellan avsikten med blindning och svårigheten att bevara den när effekten märks tydligt."
+        },
+        {
+          "heading": "Namnet på jämförelseläkemedlet",
+          "text": "I David Nutts inbrända intervjutext namnges jämförelseläkemedlet som escitalopram. Berättarrösten beskriver den dagliga läkemedelsbehandlingen under sex veckor, medan intervjun tydliggör vilket läkemedel som avses."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-psilocybin-forsok-fact-1",
+          "text": "Nästan sextio personer med depression ingick i det brittiska jämförelseförsöket.",
+          "time": "00:23:15"
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-2",
+          "text": "Den ena gruppen fick antidepressiva läkemedel dagligen i sex veckor.",
+          "time": "00:23:21"
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-3",
+          "text": "Den andra gruppen fick två stora doser psilocybin.",
+          "time": "00:23:27"
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-4",
+          "text": "Båda grupperna fick två sessioner med terapeuter samt samtal före och efter.",
+          "time": "00:23:38",
+          "evidenceTimes": [
+            "00:23:38",
+            "00:23:45"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-5",
+          "text": "Programmet beskriver det brittiska depressionsförsöket som dubbelblint.",
+          "time": "00:23:27",
+          "evidenceTimes": [
+            "00:23:27"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-6",
+          "text": "Steves andra dos gavs tre veckor efter den första enligt berättarrösten.",
+          "time": "00:29:18"
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-7",
+          "text": "Nutt namnger escitalopram som jämförelseläkemedel i det brittiska försöket.",
+          "time": "00:23:04"
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-8",
+          "text": "Steve visste först inte om han fått psilocybin eller placebo, men efter cirka trettio minuter blev påverkan uppenbar.",
+          "time": "00:23:51",
+          "evidenceTimes": [
+            "00:23:51",
+            "00:23:56",
+            "00:24:04"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-fact-9",
+          "text": "Dubbelblind förklaras i filmen som att varken forskare eller deltagare vet vilken försöksgrupp deltagaren tillhör.",
+          "time": "00:23:33"
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Dubbelblind studie",
+          "definition": "Ett försöksupplägg där varken deltagare eller forskare enligt filmens beskrivning vet vilken försöksgrupp deltagaren tillhör."
+        },
+        {
+          "term": "Blindning",
+          "definition": "Att gruppfördelningen hålls dold; filmen visar att tydliga psykedeliska effekter kan göra det svårt att behålla denna ovisshet."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-psilocybin-forsok-card-1",
+          "question": "Ungefär hur många deltog i det brittiska depressionsförsöket?",
+          "answer": "Nästan sextio personer.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-forsok-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-card-2",
+          "question": "Vilka behandlingar jämfördes i det brittiska försöket?",
+          "answer": "Daglig antidepressiv medicin under sex veckor jämfördes med två stora doser psilocybin; båda grupperna fick terapeutiskt stöd.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-forsok-fact-2",
+            "film-psilocybin-forsok-fact-3",
+            "film-psilocybin-forsok-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-card-3",
+          "question": "Hur lång tid gick mellan Steves två psilocybindoser enligt filmen?",
+          "answer": "Tre veckor.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-forsok-fact-6"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-card-4",
+          "question": "Vad betyder dubbelblind enligt filmen?",
+          "answer": "Att varken forskarna eller deltagarna vet vilken försöksgrupp deltagaren tillhör.",
+          "type": "definition",
+          "factIds": [
+            "film-psilocybin-forsok-fact-9"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-card-5",
+          "question": "Vad visar Steves erfarenhet om blindningens praktiska svårighet?",
+          "answer": "Han visste först inte vad han fått, men påverkan blev uppenbar efter cirka trettio minuter.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-forsok-fact-8"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-card-6",
+          "question": "Vilket antidepressivt jämförelseläkemedel namnger Nutt?",
+          "answer": "Escitalopram.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-forsok-fact-7"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-psilocybin-forsok-recall-1",
+          "question": "Beskriv det brittiska jämförelseförsöket och varför blindningen är en metodfråga.",
+          "answer": "Nästan sextio personer med depression deltog. Ena gruppen fick antidepressiv medicin varje dag i sex veckor och den andra två stora doser psilocybin. Båda fick två sessioner med terapeuter och samtal före och efter. Försöket beskrevs som dubbelblint, men Steves tydliga påverkan efter ungefär trettio minuter visar att deltagaren kan ana sin grupp. Då kan förväntningar påverka jämförelsen.",
+          "checkpoints": [
+            "Nästan sextio",
+            "Sex veckors daglig medicin",
+            "Två psilocybindoser",
+            "Stöd i båda grupperna",
+            "Dubbelblind avsikt och svårigheten att bevara blindning"
+          ],
+          "factIds": [
+            "film-psilocybin-forsok-fact-1",
+            "film-psilocybin-forsok-fact-2",
+            "film-psilocybin-forsok-fact-3",
+            "film-psilocybin-forsok-fact-4",
+            "film-psilocybin-forsok-fact-5",
+            "film-psilocybin-forsok-fact-8",
+            "film-psilocybin-forsok-fact-9",
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-psilocybin-forsok-quiz-1",
+          "question": "Vilken behandling fick läkemedelsgruppen i det brittiska försöket?",
+          "options": [
+            "En psilocybindos utan terapi",
+            "Daglig antidepressiv medicin under sex veckor",
+            "MDMA varje dag i två år",
+            "Endast placebo utan sessioner"
+          ],
+          "correct": 1,
+          "explanation": "Berättarrösten beskriver sex veckors daglig antidepressiv medicin i den ena gruppen.",
+          "factIds": [
+            "film-psilocybin-forsok-fact-2"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-quiz-2",
+          "question": "Vad hade båda försöksgrupperna gemensamt?",
+          "options": [
+            "De fick samma aktiva substans",
+            "De saknade terapeuter",
+            "Två sessioner och terapeutiskt stöd före, under och efter",
+            "Ingen uppföljning"
+          ],
+          "correct": 2,
+          "explanation": "Båda gruppernas stöd är en del av försöksupplägget.",
+          "factIds": [
+            "film-psilocybin-forsok-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-forsok-quiz-3",
+          "question": "Vad kan hota blindningen i ett psykedeliskt försök?",
+          "options": [
+            "Att alla får en lottad grupp",
+            "Att studien är liten enbart",
+            "Att intervjuaren talar svenska",
+            "Att den tydliga påverkan avslöjar vilken substans man sannolikt fått"
+          ],
+          "correct": 3,
+          "explanation": "Steves upplevelse efter cirka trettio minuter illustrerar denna svårighet.",
+          "factIds": [
+            "film-psilocybin-forsok-fact-8",
+            "film-metodkritik-fact-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-psilocybin-hjarna",
+      "title": "Psilocybin och filmens hjärnförklaringar",
+      "source": {
+        "kind": "film",
+        "time": "00:26:15"
+      },
+      "blocks": [
+        {
+          "heading": "Hjärnavbildning som undersökning",
+          "text": "Programmet berättar att David Nutt och Robin Carhart-Harris undersökt människor under påverkan av psilocybin med magnetkamera. Berättarrösten beskriver en minskad aktivitet i hjärnans kontrollcentrum, områden som blir starkare under uppväxten. När dessa är mindre aktiva sägs andra delar kunna kommunicera friare med varandra. Detta är filmens förenklade framställning av forskarnas förklaring."
+        },
+        {
+          "heading": "Snökulan som liknelse",
+          "text": "Forskarna liknar effekten vid att skaka om en snökula. Berättarrösten beskriver att skadliga tankemönster kan brytas under ruset och att nya minnesspår kan formas. Liknelsen hjälper till att föreställa sig förändrade mönster, men är inte en bokstavlig beskrivning av att hjärnan nollställs. Den ska inte heller ensam användas som bevis för klinisk effekt."
+        },
+        {
+          "heading": "Upplevelse, hjärnförändring och effekt",
+          "text": "Filmen knyter samman den subjektiva upplevelsen med bilder av förändrad hjärnaktivitet och kommunikation. I metoddebatten nämns också förändringar som syns flera veckor efter terapin. Hjärnavbildning kan ge belägg för att något förändras i hjärnan, men frågan om hur stor och säker behandlingsnyttan är måste fortfarande bedömas med hela studien, jämförelserna och resultaten."
+        },
+        {
+          "heading": "Samma antal visade kopplingar, annan fördelning",
+          "text": "Nutt visar två nätverksbilder och säger att båda innehåller exakt samma antal visade kopplingar, sjutusen tvåhundra. Skillnaden beskrivs som deras fördelning: under psilocybin finns kopplingar på fler ställen och hjärndelarna interagerar friare. Materialet säger därför inte att just denna illustration visar ett ökat totalt antal kopplingar; den visar enligt filmens förklaring en annan organisation och kommunikation."
+        },
+        {
+          "heading": "Jämförelsen med antidepressiva",
+          "text": "Nutt använder också en gipsliknelse för vanliga antidepressiva: de sägs skydda stresscentrum men även kunna dämpa andra känsloreaktioner. Psykedelika beskrivs av honom som verksamma högre upp i hjärnbarken, där tänkandet finns, och som ett sätt att undvika att välbehagskänslor trycks ned. Detta är hans förenklade jämförelse i programmet. Den ska inte läsas som en fullständig beskrivning av alla antidepressiva läkemedel eller alla patienters erfarenheter."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-psilocybin-hjarna-fact-1",
+          "text": "Nutt och Carhart-Harris använde magnetkamera för att undersöka psilocybinpåverkade personer.",
+          "time": "00:26:19"
+        },
+        {
+          "id": "film-psilocybin-hjarna-fact-2",
+          "text": "Berättarrösten beskriver minskad aktivitet i hjärnans kontrollcentrum.",
+          "time": "00:26:42"
+        },
+        {
+          "id": "film-psilocybin-hjarna-fact-3",
+          "text": "Övriga delar av hjärnan sägs kunna kommunicera friare när kontrollcentrumen är mindre aktiva.",
+          "time": "00:27:29"
+        },
+        {
+          "id": "film-psilocybin-hjarna-fact-4",
+          "text": "Snökulan används som liknelse för förändrade tankemönster och möjliga nya minnesspår.",
+          "time": "00:28:49"
+        },
+        {
+          "id": "film-psilocybin-hjarna-fact-5",
+          "text": "De två visade nätverksbilderna uppges ha samma antal kopplingar, sjutusen tvåhundra, men annan fördelning.",
+          "time": "00:27:52"
+        },
+        {
+          "id": "film-psilocybin-hjarna-fact-6",
+          "text": "Nutt jämför antidepressivas skydd mot stress med ett gips och psilocybinets påverkan med förändrat tänkande i hjärnbarken.",
+          "time": "00:31:40",
+          "evidenceTimes": [
+            "00:31:40",
+            "00:31:48",
+            "00:32:12",
+            "00:32:16"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Hjärnavbildning",
+          "definition": "I filmen används magnetkameraundersökningar för att studera hjärnan under och efter påverkan av psilocybin."
+        },
+        {
+          "term": "Snökuleliknelsen",
+          "definition": "Filmens bild för att etablerade tankemönster kan skakas om och nya spår kan formas; en liknelse för forskarnas förklaring."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-psilocybin-hjarna-card-1",
+          "question": "Vilken undersökningsmetod använde Nutt och Carhart-Harris för hjärnan?",
+          "answer": "Magnetkameraundersökningar.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-card-2",
+          "question": "Vad sägs hända med hjärnans kontrollcentrum under psilocybinpåverkan?",
+          "answer": "Programmet beskriver att deras aktivitet minskar.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-2"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-card-3",
+          "question": "Vad sägs hända med kommunikationen mellan andra hjärndelar?",
+          "answer": "Den sägs kunna bli friare när kontrollcentrumen är mindre aktiva.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-card-4",
+          "question": "Vad illustrerar snökuleliknelsen?",
+          "answer": "Att invanda och skadliga tankemönster kan skakas om och att nya minnesspår kan formas.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-card-5",
+          "question": "Varför bevisar en hjärnförändring inte ensam behandlingens kliniska nytta?",
+          "answer": "Den visar att något förändras, men nyttans storlek, orsak och säkerhet måste bedömas med försöksupplägg, jämförelser och patientresultat.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-1",
+            "film-metodkritik-fact-2",
+            "film-metodkritik-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-card-6",
+          "question": "Vad skiljer de två nätverksbilderna enligt Nutt?",
+          "answer": "De har samma antal visade kopplingar, men kopplingarna är fördelade på fler ställen under psilocybin.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-5"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-psilocybin-hjarna-recall-1",
+          "question": "Förklara filmens psilocybinmodell och skilj modellen från bevis för behandlingseffekt.",
+          "answer": "Magnetkameraundersökningar kopplas i filmen till minskad aktivitet i kontrollcentrum och friare kommunikation mellan andra hjärndelar. Snökulan beskriver hur invanda mönster kan skakas om och nya spår formas. Det är forskarnas förklaring och en pedagogisk liknelse. Hjärnförändringar behöver bedömas tillsammans med kliniska resultat och jämförelsegrupper.",
+          "checkpoints": [
+            "Magnetkamera",
+            "Kontrollcentrum",
+            "Friare kommunikation",
+            "Snökulan som liknelse",
+            "Kliniska resultat behövs också"
+          ],
+          "factIds": [
+            "film-psilocybin-hjarna-fact-1",
+            "film-psilocybin-hjarna-fact-2",
+            "film-psilocybin-hjarna-fact-3",
+            "film-psilocybin-hjarna-fact-4",
+            "film-metodkritik-fact-2",
+            "film-metodkritik-fact-3"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-psilocybin-hjarna-quiz-1",
+          "question": "Vad liknar forskarna psilocybineffekten vid i filmen?",
+          "options": [
+            "Att bränna ett apotek",
+            "Att skaka om en snökula",
+            "Att låsa alla minnen",
+            "Att stänga av hörseln permanent"
+          ],
+          "correct": 1,
+          "explanation": "Snökulan används som en bild för att tankemönster kan förändras.",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-quiz-2",
+          "question": "Vilken formulering ligger närmast filmens hjärnförklaring?",
+          "options": [
+            "Alla hjärnceller slutar arbeta",
+            "Inga förändringar syns i hjärnan",
+            "Minskad aktivitet i kontrollcentrum kan låta andra delar kommunicera friare",
+            "Psilocybin bygger en ny hjärna på tre veckor"
+          ],
+          "correct": 2,
+          "explanation": "Programmet beskriver ändrad aktivitet och kommunikation, inte en bokstavligt ny eller avstängd hjärna.",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-2",
+            "film-psilocybin-hjarna-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-quiz-3",
+          "question": "Hur bör en pedagogisk mekanismliknelse användas?",
+          "options": [
+            "Som ensam garanti för bot",
+            "Som ett exakt fotografi av tankar",
+            "Som bevis för att risker saknas",
+            "Som stöd för förståelse, tillsammans med studieresultat och metodbedömning"
+          ],
+          "correct": 3,
+          "explanation": "Snökulan förklarar ett tänkt mönster; den ersätter inte klinisk prövning.",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-4",
+            "film-metodkritik-fact-2",
+            "film-psilocybin-resultat-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-hjarna-quiz-4",
+          "question": "Vad säger Nutt om de två nätverksbildernas kopplingar?",
+          "options": [
+            "Antalet är samma men fördelningen skiljer sig",
+            "Antalet är noll i den normala hjärnan",
+            "Psilocybinbilden visar att alla nervceller försvinner",
+            "Bilderna handlar bara om hörseln"
+          ],
+          "correct": 0,
+          "explanation": "Intervjun uppger sjutusen tvåhundra kopplingar i båda bilderna och beskriver en skillnad i hur de fördelas.",
+          "factIds": [
+            "film-psilocybin-hjarna-fact-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-psilocybin-resultat",
+      "title": "Depressionsresultat och slutsatsernas räckvidd",
+      "source": {
+        "kind": "film",
+        "time": "00:30:16"
+      },
+      "blocks": [
+        {
+          "heading": "De siffror filmen visar",
+          "text": "Berättarrösten uppger att depressionssymtomen minskade hos nästan trettio procent i gruppen med antidepressiv medicin och hos sextio procent i psilocybingruppen. Filmen beskriver försöket som litet och uttrycker slutsatsen att psilocybin är minst lika bra som vanliga läkemedel vid depression. Studiematerialet bevarar siffrorna som filmuppgifter och gör dem inte till ett allmänt löfte om effekt."
+        },
+        {
+          "heading": "Resultat är inte samma sak som permanent bot",
+          "text": "De angivna andelarna avser det rapporterade försöket och dess symtommått. De ska inte omformuleras till att sextio procent av alla med depression blir botade, att effekten säkert varar för alla eller att en enda dos alltid räcker. Steves förbättring efter drygt två år är ett särskilt patientfall och ska inte blandas ihop med hela gruppens resultat."
+        },
+        {
+          "heading": "Mindre och större studier",
+          "text": "Senare beskriver filmen Compass Pathways försök med över tvåhundra patienter som det dittills största psilocybinförsöket vid depression och som stöd för resultaten från Nutts forskning. Samtidigt redovisas misstänkta allvarliga biverkningar i företagets studie. Ett större deltagarantal undanröjer därför inte frågorna om metod, risker eller hur länge effekterna består."
+        },
+        {
+          "heading": "Välbefinnande utöver symtom",
+          "text": "Nutt säger i intervjun att båda grupperna fick en antidepressiv effekt och att psilocybineffekten var starkare och snabbare. Han beskriver också större förbättring av välbefinnande och kontakt med sig själv, närstående och världen i psilocybingruppen. Det är viktigt att hålla detta uttalande i hans mun och tillsammans med filmens metodkritik och begränsningar; programmet redovisar inte här fullständiga statistiska analyser för varje sådant mått."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-psilocybin-resultat-fact-1",
+          "text": "Nästan trettio procent i läkemedelsgruppen uppgavs ha minskade depressionssymtom.",
+          "time": "00:30:35",
+          "evidenceTimes": [
+            "00:30:35",
+            "00:30:40"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-fact-2",
+          "text": "Motsvarande andel i psilocybingruppen uppgavs vara sextio procent.",
+          "time": "00:30:44"
+        },
+        {
+          "id": "film-psilocybin-resultat-fact-3",
+          "text": "Filmen markerar att det brittiska jämförelseförsöket var litet.",
+          "time": "00:30:49"
+        },
+        {
+          "id": "film-psilocybin-resultat-fact-4",
+          "text": "Compass Pathways försöksstudie omfattade över tvåhundra patienter enligt programmet.",
+          "time": "00:38:42",
+          "evidenceTimes": [
+            "00:38:36",
+            "00:38:42"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-fact-5",
+          "text": "Nutt säger att båda grupperna förbättrades och att psilocybingruppen också visade större välbefinnande.",
+          "time": "00:30:28",
+          "evidenceTimes": [
+            "00:30:28",
+            "00:31:08",
+            "00:31:16",
+            "00:31:20"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Symtomminskning",
+          "definition": "Förbättring i de symtom som redovisas i en studie; filmens siffror ska inte automatiskt tolkas som fullständig eller permanent bot."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-psilocybin-resultat-card-1",
+          "question": "Vilka andelar med minskade depressionssymtom redovisar filmen?",
+          "answer": "Nästan trettio procent i läkemedelsgruppen och sextio procent i psilocybingruppen.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-resultat-fact-1",
+            "film-psilocybin-resultat-fact-2"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-card-2",
+          "question": "Vilken storleksbegränsning nämns om det brittiska försöket?",
+          "answer": "Att studien var liten.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-resultat-fact-3"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-card-3",
+          "question": "Vad är skillnaden mellan symtomminskning och garanterad bot?",
+          "answer": "Symtomminskning beskriver en förbättring vid en mätning; den innebär inte automatiskt att alla symtom försvinner eller att effekten varar för alltid.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-resultat-fact-1",
+            "film-psilocybin-resultat-fact-2",
+            "film-psilocybin-resultat-fact-3",
+            "film-osakerhet-framtid-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-card-4",
+          "question": "Hur många patienter ingick i Compass Pathways studie enligt filmen?",
+          "answer": "Över tvåhundra.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-resultat-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-card-5",
+          "question": "Varför får Steves tvåårsuppgift inte bli en uppgift om hela försöksgruppen?",
+          "answer": "Den gäller ett individuellt fall; filmen redovisar inte att alla deltagare hade samma långtidsutfall.",
+          "type": "explanation",
+          "factIds": [
+            "film-psilocybin-resultat-fact-3",
+            "film-psilocybin-steve-fact-4"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-card-6",
+          "question": "Vilken förbättring utöver depressionssymtom lyfter Nutt?",
+          "answer": "Större välbefinnande och bättre kontakt med sig själv, andra och världen i psilocybingruppen, enligt hans intervju.",
+          "type": "fact",
+          "factIds": [
+            "film-psilocybin-resultat-fact-5"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-psilocybin-resultat-recall-1",
+          "question": "Återge depressionssiffrorna och nämn minst tre begränsningar i hur de ska användas.",
+          "answer": "Filmen anger nästan trettio procent med minskade symtom i läkemedelsgruppen och sextio procent i psilocybingruppen. Det brittiska försöket var litet. Andelarna gäller studien och dess mätning, inte alla med depression eller garanterad permanent bot. Individuell långtidserfarenhet ska skiljas från gruppresultat. Metodkritik och risker behöver också bedömas.",
+          "checkpoints": [
+            "Nästan trettio respektive sextio procent",
+            "Liten studie",
+            "Studieresultat är inte universell effekt",
+            "Symtomminskning är inte garanterad permanent bot",
+            "Individuell uppföljning skiljs från gruppresultat"
+          ],
+          "factIds": [
+            "film-psilocybin-resultat-fact-1",
+            "film-psilocybin-resultat-fact-2",
+            "film-psilocybin-resultat-fact-3",
+            "film-psilocybin-steve-fact-4",
+            "film-metodkritik-fact-1",
+            "film-kommersiellt-fact-4"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-psilocybin-resultat-quiz-1",
+          "question": "Vilka andelar med minskade depressionssymtom anges i filmen?",
+          "options": [
+            "Nästan 30 procent med läkemedel och 60 procent med psilocybin",
+            "60 procent med läkemedel och nästan 30 procent med psilocybin",
+            "100 procent i båda grupperna",
+            "Inga förbättringar i någon grupp"
+          ],
+          "correct": 0,
+          "explanation": "Det är dessa andelar som berättarrösten redovisar; materialet återger dem som filmuppgifter.",
+          "factIds": [
+            "film-psilocybin-resultat-fact-1",
+            "film-psilocybin-resultat-fact-2"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-quiz-2",
+          "question": "Vilken slutsats är för stark utifrån dessa siffror?",
+          "options": [
+            "Studien jämförde två behandlingar",
+            "Sextio procent av alla med depression blir permanent botade",
+            "Filmen beskriver en skillnad mellan grupperna",
+            "Försöket var litet"
+          ],
+          "correct": 1,
+          "explanation": "Siffran kan inte utan vidare överföras till alla patienter eller till ett livslångt utfall.",
+          "factIds": [
+            "film-psilocybin-resultat-fact-2",
+            "film-psilocybin-resultat-fact-3",
+            "film-osakerhet-framtid-fact-1"
+          ]
+        },
+        {
+          "id": "film-psilocybin-resultat-quiz-3",
+          "question": "Vilken aspekt måste fortfarande granskas i en större studie?",
+          "options": [
+            "Bara programmets titel",
+            "Endast vilket land den filmats i",
+            "Metod, biverkningar och effekternas varaktighet",
+            "Ingen aspekt, om den har över tvåhundra patienter"
+          ],
+          "correct": 2,
+          "explanation": "Ett större urval är värdefullt men ersätter inte granskning av metod och säkerhet.",
+          "factIds": [
+            "film-psilocybin-resultat-fact-4",
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-kommersiellt-fact-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-metodkritik",
+      "title": "Placebo, blindning och forskarnas oenighet",
+      "source": {
+        "kind": "film",
+        "time": "00:34:24"
+      },
+      "blocks": [
+        {
+          "heading": "Suresh Muthukumaraswamys invändning",
+          "text": "På universitetet i Auckland intervjuas Suresh Muthukumaraswamy, som arbetat med Nutt och Carhart-Harris. Han menar att de psykedeliska försökens grundproblem är att den tydliga psykologiska påverkan avslöjar om deltagaren fått aktiv substans eller placebo. Om deltagaren märker sin grupp blir det svårare att skilja substansens specifika effekt från förväntanseffekter. Han säger att man ännu inte vet hur mycket av resultaten som är placebo."
+        },
+        {
+          "heading": "Svar med hjärnavbildning och långtidstecken",
+          "text": "Berättarrösten pekar på hjärnförändringar som syns flera veckor efter terapin som ett argument emot att allt skulle vara placebo. Nutt säger i intervjun att förändringar i hjärnan setts efter en månad och att psykologiska förändringar kunnat mätas efter drygt ett år. Detta är argument som filmen återger i en debatt. Materialet omformulerar dem inte till ett slutgiltigt bevis för att förväntningar saknar betydelse."
+        },
+        {
+          "heading": "Ett hypotetiskt argument",
+          "text": "Robin Carhart-Harris ifrågasätter om sockerpillergrupper alltid är rätt sätt att bedöma insatsen. Han resonerar om ett tänkt scenario där nittio till hundra procent blir friska och säger att placebo då skulle bli en mindre relevant fråga för om hela insatsen fungerar. Siffran nittio till hundra procent är här ett hypotetiskt exempel, inte det rapporterade utfallet i någon av filmens studier. Diskussionen skiljer också frågan om hela vårdinsatsen hjälper från frågan om hur stor del som orsakas specifikt av substansen."
+        },
+        {
+          "heading": "Källkritisk slutsats",
+          "text": "En studie kan vara planerad som dubbelblind och ändå ha problem med blindningen i praktiken. Lovande patientresultat och förändrad hjärnaktivitet kan förekomma samtidigt som osäkerhet om förväntningarnas bidrag. Filmens metodkritik innebär varken att all förbättring är bevisat placebo eller att placebo kan avfärdas; den visar vad forskarna är oeniga om och vad som fortfarande behöver undersökas."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-metodkritik-fact-1",
+          "text": "Suresh Muthukumaraswamy kritiserar att tydlig psykologisk påverkan kan avslöja försöksgruppen.",
+          "time": "00:35:08",
+          "evidenceTimes": [
+            "00:34:48",
+            "00:34:56",
+            "00:35:00",
+            "00:35:08"
+          ]
+        },
+        {
+          "id": "film-metodkritik-fact-2",
+          "text": "Kritikern säger att man ännu inte vet hur mycket av resultaten som beror på placebo.",
+          "time": "00:35:20",
+          "evidenceTimes": [
+            "00:35:16",
+            "00:35:20"
+          ]
+        },
+        {
+          "id": "film-metodkritik-fact-3",
+          "text": "Hjärnförändringar flera veckor efter terapi nämns som ett argument emot att allt skulle vara placebo.",
+          "time": "00:35:25"
+        },
+        {
+          "id": "film-metodkritik-fact-4",
+          "text": "Carhart-Harris använder ett tänkt resultat på nittio till hundra procent i sitt resonemang; det är ingen redovisad försöksandel.",
+          "time": "00:36:12"
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Placeboeffekt",
+          "definition": "I filmens metoddebatt: förbättring som kan hänga samman med förväntningar på behandlingen och som kan göra substansens specifika bidrag svårare att bedöma."
+        },
+        {
+          "term": "Förväntanseffekt",
+          "definition": "En möjlig påverkan på utfallet av vad deltagaren tror sig ha fått och hoppas ska hända, central i filmens kritik av bruten blindning."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-metodkritik-card-1",
+          "question": "Vad är Muthukumaraswamys huvudkritik?",
+          "answer": "Att de tydliga psykedeliska effekterna kan avslöja vem som fått aktiv substans, så att förväntanseffekter blir svårare att skilja från substansens specifika effekt.",
+          "type": "explanation",
+          "factIds": [
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2"
+          ]
+        },
+        {
+          "id": "film-metodkritik-card-2",
+          "question": "Vad betyder det att blindningen kan brytas?",
+          "answer": "Deltagaren eller forskaren kan ana eller förstå vilken försöksgrupp personen tillhör.",
+          "type": "definition",
+          "factIds": [
+            "film-metodkritik-fact-1",
+            "film-psilocybin-forsok-fact-9"
+          ]
+        },
+        {
+          "id": "film-metodkritik-card-3",
+          "question": "Vilket argument emot att allt är placebo lyfter filmen?",
+          "answer": "Förändringar i hjärnan som uppmätts även flera veckor efter terapin.",
+          "type": "fact",
+          "factIds": [
+            "film-metodkritik-fact-3"
+          ]
+        },
+        {
+          "id": "film-metodkritik-card-4",
+          "question": "Är nittio till hundra procent ett uppmätt resultat i filmens metoddebatt?",
+          "answer": "Nej. Carhart-Harris använder det som ett hypotetiskt scenario i sitt argument.",
+          "type": "fact",
+          "factIds": [
+            "film-metodkritik-fact-4"
+          ]
+        },
+        {
+          "id": "film-metodkritik-card-5",
+          "question": "Vad är skillnaden mellan hela insatsens nytta och substansens specifika effekt?",
+          "answer": "Hela insatsen omfattar substans, terapeutiskt stöd och sammanhang. Den specifika substansfrågan handlar om dess bidrag utöver de andra delarna och förväntningarna.",
+          "type": "explanation",
+          "factIds": [
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-metodkritik-fact-4",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-metodkritik-recall-1",
+          "question": "Återge båda sidor av placebo- och blindningsdebatten och förklara vad som är osäkert.",
+          "answer": "Muthukumaraswamy menar att tydlig påverkan avslöjar försöksgruppen och att förväntningarnas bidrag därför är oklart. Filmen lyfter kvarstående hjärnförändringar som ett argument emot att allt är placebo. Carhart-Harris diskuterar andra sätt att bedöma hela insatsens nytta och ett hypotetiskt scenario med nittio till hundra procent förbättrade. Oenigheten innebär fortsatt osäkerhet om hur stor del av förbättringen som kan tillskrivas substansen specifikt.",
+          "checkpoints": [
+            "Tydlig effekt kan avslöja gruppen",
+            "Förväntningar/placebo",
+            "Kvarstående hjärnförändringar som motargument",
+            "90–100 procent är hypotetiskt",
+            "Hela insatsen kontra substansens specifika bidrag"
+          ],
+          "factIds": [
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-metodkritik-fact-3",
+            "film-metodkritik-fact-4",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-metodkritik-quiz-1",
+          "question": "Varför kan blindningen vara svår att bevara?",
+          "options": [
+            "Den psykedeliska påverkan kan avslöja gruppen",
+            "Alla patienter får samma dos",
+            "Filmen är på svenska",
+            "Studier saknar alltid terapeuter"
+          ],
+          "correct": 0,
+          "explanation": "Muthukumaraswamy pekar på att deltagarna kan märka att de fått den aktiva substansen.",
+          "factIds": [
+            "film-metodkritik-fact-1"
+          ]
+        },
+        {
+          "id": "film-metodkritik-quiz-2",
+          "question": "Vad avser siffran nittio till hundra procent i Carhart-Harris resonemang?",
+          "options": [
+            "Det faktiska utfallet i MDMA-studien",
+            "Ett hypotetiskt scenario",
+            "Andelen patienter i Sverige",
+            "Compass Pathways självmordsförsök"
+          ],
+          "correct": 1,
+          "explanation": "Han säger uttryckligen att man kan tänka sig ett sådant scenario; det är ingen redovisad studieandel.",
+          "factIds": [
+            "film-metodkritik-fact-4"
+          ]
+        },
+        {
+          "id": "film-metodkritik-quiz-3",
+          "question": "Vilken tolkning återger metoddebatten bäst?",
+          "options": [
+            "All effekt har bevisats vara placebo",
+            "Placebo är bevisat helt irrelevant",
+            "Lovande resultat finns, men förväntningarnas och substansens bidrag är omdiskuterade",
+            "Hjärnavbildning kan aldrig tillföra något"
+          ],
+          "correct": 2,
+          "explanation": "Filmen ställer metodkritik mot motargument och lämnar flera frågor öppna.",
+          "factIds": [
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-metodkritik-fact-3"
+          ]
+        },
+        {
+          "id": "film-metodkritik-quiz-4",
+          "question": "Vilken skillnad är viktig när man bedömer hela behandlingen?",
+          "options": [
+            "Namnet på kaféet kontra sjukhuset",
+            "LSD kontra mumiepulver",
+            "Svenska kontra engelska repliker",
+            "Om hela insatsen hjälper kontra hur mycket som beror specifikt på substansen"
+          ],
+          "correct": 3,
+          "explanation": "Det terapeutiska sammanhanget och förväntningarna kan ingå i insatsen; jämförelseförsök försöker skilja bidragen åt.",
+          "factIds": [
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-metodkritik-fact-4",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-kommersiellt",
+      "title": "Kommersialisering, större försök och biverkningar",
+      "source": {
+        "kind": "film",
+        "time": "00:37:14"
+      },
+      "blocks": [
+        {
+          "heading": "En ny marknad",
+          "text": "Filmen beskriver hur intresset för psykedelisk terapi också blir ekonomiskt. Marknadsbedömare förutspår en omsättning på hundra miljarder kronor per år om fem år, räknat från programmets tidpunkt. Företag försöker utveckla egna psykedeliska molekyler att patentera. Prognosen är en framtidsbedömning i filmen, inte en uppmätt omsättning eller en uppdaterad marknadsuppgift."
+        },
+        {
+          "heading": "Compass Pathways",
+          "text": "Compass Pathways visas som ett av de stora företagen, med huvudkontor i London. Ekaterina Malievskaia berättar om sin sons svåra depression och tvångssyndrom och hur sökandet efter behandling ledde henne till psilocybinforskning och till att starta företaget. Den personliga drivkraften förklarar hennes engagemang, medan hennes företagsroll också är viktig när publikens bedömning gäller affärsutsikter och forskningspåståenden."
+        },
+        {
+          "heading": "Resultat måste läsas med säkerhetsuppgifter",
+          "text": "Enligt berättarrösten omfattade företagets stora depressionsstudie över tvåhundra patienter och gav stöd för tidigare resultat. Samtidigt nämns misstänkta allvarliga biverkningar och tre självmordsförsök, som företaget skulle undersöka vidare inför en större studie under det år filmen gjordes. Filmen fastslår här inte att psilocybin orsakade självmordsförsöken. Händelserna är däremot viktiga säkerhetssignaler och får inte försvinna ur sammanfattningen."
+        },
+        {
+          "heading": "Tillgänglighet i vården",
+          "text": "Malievskaia uttrycker att målet är att behandlingen ska bli en del av vårdsystemet och tillgänglig genom vård eller försäkringar, så att patienten inte behöver betala själv. Även detta är en ambition i intervjun 2022, inte ett besked om att behandlingen då redan fanns tillgänglig på detta sätt."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-kommersiellt-fact-1",
+          "text": "Marknadsbedömare förutspådde i filmen en omsättning på hundra miljarder kronor per år om fem år.",
+          "time": "00:37:25"
+        },
+        {
+          "id": "film-kommersiellt-fact-2",
+          "text": "Företag försökte utveckla egna psykedeliska molekyler för att ta patent.",
+          "time": "00:37:33"
+        },
+        {
+          "id": "film-kommersiellt-fact-3",
+          "text": "Compass Pathways beskrivs ha huvudkontor i London.",
+          "time": "00:37:39"
+        },
+        {
+          "id": "film-kommersiellt-fact-4",
+          "text": "Tre självmordsförsök nämns i anslutning till företagets studie och skulle utredas vidare.",
+          "time": "00:39:33"
+        },
+        {
+          "id": "film-kommersiellt-fact-5",
+          "text": "Malievskaia säger att målet är tillgänglighet genom vårdsystemet eller försäkringar.",
+          "time": "00:39:52",
+          "evidenceTimes": [
+            "00:39:52",
+            "00:39:56",
+            "00:40:00"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-fact-6",
+          "text": "Berättarrösten nämner misstankar om allvarliga biverkningar i Compass-studien; självmordsförsöken skulle undersökas vidare.",
+          "time": "00:39:19",
+          "evidenceTimes": [
+            "00:39:19",
+            "00:39:33",
+            "00:39:39"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Marknadsprognos",
+          "definition": "En uppskattning av framtida ekonomisk utveckling; filmens prognos är inte ett faktiskt uppmätt utfall."
+        },
+        {
+          "term": "Säkerhetssignal",
+          "definition": "En händelse som motiverar närmare undersökning av möjliga risker; i filmen nämns självmordsförsök utan att orsaken fastställs."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-kommersiellt-card-1",
+          "question": "Vilket företag följer filmen i det kommersiella psilocybinspåret?",
+          "answer": "Compass Pathways, med huvudkontor i London.",
+          "type": "fact",
+          "factIds": [
+            "film-kommersiellt-fact-3"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-card-2",
+          "question": "Hur stor årlig omsättning förutspådde marknadsbedömare i filmen?",
+          "answer": "Hundra miljarder kronor per år om fem år från programmets dåtida perspektiv.",
+          "type": "fact",
+          "factIds": [
+            "film-kommersiellt-fact-1"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-card-3",
+          "question": "Varför försökte företag utveckla egna psykedeliska molekyler?",
+          "answer": "För att kunna ta patent enligt filmen.",
+          "type": "fact",
+          "factIds": [
+            "film-kommersiellt-fact-2"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-card-4",
+          "question": "Vilken allvarlig säkerhetsuppgift nämns om Compass-studien?",
+          "answer": "Tre självmordsförsök som skulle undersökas vidare.",
+          "type": "fact",
+          "factIds": [
+            "film-kommersiellt-fact-4"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-card-5",
+          "question": "Fastslår filmen att psilocybin orsakade de tre självmordsförsöken?",
+          "answer": "Nej. Den redovisar misstänkta allvarliga biverkningar och behov av vidare undersökning.",
+          "type": "explanation",
+          "factIds": [
+            "film-kommersiellt-fact-4",
+            "film-kommersiellt-fact-6"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-kommersiellt-recall-1",
+          "question": "Beskriv filmens kommersiella spår och håll resultat, riskhändelser och framtidslöften isär.",
+          "answer": "Företag ser en ny marknad och försöker ta patent på egna molekyler. Compass Pathways har enligt filmen en stor studie med över tvåhundra patienter. Berättarrösten beskriver lovande resultat men nämner också tre självmordsförsök som behöver undersökas vidare; något orsakssamband fastslås inte. Prognosen om hundra miljarder kronor och ambitionen om tillgänglighet i vården är framtidsbedömningar från 2022.",
+          "checkpoints": [
+            "Marknad och patent",
+            "Compass och över tvåhundra patienter",
+            "Resultat tillsammans med risker",
+            "Inget fastslaget orsakssamband",
+            "Prognos och ambition skiljs från uppmätt verklighet"
+          ],
+          "factIds": [
+            "film-kommersiellt-fact-1",
+            "film-kommersiellt-fact-2",
+            "film-kommersiellt-fact-3",
+            "film-kommersiellt-fact-4",
+            "film-kommersiellt-fact-5",
+            "film-kommersiellt-fact-6",
+            "film-psilocybin-resultat-fact-4"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-kommersiellt-quiz-1",
+          "question": "Vad är hundra miljarder kronor per år i filmens kommersiella del?",
+          "options": [
+            "En marknadsprognos fem år framåt",
+            "Ett uppmätt svenskt vårdutlägg",
+            "Kostnaden för Rons behandling",
+            "Antalet patienter med depression"
+          ],
+          "correct": 0,
+          "explanation": "Det är marknadsbedömarnas framtidsprognos som återges 2022.",
+          "factIds": [
+            "film-kommersiellt-fact-1"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-quiz-2",
+          "question": "Hur bör självmordsförsöken i företagets studie beskrivas?",
+          "options": [
+            "Som bevis för att alla får samma biverkan",
+            "Som allvarliga händelser som skulle undersökas vidare",
+            "Som ett säkert bevis för att placebo orsakar alla risker",
+            "Som händelser utan betydelse för säkerhetsbedömning"
+          ],
+          "correct": 1,
+          "explanation": "Filmen redovisar dem som misstänkta allvarliga biverkningar men fastslår inte ett orsakssamband.",
+          "factIds": [
+            "film-kommersiellt-fact-4",
+            "film-kommersiellt-fact-6"
+          ]
+        },
+        {
+          "id": "film-kommersiellt-quiz-3",
+          "question": "Vilket kommersiellt arbete nämns i filmen?",
+          "options": [
+            "Att tillverka mumiepulver",
+            "Att avskaffa alla försök",
+            "Att utveckla egna molekyler som kan patenteras",
+            "Att sälja enbart magnetkamerabilder"
+          ],
+          "correct": 2,
+          "explanation": "Patent på egna psykedeliska molekyler är en del av marknadsspåret.",
+          "factIds": [
+            "film-kommersiellt-fact-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-historia",
+      "title": "Tradition, LSD och forskningens återkomst",
+      "source": {
+        "kind": "film",
+        "time": "00:40:11"
+      },
+      "blocks": [
+        {
+          "heading": "Traditionell användning och turism",
+          "text": "Programmet beskriver hur schamaner under århundraden använt brygder och växtdelar för att förändra medvetandet och söka kontakt med en andevärld. En intervju knyter dagens arbete med psilocybin till urfolks ceremonier och ritualer. Filmen visar också psykedelisk lekmannaterapi som turistmagnet i Latinamerika och skrämmande reaktioner under ett rus. Långvarig tradition och efterfrågan är historiskt intressanta, men ersätter inte undersökning av klinisk effekt och säkerhet."
+        },
+        {
+          "heading": "Forskning blir motkultur",
+          "text": "Filmen säger att psykedelisk forskning inte är ny och följer pionjären Bill Richards. Under 1960-talet spreds LSD från kliniker till hippierörelsen, påhejat av forskare som ville förändra samhället. Rapporter om snedtrippar och olyckor följde. Berättarrösten uppger att LSD förbjöds och narkotikaklassades i USA i slutet av 1960-talet och att Europa och Sverige följde efter."
+        },
+        {
+          "heading": "Avbrott och återkomst",
+          "text": "Enligt programmets historiska sammanfattning stoppades forskningen när forskarna inte längre fick tillgång till de narkotikaklassade substanserna. Först på 1990-talet började USA:s läkemedelsverk åter tillåta psykedelisk forskning, nu med krav på placebogrupper för att kunna visa effekt. LSD var känsligt historiskt, och forskare gick i stället vidare med svampar och psilocybin. Dessa är filmens övergripande historiska uppgifter."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-historia-fact-1",
+          "text": "Filmen beskriver urfolks ceremonier och ritualer samt schamaners användning av brygder och växtdelar för att förändra medvetandet.",
+          "time": "00:18:08",
+          "evidenceTimes": [
+            "00:18:08",
+            "00:18:12",
+            "00:18:16",
+            "00:40:11",
+            "00:40:17"
+          ]
+        },
+        {
+          "id": "film-historia-fact-2",
+          "text": "LSD sägs ha spridits från kliniker till hippierörelsen på 1960-talet.",
+          "time": "00:42:43"
+        },
+        {
+          "id": "film-historia-fact-3",
+          "text": "Förbud och narkotikaklassning kopplas till ett forskningsavbrott därför att forskarna inte längre fick tillgång till substanserna.",
+          "time": "00:43:29",
+          "evidenceTimes": [
+            "00:43:19",
+            "00:43:24",
+            "00:43:29",
+            "00:43:33"
+          ]
+        },
+        {
+          "id": "film-historia-fact-4",
+          "text": "Forskningen i USA sägs ha åter tillåtits på 1990-talet, med krav på placebogrupper.",
+          "time": "00:43:51",
+          "evidenceTimes": [
+            "00:43:51",
+            "00:43:55",
+            "00:43:59"
+          ]
+        },
+        {
+          "id": "film-historia-fact-5",
+          "text": "Forskare gick enligt filmen vidare med svampar och psilocybin eftersom LSD var historiskt känsligt.",
+          "time": "00:44:05"
+        },
+        {
+          "id": "film-historia-fact-6",
+          "text": "Berättarrösten nämner rapporter om snedtrippar och olyckor före LSD-förbudet.",
+          "time": "00:43:15"
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Lekmannaterapi",
+          "definition": "I filmens skildring: psykedeliska behandlingstillfällen utanför de redovisade kliniska forskningsförsöken, bland annat inom turism."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-historia-card-1",
+          "question": "Hur kopplar filmen psykedelika till traditionell användning?",
+          "answer": "Den beskriver schamaners bruk och urfolks ceremonier och ritualer.",
+          "type": "fact",
+          "factIds": [
+            "film-historia-fact-1"
+          ]
+        },
+        {
+          "id": "film-historia-card-2",
+          "question": "Vad hände med LSD under 1960-talet enligt filmen?",
+          "answer": "Det spreds från klinikerna till hippierörelsen, och rapporter om snedtrippar och olyckor följde.",
+          "type": "fact",
+          "factIds": [
+            "film-historia-fact-2",
+            "film-historia-fact-6"
+          ]
+        },
+        {
+          "id": "film-historia-card-3",
+          "question": "Hur kopplas narkotikaklassningen till forskningen?",
+          "answer": "Programmet säger att forskningen avbröts när forskarna inte längre hade tillgång till substanserna.",
+          "type": "explanation",
+          "factIds": [
+            "film-historia-fact-3"
+          ]
+        },
+        {
+          "id": "film-historia-card-4",
+          "question": "När sägs USA åter ha börjat tillåta psykedelisk forskning?",
+          "answer": "På 1990-talet, med krav på placebogrupper.",
+          "type": "fact",
+          "factIds": [
+            "film-historia-fact-4"
+          ]
+        },
+        {
+          "id": "film-historia-card-5",
+          "question": "Varför följdes tradition av moderna försök i filmens berättelse?",
+          "answer": "Tradition visar historisk användning, medan moderna försök ska pröva behandlingseffekt och säkerhet på ett jämförbart sätt.",
+          "type": "explanation",
+          "factIds": [
+            "film-historia-fact-1",
+            "film-historia-fact-4",
+            "film-metodkritik-fact-1",
+            "film-kommersiellt-fact-4"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-historia-recall-1",
+          "question": "Återge filmens historiska utveckling från tradition till modern forskningsmetod.",
+          "answer": "Filmen beskriver traditionella ceremonier och ritualer, därefter klinisk forskning som på 1960-talet spreds till hippierörelsen. Efter rapporter om snedtrippar och olyckor följde förbud och narkotikaklassning, vilket enligt filmen stoppade forskningen. På 1990-talet återkom tillstånd i USA med krav på placebogrupper. Forskare gick vidare med psilocybin när LSD var känsligt.",
+          "checkpoints": [
+            "Tradition",
+            "Kliniker och hippierörelse",
+            "Rapporter om problem",
+            "Förbud och forskningsavbrott",
+            "1990-tal och placebokrav"
+          ],
+          "factIds": [
+            "film-historia-fact-1",
+            "film-historia-fact-2",
+            "film-historia-fact-3",
+            "film-historia-fact-4",
+            "film-historia-fact-5",
+            "film-historia-fact-6"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-historia-quiz-1",
+          "question": "Vilken följd kopplar filmen till förbud och narkotikaklassning?",
+          "options": [
+            "Att all terapi blev lättare att genomföra",
+            "Att forskare inte längre fick tillgång till substanserna",
+            "Att placebo avskaffades",
+            "Att alla patienter blev botade"
+          ],
+          "correct": 1,
+          "explanation": "Berättarrösten beskriver detta som slutet för den dåvarande psykedeliska forskningen.",
+          "factIds": [
+            "film-historia-fact-3"
+          ]
+        },
+        {
+          "id": "film-historia-quiz-2",
+          "question": "Vilket krav nämns när forskningen återkom i USA på 1990-talet?",
+          "options": [
+            "Att inga deltagare intervjuades",
+            "Att alla tog LSD hemma",
+            "Att placebogrupper skulle ingå",
+            "Att äldre tradition var enda beviset"
+          ],
+          "correct": 2,
+          "explanation": "Placebokravet knyter historiedelen till filmens senare metoddebatt.",
+          "factIds": [
+            "film-historia-fact-4"
+          ]
+        },
+        {
+          "id": "film-historia-quiz-3",
+          "question": "Hur bör lång tradition vägas in i en effektbedömning?",
+          "options": [
+            "Som bevis för garanterad bot",
+            "Som ersättning för all forskning",
+            "Som garanti för noll risk",
+            "Som historisk kunskap som behöver kompletteras med prövning av effekt och risk"
+          ],
+          "correct": 3,
+          "explanation": "Filmen går från traditionella sammanhang till moderna kliniska försök och kritik av deras metoder.",
+          "factIds": [
+            "film-historia-fact-1",
+            "film-historia-fact-4",
+            "film-metodkritik-fact-1",
+            "film-kommersiellt-fact-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-miljo-cancer",
+      "title": "Rummet, musiken och mötet med dödsångest",
+      "source": {
+        "kind": "film",
+        "time": "00:44:36"
+      },
+      "blocks": [
+        {
+          "heading": "Sammanhanget påverkar upplevelsen",
+          "text": "Filmen säger att forskare redan på 1960-talet märkte hur rummets utseende och ljuden omkring patienten kunde påverka ruset. Bill Richards har undersökt musikens betydelse. Han säger att musiken inte orsakar sessionens innehåll men kan hjälpa personen att ta emot och uppleva det som det egna sinnet skapar. Behandlingens sammanhang framstår därför som en del av upplevelsen, tillsammans med substansen och stödet."
+        },
+        {
+          "heading": "Mer än ett läkemedel",
+          "text": "Richards beskriver också att djupa, förändrade medvetandetillstånd kan förekomma utan svampar eller piller. Han nämner meditation och naturlig förlossning som exempel. Det är hans framställning i filmen, inte ett påstående om att alla sådana upplevelser är likadana eller att de har samma behandlingseffekt."
+        },
+        {
+          "heading": "Cancerpatienter och personliga erfarenheter",
+          "text": "På Aquilino Cancer Center utanför Washington fortsätter Richards enligt programmet att forska om psilocybin-terapi för att minska depression och dödsångest hos cancerpatienter. En deltagare läser och berättar om sin starka upplevelse och säger att ångesten och depressionen är borta. På frågan om att söka fler upplevelser eller bli beroende beskriver hon detta som en krävande behandling, inte som något hon gör enbart för njutning. Filmens mål här är lindring av psykiskt lidande, inte att psilocybin behandlar själva cancern."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-miljo-cancer-fact-1",
+          "text": "Rummets utseende och ljuden sägs påverka det psykedeliska ruset.",
+          "time": "00:44:36"
+        },
+        {
+          "id": "film-miljo-cancer-fact-2",
+          "text": "Richards säger att musiken hjälper upplevelsen men inte skapar sessionens innehåll.",
+          "time": "00:45:00",
+          "evidenceTimes": [
+            "00:45:00",
+            "00:45:08",
+            "00:45:16"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-fact-3",
+          "text": "Meditation och naturlig förlossning nämns som exempel på upplevelser utan psykedeliska substanser.",
+          "time": "00:45:28"
+        },
+        {
+          "id": "film-miljo-cancer-fact-4",
+          "text": "Forskningen vid Aquilino gäller enligt filmen depression och dödsångest hos cancerpatienter.",
+          "time": "00:45:51",
+          "evidenceTimes": [
+            "00:45:51",
+            "00:45:55",
+            "00:46:00"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-fact-5",
+          "text": "Deltagaren beskriver upplevelsen som krävande medicin och terapi, inte som något hon gör enbart för njutning.",
+          "time": "00:47:24",
+          "evidenceTimes": [
+            "00:47:24",
+            "00:47:32"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Behandlingssammanhang",
+          "definition": "Rummet, musiken och stödet omkring personen; filmen beskriver hur sådana delar kan påverka den psykedeliska upplevelsen."
+        },
+        {
+          "term": "Dödsångest",
+          "definition": "Oro inför döden; i filmen är lindring av sådan ångest hos cancerpatienter ett forskningsområde för Bill Richards."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-miljo-cancer-card-1",
+          "question": "Vilka yttre faktorer sägs påverka ruset?",
+          "answer": "Hur rummet ser ut och vilka ljud personen hör, bland annat musik.",
+          "type": "fact",
+          "factIds": [
+            "film-miljo-cancer-fact-1"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-card-2",
+          "question": "Vilken roll ger Richards musiken?",
+          "answer": "Den kan hjälpa personen att ta emot och uppleva sessionen men orsakar enligt honom inte dess innehåll.",
+          "type": "explanation",
+          "factIds": [
+            "film-miljo-cancer-fact-2"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-card-3",
+          "question": "Vad undersöks hos cancerpatienter på Aquilino enligt filmen?",
+          "answer": "Om psilocybin-terapi kan minska depression och dödsångest.",
+          "type": "fact",
+          "factIds": [
+            "film-miljo-cancer-fact-4"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-card-4",
+          "question": "Påstår filmen att psilocybin botar själva cancern?",
+          "answer": "Nej. Den här forskningsdelen gäller depression och dödsångest hos cancerpatienter.",
+          "type": "fact",
+          "factIds": [
+            "film-miljo-cancer-fact-4"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-card-5",
+          "question": "Hur beskriver den intervjuade deltagaren sin behandling?",
+          "answer": "Som en krävande medicinsk och terapeutisk upplevelse, inte som något hon gör enbart för njutning.",
+          "type": "fact",
+          "factIds": [
+            "film-miljo-cancer-fact-5"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-miljo-cancer-recall-1",
+          "question": "Förklara varför miljö och musik ingår i filmens behandlingsbild och vad cancerforskningen gäller.",
+          "answer": "Rummet och ljuden sägs påverka ruset. Richards säger att musiken kan stödja hur personen tar emot upplevelsen utan att skapa innehållet. På Aquilino undersöks lindring av depression och dödsångest hos cancerpatienter. Det handlar om psykiskt lidande, inte om bot av cancer. En deltagare beskriver upplevelsen som krävande terapi.",
+          "checkpoints": [
+            "Rum och ljud",
+            "Musik stöder men skapar inte innehåll",
+            "Depression och dödsångest",
+            "Ingen uppgift om cancerbot",
+            "Krävande upplevelse"
+          ],
+          "factIds": [
+            "film-miljo-cancer-fact-1",
+            "film-miljo-cancer-fact-2",
+            "film-miljo-cancer-fact-4",
+            "film-miljo-cancer-fact-5"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-miljo-cancer-quiz-1",
+          "question": "Vad säger Richards om musiken?",
+          "options": [
+            "Den skapar alltid sessionens alla bilder",
+            "Den kan stödja upplevelsen utan att orsaka innehållet",
+            "Den gör substansen onödig i alla fall",
+            "Den eliminerar alla risker"
+          ],
+          "correct": 1,
+          "explanation": "Hans intervju skiljer musikens stödjande roll från det innehåll som det egna sinnet skapar.",
+          "factIds": [
+            "film-miljo-cancer-fact-2"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-quiz-2",
+          "question": "Vilket mål har cancerforskningsdelen i filmen?",
+          "options": [
+            "Att ersätta all cancerbehandling",
+            "Att bota tumörer med musik",
+            "Att minska depression och dödsångest hos cancerpatienter",
+            "Att studera kaféägares vardag"
+          ],
+          "correct": 2,
+          "explanation": "Programmet beskriver psykiskt lidande hos cancerpatienter, inte behandling av cancern i sig.",
+          "factIds": [
+            "film-miljo-cancer-fact-4"
+          ]
+        },
+        {
+          "id": "film-miljo-cancer-quiz-3",
+          "question": "Vad belyser deltagarens beskrivning av en krävande upplevelse?",
+          "options": [
+            "Att behandlingen alltid är enbart njutning",
+            "Att alla blir beroende efter en dos",
+            "Att stöd saknar betydelse",
+            "Att en meningsfull upplevelse också kan vara ansträngande"
+          ],
+          "correct": 3,
+          "explanation": "Filmen skiljer den krävande behandlingsupplevelsen från ett enkelt nöjesrus.",
+          "factIds": [
+            "film-miljo-cancer-fact-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-ki-psilocybin",
+      "title": "Karolinska: liten studie och en öppen mekanismfråga",
+      "source": {
+        "kind": "film",
+        "time": "00:47:46"
+      },
+      "blocks": [
+        {
+          "heading": "Det svenska försöket 2022",
+          "text": "Filmen visar Johan Lundberg och en liten pågående psilocybinstudie vid Karolinska institutet i Stockholm. Bildens presentation uppger att trettio deltagare med depression ingår. Lundberg beskriver möjligheten att en enda dos skulle kunna ha långvarig effekt och korta sjukdomstiden med flera månader, om de preliminära fynden stämmer. Formuleringen är uttryckligen villkorad."
+        },
+        {
+          "heading": "Behövs den psykedeliska upplevelsen?",
+          "text": "Många forskare tror enligt berättarrösten att upplevelsen är en viktig del av tillfrisknandet. Lundberg och kollegorna vill undersöka om detta är nödvändigt eller om antidepressiv effekt skulle kunna uppnås utan hallucinationerna. Frågan skiljer substansens eventuella behandlingsnytta från den akuta subjektiva påverkan."
+        },
+        {
+          "heading": "Sjukvårdens perspektiv",
+          "text": "Lundberg beskriver den hallucinogena effekten som en biverkan och ett problem från vårdens synvinkel. Han skulle vilja se eventuell antidepressiv effekt utan att patienten måste gå igenom den akuta påverkan, men säger att upplevelsen kanske är nödvändig. Filmen ger inte svaret på denna forskningsfråga och redovisar inga slutresultat från den lilla svenska studien."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-ki-psilocybin-fact-1",
+          "text": "En liten psilocybin-studie pågår vid Karolinska institutet enligt filmen.",
+          "time": "00:47:55"
+        },
+        {
+          "id": "film-ki-psilocybin-fact-2",
+          "text": "Bildpresentationen uppger att trettio deltagare med depression ingår i KI-studien.",
+          "time": "00:48:28"
+        },
+        {
+          "id": "film-ki-psilocybin-fact-3",
+          "text": "Lundbergs långtidshopp är villkorat av att de preliminära fynden stämmer.",
+          "time": "00:48:48",
+          "evidenceTimes": [
+            "00:48:39",
+            "00:48:43",
+            "00:48:48"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-fact-4",
+          "text": "KI-forskarna vill undersöka om den psykedeliska upplevelsen behövs för eventuell antidepressiv effekt.",
+          "time": "00:49:11",
+          "evidenceTimes": [
+            "00:49:05",
+            "00:49:11",
+            "00:49:16",
+            "00:49:20"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-fact-5",
+          "text": "Lundberg beskriver den akuta psykedeliska effekten som en biverkan ur vårdens perspektiv.",
+          "time": "00:49:36",
+          "evidenceTimes": [
+            "00:49:27",
+            "00:49:31",
+            "00:49:36"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Preliminära fynd",
+          "definition": "Tidiga resultat som ännu behöver bekräftas; Lundberg använder en uttrycklig reservation om dem i filmen."
+        },
+        {
+          "term": "Akut psykedelisk effekt",
+          "definition": "Den omedelbara hallucinogena påverkan; KI-intervjun frågar om den kan skiljas från eventuell antidepressiv nytta."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-ki-psilocybin-card-1",
+          "question": "Var pågår den svenska psilocybinstudien i filmen?",
+          "answer": "Vid Karolinska institutet i Stockholm.",
+          "type": "fact",
+          "factIds": [
+            "film-ki-psilocybin-fact-1"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-card-2",
+          "question": "Hur många deltagare anges i bildpresentationen av KI-studien?",
+          "answer": "Trettio deltagare med depression.",
+          "type": "fact",
+          "factIds": [
+            "film-ki-psilocybin-fact-2"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-card-3",
+          "question": "Vilken reservation gör Lundberg om långvarig effekt?",
+          "answer": "Att möjligheten gäller om de preliminära fynden stämmer.",
+          "type": "fact",
+          "factIds": [
+            "film-ki-psilocybin-fact-3"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-card-4",
+          "question": "Vilken fråga vill KI-forskarna undersöka om upplevelsen?",
+          "answer": "Om den psykedeliska och hallucinogena upplevelsen behövs för eventuell antidepressiv effekt.",
+          "type": "fact",
+          "factIds": [
+            "film-ki-psilocybin-fact-4"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-card-5",
+          "question": "Hur ser Lundberg på den akuta hallucinogena effekten från vårdens perspektiv?",
+          "answer": "Som en biverkan och ett problem som man gärna skulle undvika, om behandlingseffekten kan bevaras.",
+          "type": "fact",
+          "factIds": [
+            "film-ki-psilocybin-fact-5"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-ki-psilocybin-recall-1",
+          "question": "Beskriv KI-studiens läge och dess mekanismfråga utan att presentera slutresultat.",
+          "answer": "År 2022 visar filmen en liten psilocybinstudie vid Karolinska med trettio deltagare med depression. Lundberg talar om möjlig långtidseffekt, om preliminära fynd stämmer. Forskarna vill veta om den psykedeliska upplevelsen är nödvändig eller om eventuell antidepressiv effekt kan fås utan hallucinationer. Den akuta effekten ses som en biverkan ur vårdperspektiv. Filmen redovisar inte något avgörande svar.",
+          "checkpoints": [
+            "Karolinska och trettio deltagare",
+            "Pågående liten studie 2022",
+            "Preliminära fynd",
+            "Behövs upplevelsen?",
+            "Ingen slutgiltig slutsats i filmen"
+          ],
+          "factIds": [
+            "film-ki-psilocybin-fact-1",
+            "film-ki-psilocybin-fact-2",
+            "film-ki-psilocybin-fact-3",
+            "film-ki-psilocybin-fact-4",
+            "film-ki-psilocybin-fact-5"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-ki-psilocybin-quiz-1",
+          "question": "Hur beskriver filmen KI-studiens läge?",
+          "options": [
+            "En pågående liten studie",
+            "En färdig behandling godkänd för alla",
+            "Ett avslutat försök med tusentals deltagare",
+            "En studie om tandvärk"
+          ],
+          "correct": 0,
+          "explanation": "Programmet visar forskning som pågår 2022, inte ett färdigt allmänt behandlingserbjudande.",
+          "factIds": [
+            "film-ki-psilocybin-fact-1",
+            "film-ki-psilocybin-fact-2"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-quiz-2",
+          "question": "Vad är KI-forskarnas fråga om hallucinationerna?",
+          "options": [
+            "Hur alla patienter ska få starkare hallucinationer",
+            "Om de behövs för eventuell antidepressiv effekt",
+            "Hur de ska ersätta all terapi",
+            "Om de innebär att studier saknar värde"
+          ],
+          "correct": 1,
+          "explanation": "Filmen ställer frågan om upplevelsen kan skiljas från möjlig antidepressiv nytta.",
+          "factIds": [
+            "film-ki-psilocybin-fact-4"
+          ]
+        },
+        {
+          "id": "film-ki-psilocybin-quiz-3",
+          "question": "Vilken formulering återger Lundbergs reservation?",
+          "options": [
+            "En dos fungerar säkert för alla",
+            "Studien har redan bevisat permanent bot",
+            "Långvarig effekt vore viktig om de preliminära fynden stämmer",
+            "Hallucinationerna är bevisat onödiga"
+          ],
+          "correct": 2,
+          "explanation": "Han talar om en möjlighet och en öppen forskningsfråga.",
+          "factIds": [
+            "film-ki-psilocybin-fact-3",
+            "film-ki-psilocybin-fact-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-svensk-mdma",
+      "title": "Komplex PTSD, svensk MDMA-plan och vårdens resurser",
+      "source": {
+        "kind": "film",
+        "time": "00:49:57"
+      },
+      "blocks": [
+        {
+          "heading": "En planerad studie",
+          "text": "Berättarrösten säger att det även finns planer på KI att testa MDMA-terapi för människor som utsatts för sexuella övergrepp. Gita Rajan presenteras som ansvarig läkare. Filmen visar en patientgrupp som ofta har komplex PTSD och som inte blivit tillräckligt hjälpt av tillgänglig vård. Detta är en plan och ett behov som återges 2022; några resultat från den planerade studien presenteras inte."
+        },
+        {
+          "heading": "Upprepade trauman och flera besvär",
+          "text": "Komplex PTSD förklaras i programmet genom att personen har upplevt trauman vid upprepade tillfällen. Rajan beskriver många patienter som utsatts för sexuella övergrepp redan i tidig barndom, ofta i familjen, och som har flera samtidiga besvär. Depression, ångest, ätstörningar och smärta nämns. Hennes beskrivning gäller den patientgrupp hon möter och ska inte göras till en statistikuppgift om alla patienter i Sverige."
+        },
+        {
+          "heading": "Fler verktyg och ett omfattande upplägg",
+          "text": "Rajan uttrycker att MDMA-terapi kan vara ett saknat verktyg när befintlig vård inte räcker. Samtidigt återger programmet MAPS uppskattning att en behandling kräver fyrtio timmar med två terapeuter. Detta kan göra behandlingen resurskrävande i vanlig vård. Att en insats är lovande är därför bara en del av frågan; tillgång till utbildade behandlare, tid och efterföljande stöd ingår i det praktiska genomförandet som filmen diskuterar."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-svensk-mdma-fact-1",
+          "text": "Gita Rajan presenteras som ansvarig för en planerad MDMA-studie för personer utsatta för sexuella övergrepp.",
+          "time": "00:50:04",
+          "evidenceTimes": [
+            "00:49:57",
+            "00:50:01",
+            "00:50:04"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-fact-2",
+          "text": "Komplex PTSD beskrivs som följd av upprepade traumatiska erfarenheter.",
+          "time": "00:50:48",
+          "evidenceTimes": [
+            "00:50:48",
+            "00:50:55"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-fact-3",
+          "text": "Depression, ångest, ätstörningar och smärta nämns bland samtidiga besvär i Rajans patientgrupp.",
+          "time": "00:51:23"
+        },
+        {
+          "id": "film-svensk-mdma-fact-4",
+          "text": "MAPS beräkning återges som fyrtio timmar med två terapeuter per MDMA-behandling.",
+          "time": "00:51:50",
+          "evidenceTimes": [
+            "00:51:50",
+            "00:51:56"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-fact-5",
+          "text": "Programmet lyfter att behandlingen kan vara resurskrävande i vanlig sjukvård.",
+          "time": "00:51:59"
+        },
+        {
+          "id": "film-svensk-mdma-fact-6",
+          "text": "Rajan säger att patienterna som söker till henne inte blivit hjälpta av offentlig sjukvård och att vissa inte heller blir hjälpta hos henne.",
+          "time": "00:51:30",
+          "evidenceTimes": [
+            "00:51:30",
+            "00:51:37"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Komplex PTSD",
+          "definition": "Programmet förklarar begreppet genom upprepade trauman; Rajan beskriver många patienter med tidiga sexuella övergrepp och flera samtidiga besvär."
+        },
+        {
+          "term": "Samtidiga besvär",
+          "definition": "Flera problem hos samma person; i Rajans patientgrupp nämns PTSD tillsammans med bland annat depression, ångest, ätstörningar och smärta."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-svensk-mdma-card-1",
+          "question": "Vem presenteras som ansvarig för den planerade svenska MDMA-studien?",
+          "answer": "Gita Rajan.",
+          "type": "fact",
+          "factIds": [
+            "film-svensk-mdma-fact-1"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-card-2",
+          "question": "Vilken patientgrupp gäller den svenska MDMA-planen?",
+          "answer": "Människor som utsatts för sexuella övergrepp.",
+          "type": "fact",
+          "factIds": [
+            "film-svensk-mdma-fact-1"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-card-3",
+          "question": "Hur förklarar filmen komplex PTSD?",
+          "answer": "Att personen har upplevt trauman vid upprepade tillfällen.",
+          "type": "definition",
+          "factIds": [
+            "film-svensk-mdma-fact-2"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-card-4",
+          "question": "Vilka samtidiga besvär nämner Rajan?",
+          "answer": "Depression, ångest, ätstörningar och smärta, utöver PTSD.",
+          "type": "fact",
+          "factIds": [
+            "film-svensk-mdma-fact-3"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-card-5",
+          "question": "Hur mycket terapeutisk tid uppskattar MAPS enligt filmen?",
+          "answer": "Fyrtio timmar med två terapeuter per MDMA-behandling.",
+          "type": "fact",
+          "factIds": [
+            "film-svensk-mdma-fact-4"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-card-6",
+          "question": "Vilken praktisk vårdfråga följer av det omfattande terapiupplägget?",
+          "answer": "Hur vården ska kunna avsätta tillräcklig tid och tillräckligt många terapeuter för att genomföra behandlingen.",
+          "type": "explanation",
+          "factIds": [
+            "film-svensk-mdma-fact-4",
+            "film-svensk-mdma-fact-5"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-svensk-mdma-recall-1",
+          "question": "Knyt samman behovet av fler behandlingar med den planerade svenska MDMA-studien och resursfrågan.",
+          "answer": "Gita Rajan presenteras som ansvarig för en planerad studie för personer som utsatts för sexuella övergrepp. Många av hennes patienter har komplex PTSD efter upprepade trauman och flera samtidiga besvär. Hon hoppas på ett nytt verktyg när annan vård inte räckt. MAPS uppskattar fyrtio timmar med två terapeuter per behandling, vilket väcker frågor om genomförande i vanlig sjukvård. Inga svenska MDMA-resultat redovisas i filmen.",
+          "checkpoints": [
+            "Gita Rajan och planerad studie",
+            "Sexuella övergrepp",
+            "Upprepade trauman/komplex PTSD",
+            "Flera samtidiga besvär",
+            "Fyrtio timmar och två terapeuter",
+            "Plan är inte resultat"
+          ],
+          "factIds": [
+            "film-svensk-mdma-fact-1",
+            "film-svensk-mdma-fact-2",
+            "film-svensk-mdma-fact-3",
+            "film-svensk-mdma-fact-4",
+            "film-svensk-mdma-fact-5",
+            "film-svensk-mdma-fact-6"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-svensk-mdma-quiz-1",
+          "question": "Vad är korrekt om den svenska MDMA-delen?",
+          "options": [
+            "Den redovisar en allmän behandling som redan är godkänd",
+            "Den visar en planerad studie med Gita Rajan",
+            "Den gäller psilocybin mot cancer",
+            "Den redovisar färdiga resultat för alla svenska patienter"
+          ],
+          "correct": 1,
+          "explanation": "Berättarrösten beskriver planer på KI och presenterar ansvarig läkare, inte slutresultat.",
+          "factIds": [
+            "film-svensk-mdma-fact-1"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-quiz-2",
+          "question": "Hur förklaras komplex PTSD i filmen?",
+          "options": [
+            "Som en helt kortvarig reaktion",
+            "Som depression utan trauma",
+            "Genom trauman som upprepats vid flera tillfällen",
+            "Som ett annat namn för hallucinationer"
+          ],
+          "correct": 2,
+          "explanation": "Programmet betonar upprepade traumatiska erfarenheter.",
+          "factIds": [
+            "film-svensk-mdma-fact-2"
+          ]
+        },
+        {
+          "id": "film-svensk-mdma-quiz-3",
+          "question": "Vilken resursfråga lyfts om MDMA-terapi?",
+          "options": [
+            "Att inga terapeuter behövs",
+            "Att behandlingen alltid tar fem minuter",
+            "Att vanliga vården redan har obegränsade resurser",
+            "Att fyrtio timmar med två terapeuter kan vara krävande att genomföra"
+          ],
+          "correct": 3,
+          "explanation": "MAPS uppskattning används för att diskutera vårdens praktiska möjligheter.",
+          "factIds": [
+            "film-svensk-mdma-fact-4",
+            "film-svensk-mdma-fact-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-studio-historia",
+      "title": "Svensk historia och varför intresset väcks på nytt",
+      "source": {
+        "kind": "film",
+        "time": "00:53:46"
+      },
+      "blocks": [
+        {
+          "heading": "Leonidas Aretakis historiska perspektiv",
+          "text": "I studiosamtalet intervjuas journalisten Leonidas Aretakis, författare till Extas i folkhemmet. Han placerar bruk och medicinskt intresse i ett långt historiskt sammanhang och nämner antika läkare och Linné. Linnés bok Inebriantia och begreppet fantastica tas upp som exempel på beskrivningar av fantasieggande substanser. Studiematerialet återger detta som hans historiska framställning i programmet, utan att göra traditionen till effektbevis."
+        },
+        {
+          "heading": "Björn Netz och gränsen mellan forskning och kultur",
+          "text": "Aretakis berättar om jazzmusikern och psykologen Björn Netz, som på 1960-talet forskade om LSD och hypnos för försvarets frågor kring förhör och påverkan i krig. Han bjöd enligt berättelsen också in musiker och konstnärer att använda substanserna och skrev ett manifest med Öyvind Fahlström. En forskarkollega reagerade starkt, och Netz slutade snart forska. Exemplet illustrerar hur substanserna tog sig från forskning till kultur och hur forskarrollen kunde ifrågasättas."
+        },
+        {
+          "heading": "Två skäl till det nya intresset",
+          "text": "Aretakis lyfter ett medicinskt skäl: behovet av nya behandlingsformer inom psykiatrin efter SSRI-medicinernas breda användning på 1990-talet. Han lyfter också ett ekonomiskt och kulturellt skäl: kopplingen mellan Kaliforniens motkultur, internetföretag och ett inflytelserikt Silicon Valley. Steve Jobs nämns som en person som talat positivt om LSD och kreativitet. Detta är Aretakis analys av intressets återkomst, inte en klinisk slutsats om behandlingsnytta."
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-studio-historia-fact-1",
+          "text": "Aretakis nämner Linnés Inebriantia och fantasieggande substanser kallade fantastica.",
+          "time": "00:55:37",
+          "evidenceTimes": [
+            "00:55:37",
+            "00:55:42",
+            "00:55:47"
+          ]
+        },
+        {
+          "id": "film-studio-historia-fact-2",
+          "text": "Björn Netz beskrivs både som jazzmusiker och psykolog som forskade om LSD.",
+          "time": "00:55:57",
+          "evidenceTimes": [
+            "00:55:57",
+            "00:56:03",
+            "00:56:08",
+            "00:56:12"
+          ]
+        },
+        {
+          "id": "film-studio-historia-fact-3",
+          "text": "Netz försvarsanknutna forskning gällde bland annat hypnos och möjliga förhörssituationer.",
+          "time": "00:56:12"
+        },
+        {
+          "id": "film-studio-historia-fact-4",
+          "text": "Aretakis pekar på medicinska behov samt ekonomiska och kulturella drivkrafter bakom det nya intresset.",
+          "time": "00:57:05",
+          "evidenceTimes": [
+            "00:57:05",
+            "00:57:11",
+            "00:57:21"
+          ]
+        },
+        {
+          "id": "film-studio-historia-fact-5",
+          "text": "Leonidas Aretakis presenteras som journalist och som författare till Extas i folkhemmet i filmens avslutande studiosamtal.",
+          "time": "00:53:46",
+          "evidenceTimes": [
+            "00:53:46",
+            "00:54:12"
+          ]
+        },
+        {
+          "id": "film-studio-historia-fact-6",
+          "text": "Aretakis berättar att Netz bjöd in musiker och konstnärer att använda LSD, skrev ett manifest med Öyvind Fahlström och fick skarp kritik från en forskarkollega.",
+          "time": "00:56:28",
+          "evidenceTimes": [
+            "00:56:28",
+            "00:56:33",
+            "00:56:40",
+            "00:56:45"
+          ]
+        },
+        {
+          "id": "film-studio-historia-fact-7",
+          "text": "Aretakis kopplar det medicinska behovet till få nya behandlingsformer efter SSRI-medicinernas breda användning, och det kulturella inflytandet till Kalifornien och internetföretagen.",
+          "time": "00:57:11",
+          "evidenceTimes": [
+            "00:57:11",
+            "00:57:16",
+            "00:57:25",
+            "00:57:35",
+            "00:57:38",
+            "00:57:50",
+            "00:57:58"
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Fantastica",
+          "definition": "Begrepp som Aretakis i programmet förklarar som fantasieggande substanser i samband med Linnés Inebriantia."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-studio-historia-card-1",
+          "question": "Vem ger filmens avslutande svenska historiska perspektiv?",
+          "answer": "Journalisten och författaren Leonidas Aretakis.",
+          "type": "fact",
+          "factIds": [
+            "film-studio-historia-fact-5"
+          ]
+        },
+        {
+          "id": "film-studio-historia-card-2",
+          "question": "Vilken bok av Linné nämns i studiosamtalet?",
+          "answer": "Inebriantia.",
+          "type": "fact",
+          "factIds": [
+            "film-studio-historia-fact-1"
+          ]
+        },
+        {
+          "id": "film-studio-historia-card-3",
+          "question": "Vilka två roller hade Björn Netz i Aretakis berättelse?",
+          "answer": "Han var jazzmusiker och psykolog som forskade om LSD.",
+          "type": "fact",
+          "factIds": [
+            "film-studio-historia-fact-2"
+          ]
+        },
+        {
+          "id": "film-studio-historia-card-4",
+          "question": "Vilka två huvudskäl ger Aretakis för det nya intresset?",
+          "answer": "Medicinska behov av nya behandlingsformer samt ekonomiska och kulturella drivkrafter.",
+          "type": "fact",
+          "factIds": [
+            "film-studio-historia-fact-4"
+          ]
+        },
+        {
+          "id": "film-studio-historia-card-5",
+          "question": "Varför är det viktigt att skilja kulturell entusiasm från behandlingsresultat?",
+          "answer": "Entusiasm och kulturellt inflytande kan förklara intresse, men visar inte i sig hur effektiv eller säker en klinisk behandling är.",
+          "type": "explanation",
+          "factIds": [
+            "film-studio-historia-fact-4",
+            "film-studio-historia-fact-7",
+            "film-metodkritik-fact-1",
+            "film-osakerhet-framtid-fact-1"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-studio-historia-recall-1",
+          "question": "Återge studiosamtalets historiska exempel och Aretakis förklaring till intressets återkomst.",
+          "answer": "Aretakis nämner antika läkare, Linnés Inebriantia och begreppet fantastica. Han berättar om Björn Netz som förde LSD-forskning nära musik och konst och fick kritik från en forskarkollega. Det nya intresset förklaras dels med medicinska behov, dels med ekonomiska och kulturella drivkrafter kopplade till Kalifornien och Silicon Valley. Kulturhistoria och entusiasm ska skiljas från kliniska effektbelägg.",
+          "checkpoints": [
+            "Linné och Inebriantia",
+            "Björn Netz: forskning och kultur",
+            "Medicinska behov",
+            "Ekonomiska/kulturella drivkrafter",
+            "Kliniska belägg är en annan fråga"
+          ],
+          "factIds": [
+            "film-studio-historia-fact-1",
+            "film-studio-historia-fact-2",
+            "film-studio-historia-fact-4",
+            "film-studio-historia-fact-6",
+            "film-studio-historia-fact-7",
+            "film-metodkritik-fact-1"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-studio-historia-quiz-1",
+          "question": "Vilken bok kopplar Aretakis till Linné?",
+          "options": [
+            "Inebriantia",
+            "En modern fas 3-rapport",
+            "MAPS behandlingsmanual",
+            "En bok om kafédrift"
+          ],
+          "correct": 0,
+          "explanation": "Inebriantia tas upp i den historiska diskussionen om fantasieggande substanser.",
+          "factIds": [
+            "film-studio-historia-fact-1"
+          ]
+        },
+        {
+          "id": "film-studio-historia-quiz-2",
+          "question": "Vad illustrerar berättelsen om Björn Netz?",
+          "options": [
+            "Att kultur aldrig berör forskning",
+            "Hur LSD rörde sig mellan forskning, musik och konst",
+            "Att alla forskare var överens",
+            "Att LSD saknade historiskt intresse"
+          ],
+          "correct": 1,
+          "explanation": "Aretakis använder honom som ett exempel på kopplingen mellan forskning och kultur och på kritiken mot denna sammanblandning.",
+          "factIds": [
+            "film-studio-historia-fact-2",
+            "film-studio-historia-fact-6"
+          ]
+        },
+        {
+          "id": "film-studio-historia-quiz-3",
+          "question": "Vad är Aretakis analys av det nya intresset?",
+          "options": [
+            "Det beror enbart på en stor färdig svensk studie",
+            "Det beror bara på Linnés bok",
+            "Det drivs både av medicinska behov och av ekonomi och kultur",
+            "Det kan endast förklaras med musik"
+          ],
+          "correct": 2,
+          "explanation": "Han anger två starka skäl: ett medicinskt och ett ekonomiskt eller kulturellt.",
+          "factIds": [
+            "film-studio-historia-fact-4",
+            "film-studio-historia-fact-7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-osakerhet-framtid",
+      "title": "Hopp, preliminära fynd och öppna frågor",
+      "source": {
+        "kind": "film",
+        "time": "00:54:14"
+      },
+      "blocks": [
+        {
+          "heading": "Entusiasm och osäkerhet samtidigt",
+          "text": "Studiosamtalet beskriver gynnsamma forskningsförutsättningar i Sverige, med pengar från Vetenskapsrådet och arbete vid KI, men betonar att resultaten är preliminära. Aretakis säger att den första fas 3-studien på en psykedelisk substans kom året före programmet och att det kan dröja innan en medicin blir tillgänglig. Dessa uppgifter gäller det läge programmet beskriver 2022."
+        },
+        {
+          "heading": "Risk med att försöka själv",
+          "text": "Aretakis oroar sig för att människor som mår dåligt och inte kan vänta på en ny behandling kanske försöker hemma. Han beskriver det som osäkert utan professionellt stöd och nämner risken att hamna i psykos. Filmen skiljer därmed övervakade försök och planerad terapi från självförsök; det senare kan inte likställas med de redovisade studieuppläggen."
+        },
+        {
+          "heading": "Starka framtidslöften är en del av filmen",
+          "text": "I slutet uttrycker en patient att psykedelika skulle kunna förbättra och läka världen, och en forskare förutspår en viktig framtida roll i psykiatrin. Aretakis avslutar samtidigt med att det återstår att se om branschens mycket stora löften infrias. Dessa uttalanden är övertygelser och förutsägelser, inte uppmätta forskningsresultat. Filmen ger både hopp och skäl att granska hur hoppet uttrycks."
+        },
+        {
+          "heading": "Frågor att kunna resonera om",
+          "text": "Filmens helhet lämnar flera frågor öppna: hur mycket av nyttan som beror på substansen, förväntningar och terapi; vem som kan ha nytta och vem som riskerar att skadas; hur länge förbättringar består; om den psykedeliska upplevelsen behövs; och hur vården skulle kunna ordna tid, utbildning och uppföljning. En korrekt sammanfattning behöver rymma dessa frågor tillsammans med de lovande resultaten.",
+          "bullets": [
+            "Skilj ett patientfall från ett försöksresultat.",
+            "Skilj symtomförbättring från löften om permanent bot.",
+            "Skilj en pågående studie från en godkänd behandling.",
+            "Skilj filmens dåtida prognoser från aktuella uppgifter."
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "film-osakerhet-framtid-fact-1",
+          "text": "Aretakis betonar att resultaten är preliminära och att processen är tidig.",
+          "time": "00:54:14"
+        },
+        {
+          "id": "film-osakerhet-framtid-fact-2",
+          "text": "Han uttrycker oro för osäkra självförsök utan professionellt stöd och nämner psykos.",
+          "time": "00:54:32",
+          "evidenceTimes": [
+            "00:54:32",
+            "00:54:41",
+            "00:54:44",
+            "00:54:49"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-fact-3",
+          "text": "Filmen avslutas med att det återstår att se om branschens stora löften infrias.",
+          "time": "00:58:23"
+        },
+        {
+          "id": "film-osakerhet-framtid-fact-4",
+          "text": "Starka uttalanden om att psykedelika kan förändra världen hör till patienters framtidshopp i filmen.",
+          "time": "00:52:48",
+          "evidenceTimes": [
+            "00:52:48",
+            "00:52:52",
+            "00:53:00"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-fact-5",
+          "text": "En forskare uttrycker en framtidsförutsägelse om att psykedelisk terapi ska bli en stöttepelare inom psykiatrisk vård.",
+          "time": "00:53:24"
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Orsakssamband",
+          "definition": "Frågan om vad som faktiskt orsakar ett resultat eller en riskhändelse; i filmen diskuteras detta bland annat genom placebo, terapi och misstänkta biverkningar."
+        },
+        {
+          "term": "Framtidslöfte",
+          "definition": "En övertygelse eller prognos om vad en behandling kan göra framöver; ska skiljas från ett redan uppmätt försöksresultat."
+        }
+      ],
+      "cards": [
+        {
+          "id": "film-osakerhet-framtid-card-1",
+          "question": "Vilken central reservation ger Aretakis om forskningen?",
+          "answer": "Att resultaten är preliminära och processen fortfarande tidig.",
+          "type": "fact",
+          "factIds": [
+            "film-osakerhet-framtid-fact-1"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-card-2",
+          "question": "Vilken oro uttrycks om människor som inte kan vänta på nya behandlingar?",
+          "answer": "Att de kan försöka själva utan professionellt stöd, vilket beskrivs som osäkert med risk för bland annat psykos.",
+          "type": "fact",
+          "factIds": [
+            "film-osakerhet-framtid-fact-2"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-card-3",
+          "question": "Vilka frågor om behandlingen förblir öppna i filmens helhet?",
+          "answer": "Substansens specifika bidrag, förväntningar och terapi, riskgrupper, långtidseffekt, upplevelsens betydelse samt vårdens resurser och uppföljning.",
+          "type": "explanation",
+          "factIds": [
+            "film-osakerhet-framtid-fact-1",
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-mdma-studie-fact-1",
+            "film-ki-psilocybin-fact-3",
+            "film-ki-psilocybin-fact-4",
+            "film-svensk-mdma-fact-4"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-card-4",
+          "question": "Hur ska uttalanden om att psykedelika kan läka världen tolkas?",
+          "answer": "Som personliga övertygelser och framtidshopp i filmen, inte som kliniska forskningsresultat.",
+          "type": "explanation",
+          "factIds": [
+            "film-osakerhet-framtid-fact-4"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-card-5",
+          "question": "Vad betyder filmens avslutning om branschens stora löften?",
+          "answer": "Att deras uppfyllelse fortfarande är osäker och behöver följas av fortsatt prövning.",
+          "type": "fact",
+          "factIds": [
+            "film-osakerhet-framtid-fact-3"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "film-osakerhet-framtid-recall-1",
+          "question": "Ge en balanserad helhetssammanfattning av filmen: belägg, kritik, risker och framtid.",
+          "answer": "Filmen rapporterar lovande resultat för MDMA med terapi vid PTSD och psilocybin med stöd vid depression och visar stora förändringar hos enskilda patienter. Samtidigt är studierna begränsade och resultatens specifika orsaker diskuteras genom placebo och blindning. Allvarliga riskhändelser, stödbehov och resurskrav tas upp. Svenska försök pågår eller planeras 2022. Mekanismfrågor och långtidseffekter är öppna, och stora framtidslöften ska skiljas från visade resultat.",
+          "checkpoints": [
+            "Båda substanserna och tillstånden",
+            "Gruppresultat kontra patientfall",
+            "Placebo/blindning",
+            "Risker och stöd",
+            "Svenska studiers dåtida läge",
+            "Öppna frågor och framtidslöften"
+          ],
+          "factIds": [
+            "film-osakerhet-framtid-fact-1",
+            "film-osakerhet-framtid-fact-3",
+            "film-mdma-studie-fact-1",
+            "film-mdma-studie-fact-2",
+            "film-mdma-studie-fact-4",
+            "film-psilocybin-resultat-fact-2",
+            "film-psilocybin-resultat-fact-3",
+            "film-metodkritik-fact-1",
+            "film-metodkritik-fact-2",
+            "film-kommersiellt-fact-4",
+            "film-ki-psilocybin-fact-1",
+            "film-ki-psilocybin-fact-3",
+            "film-ki-psilocybin-fact-4",
+            "film-svensk-mdma-fact-1",
+            "film-svensk-mdma-fact-4"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "film-osakerhet-framtid-quiz-1",
+          "question": "Vilken övergripande formulering bevarar filmens osäkerheter?",
+          "options": [
+            "Alla psykedeliska behandlingar är bevisade botemedel",
+            "Filmen rapporterar lovande resultat men också metodproblem, risker och öppna frågor",
+            "Alla förbättringar har bevisats vara placebo",
+            "Forskningen behövde ingen fortsatt prövning 2022"
+          ],
+          "correct": 1,
+          "explanation": "Programmet rymmer både hopp och kritik; materialet ska bevara båda.",
+          "factIds": [
+            "film-osakerhet-framtid-fact-1",
+            "film-osakerhet-framtid-fact-3",
+            "film-mdma-studie-fact-4",
+            "film-psilocybin-resultat-fact-2",
+            "film-metodkritik-fact-1",
+            "film-kommersiellt-fact-4"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-quiz-2",
+          "question": "Vilken risk tar Aretakis upp vid självförsök utan professionellt stöd?",
+          "options": [
+            "Att musiken alltid blir fel",
+            "Att alla blir glada direkt",
+            "Att personen kan hamna i psykos",
+            "Att placebo blir omöjligt att tillverka"
+          ],
+          "correct": 2,
+          "explanation": "Studiosamtalet uttrycker oro för osäkra egna försök och nämner psykos.",
+          "factIds": [
+            "film-osakerhet-framtid-fact-2"
+          ]
+        },
+        {
+          "id": "film-osakerhet-framtid-quiz-3",
+          "question": "Hur ska en forskares framtidsförutsägelse läsas?",
+          "options": [
+            "Som ett aktuellt myndighetsbeslut",
+            "Som en garanti för varje patient",
+            "Som ett uppmätt resultat för hela befolkningen",
+            "Som en bedömning som ännu behöver förverkligas och prövas"
+          ],
+          "correct": 3,
+          "explanation": "Filmens framtidshopp är inte samma typ av uppgift som en redovisad observation i ett försök.",
+          "factIds": [
+            "film-osakerhet-framtid-fact-3",
+            "film-osakerhet-framtid-fact-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "sourceTitle": "Vetenskapens värld – Frisk av magiska svampar",
+    "videoPath": "E:\\downloads\\Vetenskapens värld - Frisk av magiska svampar - under 500MB.mp4",
+    "videoDurationSeconds": 3531.776,
+    "videoDuration": "00:58:51.776",
+    "videoResolution": "1920×1080",
+    "videoFrameRate": 25,
+    "subtitleCueCount": 287,
+    "subtitleLastCueEnd": "00:59:22.560",
+    "subtitleCueDurationSeconds": 1347.72,
+    "subtitleDurationShareApprox": 0.382,
+    "subtitleUrl": "https://archive.org/download/20220814-Vetenskapens-varld-Frisk-av-magiska-svampar/Vetenskapens%20v%C3%A4rld-20220814-Frisk%20av%20magiska%20svampar.sv.vtt",
+    "subtitleLocalPath": "C:\\Users\\lucas\\.codex\\attachments\\f2cb370a-5cd1-4cec-9a40-6123d950c55d\\Pasted text.txt",
+    "verification": "VTT har lästs i sin helhet. Genom hela den lokala filmen har 883 bildrutor samlats var fjärde sekund och deras nedre bilddel OCR-lästs för svensk inbränd intervjutext. Centrala intervjupåståenden och namn har även kontrollerats visuellt i riktade bildrutor. Detta är en text- och bildgranskning, inte en fullständig utskrift eller oberoende lyssning av alla talade engelska ord.",
+    "burntSubtitleFrames": 883,
+    "burntSubtitleSamplingIntervalSeconds": 4,
+    "burntSubtitleSamplingRange": [
+      "00:00:00",
+      "00:58:48"
+    ],
+    "verifiedBurntSubtitleTimes": [
+      "00:08:08",
+      "00:08:16",
+      "00:09:16",
+      "00:10:00",
+      "00:12:52",
+      "00:13:32",
+      "00:17:00",
+      "00:21:20",
+      "00:23:04",
+      "00:24:20",
+      "00:25:36",
+      "00:27:52",
+      "00:28:04",
+      "00:29:28",
+      "00:31:16",
+      "00:31:48",
+      "00:32:12",
+      "00:32:56",
+      "00:35:00",
+      "00:35:08",
+      "00:35:16",
+      "00:35:40",
+      "00:36:12",
+      "00:36:20",
+      "00:37:56",
+      "00:39:56",
+      "00:44:56",
+      "00:45:00",
+      "00:45:08",
+      "00:46:20",
+      "00:46:32",
+      "00:47:28",
+      "00:48:28",
+      "00:53:24",
+      "00:58:40",
+      "00:58:44",
+      "00:58:48"
+    ],
+    "timeBasis": "VTT-tider för berättarröst och svenska repliker; lokal videotid för verifierad inbränd intervjutext. Hänvisningarna anger avsnittets ungefärliga början. Ingen generell tidsförskjutning har lagts till.",
+    "timingAssessment": "Ämnesövergångar från inledning till studiosamtal ligger ungefär i fas vid bildstickproven. Ingen exakt ljudbaserad synkronisering har gjorts. VTT:s sista cue, 00:59:16.560–00:59:22.560 om ett programuppehåll, ligger helt utanför den lokala videon och ingår inte i teorin. Videons sista samplade rutor visar sluttexter. Längdskillnaden på 30,784 sekunder är därför inte belägg för en generell tidsförskjutning.",
+    "exerciseFactLinkAudit": {
+      "exerciseCount": 150,
+      "linkedExerciseCount": 150,
+      "factCount": 97,
+      "referencedFactCount": 90,
+      "unreferencedFacts": [
+        {
+          "id": "film-ptsd-ron-fact-2",
+          "text": "Ron berättar att han använde uthållighetssporter för att hantera ilska och skam.",
+          "time": "00:06:04"
+        },
+        {
+          "id": "film-mdma-studie-fact-6",
+          "text": "MAPS-intervjun uttrycker ett dåtida hopp om godkännande mot slutet av 2023.",
+          "time": "00:16:52"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-5",
+          "text": "Två år efter behandlingen beskrivs Ron som fortsatt fri från PTSD.",
+          "time": "00:15:02"
+        },
+        {
+          "id": "film-mdma-mekanism-risk-fact-6",
+          "text": "En intervjuad forskare säger att MDMA inte verkar beroendeframkallande; detta är en bedömning i filmen.",
+          "time": "00:12:52"
+        },
+        {
+          "id": "film-psilocybin-hjarna-fact-6",
+          "text": "Nutt jämför antidepressivas skydd mot stress med ett gips och psilocybinets påverkan med förändrat tänkande i hjärnbarken.",
+          "time": "00:31:40"
+        },
+        {
+          "id": "film-miljo-cancer-fact-3",
+          "text": "Meditation och naturlig förlossning nämns som exempel på upplevelser utan psykedeliska substanser.",
+          "time": "00:45:28"
+        },
+        {
+          "id": "film-studio-historia-fact-3",
+          "text": "Netz försvarsanknutna forskning gällde bland annat hypnos och möjliga förhörssituationer.",
+          "time": "00:56:12"
+        }
+      ],
+      "crossSectionReferences": true,
+      "note": "factIds hänvisar till faktaposter i hela filmens datamängd, även över avsnittsgränser. Förklarings- och syntesfrågor hänvisar till de konkreta uppgifter som resonemanget bygger på; de framställs inte som ordagranna filmuttalanden."
+    }
+  },
+  "limitations": [
+    "VTT-filen innehåller främst svenska repliker och berättarröst. Den är ingen fullständig utskrift av filmens engelska intervjuer.",
+    "Inbränd översättning har undersökts genom filmrutor och OCR. OCR kan missa eller feltolka text. Centrala använda uppgifter har granskats visuellt, men samtliga bildrutor har inte lästs manuellt.",
+    "Sampling var fjärde sekund kan missa korta textrepliker. Det talade engelska ljudet har inte transkriberats separat. Materialet gör därför inte anspråk på en ordagrann eller uttömmande utskrift av allt tal.",
+    "VTT:s avslutande uppgift om ett programuppehåll vid 00:59:16–00:59:22 kan inte verifieras i den lokala videon, som slutar 00:58:51.776. Den uppgiften har inte använts i teorin.",
+    "En film är en sekundär återgivning av studierna. De ursprungliga forskningsartiklarna har inte granskats i detta uppdrag.",
+    "Resultat återges som programuppgifter; symtomminskning, att inte längre uppfylla PTSD-beskrivningen och en patients långtidsberättelse hålls isär.",
+    "Uppgifter om pågående forskning, myndighetskrav, marknad och framtida godkännande gäller programmets tidpunkt 2022."
+  ]
+}

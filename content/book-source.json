@@ -1,0 +1,5190 @@
+{
+  "schemaVersion": 1,
+  "language": "sv",
+  "scope": "Bokens fotografier av de tryckta sidorna 266–269. Inga externa biologiska uppgifter, filmuppgifter eller PDF-uppgifter har använts i denna fil.",
+  "title": "Svampar – teori från boken",
+  "chapter": "7. Hur växter och svampar fungerar",
+  "sources": [
+    {
+      "kind": "book",
+      "page": 266,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_02.heic",
+      "originalUnmodified": true
+    },
+    {
+      "kind": "book",
+      "page": 267,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_14.heic",
+      "originalUnmodified": true
+    },
+    {
+      "kind": "book",
+      "page": 268,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_21.heic",
+      "originalUnmodified": true
+    },
+    {
+      "kind": "book",
+      "page": 269,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_25.heic",
+      "originalUnmodified": true
+    }
+  ],
+  "sourceHandling": {
+    "method": "Visuell läsning av de fyra originalfotografierna, därefter omformulering av innehållet med bevarade faktauppgifter.",
+    "uncertainty": "Boksidornas text och figurtexter kunde läsas. Blänk och skuggor finns på fotografierna, men ingen materiell textlucka identifierades. Källans egna begränsningar, som normalt, många, ofta, runt, några och vanligen, har bevarats.",
+    "externalBiologicalInformationUsed": false,
+    "formulaNote": "De fyra boksidorna innehåller inga formler. Sifferuppgifterna återges som faktauppgifter utan extrapolerade beräkningar.",
+    "reuseNote": "Originalfotografierna har inte ändrats. Diagrammens ramar är ungefärliga för att underlätta senare integration; de är inga beskurna eller omritade bilder."
+  },
+  "sections": [
+    {
+      "id": "naringsstrategi",
+      "title": "Svampars näringsstrategi",
+      "source": {
+        "kind": "book",
+        "pages": [
+          266
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Energi från andra livsformer",
+          "text": "Svampar är heterotrofer: de använder energi som andra livsformer har skapat. De bryter först ner organiskt material utanför sina egna celler och tar sedan upp de små molekyler som bildas."
+        },
+        {
+          "heading": "Nedbrytning i omgivningen",
+          "text": "Boken jämför svampar med djur. Djur innesluter andra organismer och bryter ner dem inne i sig. Svampar avger i stället enzymer till omgivningen. Enzymerna angriper både levande och dött organiskt material och bildar bland annat enkla sockerarter och aminosyror, som svampen kan ta upp."
+        }
+      ],
+      "facts": [
+        {
+          "id": "naringsstrategi-f01",
+          "text": "Svampar är heterotrofer och lever av energi som andra livsformer har skapat.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "naringsstrategi-f02",
+          "text": "Djur skaffar näring genom att innesluta andra organismer och bryta ner dem inne i sig.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "naringsstrategi-f03",
+          "text": "Svampar avger nedbrytande enzymer till omgivningen.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "naringsstrategi-f04",
+          "text": "Enzymerna kan bryta ner både levande och dött organiskt material.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "naringsstrategi-f05",
+          "text": "Nedbrytningen bildar små molekyler, till exempel enkla sockerarter och aminosyror.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "naringsstrategi-f06",
+          "text": "Svampen tar upp de små molekyler som har bildats genom nedbrytningen.",
+          "pages": [
+            266
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "heterotrof",
+          "definition": "En organism som lever av energi som andra livsformer har skapat."
+        },
+        {
+          "term": "svampars yttre nedbrytning",
+          "definition": "Svampen avger enzymer som bryter ner organiskt material i omgivningen till små molekyler; därefter kan svampen ta upp molekylerna."
+        }
+      ],
+      "cards": [
+        {
+          "id": "naringsstrategi-c01",
+          "question": "Vad betyder det att svampar är heterotrofer?",
+          "answer": "De lever av energi som andra livsformer har skapat.",
+          "type": "definition",
+          "factIds": [
+            "naringsstrategi-f01"
+          ]
+        },
+        {
+          "id": "naringsstrategi-c02",
+          "question": "Hur skiljer sig svampars sätt att skaffa näring från djurs enligt boken?",
+          "answer": "Djur innesluter andra organismer och bryter ner dem inne i sig. Svampar avger enzymer, bryter ner material i omgivningen och tar sedan upp små molekyler.",
+          "type": "explanation",
+          "factIds": [
+            "naringsstrategi-f02",
+            "naringsstrategi-f03",
+            "naringsstrategi-f06"
+          ]
+        },
+        {
+          "id": "naringsstrategi-c03",
+          "question": "Var sker den nedbrytning som gör näringen tillgänglig för en svamp?",
+          "answer": "I omgivningen, där svampens utsöndrade enzymer verkar.",
+          "type": "fact",
+          "factIds": [
+            "naringsstrategi-f03"
+          ]
+        },
+        {
+          "id": "naringsstrategi-c04",
+          "question": "Kan svampens enzymer angripa levande material?",
+          "answer": "Ja. Boken beskriver nedbrytning av både levande och dött organiskt material.",
+          "type": "fact",
+          "factIds": [
+            "naringsstrategi-f04"
+          ]
+        },
+        {
+          "id": "naringsstrategi-c05",
+          "question": "Vilka två exempel på små molekyler nämner boken?",
+          "answer": "Enkla sockerarter och aminosyror.",
+          "type": "fact",
+          "factIds": [
+            "naringsstrategi-f05"
+          ]
+        },
+        {
+          "id": "naringsstrategi-c06",
+          "question": "Vilken ordning har stegen i svampens näringsupptag?",
+          "answer": "Svampen avger enzymer, materialet bryts ner till små molekyler och svampen tar upp molekylerna.",
+          "type": "explanation",
+          "factIds": [
+            "naringsstrategi-f03",
+            "naringsstrategi-f05",
+            "naringsstrategi-f06"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "naringsstrategi-r1",
+          "question": "Beskriv svampens näringsupptag från energikälla till upptag.",
+          "answer": "Svampen är en heterotrof som använder energi från andra livsformer. Den avger enzymer som bryter ner levande eller dött organiskt material i omgivningen till små molekyler, till exempel enkla sockerarter och aminosyror. Dessa molekyler kan sedan tas upp.",
+          "checkpoints": [
+            "Heterotrof och energi från andra livsformer",
+            "Enzymer avges till omgivningen",
+            "Både levande och dött organiskt material kan brytas ner",
+            "Små molekyler bildas och tas upp"
+          ],
+          "factIds": [
+            "naringsstrategi-f01",
+            "naringsstrategi-f03",
+            "naringsstrategi-f04",
+            "naringsstrategi-f05",
+            "naringsstrategi-f06"
+          ]
+        },
+        {
+          "id": "naringsstrategi-r2",
+          "question": "Jämför djurs och svampars näringsstrategier enligt texten.",
+          "answer": "Båda använder energi som andra livsformer har skapat. Djur innesluter andra organismer och bryter ner dem inne i sig själva. Svampar avger enzymer som bryter ner material utanför svampen; efter nedbrytningen tar svampen upp små molekyler.",
+          "checkpoints": [
+            "Gemensam energikälla",
+            "Djur innesluter och bryter ner inne i sig",
+            "Svampar bryter ner i omgivningen med enzymer",
+            "Svampen tar upp nedbrytningsprodukterna"
+          ],
+          "factIds": [
+            "naringsstrategi-f01",
+            "naringsstrategi-f02",
+            "naringsstrategi-f03",
+            "naringsstrategi-f06"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "naringsstrategi-q1",
+          "question": "Vilket påstående beskriver en heterotrof svamp?",
+          "options": [
+            "Den använder energi som andra livsformer har skapat.",
+            "Den använder kloroplaster för att skapa sin egen energi genom fotosyntes.",
+            "Den behöver aldrig organiskt material för att få näring.",
+            "Den tar upp näring endast genom att innesluta hela organismer."
+          ],
+          "correct": 0,
+          "explanation": "Boken anger att svampar, liksom djur, lever av energi som andra livsformer har skapat.",
+          "factIds": [
+            "naringsstrategi-f01"
+          ]
+        },
+        {
+          "id": "naringsstrategi-q2",
+          "question": "Vilken ordning motsvarar svampens näringsstrategi?",
+          "options": [
+            "Ta upp stora organismer → bilda kloroplaster → bryta ner",
+            "Avge enzymer → bryta ner material → ta upp små molekyler",
+            "Ta upp aminosyror → göra organiskt material omöjligt att bryta ner",
+            "Innesluta organismer → bryta ner dem inne i kroppen"
+          ],
+          "correct": 1,
+          "explanation": "Svampar avger först enzymer till omgivningen, där material bryts ner till molekyler som kan tas upp.",
+          "factIds": [
+            "naringsstrategi-f03",
+            "naringsstrategi-f05",
+            "naringsstrategi-f06"
+          ]
+        },
+        {
+          "id": "naringsstrategi-q3",
+          "question": "Vilket material kan enzymerna bryta ner enligt boken?",
+          "options": [
+            "Endast döda djur",
+            "Endast levande växter",
+            "Både levande och dött organiskt material",
+            "Endast material inne i svampcellerna"
+          ],
+          "correct": 2,
+          "explanation": "Texten nämner uttryckligen både levande och dött organiskt material i omgivningen.",
+          "factIds": [
+            "naringsstrategi-f04"
+          ]
+        },
+        {
+          "id": "naringsstrategi-q4",
+          "question": "Vilket par innehåller de små molekyler som texten ger som exempel?",
+          "options": [
+            "Kloroplaster och mitokondrier",
+            "Ribosomer och cellkärnor",
+            "Mycel och fruktkroppar",
+            "Enkla sockerarter och aminosyror"
+          ],
+          "correct": 3,
+          "explanation": "Enkla sockerarter och aminosyror är bokens exempel på ämnen som bildas vid nedbrytningen.",
+          "factIds": [
+            "naringsstrategi-f05"
+          ]
+        },
+        {
+          "id": "naringsstrategi-q5",
+          "question": "Vad gör djur i bokens jämförelse med svampar?",
+          "options": [
+            "De innesluter andra organismer och bryter ner dem inne i sig.",
+            "De bildar mycel som hämtar näring ur marken.",
+            "De avger alltid enzymer till marken innan de tar upp små molekyler.",
+            "De får näring genom mykorrhiza med växter."
+          ],
+          "correct": 0,
+          "explanation": "Den strategin anges för djur i jämförelsen. Svampar använder enzymer i omgivningen.",
+          "factIds": [
+            "naringsstrategi-f02",
+            "naringsstrategi-f03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cellbyggnad",
+      "title": "Svampcellens byggnad",
+      "source": {
+        "kind": "book",
+        "pages": [
+          266
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Eukaryota celler",
+          "text": "Svamparnas celler är eukaryota. Boken räknar upp cellkärna, ER, golgiapparat, lysosomer och mitokondrier samt andra membranomslutna organeller. Svampar har inga kloroplaster och utför ingen fotosyntes."
+        },
+        {
+          "heading": "Cellvägg med kitin",
+          "text": "En svampcell omges av en cellvägg. Cellväggens byggnad skiljer sig från både växters och bakteriers, bland annat genom innehållet av kitin. Kitin beskrivs som en cellulosa­liknande polysackarid med många aminogrupper, och som lite starkare och segare än ren cellulosa.",
+          "table": {
+            "headers": [
+              "Egenskap",
+              "Vad boken anger"
+            ],
+            "rows": [
+              [
+                "Celltyp",
+                "Eukaryot"
+              ],
+              [
+                "Exempel på cellens delar",
+                "Cellkärna, ER, golgiapparat, lysosomer och mitokondrier"
+              ],
+              [
+                "Kloroplaster",
+                "Saknas"
+              ],
+              [
+                "Fotosyntes",
+                "Utförs inte"
+              ],
+              [
+                "Cellvägg",
+                "Innehåller bland annat kitin"
+              ]
+            ]
+          }
+        }
+      ],
+      "facts": [
+        {
+          "id": "cellbyggnad-f01",
+          "text": "Svampar är eukaryota organismer.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "cellbyggnad-f02",
+          "text": "Svampceller har cellkärna, ER, golgiapparat, lysosomer, mitokondrier och andra membranomslutna organeller.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "cellbyggnad-f03",
+          "text": "Svampar har inga kloroplaster och utför ingen fotosyntes.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "cellbyggnad-f04",
+          "text": "Svampceller omges av en cellvägg som skiljer sig i byggnad från både växters och bakteriers cellväggar.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "cellbyggnad-f05",
+          "text": "Svampens cellvägg innehåller bland annat kitin.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "cellbyggnad-f06",
+          "text": "Kitin är en cellulosa­liknande polysackarid med många aminogrupper.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "cellbyggnad-f07",
+          "text": "Kitin är enligt boken lite starkare och segare än ren cellulosa.",
+          "pages": [
+            266
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "eukaryot svampcell",
+          "definition": "En svampcell med cellkärna och membranomslutna organeller."
+        },
+        {
+          "term": "kitin",
+          "definition": "En cellulosa­liknande polysackarid med många aminogrupper; finns i svampens cellvägg och beskrivs som lite starkare och segare än ren cellulosa."
+        }
+      ],
+      "cards": [
+        {
+          "id": "cellbyggnad-c01",
+          "question": "Vilken celltyp har svampar?",
+          "answer": "Svampar är eukaryota organismer.",
+          "type": "definition",
+          "factIds": [
+            "cellbyggnad-f01"
+          ]
+        },
+        {
+          "id": "cellbyggnad-c02",
+          "question": "Vilka delar räknar boken upp i svampcellen?",
+          "answer": "Cellkärna, ER, golgiapparat, lysosomer och mitokondrier, samt andra membranomslutna organeller.",
+          "type": "fact",
+          "factIds": [
+            "cellbyggnad-f02"
+          ]
+        },
+        {
+          "id": "cellbyggnad-c03",
+          "question": "Varför kopplar boken svampars avsaknad av kloroplaster till näringsstrategin?",
+          "answer": "Svampar har inga kloroplaster och utför ingen fotosyntes; de lever av energi som andra livsformer har skapat.",
+          "type": "explanation",
+          "factIds": [
+            "cellbyggnad-f03",
+            "naringsstrategi-f01"
+          ]
+        },
+        {
+          "id": "cellbyggnad-c04",
+          "question": "Vad omger svampcellen?",
+          "answer": "En cellvägg, vars byggnad skiljer sig från växters och bakteriers cellväggar.",
+          "type": "fact",
+          "factIds": [
+            "cellbyggnad-f04"
+          ]
+        },
+        {
+          "id": "cellbyggnad-c05",
+          "question": "Vilket ämne nämns särskilt i svampens cellvägg?",
+          "answer": "Kitin.",
+          "type": "fact",
+          "factIds": [
+            "cellbyggnad-f05"
+          ]
+        },
+        {
+          "id": "cellbyggnad-c06",
+          "question": "Vad är kitin enligt texten?",
+          "answer": "En cellulosa­liknande polysackarid med många aminogrupper.",
+          "type": "definition",
+          "factIds": [
+            "cellbyggnad-f06"
+          ]
+        },
+        {
+          "id": "cellbyggnad-c07",
+          "question": "Hur jämförs kitin med ren cellulosa?",
+          "answer": "Kitin är lite starkare och segare än ren cellulosa.",
+          "type": "fact",
+          "factIds": [
+            "cellbyggnad-f07"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "cellbyggnad-r1",
+          "question": "Beskriv svampcellens byggnad och förklara vilka drag texten lyfter fram.",
+          "answer": "Svampcellen är eukaryot och har cellkärna, ER, golgiapparat, lysosomer, mitokondrier och andra membranomslutna organeller. Kloroplaster saknas och svampen utför inte fotosyntes. Cellen har en cellvägg som bland annat innehåller kitin och skiljer sig från växters och bakteriers cellväggar.",
+          "checkpoints": [
+            "Eukaryot cell med cellkärna",
+            "De uppräknade organellerna",
+            "Inga kloroplaster och ingen fotosyntes",
+            "Cellvägg med kitin, olik växters och bakteriers"
+          ],
+          "factIds": [
+            "cellbyggnad-f01",
+            "cellbyggnad-f02",
+            "cellbyggnad-f03",
+            "cellbyggnad-f04",
+            "cellbyggnad-f05"
+          ]
+        },
+        {
+          "id": "cellbyggnad-r2",
+          "question": "Redogör för vad kitin är och varför det nämns i avsnittet om svampceller.",
+          "answer": "Kitin finns i svampens cellvägg. Det är enligt boken en cellulosa­liknande polysackarid med många aminogrupper och är lite starkare och segare än ren cellulosa. Kitinet är ett exempel på att svampens cellvägg skiljer sig från växters och bakteriers.",
+          "checkpoints": [
+            "Kitin finns i cellväggen",
+            "Polysackarid som liknar cellulosa",
+            "Många aminogrupper",
+            "Lite starkare och segare än ren cellulosa"
+          ],
+          "factIds": [
+            "cellbyggnad-f04",
+            "cellbyggnad-f05",
+            "cellbyggnad-f06",
+            "cellbyggnad-f07"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "cellbyggnad-q1",
+          "question": "Vilken struktur saknas hos svampar enligt boken?",
+          "options": [
+            "Mitokondrier",
+            "Cellkärna",
+            "Kloroplaster",
+            "Cellvägg"
+          ],
+          "correct": 2,
+          "explanation": "Svampar saknar kloroplaster och utför ingen fotosyntes. De andra strukturerna anges finnas.",
+          "factIds": [
+            "cellbyggnad-f02",
+            "cellbyggnad-f03",
+            "cellbyggnad-f04"
+          ]
+        },
+        {
+          "id": "cellbyggnad-q2",
+          "question": "Vad är kitin?",
+          "options": [
+            "En cellulosa­liknande polysackarid med många aminogrupper",
+            "Ett annat namn för svampens cellkärna",
+            "En sorts fruktkropp som bildas från mycelet",
+            "Svampens parningssignalämne"
+          ],
+          "correct": 0,
+          "explanation": "Det är bokens beskrivning av kitin, som finns i svampcellens cellvägg.",
+          "factIds": [
+            "cellbyggnad-f05",
+            "cellbyggnad-f06"
+          ]
+        },
+        {
+          "id": "cellbyggnad-q3",
+          "question": "Vilket påstående om svampceller stämmer med boken?",
+          "options": [
+            "De saknar alla membranomslutna organeller.",
+            "De är eukaryota och har membranomslutna organeller.",
+            "De utför fotosyntes i sina kloroplaster.",
+            "Deras cellvägg har exakt samma byggnad som bakteriers."
+          ],
+          "correct": 1,
+          "explanation": "Svampar är eukaryoter med cellkärna och flera membranomslutna organeller.",
+          "factIds": [
+            "cellbyggnad-f01",
+            "cellbyggnad-f02"
+          ]
+        },
+        {
+          "id": "cellbyggnad-q4",
+          "question": "Hur beskrivs kitin i jämförelse med ren cellulosa?",
+          "options": [
+            "Svagare men lika segt",
+            "Lika starkt men mindre segt",
+            "Svagare och mindre segt",
+            "Lite starkare och segare"
+          ],
+          "correct": 3,
+          "explanation": "Boken jämför kitin med ren cellulosa och anger att kitin är lite starkare och segare.",
+          "factIds": [
+            "cellbyggnad-f07"
+          ]
+        },
+        {
+          "id": "cellbyggnad-q5",
+          "question": "Vilken grupp innehåller bara celldelar som räknas upp för svampceller?",
+          "options": [
+            "Kloroplaster, sporer och mycel",
+            "Cellkärna, ER, golgiapparat, lysosomer och mitokondrier",
+            "Fruktkropp, kloroplast och lav",
+            "Fosfater, aminogrupper och rundmaskar"
+          ],
+          "correct": 1,
+          "explanation": "Alla dessa celldelar räknas upp i beskrivningen av svampar som eukaryota organismer.",
+          "factIds": [
+            "cellbyggnad-f02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyfer-mycel",
+      "title": "Hyfer, mycel och stor kontaktyta",
+      "source": {
+        "kind": "book",
+        "pages": [
+          266
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Två huvudgrupper i texten",
+          "text": "Boken delar in svampar i två huvudgrupper utifrån hur cellerna lever och är formade. I den ena är cellerna runda och lever huvudsakligen var för sig som encelliga varelser; jäst är ett exempel. I den andra är cellerna avlånga och bildar långa trådar, hyfer."
+        },
+        {
+          "heading": "Ett sammanbundet nätverk",
+          "text": "Cellerna i en hyf är förenade genom stora öppningar. Näringsämnen och proteiner kan transporteras genom nätverket, men också ribosomer och hela organeller. Hyferna förgrenar sig och bildar mycel. Det nätverk man ser när mögel växer på bröd eller ost är ett mycel."
+        },
+        {
+          "heading": "Stora nätverk av mycket tunna trådar",
+          "text": "I marken kan mycel sträcka sig tiotals eller hundratals meter åt olika håll. Ett nätverk som började från en enda cell kan enligt boken väga åtskilliga hundratals kilo. Samtidigt är själva trådarna endast några mikrometer tjocka och kräver starka mikroskop för att kunna urskiljas."
+        },
+        {
+          "heading": "Varför trådformen är effektiv",
+          "text": "De många tunna trådarna ger svampen stor kontaktyta mot den omgivning som den suger näring ur. Bokens exempel är att en kubikcentimeter näringsrik jord, angiven som ett gram, kan innehålla bortåt en kilometer hyftråd med en sammanlagd yta på 300 kvadratcentimeter.",
+          "table": {
+            "headers": [
+              "Storhet i bokens exempel",
+              "Uppgift"
+            ],
+            "rows": [
+              [
+                "Jordvolym",
+                "1 kubikcentimeter"
+              ],
+              [
+                "Jordmassa i exemplet",
+                "1 gram"
+              ],
+              [
+                "Hyftrådens längd",
+                "Bortåt 1 kilometer"
+              ],
+              [
+                "Sammanlagd hyfyta",
+                "300 kvadratcentimeter"
+              ],
+              [
+                "En hyftråds tjocklek",
+                "Några mikrometer"
+              ]
+            ]
+          }
+        }
+      ],
+      "facts": [
+        {
+          "id": "hyfer-mycel-f01",
+          "text": "En av bokens två huvudgrupper har runda celler som huvudsakligen lever en och en som encelliga varelser.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f02",
+          "text": "Jäst hör till gruppen med huvudsakligen ensamma, runda celler.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f03",
+          "text": "I den andra huvudgruppen är cellerna avlånga och bildar långa trådar som kallas hyfer.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f04",
+          "text": "Cellerna i en hyf är förenade med varandra genom stora öppningar.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f05",
+          "text": "Genom hyfernas nätverk kan näringsämnen, proteiner, ribosomer och hela organeller transporteras.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f06",
+          "text": "Hyferna förgrenar sig, och ett nätverk av hyfer kallas mycel.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f07",
+          "text": "Mycel är det nätverk som syns när mögel växer på en brödbit eller i en ost.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f08",
+          "text": "Ett mycel i marken kan sträcka sig tiotals eller hundratals meter åt olika håll.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f09",
+          "text": "Ett mycel som har uppstått från en enda cell kan inte sällan väga åtskilliga hundratals kilo.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f10",
+          "text": "Hyftrådarna är bara några mikrometer tjocka och behöver starka mikroskop för att urskiljas.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f11",
+          "text": "Nätverket av tunna trådar ger svampen en mycket stor kontaktyta mot omgivningen som den tar näring ur.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "hyfer-mycel-f12",
+          "text": "I 1 kubikcentimeter, angiven som 1 gram, näringsrik jord finns enligt bokens exempel bortåt 1 kilometer hyftråd med totalt 300 kvadratcentimeters yta.",
+          "pages": [
+            266
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "hyf",
+          "definition": "En lång tråd som byggs av avlånga svampceller. Cellerna är förenade genom stora öppningar."
+        },
+        {
+          "term": "mycel",
+          "definition": "Ett nätverk av förgrenade hyfer."
+        },
+        {
+          "term": "jäst",
+          "definition": "Bokens exempel på svampar med runda celler som huvudsakligen lever en och en som encelliga varelser."
+        }
+      ],
+      "cards": [
+        {
+          "id": "hyfer-mycel-c01",
+          "question": "Vilka två huvudgrupper delar texten in svamparna i?",
+          "answer": "En grupp med runda, huvudsakligen ensamma celler, exempelvis jäst, och en grupp med avlånga celler som bildar hyfer.",
+          "type": "explanation",
+          "factIds": [
+            "hyfer-mycel-f01",
+            "hyfer-mycel-f02",
+            "hyfer-mycel-f03"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c02",
+          "question": "Vad är en hyf?",
+          "answer": "En lång tråd av avlånga svampceller.",
+          "type": "definition",
+          "factIds": [
+            "hyfer-mycel-f03"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c03",
+          "question": "Vad är ett mycel?",
+          "answer": "Ett nätverk av förgrenade hyfer.",
+          "type": "definition",
+          "factIds": [
+            "hyfer-mycel-f06"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c04",
+          "question": "Vad möjliggör de stora öppningarna mellan hyfens celler?",
+          "answer": "Transport av näringsämnen och proteiner samt ribosomer och hela organeller genom nätverket.",
+          "type": "explanation",
+          "factIds": [
+            "hyfer-mycel-f04",
+            "hyfer-mycel-f05"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c05",
+          "question": "Vilket nätverk ser man när mögel växer på bröd eller ost?",
+          "answer": "Ett mycel, alltså ett nätverk av förgrenade hyfer.",
+          "type": "fact",
+          "factIds": [
+            "hyfer-mycel-f06",
+            "hyfer-mycel-f07"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c06",
+          "question": "Hur långt kan mycel i marken sträcka sig?",
+          "answer": "Tiotals eller hundratals meter åt olika håll.",
+          "type": "fact",
+          "factIds": [
+            "hyfer-mycel-f08"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c07",
+          "question": "Hur tungt kan ett mycel som började från en enda cell bli?",
+          "answer": "Enligt boken kan det inte sällan väga åtskilliga hundratals kilo.",
+          "type": "fact",
+          "factIds": [
+            "hyfer-mycel-f09"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c08",
+          "question": "Hur tjocka är hyftrådarna och hur kan de urskiljas?",
+          "answer": "De är några mikrometer tjocka och behöver starka mikroskop för att urskiljas.",
+          "type": "fact",
+          "factIds": [
+            "hyfer-mycel-f10"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c09",
+          "question": "Vad är fördelen med ett nätverk av tunna trådar?",
+          "answer": "Det ger mycket stor kontaktyta mot omgivningen som svampen hämtar näring ur.",
+          "type": "explanation",
+          "factIds": [
+            "hyfer-mycel-f11"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-c10",
+          "question": "Vilka siffror anges för hyferna i en kubikcentimeter näringsrik jord?",
+          "answer": "Boken anger 1 kubikcentimeter, motsvarande 1 gram i exemplet, bortåt 1 kilometer hyftråd och totalt 300 kvadratcentimeters yta.",
+          "type": "fact",
+          "factIds": [
+            "hyfer-mycel-f12"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "hyfer-mycel-r1",
+          "question": "Förklara sambandet mellan svampcell, hyf och mycel och hur nätverket kan transportera material.",
+          "answer": "Avlånga svampceller bildar långa hyfer. Cellerna är sammanbundna genom stora öppningar, där näringsämnen, proteiner, ribosomer och hela organeller kan förflyttas. Förgrenade hyfer bildar tillsammans ett mycel.",
+          "checkpoints": [
+            "Avlånga celler bildar hyfer",
+            "Stora öppningar förbinder cellerna",
+            "Transport av både ämnen, ribosomer och hela organeller",
+            "Förgrenade hyfer bildar mycel"
+          ],
+          "factIds": [
+            "hyfer-mycel-f03",
+            "hyfer-mycel-f04",
+            "hyfer-mycel-f05",
+            "hyfer-mycel-f06"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-r2",
+          "question": "Förklara varför ett mycel kan ge en svamp stor kontaktyta trots att varje tråd är tunn. Använd bokens sifferexempel.",
+          "answer": "Ett mycel består av många förgrenade hyfer som tillsammans möter mycket av omgivningen. Varje tråd är bara några mikrometer tjock, men i 1 kubikcentimeter eller 1 gram näringsrik jord anges bortåt 1 kilometer hyftråd med 300 kvadratcentimeters yta. Mycel kan samtidigt sträcka sig tiotals eller hundratals meter i marken och bli mycket tungt.",
+          "checkpoints": [
+            "Många förgrenade och tunna hyfer",
+            "Stor kontaktyta för näringsupptag",
+            "Några mikrometers trådtjocklek",
+            "1 kubikcentimeter/1 gram, bortåt 1 kilometer och 300 kvadratcentimeter",
+            "Tiotals eller hundratals meters utbredning"
+          ],
+          "factIds": [
+            "hyfer-mycel-f08",
+            "hyfer-mycel-f09",
+            "hyfer-mycel-f10",
+            "hyfer-mycel-f11",
+            "hyfer-mycel-f12"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyfer-mycel-q1",
+          "question": "Vilket alternativ beskriver ett mycel?",
+          "options": [
+            "En enda rund jästcell",
+            "Ett nätverk av förgrenade hyfer",
+            "En receptor för parningssignalämnen",
+            "Ett skal runt en spor"
+          ],
+          "correct": 1,
+          "explanation": "Mycel är namnet på nätverket av förgrenade hyfer.",
+          "factIds": [
+            "hyfer-mycel-f06"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-q2",
+          "question": "Vad kan transporteras genom de stora öppningarna mellan hyfens celler?",
+          "options": [
+            "Endast vatten",
+            "Endast enkla sockerarter",
+            "Näringsämnen, proteiner, ribosomer och hela organeller",
+            "Bara sporer"
+          ],
+          "correct": 2,
+          "explanation": "Boken nämner både ämnen och cellstrukturer, inklusive ribosomer och hela organeller.",
+          "factIds": [
+            "hyfer-mycel-f04",
+            "hyfer-mycel-f05"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-q3",
+          "question": "Vilka siffror hör ihop i bokens jordexempel?",
+          "options": [
+            "1 kubikcentimeter jord, bortåt 1 kilometer hyf och 300 kvadratcentimeter yta",
+            "300 kubikcentimeter jord, 1 centimeter hyf och 1 kvadratcentimeter yta",
+            "1 kubikcentimeter jord, 300 kilometer hyf och 1 kvadratcentimeter yta",
+            "1 kilometer jord, 1 gram hyf och 300 mikrometer yta"
+          ],
+          "correct": 0,
+          "explanation": "Boken anger bortåt en kilometer hyftråd med totalt 300 kvadratcentimeters yta i en kubikcentimeter, angiven som ett gram, näringsrik jord.",
+          "factIds": [
+            "hyfer-mycel-f12"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-q4",
+          "question": "Vilken beskrivning stämmer för jäst i bokens indelning?",
+          "options": [
+            "Avlånga celler som alltid bildar långa hyfer",
+            "Celler med kloroplaster och fotosyntes",
+            "Fruktkroppar i en häxring",
+            "Runda celler som huvudsakligen lever en och en"
+          ],
+          "correct": 3,
+          "explanation": "Jäst är exemplet i gruppen med huvudsakligen ensamma, runda celler.",
+          "factIds": [
+            "hyfer-mycel-f01",
+            "hyfer-mycel-f02"
+          ]
+        },
+        {
+          "id": "hyfer-mycel-q5",
+          "question": "Varför är nätverket av tunna trådar användbart för näringsupptaget?",
+          "options": [
+            "Det gör att svampen inte behöver enzymer.",
+            "Det ger svampen en mycket stor yta i kontakt med omgivningen.",
+            "Det gör varje hyf synlig utan mikroskop.",
+            "Det gör att svampceller får kloroplaster."
+          ],
+          "correct": 1,
+          "explanation": "De många tunna trådarna ger tillsammans stor kontaktyta mot den omgivning som svampen suger näring ur.",
+          "factIds": [
+            "hyfer-mycel-f10",
+            "hyfer-mycel-f11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fruktkroppar-tillvaxt",
+      "title": "Fruktkroppar, tillväxt och häxringar",
+      "source": {
+        "kind": "book",
+        "pages": [
+          266,
+          267
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Det som sticker upp",
+          "text": "Hos några arter kan mycelet bilda fruktkroppar när temperatur och fuktighet är lämpliga. Dessa syns ovanför marken eller från trädstammar. Fruktkropparna består i princip av många av samma slags celler som finns i mycelet."
+        },
+        {
+          "heading": "Snabb tillväxt på utvalda platser",
+          "text": "Hyfer växer i sina ändar. Kanalerna mellan cellerna gör att näring snabbt kan transporteras genom mycelet. Därför kan en svamp som brett ut sig över hundratals kvadratmeter samla tillväxten till några få platser. Där växer fruktkroppar snabbt fram. Textens exempel är flera stora karljohanssvampar som kan växa upp bredvid varandra på några timmar."
+        },
+        {
+          "heading": "Häxringens samband med mycelet",
+          "text": "Häxringar i gräsmattor visar vanligen ytterkanten av det markområde som ett enda mycelnätverk sträcker sig genom. Formuleringen vanligen är viktig: boken uttrycker sambandet som typiskt, inte som ett undantagslöst påstående."
+        }
+      ],
+      "facts": [
+        {
+          "id": "fruktkroppar-tillvaxt-f01",
+          "text": "Hos några arter kan fruktkroppar skjuta ut från mycelet när temperatur och fuktighet är rätt.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f02",
+          "text": "Fruktkroppar är de delar som kan ses ovanför marken eller på trädstammar.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f03",
+          "text": "Fruktkroppar består i princip av många av samma slags celler som mycelet.",
+          "pages": [
+            266
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f04",
+          "text": "Hyfer tillväxer alltid i sina ändar.",
+          "pages": [
+            266,
+            267
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f05",
+          "text": "Näring kan snabbt föras genom mycelet tack vare kanaler mellan cellerna.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f06",
+          "text": "En svamp som täcker hundratals kvadratmeter mark kan koncentrera sin tillväxt till några få ställen där fruktkroppar snabbt växer ut.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f07",
+          "text": "Texten ger flera stora karljohanssvampar som växer upp bredvid varandra på några timmar som exempel på snabb fruktkroppstillväxt.",
+          "pages": [
+            266,
+            267
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-f08",
+          "text": "Häxringar som ibland syns i gräsmattor visar vanligen ytterkanten av det område som ett enda mycelnätverk sträcker sig genom.",
+          "pages": [
+            267
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "fruktkropp",
+          "definition": "En struktur som hos några svampar skjuter ut från mycelet när temperatur och fuktighet är rätt; den kan synas över marken eller på en trädstam och består i princip av samma slags celler som mycelet."
+        },
+        {
+          "term": "häxring",
+          "definition": "En ring av svampar som ibland syns i gräsmattor och vanligen visar ytterkanten av ett enda mycelnätverks område i marken."
+        }
+      ],
+      "cards": [
+        {
+          "id": "fruktkroppar-tillvaxt-c01",
+          "question": "När kan ett mycel bilda fruktkroppar enligt texten?",
+          "answer": "Hos några arter när temperatur och fuktighet är rätt.",
+          "type": "fact",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f01"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-c02",
+          "question": "Var kan man se fruktkroppar?",
+          "answer": "De kan sticka upp ur marken eller från trädstammar.",
+          "type": "fact",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f02"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-c03",
+          "question": "Hur förhåller sig fruktkroppens celler till mycelets?",
+          "answer": "Fruktkroppen består i princip av många av samma slags celler som mycelet.",
+          "type": "fact",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f03"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-c04",
+          "question": "Var sker hyfernas tillväxt?",
+          "answer": "I hyfernas ändar.",
+          "type": "fact",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f04"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-c05",
+          "question": "Hur kan ett stort mycel bidra till snabb tillväxt på några få ställen?",
+          "answer": "Näring förs snabbt genom kanaler mellan cellerna, så ett utbrett mycel kan koncentrera tillväxten där fruktkroppar bildas.",
+          "type": "explanation",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f05",
+            "fruktkroppar-tillvaxt-f06"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-c06",
+          "question": "Vad illustrerar bokens exempel med karljohanssvampar?",
+          "answer": "Att flera stora fruktkroppar kan växa upp nära varandra på några timmar, med hjälp av hyfernas tillväxt och snabb transport genom mycelet.",
+          "type": "explanation",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f04",
+            "fruktkroppar-tillvaxt-f05",
+            "fruktkroppar-tillvaxt-f07"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-c07",
+          "question": "Vad visar en häxring vanligen?",
+          "answer": "Ytterkanten av området i marken som ett enda mycelnätverk sträcker sig genom.",
+          "type": "definition",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f08"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "fruktkroppar-tillvaxt-r1",
+          "question": "Förklara hur fruktkroppar kan växa fram snabbt från ett mycel. Ta med villkor, celltyp och transport.",
+          "answer": "Hos några svampar skjuter fruktkroppar ut från mycelet när temperatur och fuktighet är rätt. De består i princip av samma slags celler som mycelet. Hyfer växer i ändarna och näring transporteras snabbt genom kanaler mellan cellerna. Ett mycel som omfattar hundratals kvadratmeter kan därför koncentrera tillväxten till några få platser.",
+          "checkpoints": [
+            "Rätt temperatur och fuktighet, hos några arter",
+            "Fruktkropp och mycel har i princip samma slags celler",
+            "Hyfer växer i ändarna",
+            "Snabb transport genom kanaler",
+            "Koncentrerad tillväxt från ett utbrett mycel"
+          ],
+          "factIds": [
+            "fruktkroppar-tillvaxt-f01",
+            "fruktkroppar-tillvaxt-f03",
+            "fruktkroppar-tillvaxt-f04",
+            "fruktkroppar-tillvaxt-f05",
+            "fruktkroppar-tillvaxt-f06"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-r2",
+          "question": "Vad kan en häxring berätta om svampen under marken, och vilken begränsning anger boken?",
+          "answer": "Den visar vanligen ytterkanten för det område som ett enda mycelnätverk sträcker sig genom. Det är alltså möjligt att många synliga fruktkroppar hör till ett och samma nätverk. Boken säger vanligen och ibland, så sambandet ska inte göras till en regel utan undantag.",
+          "checkpoints": [
+            "Ett enda mycelnätverk",
+            "Ytterkant i marken",
+            "Häxringar kan synas i gräsmattor",
+            "Vanligen, inte ett undantagslöst samband"
+          ],
+          "factIds": [
+            "fruktkroppar-tillvaxt-f08"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "fruktkroppar-tillvaxt-q1",
+          "question": "Vilka förhållanden nämns när fruktkroppar bildas?",
+          "options": [
+            "Rätt temperatur och fuktighet",
+            "Endast tillgång till kloroplaster",
+            "Enbart frånvaro av näring",
+            "Alltid torr mark och låg temperatur"
+          ],
+          "correct": 0,
+          "explanation": "Texten anger att fruktkroppar hos några arter skjuter ut när temperatur och fuktighet är rätt.",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f01"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-q2",
+          "question": "Var växer hyferna enligt boken?",
+          "options": [
+            "Bara i cellernas mitt",
+            "I sina ändar",
+            "Bara i fruktkropparnas hattar",
+            "Endast mellan cellkärnorna"
+          ],
+          "correct": 1,
+          "explanation": "Hyfer tillväxer i ändarna. Snabb näringstransport bidrar till fruktkropparnas snabba tillväxt.",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f04",
+            "fruktkroppar-tillvaxt-f05"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-q3",
+          "question": "Vilket samband beskriver texten mellan fruktkropp och mycel?",
+          "options": [
+            "De har aldrig samma slags celler.",
+            "Mycelet bildas av fotosyntetiserande fruktkroppar.",
+            "Fruktkroppen består i princip av många av samma slags celler som mycelet.",
+            "Fruktkroppen är en ensam rund jästcell."
+          ],
+          "correct": 2,
+          "explanation": "Fruktkropparna består enligt boken i princip av en massa av samma slags celler som mycelet.",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f03"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-q4",
+          "question": "Vad visar häxringar vanligen?",
+          "options": [
+            "Var alla växtsjukdomar börjar",
+            "Gränsen mellan två olika fotosyntetiserande arter",
+            "Varje enskild svampcells skal",
+            "Ytterkanten av ett enda mycelnätverks område"
+          ],
+          "correct": 3,
+          "explanation": "Boken kopplar häxringen till ytterkanten av området som ett enda mycel sträcker sig genom.",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f08"
+          ]
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-q5",
+          "question": "Hur kan tillväxten koncentreras till några få platser?",
+          "options": [
+            "Näring kan transporteras snabbt genom ett stort mycel.",
+            "Mycelet måste först förlora alla kanaler mellan cellerna.",
+            "Alla hyfer måste bli runda, fristående jästceller.",
+            "Svampen måste först börja utföra fotosyntes."
+          ],
+          "correct": 0,
+          "explanation": "Kanaler mellan cellerna låter näring föras genom mycelet, så tillväxten kan samlas där fruktkroppar växer ut.",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f05",
+            "fruktkroppar-tillvaxt-f06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mykorrhiza-parasitism",
+      "title": "Växtkontakt, mykorrhiza och parasitism",
+      "source": {
+        "kind": "book",
+        "pages": [
+          267
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Hyfer i levande växtceller",
+          "text": "Många svampar kan bilda speciella hyfer som tränger in i levande växtceller och tar upp näring. Kontakten kan innebära parasitism, men ofta beskriver texten en symbios där både svamp och växt har nytta av samarbetet."
+        },
+        {
+          "heading": "När svampen är en parasit",
+          "text": "Vid ren parasitism utnyttjar svampen växten. Boken anger att svampar orsakar runt 80 procent av alla växtsjukdomar. Några av dessa sjukdomar ger stora förluster för jordbruk och skogsbruk."
+        },
+        {
+          "heading": "Utbytet vid mykorrhiza",
+          "text": "Mykorrhiza är den ömsesidigt nyttiga symbios som texten beskriver mellan svamp och växt. Svampen förser växten med fosfater och andra mineraler och får växtens kolhydrater i utbyte. Samarbetet ger växten en större kontaktyta mot jorden och därmed större möjlighet att få upp sällsynta mineraler.",
+          "table": {
+            "headers": [
+              "Från",
+              "Till",
+              "Bidrag"
+            ],
+            "rows": [
+              [
+                "Svamp",
+                "Växt",
+                "Fosfater och andra mineraler"
+              ],
+              [
+                "Växt",
+                "Svamp",
+                "Kolhydrater"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Tillväxt och praktisk betydelse",
+          "text": "De flesta växter bildar mykorrhiza med en eller flera svampar och växer betydligt snabbare efter att samarbetet etablerats än utan det. Därför är mykorrhiza viktig för avkastningen i åkrar och skogar. Som exempel nämns att mykorrhizabildande svampar ofta tillsätts innan tallar planteras för att påskynda trädens tillväxt."
+        }
+      ],
+      "facts": [
+        {
+          "id": "mykorrhiza-parasitism-f01",
+          "text": "Många svampar kan bilda speciella hyfer som tränger in i levande växtceller och tar upp näring från dem.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f02",
+          "text": "Inträngande hyfer kan innebära ren parasitism.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f03",
+          "text": "Svampar orsakar runt 80 procent av alla växtsjukdomar enligt boken.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f04",
+          "text": "Några svamporsakade växtsjukdomar medför stora förluster för jordbruk och skogsbruk.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f05",
+          "text": "Ofta är kontakten mellan svamp och växt en ömsesidigt nyttig symbios.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f06",
+          "text": "Vid denna symbios förser svampen växten med fosfater och andra mineraler i utbyte mot växtens kolhydrater.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f07",
+          "text": "Samarbetet ger växten mycket större kontaktyta mot jord och större chans att ta upp sällsynta mineraler.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f08",
+          "text": "Den symbios som beskrivs mellan svamp och växt kallas mykorrhiza.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f09",
+          "text": "De flesta växter bildar mykorrhiza med en eller flera svampar.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f10",
+          "text": "Växter växer betydligt snabbare när mykorrhiza har etablerats än utan mykorrhiza.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f11",
+          "text": "Mykorrhiza har en viktig roll för avkastningen i både åkrar och skogar.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-f12",
+          "text": "Mykorrhizabildande svampar tillsätts ofta innan tallar planteras för att påskynda trädens tillväxt.",
+          "pages": [
+            267
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "parasitism i svamp–växtkontakt",
+          "definition": "En kontakt där svampen tränger in i växtens levande celler och tar näring från växten; texten skiljer detta från ett ömsesidigt nyttigt utbyte."
+        },
+        {
+          "term": "symbios i textens mykorrhizaexempel",
+          "definition": "Ett ömsesidigt nyttigt samarbete mellan svamp och växt."
+        },
+        {
+          "term": "mykorrhiza",
+          "definition": "Den beskrivna symbiosen där svampen ger växten fosfater och andra mineraler i utbyte mot kolhydrater."
+        }
+      ],
+      "cards": [
+        {
+          "id": "mykorrhiza-parasitism-c01",
+          "question": "Hur kan svampar få kontakt med levande växtceller?",
+          "answer": "Många svampar kan bilda speciella hyfer som tränger in i växtcellerna och tar upp näring.",
+          "type": "explanation",
+          "factIds": [
+            "mykorrhiza-parasitism-f01"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c02",
+          "question": "Måste inträngande hyfer innebära en skadlig kontakt?",
+          "answer": "Nej. Texten beskriver både ren parasitism och ofta en ömsesidigt nyttig symbios.",
+          "type": "explanation",
+          "factIds": [
+            "mykorrhiza-parasitism-f02",
+            "mykorrhiza-parasitism-f05"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c03",
+          "question": "Vilken andel av växtsjukdomarna orsakas av svampar enligt boken?",
+          "answer": "Runt 80 procent.",
+          "type": "fact",
+          "factIds": [
+            "mykorrhiza-parasitism-f03"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c04",
+          "question": "Vad är mykorrhiza enligt texten?",
+          "answer": "En ömsesidigt nyttig symbios mellan svamp och växt där svampen ger fosfater och andra mineraler och får kolhydrater.",
+          "type": "definition",
+          "factIds": [
+            "mykorrhiza-parasitism-f05",
+            "mykorrhiza-parasitism-f06",
+            "mykorrhiza-parasitism-f08"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c05",
+          "question": "Vad ger svampen till växten vid mykorrhiza?",
+          "answer": "Fosfater och andra mineraler.",
+          "type": "fact",
+          "factIds": [
+            "mykorrhiza-parasitism-f06"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c06",
+          "question": "Vad får svampen från växten vid mykorrhiza?",
+          "answer": "Kolhydrater.",
+          "type": "fact",
+          "factIds": [
+            "mykorrhiza-parasitism-f06"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c07",
+          "question": "Varför ökar mykorrhiza växtens möjlighet att hitta sällsynta mineraler?",
+          "answer": "Svampsamarbetet ger växten en mycket större kontaktyta mot jorden.",
+          "type": "explanation",
+          "factIds": [
+            "mykorrhiza-parasitism-f07"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c08",
+          "question": "Hur vanligt är mykorrhiza bland växter enligt texten?",
+          "answer": "De flesta växter bildar mykorrhiza med en eller flera svampar.",
+          "type": "fact",
+          "factIds": [
+            "mykorrhiza-parasitism-f09"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c09",
+          "question": "Hur påverkas tillväxten när växter etablerat mykorrhiza?",
+          "answer": "De växer betydligt snabbare än utan mykorrhiza.",
+          "type": "fact",
+          "factIds": [
+            "mykorrhiza-parasitism-f10"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-c10",
+          "question": "Hur används mykorrhiza i bokens exempel med tallar?",
+          "answer": "Mykorrhizabildande svampar tillsätts ofta innan tallar planteras för att påskynda trädens tillväxt.",
+          "type": "fact",
+          "factIds": [
+            "mykorrhiza-parasitism-f12"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "mykorrhiza-parasitism-r1",
+          "question": "Förklara mykorrhiza som ett ömsesidigt utbyte och koppla det till tillväxt och avkastning.",
+          "answer": "Svampen ger växten fosfater och andra mineraler och får kolhydrater från växten. Svampens nätverk ger växten större kontaktyta mot jorden och större chans att få upp sällsynta mineraler. De flesta växter bildar mykorrhiza med en eller flera svampar och växer betydligt snabbare när symbiosen är etablerad. Därför är mykorrhiza viktig för avkastning i åkrar och skogar; svampar tillsätts ofta före tallplantering.",
+          "checkpoints": [
+            "Ömsesidigt nyttig symbios",
+            "Mineraler från svamp till växt",
+            "Kolhydrater från växt till svamp",
+            "Större kontaktyta och upptag av sällsynta mineraler",
+            "De flesta växter, en eller flera svampar",
+            "Snabbare tillväxt och betydelse i åkrar/skogsbruk"
+          ],
+          "factIds": [
+            "mykorrhiza-parasitism-f05",
+            "mykorrhiza-parasitism-f06",
+            "mykorrhiza-parasitism-f07",
+            "mykorrhiza-parasitism-f08",
+            "mykorrhiza-parasitism-f09",
+            "mykorrhiza-parasitism-f10",
+            "mykorrhiza-parasitism-f11",
+            "mykorrhiza-parasitism-f12"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-r2",
+          "question": "Jämför parasitism och mykorrhiza i svampens kontakt med växten.",
+          "answer": "Speciella hyfer kan tränga in i levande växtceller. Vid parasitism tar svampen näring från växten, och svampar anges orsaka runt 80 procent av alla växtsjukdomar; några ger stora jord- och skogsbruksförluster. Vid mykorrhiza är kontakten ömsesidigt nyttig: mineraler lämnas till växten och kolhydrater till svampen.",
+          "checkpoints": [
+            "Hyfer kan tränga in i levande växtceller",
+            "Parasitism innebär upptag från växten",
+            "Runt 80 procent och ekonomiska förluster",
+            "Mykorrhiza är ömsesidigt nyttig",
+            "Rätt riktning på mineral- och kolhydratutbytet"
+          ],
+          "factIds": [
+            "mykorrhiza-parasitism-f01",
+            "mykorrhiza-parasitism-f02",
+            "mykorrhiza-parasitism-f03",
+            "mykorrhiza-parasitism-f04",
+            "mykorrhiza-parasitism-f05",
+            "mykorrhiza-parasitism-f06",
+            "mykorrhiza-parasitism-f08"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "mykorrhiza-parasitism-q1",
+          "question": "Vilket utbyte beskriver mykorrhiza?",
+          "options": [
+            "Svampen ger kolhydrater och får kloroplaster.",
+            "Svampen ger fosfater och andra mineraler och får kolhydrater.",
+            "Svampen ger sporer och får cellkärnor.",
+            "Svampen ger hyfer och får fruktkroppar."
+          ],
+          "correct": 1,
+          "explanation": "Vid mykorrhiza förser svampen växten med mineraler i utbyte mot växtens kolhydrater.",
+          "factIds": [
+            "mykorrhiza-parasitism-f06",
+            "mykorrhiza-parasitism-f08"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-q2",
+          "question": "Vilken siffra anger boken för svamporsakade växtsjukdomar?",
+          "options": [
+            "Runt 8 procent",
+            "Runt 30 procent",
+            "Runt 80 procent",
+            "Exakt 100 procent"
+          ],
+          "correct": 2,
+          "explanation": "Boken anger runt 80 procent. Det är en ungefärlig uppgift, inte exakt 80 eller alla sjukdomar.",
+          "factIds": [
+            "mykorrhiza-parasitism-f03"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-q3",
+          "question": "Varför kan en växt med mykorrhiza lättare ta upp sällsynta mineraler?",
+          "options": [
+            "Den får större kontaktyta mot jorden.",
+            "Den förlorar kontakten med svamphyferna.",
+            "Svampen gör om alla mineraler till sporer.",
+            "Växten behöver då inget jordmaterial."
+          ],
+          "correct": 0,
+          "explanation": "Svampens nätverk ger växten tillgång till en mycket större kontaktyta mot jorden.",
+          "factIds": [
+            "mykorrhiza-parasitism-f07"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-q4",
+          "question": "Vilket påstående bevarar bokens omfattning?",
+          "options": [
+            "Alla växter måste bilda mykorrhiza med exakt en svamp.",
+            "Ingen växt växer snabbare med mykorrhiza.",
+            "Mykorrhiza förekommer bara i tallplanteringar.",
+            "De flesta växter bildar mykorrhiza med en eller flera svampar."
+          ],
+          "correct": 3,
+          "explanation": "Texten säger de flesta växter och en eller flera svampar.",
+          "factIds": [
+            "mykorrhiza-parasitism-f09",
+            "mykorrhiza-parasitism-f10"
+          ]
+        },
+        {
+          "id": "mykorrhiza-parasitism-q5",
+          "question": "Varför tillsätts mykorrhizabildande svampar ofta före tallplantering?",
+          "options": [
+            "För att stoppa all tillväxt av tallarna",
+            "För att påskynda trädens tillväxt",
+            "För att bilda kloroplaster i svampcellerna",
+            "För att ersätta tallarnas cellkärnor"
+          ],
+          "correct": 1,
+          "explanation": "Boken ger detta som ett exempel på mykorrhizans tillväxtfrämjande betydelse.",
+          "factIds": [
+            "mykorrhiza-parasitism-f12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ekosystem",
+      "title": "Svampar i ekosystem och svampar som fångar djur",
+      "source": {
+        "kind": "book",
+        "pages": [
+          267,
+          268
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Mineraler och växtproduktion",
+          "text": "Svamparnas mineralförsörjning har betydelse för ekosystem. Fosfater och andra mineraler är ofta de faktorer som begränsar mängden biomassa. Ofta bildar en viss svamp mykorrhiza med en viss växt och växer tillsammans med den. Det förklarar namn som aspsopp och björksopp."
+        },
+        {
+          "heading": "Parasiter som påverkar växter",
+          "text": "Som parasiter kan svampar begränsa växters tillväxt och ibland döda dem. Honungsskivlingar är bokens exempel: deras mycel växer in i trädens rötter och får dem att ruttna. Svampen använder sedan energi och byggstenar från rötterna till tillväxt runt de angripna trädens stammar. Texten anger både stora skogsbruksförluster och att honungsskivlingar serveras som delikatesser vid festmåltider i stora delar av Europa."
+        },
+        {
+          "heading": "Nedbrytare",
+          "text": "Svampar kan som nedbrytare omvandla ett nedfallet träd till mull på några år. I samma sammanhang nämner boken att svampplockare kan fylla korgar med trattkantareller."
+        },
+        {
+          "heading": "Svampar som fångar djur",
+          "text": "Vissa svampar är specialiserade på att fånga och döda djur. Ett beskrivet exempel bildar hyfutskott som lindar sig runt små rundmaskar i marken. Andra utskott gör hål i maskarna, avger nedbrytande enzymer och tar upp näring. Boken anger inget artnamn för denna svamp."
+        }
+      ],
+      "facts": [
+        {
+          "id": "ekosystem-f01",
+          "text": "Svampar förser växter med fosfater och andra mineraler som ofta begränsar mängden biomassa i ett ekosystem.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f02",
+          "text": "Ofta bildar en viss svamp mykorrhiza med en viss växt och växer tillsammans med den.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f03",
+          "text": "Namn som aspsopp och björksopp förklaras i texten av att svampar ofta växer tillsammans med den växt de bildar mykorrhiza med.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f04",
+          "text": "Svampar som parasiter begränsar tillväxten hos många växter och kan ibland döda dem.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f05",
+          "text": "Honungsskivlingar orsakar stora förluster för skogsbruket.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f06",
+          "text": "Honungsskivlingarnas mycel växer in i trädens rötter och får dem att ruttna.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f07",
+          "text": "Honungsskivlingar använder energi och byggstenar från trädens rötter till svamptillväxt runt de angripna trädens stammar.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f08",
+          "text": "Honungsskivlingar serveras som delikatesser vid festmåltider i stora delar av Europa enligt boken.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f09",
+          "text": "Svampar spelar stor roll som nedbrytare och kan exempelvis omvandla ett nedfallet träd till mull på några år.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f10",
+          "text": "Trattkantareller nämns i samband med svamparnas roll som nedbrytare och svampplockning.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "ekosystem-f11",
+          "text": "Det finns svampar som specialiserat sig på att fånga och döda djur.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "ekosystem-f12",
+          "text": "En beskriven djurfångande svamp bildar hyfutskott som kan linda sig runt och fånga små rundmaskar i marken.",
+          "pages": [
+            267
+          ]
+        },
+        {
+          "id": "ekosystem-f13",
+          "text": "Den djurfångande svampen perforerar sedan rundmaskarna med andra utskott, avger aggressiva enzymer och suger åt sig näring.",
+          "pages": [
+            267
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "biomassa i textens ekosystemresonemang",
+          "definition": "Boken anger att fosfater och andra mineraler ofta begränsar mängden biomassa i ett ekosystem. De fyra sidorna ger ingen separat definition av biomassa."
+        },
+        {
+          "term": "nedbrytare",
+          "definition": "Här svampar som bryter ner organiskt material, till exempel ett nedfallet träd som omvandlas till mull."
+        },
+        {
+          "term": "djurfångande svamp i bokens exempel",
+          "definition": "En svamp som fångar små rundmaskar med hyfutskott och sedan gör hål i dem, bryter ner material med enzymer och tar upp näring."
+        }
+      ],
+      "cards": [
+        {
+          "id": "ekosystem-c01",
+          "question": "Vilka ämnen är ofta begränsande för mängden biomassa i ekosystemet?",
+          "answer": "Fosfater och andra mineraler som svampar kan förse växter med.",
+          "type": "fact",
+          "factIds": [
+            "ekosystem-f01"
+          ]
+        },
+        {
+          "id": "ekosystem-c02",
+          "question": "Varför nämner texten namn som aspsopp och björksopp?",
+          "answer": "Många svampar växer tillsammans med den växt som de bildar mykorrhiza med, vilket avspeglas i namnen.",
+          "type": "explanation",
+          "factIds": [
+            "ekosystem-f02",
+            "ekosystem-f03"
+          ]
+        },
+        {
+          "id": "ekosystem-c03",
+          "question": "Hur kan parasitsvampar påverka växter i ekosystemet?",
+          "answer": "De kan begränsa växternas tillväxt och ibland döda dem.",
+          "type": "fact",
+          "factIds": [
+            "ekosystem-f04"
+          ]
+        },
+        {
+          "id": "ekosystem-c04",
+          "question": "Hur angriper honungsskivlingar träd enligt boken?",
+          "answer": "Mycelet växer in i rötterna och får dem att ruttna. Energi och byggstenar från rötterna används till svamptillväxt runt stammarna.",
+          "type": "explanation",
+          "factIds": [
+            "ekosystem-f06",
+            "ekosystem-f07"
+          ]
+        },
+        {
+          "id": "ekosystem-c05",
+          "question": "Vilka två sammanhang nämns för honungsskivlingar?",
+          "answer": "De orsakar stora skogsbruksförluster och anges samtidigt serveras som delikatesser vid festmåltider i stora delar av Europa.",
+          "type": "fact",
+          "factIds": [
+            "ekosystem-f05",
+            "ekosystem-f08"
+          ]
+        },
+        {
+          "id": "ekosystem-c06",
+          "question": "Vilket tidsperspektiv ger boken för nedbrytning av ett nedfallet träd?",
+          "answer": "Svampar kan omvandla det till mull på några år.",
+          "type": "fact",
+          "factIds": [
+            "ekosystem-f09"
+          ]
+        },
+        {
+          "id": "ekosystem-c07",
+          "question": "Vilken namngiven svamp nämns i samband med nedbrytning och fyllda svampkorgar?",
+          "answer": "Trattkantareller. Texten ger inga artidentifierande kännetecken.",
+          "type": "fact",
+          "factIds": [
+            "ekosystem-f10"
+          ]
+        },
+        {
+          "id": "ekosystem-c08",
+          "question": "Hur fångar och utnyttjar svampen i rundmaskexemplet sitt byte?",
+          "answer": "Hyfutskott lindar sig runt små rundmaskar. Andra utskott perforerar dem, avger enzymer och tar upp näring.",
+          "type": "explanation",
+          "factIds": [
+            "ekosystem-f11",
+            "ekosystem-f12",
+            "ekosystem-f13"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "ekosystem-r1",
+          "question": "Redogör för tre viktiga roller som svampar har i ekosystemen och använd bokens exempel.",
+          "answer": "Svampar kan förse växter med fosfater och andra mineraler via mykorrhiza, vilket har betydelse när mineraler begränsar biomassan. Som parasiter kan de begränsa eller döda växter; honungsskivlingar angriper och får trädrötter att ruttna. Som nedbrytare kan de omvandla ett nedfallet träd till mull på några år.",
+          "checkpoints": [
+            "Mineralförsörjning och mykorrhiza",
+            "Mineraler kan begränsa biomassan",
+            "Parasitism kan hämma eller döda växter",
+            "Honungsskivlingars rötter/mycel",
+            "Nedbrytning till mull på några år"
+          ],
+          "factIds": [
+            "ekosystem-f01",
+            "ekosystem-f02",
+            "ekosystem-f04",
+            "ekosystem-f05",
+            "ekosystem-f06",
+            "ekosystem-f07",
+            "ekosystem-f09"
+          ]
+        },
+        {
+          "id": "ekosystem-r2",
+          "question": "Beskriv svampens infångning av rundmaskar som en följd av steg. Ange vad källan säger och vad den inte namnger.",
+          "answer": "En av de beskrivna svamparna bildar hyfutskott som lindar sig runt och fångar små rundmaskar i marken. Andra utskott perforerar maskarna, avger aggressiva enzymer och suger åt sig näring. Källan anger inget artnamn och ger inte identifieringskännetecken för svampen.",
+          "checkpoints": [
+            "Små rundmaskar i marken",
+            "Hyfutskott lindar sig runt och fångar",
+            "Andra utskott gör hål",
+            "Enzymer bryter ner och näring tas upp",
+            "Ingen art namnges"
+          ],
+          "factIds": [
+            "ekosystem-f11",
+            "ekosystem-f12",
+            "ekosystem-f13"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "ekosystem-q1",
+          "question": "Vilka tre roller behandlas under svampar i ekosystemen?",
+          "options": [
+            "Mineralförsörjare, parasiter och nedbrytare",
+            "Enbart fotosyntetiserande organismer",
+            "Enbart jäst för brödbakning",
+            "Endast sporspridare utan påverkan på växter"
+          ],
+          "correct": 0,
+          "explanation": "Avsnittet tar upp försörjning av växter med mineraler, parasitism och nedbrytning.",
+          "factIds": [
+            "ekosystem-f01",
+            "ekosystem-f04",
+            "ekosystem-f09"
+          ]
+        },
+        {
+          "id": "ekosystem-q2",
+          "question": "Hur beskrivs honungsskivlingarnas angrepp?",
+          "options": [
+            "De bildar kloroplaster i trädens blad.",
+            "Mycelet växer in i rötterna och får dem att ruttna.",
+            "De byter bort trädrötterna mot fosfater utan att skada dem.",
+            "De gör trädrötterna till encelliga jästceller."
+          ],
+          "correct": 1,
+          "explanation": "Rötterna ruttnar när mycelet växer in i dem; svampen använder rötternas energi och byggstenar.",
+          "factIds": [
+            "ekosystem-f06",
+            "ekosystem-f07"
+          ]
+        },
+        {
+          "id": "ekosystem-q3",
+          "question": "Vad kan svampar göra med ett nedfallet träd enligt boken?",
+          "options": [
+            "Bevara det oförändrat i flera sekler",
+            "Förvandla det till kloroplaster",
+            "Omvandla det till mull på några år",
+            "Göra det till en rundmask"
+          ],
+          "correct": 2,
+          "explanation": "Det används som exempel på svamparnas betydelse som nedbrytare.",
+          "factIds": [
+            "ekosystem-f09"
+          ]
+        },
+        {
+          "id": "ekosystem-q4",
+          "question": "Vad förklarar texten med exemplen aspsopp och björksopp?",
+          "options": [
+            "Att alla svampar enbart växer på bark",
+            "Att svampar får kloroplaster från träd",
+            "Att alla träd bildar samma svamp",
+            "Att svampar ofta växer med växten de bildar mykorrhiza med"
+          ],
+          "correct": 3,
+          "explanation": "Värdväxtsambandet anges som förklaring till sådana svampnamn, utan artbestämningsdetaljer.",
+          "factIds": [
+            "ekosystem-f02",
+            "ekosystem-f03"
+          ]
+        },
+        {
+          "id": "ekosystem-q5",
+          "question": "Vilken följd stämmer för det djurfångande svampexemplet?",
+          "options": [
+            "Hyfutskott fångar rundmask → andra utskott perforerar → enzymer avges och näring tas upp",
+            "Rundmask ger kloroplaster → svampen fotosyntetiserar → mycel försvinner",
+            "Svampens cellvägg öppnas → rundmask bygger fruktkropp",
+            "Svampen bildar mykorrhiza med masken → fosfater byts mot kolhydrater"
+          ],
+          "correct": 0,
+          "explanation": "Boken beskriver infångning, perforering, enzymatisk nedbrytning och näringsupptag.",
+          "factIds": [
+            "ekosystem-f12",
+            "ekosystem-f13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lavar",
+      "title": "Lavar: svampens samarbete med alger eller bakterier",
+      "source": {
+        "kind": "book",
+        "pages": [
+          268
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Vad en lav består av",
+          "text": "Lavar som växer på sten eller trädstammar, eller hänger som skägg från gamla grangrenar, består av svampar och encelliga alger eller fotosyntetiserande bakterier som lever i symbios. Lav är alltså inte ett annat namn för en ensam svamp."
+        },
+        {
+          "heading": "Nätverkets byggnad och utbyte",
+          "text": "Svampens hyfer bildar ett nätverk som är glesare inne i laven än på dess yta. De fotosyntetiserande algerna eller bakterierna ligger inne i nätverket. De bidrar med energirika kolhydrater. Svampnätverket fångar och håller kvar vatten och hjälper på olika sätt partnern att få viktiga mineraler."
+        },
+        {
+          "heading": "Från kal yta till jord",
+          "text": "Lavar hör till de första livsformerna som koloniserar kal klippa eller kal mark. Hyfer kan tränga in i mikroskopiska sprickor i sten och klippa och hjälpa till med vittringen. Laven tillför också organiskt material. När stenmaterial och organiskt material blandas bildas jord, vilket banar väg för andra livsformer."
+        }
+      ],
+      "facts": [
+        {
+          "id": "lavar-f01",
+          "text": "Lavar kan växa på stenar och trädstammar eller hänga som skägg från gamla grangrenar.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f02",
+          "text": "Lavar består av svampar och encelliga alger eller fotosyntetiserande bakterier som lever i symbios.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f03",
+          "text": "Lavens svamphyfer bildar ett nätverk som är glesare inne i laven än på dess yta.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f04",
+          "text": "De fotosyntetiserande algerna eller bakterierna ligger inne i svampens hyfnätverk.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f05",
+          "text": "Algerna bidrar med energirika kolhydrater i lavens samarbete.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f06",
+          "text": "Svampens nätverk fångar och håller kvar det vatten som algerna behöver.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f07",
+          "text": "Svampen hjälper på olika sätt algerna att få viktiga mineraler.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f08",
+          "text": "Lavar hör till de första livsformerna som koloniserar kal klippa eller kal mark.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f09",
+          "text": "Svamphyferna kan tränga in i mikroskopiska sprickor i sten och klippa och hjälpa dessa att vittra.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f10",
+          "text": "Lavar bidrar med organiskt material som blandas med stenmaterial så att jord bildas.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f11",
+          "text": "Genom vittring och tillförsel av organiskt material banar lavar väg för att andra livsformer kan etablera sig.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "lavar-f12",
+          "text": "Fotot i faktarutan visar gröna alger inne i ett nätverk av svamphyfer.",
+          "pages": [
+            268
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "lav",
+          "definition": "En symbios mellan svampar och encelliga alger eller fotosyntetiserande bakterier."
+        },
+        {
+          "term": "lavens hyfnätverk",
+          "definition": "Svampens nätverk i laven; det är glesare inuti än på ytan och omsluter de fotosyntetiserande partnerna."
+        },
+        {
+          "term": "lavars kolonisation av kala ytor",
+          "definition": "Lavar är bland de första livsformerna på kal klippa eller mark och bidrar genom vittring och organiskt material till jordbildning."
+        }
+      ],
+      "cards": [
+        {
+          "id": "lavar-c01",
+          "question": "Vilka organismer kan ingå i en lav enligt boken?",
+          "answer": "Svampar och encelliga alger, eller svampar och fotosyntetiserande bakterier.",
+          "type": "definition",
+          "factIds": [
+            "lavar-f02"
+          ]
+        },
+        {
+          "id": "lavar-c02",
+          "question": "Vilka tre växtplatser eller former nämns för lavar?",
+          "answer": "På stenar, på trädstammar och som skägg från gamla grangrenar.",
+          "type": "fact",
+          "factIds": [
+            "lavar-f01"
+          ]
+        },
+        {
+          "id": "lavar-c03",
+          "question": "Hur skiljer sig hyfnätverkets täthet mellan lavens inre och yta?",
+          "answer": "Det är glesare inne i laven än på ytan.",
+          "type": "fact",
+          "factIds": [
+            "lavar-f03"
+          ]
+        },
+        {
+          "id": "lavar-c04",
+          "question": "Var ligger de fotosyntetiserande organismerna i laven?",
+          "answer": "Inne i nätverket av svamphyfer.",
+          "type": "fact",
+          "factIds": [
+            "lavar-f04"
+          ]
+        },
+        {
+          "id": "lavar-c05",
+          "question": "Vad bidrar algerna med i lavens symbios?",
+          "answer": "Energirika kolhydrater.",
+          "type": "fact",
+          "factIds": [
+            "lavar-f05"
+          ]
+        },
+        {
+          "id": "lavar-c06",
+          "question": "Vad bidrar svampen med till algerna i laven?",
+          "answer": "Nätverket fångar och håller kvar vatten och hjälper algerna att få viktiga mineraler.",
+          "type": "explanation",
+          "factIds": [
+            "lavar-f06",
+            "lavar-f07"
+          ]
+        },
+        {
+          "id": "lavar-c07",
+          "question": "Hur kan lavar hjälpa till att bilda jord på en kal klippa?",
+          "answer": "Hyfer går in i mikroskopiska sprickor och hjälper stenen att vittra. Laven tillför organiskt material som blandas med stenmaterial och bildar jord.",
+          "type": "explanation",
+          "factIds": [
+            "lavar-f09",
+            "lavar-f10"
+          ]
+        },
+        {
+          "id": "lavar-c08",
+          "question": "Varför kan lavar bana väg för andra livsformer?",
+          "answer": "De kan tidigt kolonisera kala ytor och bidra till vittring och jordbildning, så andra livsformer kan etablera sig.",
+          "type": "explanation",
+          "factIds": [
+            "lavar-f08",
+            "lavar-f09",
+            "lavar-f10",
+            "lavar-f11"
+          ]
+        },
+        {
+          "id": "lavar-c09",
+          "question": "Vad visar lavfotot i bokens faktaruta?",
+          "answer": "Gröna alger ligger inne i ett nätverk av svamphyfer.",
+          "type": "fact",
+          "factIds": [
+            "lavar-f12"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "lavar-r1",
+          "question": "Beskriv lavens organismer, byggnad och ömsesidiga bidrag.",
+          "answer": "Laven består av svampar och encelliga alger eller fotosyntetiserande bakterier i symbios. Svampens nätverk är glesare inuti än på ytan, och de fotosyntetiserande organismerna ligger inne i nätverket. Algerna bidrar med energirika kolhydrater. Svampen fångar och håller kvar vatten och hjälper dem att få viktiga mineraler.",
+          "checkpoints": [
+            "Svamp + encellig alg eller fotosyntetiserande bakterie",
+            "Symbios",
+            "Glesare nätverk inuti än på ytan",
+            "Partnern ligger i hyfnätverket",
+            "Energirika kolhydrater",
+            "Vatten hålls kvar och mineraler blir tillgängliga"
+          ],
+          "factIds": [
+            "lavar-f02",
+            "lavar-f03",
+            "lavar-f04",
+            "lavar-f05",
+            "lavar-f06",
+            "lavar-f07"
+          ]
+        },
+        {
+          "id": "lavar-r2",
+          "question": "Förklara stegvis hur lavar bidrar till att andra livsformer kan etablera sig på en kal yta.",
+          "answer": "Lavar är bland de första livsformerna på kal klippa eller kal mark. Svamphyfer tränger in i mikroskopiska sprickor och bidrar till vittring. Laven tillför organiskt material som blandas med stenmaterial. Då bildas jord, vilket banar väg för andra livsformer.",
+          "checkpoints": [
+            "Tidig kolonisation av kal klippa/mark",
+            "Hyfer i mikroskopiska sprickor",
+            "Vittring",
+            "Organiskt material blandas med stenmaterial",
+            "Jord bildas och andra livsformer kan etableras"
+          ],
+          "factIds": [
+            "lavar-f08",
+            "lavar-f09",
+            "lavar-f10",
+            "lavar-f11"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "lavar-q1",
+          "question": "Vilken beskrivning av en lav stämmer?",
+          "options": [
+            "Enbart en stor fruktkropp av jäst",
+            "En symbios mellan svamp och encelliga alger eller fotosyntetiserande bakterier",
+            "En hyf med dubbla kromosomuppsättningar",
+            "En rundmask fångad av svamphyfer"
+          ],
+          "correct": 1,
+          "explanation": "Faktarutan beskriver lavar som svampar och encelliga alger eller fotosyntetiserande bakterier i symbios.",
+          "factIds": [
+            "lavar-f02"
+          ]
+        },
+        {
+          "id": "lavar-q2",
+          "question": "Hur är svampens nätverk fördelat i en lav?",
+          "options": [
+            "Det är tätare inuti än på ytan.",
+            "Det saknas på ytan.",
+            "Det är glesare inuti än på ytan.",
+            "Det finns bara utanför laven."
+          ],
+          "correct": 2,
+          "explanation": "Boken anger ett glesare nätverk inne i laven och ett tätare på ytan.",
+          "factIds": [
+            "lavar-f03"
+          ]
+        },
+        {
+          "id": "lavar-q3",
+          "question": "Vad ger algerna till lavens samarbete?",
+          "options": [
+            "Energirika kolhydrater",
+            "Enbart döda sporer",
+            "Cellväggar av kitin",
+            "Hyfutskott som fångar rundmaskar"
+          ],
+          "correct": 0,
+          "explanation": "Algernas bidrag anges vara energirika kolhydrater; svampen bidrar bland annat med vattenhållning och mineraler.",
+          "factIds": [
+            "lavar-f05",
+            "lavar-f06",
+            "lavar-f07"
+          ]
+        },
+        {
+          "id": "lavar-q4",
+          "question": "Vilken följd motsvarar lavarnas bidrag till jordbildning?",
+          "options": [
+            "Meios → sporer → vatten utan mineraler",
+            "Kolhydrater → kloroplaster i svampen → mycel försvinner",
+            "Hyfnätverket blir glesare → alla stenar slutar vittra",
+            "Hyfer i sprickor → vittring + organiskt material → jord"
+          ],
+          "correct": 3,
+          "explanation": "Hyferna hjälper sten att vittra och laven tillför organiskt material. Tillsammans kan materialen bilda jord.",
+          "factIds": [
+            "lavar-f09",
+            "lavar-f10"
+          ]
+        },
+        {
+          "id": "lavar-q5",
+          "question": "Vilket påstående om lavars växtplatser finns i boken?",
+          "options": [
+            "De förekommer bara under näringsrik jord.",
+            "De kan växa på stenar och trädstammar och hänga från gamla grangrenar.",
+            "De finns bara i fruktkroppar av karljohanssvamp.",
+            "De uppstår endast inne i levande rundmaskar."
+          ],
+          "correct": 1,
+          "explanation": "De tre exemplen står i faktarutans inledning.",
+          "factIds": [
+            "lavar-f01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manniskans-tjanst",
+      "title": "Svampar i människans tjänst",
+      "source": {
+        "kind": "book",
+        "pages": [
+          268
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Mat, dryck och läkemedel",
+          "text": "Jäst används vid brödbakning, ölbryggning och vinjäsning. Mögelsvampar ger särskilda aromer till dyra ostar. Från svampar har man utvunnit penicillin och flera andra antibiotika, läkemedel som sänker kolesterolhalten samt cyklosporin. Boken beskriver cyklosporin som ett läkemedel som trycker tillbaka kroppens specifika försvar och därmed gör det möjligt för kroppen att acceptera transplantationer."
+        },
+        {
+          "heading": "Enzymer för industriella processer",
+          "text": "Olika svampar kan bryta ner träd och växter i många klimat och miljöer. Därför är de en källa till enzymer för den kemiska och biotekniska industrin. Texten tar upp möjligheten att ersätta miljöpåfrestande kemiska processer med skonsammare enzymatiska processer."
+        },
+        {
+          "heading": "Exemplet med pappersmassa",
+          "text": "Lignin beskrivs som ett klisterämne som försämrar papperskvaliteten och därför behöver avlägsnas från pappersmassa. Man har från svampar hittat genen för ett enzym som bryter ner lignin. Genen sätts in i en cell, som därmed får tillverka stora mängder av enzymet. Enzymet används sedan i pappersindustrin."
+        },
+        {
+          "heading": "Tillverkning av proteiner",
+          "text": "Mögelsvampar är ofta lämpliga organismer att föra in en gen i när man vill tillverka stora mängder av ett protein snabbt och enkelt. Texten nämner inget artnamn och beskriver ingen närmare metod för själva genöverföringen."
+        }
+      ],
+      "facts": [
+        {
+          "id": "manniskans-tjanst-f01",
+          "text": "Jäst används i brödbakning, ölbryggning och vinjäsning.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f02",
+          "text": "Mögelsvampar används för att ge särskilda aromer åt dyra ostar.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f03",
+          "text": "Penicillin och flera andra antibiotika har utvunnits från svampar.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f04",
+          "text": "Läkemedel som sänker kolesterolhalten har utvunnits från svampar.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f05",
+          "text": "Läkemedlet cyklosporin har utvunnits från svampar.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f06",
+          "text": "Cyklosporin trycker tillbaka kroppens specifika försvar och gör det därmed möjligt för kroppen att acceptera transplantationer.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f07",
+          "text": "Svampars förmåga att bryta ner träd och växter i många olika klimat och miljöer gör dem värdefulla som enzymkällor för kemisk och bioteknisk industri.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f08",
+          "text": "Svampenzymer kan användas för att ersätta miljöpåfrestande kemiska industriprocesser med skonsammare enzymatiska processer.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f09",
+          "text": "Lignin beskrivs som ett klisterämne som försämrar papperskvaliteten och kan tas bort från pappersmassa.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f10",
+          "text": "Man har från svampar hittat genen för ett ligninnedbrytande enzym och satt in genen i en cell för tillverkning av stora mängder av enzymet.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f11",
+          "text": "Det framställda ligninnedbrytande enzymet används i pappersindustrin.",
+          "pages": [
+            268
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-f12",
+          "text": "Mögelsvampar är ofta lämpliga organismer för införande av en gen så att stora mängder av ett protein kan tillverkas snabbt och enkelt.",
+          "pages": [
+            268
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "cyklosporin i bokens exempel",
+          "definition": "Ett läkemedel från svampar som trycker tillbaka kroppens specifika försvar och gör att kroppen kan acceptera transplantationer."
+        },
+        {
+          "term": "lignin i bokens industriexempel",
+          "definition": "Ett klisterämne som försämrar papperskvaliteten och som kan avlägsnas från pappersmassa med ett nedbrytande enzym."
+        },
+        {
+          "term": "enzymatisk industriprocess",
+          "definition": "En process där ett enzym används; boken beskriver sådana processer som skonsammare alternativ till miljöpåfrestande kemiska processer."
+        }
+      ],
+      "cards": [
+        {
+          "id": "manniskans-tjanst-c01",
+          "question": "Vilka tre användningar av jäst nämns?",
+          "answer": "Brödbakning, ölbryggning och vinjäsning.",
+          "type": "fact",
+          "factIds": [
+            "manniskans-tjanst-f01"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c02",
+          "question": "Hur används mögelsvampar i osttillverkning enligt boken?",
+          "answer": "De ger särskilda aromer åt dyra ostar.",
+          "type": "fact",
+          "factIds": [
+            "manniskans-tjanst-f02"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c03",
+          "question": "Vilket antibiotikum nämns vid namn som utvunnet från svampar?",
+          "answer": "Penicillin. Boken nämner också flera andra antibiotika utan att namnge dem.",
+          "type": "fact",
+          "factIds": [
+            "manniskans-tjanst-f03"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c04",
+          "question": "Vilka läkemedelsanvändningar utöver antibiotika nämns?",
+          "answer": "Läkemedel som sänker kolesterolhalten och cyklosporin, som gör att kroppen kan acceptera transplantationer.",
+          "type": "fact",
+          "factIds": [
+            "manniskans-tjanst-f04",
+            "manniskans-tjanst-f05",
+            "manniskans-tjanst-f06"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c05",
+          "question": "Hur kopplar boken cyklosporin till transplantationer?",
+          "answer": "Cyklosporin trycker tillbaka kroppens specifika försvar, vilket gör det möjligt att acceptera transplantationer.",
+          "type": "explanation",
+          "factIds": [
+            "manniskans-tjanst-f06"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c06",
+          "question": "Varför är svampar intressanta som enzymkällor för industrin?",
+          "answer": "De kan bryta ner träd och växter i många klimat och miljöer. Deras enzymer kan användas i industriprocesser.",
+          "type": "explanation",
+          "factIds": [
+            "manniskans-tjanst-f07"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c07",
+          "question": "Vad är målet med att ersätta vissa kemiska industriprocesser med enzymatiska?",
+          "answer": "Att använda skonsammare processer än de miljöpåfrestande kemiska processerna.",
+          "type": "explanation",
+          "factIds": [
+            "manniskans-tjanst-f08"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c08",
+          "question": "Varför vill pappersindustrin avlägsna lignin enligt texten?",
+          "answer": "Lignin beskrivs som ett klisterämne som försämrar papperskvaliteten.",
+          "type": "explanation",
+          "factIds": [
+            "manniskans-tjanst-f09"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c09",
+          "question": "Hur tillverkas mycket av det ligninnedbrytande enzymet i bokens exempel?",
+          "answer": "Man hittar enzymets gen i svampar och för in genen i en cell, som därmed tillverkar stora mängder enzym för pappersindustrin.",
+          "type": "explanation",
+          "factIds": [
+            "manniskans-tjanst-f10",
+            "manniskans-tjanst-f11"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-c10",
+          "question": "Varför kan mögelsvampar användas när man vill framställa ett protein?",
+          "answer": "De är ofta lämpliga organismer att föra in en gen i för att snabbt och enkelt tillverka stora mängder protein.",
+          "type": "fact",
+          "factIds": [
+            "manniskans-tjanst-f12"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "manniskans-tjanst-r1",
+          "question": "Redogör för hur människan använder svampar i livsmedel, drycker och läkemedel enligt texten.",
+          "answer": "Jäst används vid brödbakning, ölbryggning och vinjäsning. Mögelsvampar ger aromer åt ostar. Från svampar har man utvunnit penicillin och andra antibiotika, kolesterolsänkande läkemedel och cyklosporin. Cyklosporin trycker tillbaka kroppens specifika försvar och möjliggör att kroppen accepterar transplantationer.",
+          "checkpoints": [
+            "Tre användningar av jäst",
+            "Mögelsvampar ger ostar arom",
+            "Penicillin och andra antibiotika",
+            "Kolesterolsänkande läkemedel",
+            "Cyklosporin: specifikt försvar och transplantationer"
+          ],
+          "factIds": [
+            "manniskans-tjanst-f01",
+            "manniskans-tjanst-f02",
+            "manniskans-tjanst-f03",
+            "manniskans-tjanst-f04",
+            "manniskans-tjanst-f05",
+            "manniskans-tjanst-f06"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-r2",
+          "question": "Förklara bokens exempel på enzymanvändning i pappersindustrin från problem till tillverkning och användning.",
+          "answer": "Lignin är ett klisterämne som försämrar papperskvaliteten. Genen för ett enzym som bryter ner lignin har hittats i svampar och förts in i en cell, som tillverkar stora mängder av enzymet. Enzymet används i pappersindustrin för att befria pappersmassan från lignin. Exemplet illustrerar skonsammare enzymatiska alternativ till miljöpåfrestande kemiska processer.",
+          "checkpoints": [
+            "Lignin försämrar papperskvaliteten",
+            "Gen för ligninnedbrytande enzym från svamp",
+            "Genen sätts in i en cell",
+            "Cellen producerar stora mängder enzym",
+            "Enzymet används i pappersindustrin",
+            "Skonsammare enzymatiska processer"
+          ],
+          "factIds": [
+            "manniskans-tjanst-f08",
+            "manniskans-tjanst-f09",
+            "manniskans-tjanst-f10",
+            "manniskans-tjanst-f11"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "manniskans-tjanst-q1",
+          "question": "Vilken användning av jäst nämns i boken?",
+          "options": [
+            "Tillverkning av hyfer som fångar rundmaskar",
+            "Vittring av kal klippa",
+            "Brödbakning, ölbryggning och vinjäsning",
+            "Att direkt förse trädrötter med cellkärnor"
+          ],
+          "correct": 2,
+          "explanation": "Boken anger dessa tre användningar av jäst.",
+          "factIds": [
+            "manniskans-tjanst-f01"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-q2",
+          "question": "Vilket läkemedel kopplas till att kroppen accepterar transplantationer?",
+          "options": [
+            "Lignin",
+            "Kitin",
+            "Ett parningsferomon",
+            "Cyklosporin"
+          ],
+          "correct": 3,
+          "explanation": "Cyklosporin trycker enligt texten tillbaka kroppens specifika försvar och möjliggör acceptans av transplantationer.",
+          "factIds": [
+            "manniskans-tjanst-f05",
+            "manniskans-tjanst-f06"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-q3",
+          "question": "Varför är det användbart att avlägsna lignin från pappersmassa?",
+          "options": [
+            "Det försämrar papperskvaliteten.",
+            "Det är svampens enda energikälla.",
+            "Det består av alger som kräver vatten.",
+            "Det hindrar alla celler från att genomgå meios."
+          ],
+          "correct": 0,
+          "explanation": "Lignin beskrivs som ett klisterämne som försämrar papperskvaliteten.",
+          "factIds": [
+            "manniskans-tjanst-f09"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-q4",
+          "question": "Vad gör cellen efter att genen för det ligninnedbrytande enzymet förts in?",
+          "options": [
+            "Den omvandlas till en rundmask.",
+            "Den tillverkar stora mängder av enzymet.",
+            "Den bildar en häxring i pappersmassan.",
+            "Den förlorar alla membranomslutna organeller."
+          ],
+          "correct": 1,
+          "explanation": "Textens exempel är att en införd gen får cellen att tillverka stora mängder enzym för pappersindustrin.",
+          "factIds": [
+            "manniskans-tjanst-f10",
+            "manniskans-tjanst-f11"
+          ]
+        },
+        {
+          "id": "manniskans-tjanst-q5",
+          "question": "Vilket påstående om mögelsvamparnas användning stämmer med boken?",
+          "options": [
+            "De används aldrig för proteinframställning.",
+            "De bildar alltid en lav i varje ost.",
+            "De är ofta lämpliga för införande av en gen och stor proteinproduktion.",
+            "De ersätter svampens heterotrofi med fotosyntes."
+          ],
+          "correct": 2,
+          "explanation": "Boken säger att mögelsvampar ofta är lämpliga för att snabbt och enkelt tillverka stora mängder protein efter att en gen förts in.",
+          "factIds": [
+            "manniskans-tjanst-f12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asexuell-forokning",
+      "title": "Haploida celler och asexuell förökning",
+      "source": {
+        "kind": "book",
+        "pages": [
+          269
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Normal kromosomuppsättning",
+          "text": "Svamparnas celler har normalt enkel kromosomuppsättning och kallas därför haploida. Boken anger att alla svampar kan föröka sig asexuellt, det vill säga klona sig."
+        },
+        {
+          "heading": "Delning eller sporer",
+          "text": "Encelliga svampar som jäst förökar sig asexuellt genom att dela sig. Hos flercelliga svampar kan några celler bilda en struktur där delningar ger mycket små celler med ett hårt och tåligt skal. Dessa celler kallas sporer."
+        },
+        {
+          "heading": "Från spor till nytt mycel",
+          "text": "Sporerna släpps och kan spridas med vinden eller fastna på djur. En spor som hamnar där det finns tillräckligt mycket fukt och näringsrikt organiskt material kan gro. Den växer och delar sig, och ett mycel etableras på den nya platsen.",
+          "bullets": [
+            "Bildning av små, skalomgivna sporer",
+            "Spridning med vind eller djur",
+            "Tillräcklig fukt och näringsrikt organiskt material på den nya platsen",
+            "Groning, tillväxt och celldelning",
+            "Ett nytt mycel bildas"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "asexuell-forokning-f01",
+          "text": "Svamparnas celler har normalt enkel kromosomuppsättning, det vill säga är haploida.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f02",
+          "text": "Alla svampar kan enligt boken föröka sig asexuellt, det vill säga klona sig.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f03",
+          "text": "Encelliga svampar som jäst förökar sig asexuellt genom att dela sig.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f04",
+          "text": "Flercelliga svampar kan föröka sig asexuellt genom att några celler bildar en struktur där celler delar sig.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f05",
+          "text": "Vid denna sporbildning blir cellerna mycket små och omges av ett mycket hårt, tåligt skal.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f06",
+          "text": "De små skalomgivna cellerna kallas sporer.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f07",
+          "text": "Sporerna släpps iväg och sprids med vinden eller genom att fastna på djur.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f08",
+          "text": "För att en spor ska gro behövs tillräckligt mycket fukt och näringsrikt organiskt material på platsen.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f09",
+          "text": "En spor som gror växer, delar sig och bildar ett mycel på den nya platsen.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "asexuell-forokning-f10",
+          "text": "Den asexuella livscykeln i diagrammet går från mycel via sporbildande struktur och spor tillbaka till växande celler och mycel.",
+          "pages": [
+            269
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "haploid",
+          "definition": "Med enkel kromosomuppsättning; svampceller har normalt detta enligt texten."
+        },
+        {
+          "term": "asexuell förökning",
+          "definition": "Förökning genom kloning. Encelliga svampar delar sig, och flercelliga kan bilda sporer."
+        },
+        {
+          "term": "spor",
+          "definition": "En mycket liten cell som omges av ett hårt och tåligt skal och kan spridas och gro till ett nytt mycel när villkoren är rätt."
+        }
+      ],
+      "cards": [
+        {
+          "id": "asexuell-forokning-c01",
+          "question": "Vad betyder haploid?",
+          "answer": "Att cellen har enkel kromosomuppsättning.",
+          "type": "definition",
+          "factIds": [
+            "asexuell-forokning-f01"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c02",
+          "question": "Vilken kromosomuppsättning har svamparnas celler normalt?",
+          "answer": "Enkel kromosomuppsättning; de är normalt haploida.",
+          "type": "fact",
+          "factIds": [
+            "asexuell-forokning-f01"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c03",
+          "question": "Vad betyder asexuell förökning i boken?",
+          "answer": "Att svampen klonar sig.",
+          "type": "definition",
+          "factIds": [
+            "asexuell-forokning-f02"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c04",
+          "question": "Vilka svampar kan föröka sig asexuellt enligt texten?",
+          "answer": "Alla svampar.",
+          "type": "fact",
+          "factIds": [
+            "asexuell-forokning-f02"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c05",
+          "question": "Hur förökar sig encelliga svampar som jäst asexuellt enligt boken?",
+          "answer": "Genom att dela sig.",
+          "type": "fact",
+          "factIds": [
+            "asexuell-forokning-f03"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c06",
+          "question": "Hur kan flercelliga svampar bilda sporer vid asexuell förökning?",
+          "answer": "Några celler bildar en struktur där celldelningar ger mycket små celler med ett hårt, tåligt skal.",
+          "type": "explanation",
+          "factIds": [
+            "asexuell-forokning-f04",
+            "asexuell-forokning-f05",
+            "asexuell-forokning-f06"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c07",
+          "question": "Vad är en spor i den beskrivna förökningen?",
+          "answer": "En mycket liten cell omgiven av ett mycket hårt, tåligt skal.",
+          "type": "definition",
+          "factIds": [
+            "asexuell-forokning-f05",
+            "asexuell-forokning-f06"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c08",
+          "question": "Hur kan sporer spridas?",
+          "answer": "Med vinden eller genom att fastna på djur som för dem till andra platser.",
+          "type": "fact",
+          "factIds": [
+            "asexuell-forokning-f07"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c09",
+          "question": "Vilka villkor behövs för att en spor ska gro?",
+          "answer": "Tillräckligt mycket fukt och näringsrikt organiskt material.",
+          "type": "fact",
+          "factIds": [
+            "asexuell-forokning-f08"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-c10",
+          "question": "Vad händer efter att en spor har börjat gro?",
+          "answer": "Den växer och delar sig och bildar ett mycel på den nya platsen.",
+          "type": "explanation",
+          "factIds": [
+            "asexuell-forokning-f09"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "asexuell-forokning-r1",
+          "question": "Beskriv asexuell förökning hos både encelliga och flercelliga svampar enligt boken.",
+          "answer": "Alla svampar kan klona sig genom asexuell förökning. Encelliga svampar, exempelvis jäst, delar sig. Flercelliga svampar kan bilda en struktur där celldelningar ger mycket små celler med ett mycket hårt och tåligt skal, alltså sporer. Svampceller har normalt enkel kromosomuppsättning.",
+          "checkpoints": [
+            "Alla kan föröka sig asexuellt",
+            "Asexuell betyder kloning",
+            "Jäst delar sig",
+            "Struktur med celldelningar ger sporer",
+            "Små celler med hårt och tåligt skal",
+            "Normalt haploida celler"
+          ],
+          "factIds": [
+            "asexuell-forokning-f01",
+            "asexuell-forokning-f02",
+            "asexuell-forokning-f03",
+            "asexuell-forokning-f04",
+            "asexuell-forokning-f05",
+            "asexuell-forokning-f06"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-r2",
+          "question": "Beskriv den asexuella livscykeln från ett mycel till ett nytt mycel och förklara vilka villkor som behövs.",
+          "answer": "Ett mycel kan bilda en sporbildande struktur. De små skalomgivna sporerna släpps och sprids med vinden eller via djur. Om en spor hamnar där det finns tillräcklig fukt och näringsrikt organiskt material kan den gro. Den växer och delar sig och bildar ett nytt mycel.",
+          "checkpoints": [
+            "Mycel och sporbildande struktur",
+            "Sporer med tåligt skal",
+            "Vind eller djur sprider",
+            "Fukt och näringsrikt organiskt material",
+            "Groning, tillväxt och celldelning",
+            "Nytt mycel"
+          ],
+          "factIds": [
+            "asexuell-forokning-f04",
+            "asexuell-forokning-f05",
+            "asexuell-forokning-f06",
+            "asexuell-forokning-f07",
+            "asexuell-forokning-f08",
+            "asexuell-forokning-f09",
+            "asexuell-forokning-f10"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "asexuell-forokning-q1",
+          "question": "Vad betyder att svampceller normalt är haploida?",
+          "options": [
+            "De saknar cellkärna.",
+            "De har enkel kromosomuppsättning.",
+            "De innehåller alltid två sammanslagna kärnor.",
+            "De har kloroplaster."
+          ],
+          "correct": 1,
+          "explanation": "Haploid förklaras i texten som enkel kromosomuppsättning.",
+          "factIds": [
+            "asexuell-forokning-f01"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-q2",
+          "question": "Hur förökar sig jäst asexuellt enligt just denna boktext?",
+          "options": [
+            "Genom att fånga rundmaskar",
+            "Genom att bilda mykorrhiza",
+            "Genom att dela sig",
+            "Genom att två cellkärnor först måste slå sig samman"
+          ],
+          "correct": 2,
+          "explanation": "Texten säger att encelliga svampar, som jäst, klonar sig genom att dela sig.",
+          "factIds": [
+            "asexuell-forokning-f03"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-q3",
+          "question": "Vad är sporer i bokens beskrivning?",
+          "options": [
+            "Mycket små celler omgivna av ett hårt och tåligt skal",
+            "Ett annat namn för fosfater i jorden",
+            "Stora fruktkroppar utan celler",
+            "Organeller som alltid saknar cellvägg"
+          ],
+          "correct": 0,
+          "explanation": "Vid sporbildningen delar sig celler, blir mycket små och omges av ett mycket hårt tåligt skal.",
+          "factIds": [
+            "asexuell-forokning-f05",
+            "asexuell-forokning-f06"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-q4",
+          "question": "Vad behövs på platsen för att en spor ska gro?",
+          "options": [
+            "Enbart frånvaro av fukt",
+            "Endast en gammal grangren",
+            "Två olika parningsreceptorer i marken",
+            "Tillräcklig fukt och näringsrikt organiskt material"
+          ],
+          "correct": 3,
+          "explanation": "Det är de villkor texten anger för sporens groning.",
+          "factIds": [
+            "asexuell-forokning-f08"
+          ]
+        },
+        {
+          "id": "asexuell-forokning-q5",
+          "question": "Vilken spridning nämns för sporer?",
+          "options": [
+            "Endast genom människors brödbakning",
+            "Med vinden eller genom att fastna på djur",
+            "Bara genom transport inuti kloroplaster",
+            "Bara genom cellernas golgiapparat"
+          ],
+          "correct": 1,
+          "explanation": "Sporerna kan flyga med vinden eller fastna på djur och därmed spridas till nya platser.",
+          "factIds": [
+            "asexuell-forokning-f07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sexuell-forokning",
+      "title": "Sexuell förökning och cellkärnornas livscykel",
+      "source": {
+        "kind": "book",
+        "pages": [
+          269
+        ]
+      },
+      "blocks": [
+        {
+          "heading": "Två kön och signalämnen",
+          "text": "Många svampar kan också föröka sig sexuellt. I textens beskrivning har svampen det ena eller det andra av två kön. Könen skiljer sig bara genom att de tillverkar varsitt parningssignalämne, ett feromon, och har en receptor för det motsatta könets signalämne."
+        },
+        {
+          "heading": "Hyfer förenas före cellkärnorna",
+          "text": "När mycel från samma slags svamp av motsatt kön kommer nära varandra får signalämnena hyferna att växa mot varandra. Hyferna möts och förenas. Då bildas celler med en cellkärna från varje kön. Detta skede ska hållas isär från det senare skede där kärnorna slås ihop."
+        },
+        {
+          "heading": "Fördröjd kärnsammanslagning",
+          "text": "De två cellkärnorna kan förbli åtskilda en kortare eller längre tid. Boken anger en tidsrymd från timmar, över dagar och år, till sekler. När kärnorna till slut slås samman bildas celler vars kärnor har dubbel kromosomuppsättning. Dessa celler kallas diploida."
+        },
+        {
+          "heading": "Meios och nya sporer",
+          "text": "Efter ett antal celldelningar genomgår cellerna i de bildade strukturerna meios. Då bildas sporer med enkel kromosomuppsättning. Som vid asexuell förökning kan sporerna spridas, etablera sig på nya platser, växa och dela sig till ett mycel.",
+          "bullets": [
+            "Motsatta köns mycel närmar sig varandra",
+            "Feromoner får hyferna att växa mot varandra",
+            "Hyfer förenas; celler har en kärna från varje kön",
+            "Efter en varierande tid slås kärnorna ihop och dubbel kromosomuppsättning uppstår",
+            "Efter ytterligare celldelningar sker meios",
+            "Sporer med enkel kromosomuppsättning sprids och bildar nya mycel"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "sexuell-forokning-f01",
+          "text": "Många, men texten säger inte alla, svampar kan också föröka sig sexuellt.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f02",
+          "text": "I textens beskrivning har svampen antingen det ena eller det andra av två kön.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f03",
+          "text": "De två könen skiljer sig bara genom att tillverka varsitt parningssignalämne, ett feromon, och ha en receptor för det motsatta könets parningssignalämne.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f04",
+          "text": "När mycel från samma slags svamp av motsatt kön kommer nära varandra får signalämnena hyfer att växa mot varandra.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f05",
+          "text": "Hyferna möts och förenas, så att celler med en cellkärna från varje kön bildas.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f06",
+          "text": "Kärnorna behöver inte slås ihop direkt efter att hyferna förenats.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f07",
+          "text": "Tiden före kärnsammanslagningen kan enligt boken sträcka sig från timmar över dagar och år till sekler.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f08",
+          "text": "När de två cellkärnorna slås samman bildas celler med kärnor som har dubbel kromosomuppsättning, det vill säga diploida celler.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f09",
+          "text": "Efter ett antal celldelningar genomgår cellerna i de bildade strukturerna meios.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f10",
+          "text": "Meiosen ger sporer med enkel kromosomuppsättning.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f11",
+          "text": "De sexuellt bildade sporerna kan liksom de asexuellt bildade spridas till omgivningen och etablera sig på nya platser.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f12",
+          "text": "Sporerna växer, delar sig och etablerar ett mycel på den nya platsen.",
+          "pages": [
+            269
+          ]
+        },
+        {
+          "id": "sexuell-forokning-f13",
+          "text": "Diagrammet skiljer mellan celler med flera cellkärnor och celler med ihopslagna cellkärnor innan meios och sporbildning.",
+          "pages": [
+            269
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "feromon i svampars förökning",
+          "definition": "Ett parningssignalämne. De två könen tillverkar varsitt ämne och har receptor för det motsatta könets ämne."
+        },
+        {
+          "term": "diploid",
+          "definition": "Med dubbel kromosomuppsättning; i bokens sexuella svamplivscykel uppstår diploida celler när de två kärnorna slås ihop."
+        },
+        {
+          "term": "meios i textens svamplivscykel",
+          "definition": "Det steg som efter kärnsammanslagning och ett antal celldelningar ger sporer med enkel kromosomuppsättning."
+        },
+        {
+          "term": "åtskilda cellkärnor före sammanslagning",
+          "definition": "Efter att hyfer förenats finns en cellkärna från varje kön i cellen, och kärnorna kan förbli åtskilda innan de slås ihop."
+        }
+      ],
+      "cards": [
+        {
+          "id": "sexuell-forokning-c01",
+          "question": "Kan alla svampar enligt texten föröka sig sexuellt?",
+          "answer": "Texten säger att många svampar kan det, medan alla anges kunna föröka sig asexuellt.",
+          "type": "fact",
+          "factIds": [
+            "sexuell-forokning-f01",
+            "asexuell-forokning-f02"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c02",
+          "question": "Hur skiljer sig de två könen åt i bokens beskrivning?",
+          "answer": "Genom varsitt parningssignalämne och en receptor för det motsatta könets signalämne.",
+          "type": "fact",
+          "factIds": [
+            "sexuell-forokning-f02",
+            "sexuell-forokning-f03"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c03",
+          "question": "Vad är ett feromon i detta avsnitt?",
+          "answer": "Ett parningssignalämne.",
+          "type": "definition",
+          "factIds": [
+            "sexuell-forokning-f03"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c04",
+          "question": "Vad får hyfer från motsatta kön att växa mot varandra?",
+          "answer": "Parningssignalämnena när mycel från samma slags svamp av motsatt kön kommer nära varandra.",
+          "type": "explanation",
+          "factIds": [
+            "sexuell-forokning-f04"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c05",
+          "question": "Vad bildas direkt när hyferna möts och förenas?",
+          "answer": "Celler med en cellkärna från varje kön; kärnorna behöver ännu inte vara sammanslagna.",
+          "type": "fact",
+          "factIds": [
+            "sexuell-forokning-f05",
+            "sexuell-forokning-f06"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c06",
+          "question": "Vilket tidsspann anger boken före de två kärnornas sammanslagning?",
+          "answer": "Från timmar, över dagar och år, till sekler.",
+          "type": "fact",
+          "factIds": [
+            "sexuell-forokning-f07"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c07",
+          "question": "När uppstår dubbel kromosomuppsättning i den beskrivna sexuella cykeln?",
+          "answer": "När de två cellkärnorna slås samman.",
+          "type": "explanation",
+          "factIds": [
+            "sexuell-forokning-f08"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c08",
+          "question": "Vad betyder diploid?",
+          "answer": "Att cellen har dubbel kromosomuppsättning.",
+          "type": "definition",
+          "factIds": [
+            "sexuell-forokning-f08"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c09",
+          "question": "Vad sker efter kärnsammanslagning och ett antal celldelningar?",
+          "answer": "Celler i de bildade strukturerna genomgår meios, och sporer med enkel kromosomuppsättning bildas.",
+          "type": "explanation",
+          "factIds": [
+            "sexuell-forokning-f09",
+            "sexuell-forokning-f10"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c10",
+          "question": "Vilken kromosomuppsättning har sporerna efter meios?",
+          "answer": "Enkel kromosomuppsättning; de är haploida.",
+          "type": "fact",
+          "factIds": [
+            "sexuell-forokning-f10"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c11",
+          "question": "Hur avslutas den sexuella cykeln fram till ett nytt mycel?",
+          "answer": "Sporer sprids och slår sig ner på nya platser. De växer och delar sig och etablerar ett mycel där.",
+          "type": "explanation",
+          "factIds": [
+            "sexuell-forokning-f11",
+            "sexuell-forokning-f12"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-c12",
+          "question": "Vad måste skiljas åt när diagrammets cellkärnesteg tolkas?",
+          "answer": "Celler med flera ännu åtskilda cellkärnor och det senare skedet med ihopslagna cellkärnor. Dubbel kromosomuppsättning anges efter kärnsammanslagningen.",
+          "type": "explanation",
+          "factIds": [
+            "sexuell-forokning-f05",
+            "sexuell-forokning-f08",
+            "sexuell-forokning-f13"
+          ]
+        }
+      ],
+      "recall": [
+        {
+          "id": "sexuell-forokning-r1",
+          "question": "Beskriv hela den sexuella förökningen från två mycel till ett nytt mycel, med fokus på cellkärnor och kromosomuppsättning.",
+          "answer": "Mycel från samma slags svamp av motsatt kön kommer nära varandra. Deras parningssignalämnen får hyfer att växa mot varandra och förenas. Cellerna får en kärna från varje kön. Efter en tid, som kan vara allt från timmar till sekler, slås kärnorna samman och dubbel kromosomuppsättning uppstår. Efter ett antal celldelningar sker meios i bildade strukturer och sporer med enkel kromosomuppsättning bildas. Sporerna sprids, växer och delar sig till nya mycel.",
+          "checkpoints": [
+            "Motsatta kön av samma slags svamp",
+            "Feromoner och tillväxt mot varandra",
+            "Hyfer förenas före kärnsammanslagningen",
+            "En kärna från varje kön i cellen",
+            "Fördröjning från timmar till sekler",
+            "Sammanslagning ger dubbel kromosomuppsättning",
+            "Celldelningar följda av meios",
+            "Sporer med enkel kromosomuppsättning",
+            "Spridning och etablering av mycel"
+          ],
+          "factIds": [
+            "sexuell-forokning-f02",
+            "sexuell-forokning-f03",
+            "sexuell-forokning-f04",
+            "sexuell-forokning-f05",
+            "sexuell-forokning-f06",
+            "sexuell-forokning-f07",
+            "sexuell-forokning-f08",
+            "sexuell-forokning-f09",
+            "sexuell-forokning-f10",
+            "sexuell-forokning-f11",
+            "sexuell-forokning-f12"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-r2",
+          "question": "Jämför den sexuella och asexuella livscykeln i bokens diagram och förklara varför två åtskilda kärnor inte är samma steg som en sammanslagen kärna.",
+          "answer": "Båda cyklerna kan bilda sporer som sprids och ger nya mycel. I den asexuella cykeln bildas sporer utan att hyfer från två kön förenas. Den sexuella cykeln har först signalstyrd förening av hyfer, sedan celler med en kärna från varje kön, därefter kärnsammanslagning och dubbel kromosomuppsättning. Meios ger åter sporer med enkel uppsättning. Diagrammet visar dessa kärnsteg som separata delar av cykeln.",
+          "checkpoints": [
+            "Båda går via sporer till nytt mycel",
+            "Asexuell cykel saknar föreningen av två kön i diagrammet",
+            "Sexuell cykel har hyfförening",
+            "Åtskilda kärnor före sammanslagning",
+            "Dubbel uppsättning efter sammanslagning",
+            "Meios ger sporer med enkel uppsättning"
+          ],
+          "factIds": [
+            "sexuell-forokning-f05",
+            "sexuell-forokning-f06",
+            "sexuell-forokning-f08",
+            "sexuell-forokning-f09",
+            "sexuell-forokning-f10",
+            "sexuell-forokning-f11",
+            "sexuell-forokning-f12",
+            "sexuell-forokning-f13",
+            "asexuell-forokning-f10"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "sexuell-forokning-q1",
+          "question": "Hur beskrivs skillnaden mellan de två könen i svampens sexuella förökning?",
+          "options": [
+            "Det ena könet har kloroplaster och det andra mycel.",
+            "De tillverkar olika parningssignalämnen och känner igen det motsatta könets ämne med en receptor.",
+            "Det ena könet saknar cellkärna och det andra har en.",
+            "De skiljer sig alltid genom helt olika fruktkroppar."
+          ],
+          "correct": 1,
+          "explanation": "Boken säger att könen bara skiljer sig genom signalämne och receptor för det motsatta könets signalämne.",
+          "factIds": [
+            "sexuell-forokning-f03"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-q2",
+          "question": "Vad sker när hyferna först möts och förenas?",
+          "options": [
+            "Alla cellkärnor försvinner.",
+            "Meios måste redan ha avslutats.",
+            "Celler får en cellkärna från varje kön.",
+            "Sporer får omedelbart kloroplaster."
+          ],
+          "correct": 2,
+          "explanation": "Först bildas celler med en kärna från varje kön. Kärnsammanslagningen sker senare.",
+          "factIds": [
+            "sexuell-forokning-f05",
+            "sexuell-forokning-f06"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-q3",
+          "question": "När blir cellerna diploida i den beskrivna cykeln?",
+          "options": [
+            "När de två cellkärnorna slås samman",
+            "När en spor först fastnar på ett djur",
+            "Så snart ett mycel syns på bröd",
+            "När en hyf enbart växer i sin ände"
+          ],
+          "correct": 0,
+          "explanation": "Dubbel kromosomuppsättning anges efter att de två kärnorna har slagits ihop.",
+          "factIds": [
+            "sexuell-forokning-f08"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-q4",
+          "question": "Vilken kromosomuppsättning har sporerna som bildas efter meios?",
+          "options": [
+            "Alltid två åtskilda kromosomuppsättningar från två kärnor",
+            "Ingen kromosomuppsättning",
+            "Dubbel kromosomuppsättning",
+            "Enkel kromosomuppsättning"
+          ],
+          "correct": 3,
+          "explanation": "Meiossteget ger enligt texten sporer med enkel kromosomuppsättning.",
+          "factIds": [
+            "sexuell-forokning-f09",
+            "sexuell-forokning-f10"
+          ]
+        },
+        {
+          "id": "sexuell-forokning-q5",
+          "question": "Vilket tidsspann nämns mellan hyfförening och kärnsammanslagning?",
+          "options": [
+            "Alltid exakt några minuter",
+            "Från timmar, över dagar och år, till sekler",
+            "Alltid exakt ett dygn",
+            "Endast några timmar och aldrig längre"
+          ],
+          "correct": 1,
+          "explanation": "Texten uttrycker en mycket stor variation och nämner timmar, dagar, år och sekler.",
+          "factIds": [
+            "sexuell-forokning-f07"
+          ]
+        }
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "id": "book-266-mycel-hyf",
+      "page": 266,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_02.heic",
+      "kind": "diagram",
+      "title": "Fruktkropp, mycel och förstorad hyf",
+      "labels": [
+        "fruktkropp",
+        "mycel",
+        "en hyf"
+      ],
+      "description": "En fruktkropp ovanför marken är kopplad till ett förgrenat mycel under marken. Streckade linjer leder från nätverket till en förstorad hyf med avlånga celler och förgreningar. Figurtexten anger att många svampar består av ett vitt förgrenat mycelnätverk som kan förena sig och bilda fruktkroppar.",
+      "approximateBounds": {
+        "unit": "normalized",
+        "left": 0.03,
+        "top": 0.45,
+        "width": 0.27,
+        "height": 0.47
+      },
+      "factIds": [
+        "hyfer-mycel-f03",
+        "hyfer-mycel-f06",
+        "fruktkroppar-tillvaxt-f01",
+        "fruktkroppar-tillvaxt-f03"
+      ],
+      "integrationNote": "Visa originaldiagrammet tillsammans med förklaringen av cell → hyf → mycel → fruktkropp. Lägg inga ytterligare celldelar eller artdetaljer till diagrammet."
+    },
+    {
+      "id": "book-267-haxring",
+      "page": 267,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_14.heic",
+      "kind": "photo",
+      "title": "En häxring",
+      "labels": [
+        "En häxring."
+      ],
+      "description": "Ett fotografi visar svampar i en båge eller ring på en gräsyta. Textens tolkning är att häxringar vanligen markerar ytterkanten av ett enda mycelnätverks markområde.",
+      "approximateBounds": {
+        "unit": "normalized",
+        "left": 0.67,
+        "top": 0.095,
+        "width": 0.26,
+        "height": 0.33
+      },
+      "factIds": [
+        "fruktkroppar-tillvaxt-f08"
+      ],
+      "integrationNote": "Koppla till ordet vanligen. Ange ingen svampart; källan identifierar inte arten på bilden."
+    },
+    {
+      "id": "book-267-hyfer-vaxtceller",
+      "page": 267,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_14.heic",
+      "kind": "diagram",
+      "title": "Hyfer som tränger in i växtceller",
+      "labels": [
+        "Svamphyf",
+        "Växtceller"
+      ],
+      "description": "En hyf ligger ovanför fyra ritade växtceller och bildar utskott som går in och förgrenar sig i några av cellerna. Bildtexten anger att många svampars hyfer kan tränga in i växtceller och suga ut eller byta näring med dem.",
+      "approximateBounds": {
+        "unit": "normalized",
+        "left": 0.09,
+        "top": 0.67,
+        "width": 0.5,
+        "height": 0.25
+      },
+      "factIds": [
+        "mykorrhiza-parasitism-f01",
+        "mykorrhiza-parasitism-f02",
+        "mykorrhiza-parasitism-f05",
+        "mykorrhiza-parasitism-f06"
+      ],
+      "integrationNote": "Diagrammet stödjer både upptag från växten och näringsutbyte. Det ska inte ensamt tolkas som bevis för att all kontakt är parasitism."
+    },
+    {
+      "id": "book-268-lav-natverk",
+      "page": 268,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_21.heic",
+      "kind": "photo",
+      "title": "Gröna alger i svamphyfernas nätverk",
+      "labels": [
+        "I en lav ligger alger (gröna) i ett nätverk av svamphyfer."
+      ],
+      "description": "Faktarutans fotografi visar gröna alger inne i ett nätverk av svamphyfer. Det kompletterar förklaringen av lavens två samverkande parter.",
+      "approximateBounds": {
+        "unit": "normalized",
+        "left": 0.085,
+        "top": 0.657,
+        "width": 0.267,
+        "height": 0.237
+      },
+      "factIds": [
+        "lavar-f02",
+        "lavar-f04",
+        "lavar-f12"
+      ],
+      "integrationNote": "Behåll färgidentifieringen från bildtexten. Ange ingen alg- eller svampart eftersom sådana inte namnges."
+    },
+    {
+      "id": "book-268-stenfoto",
+      "page": 268,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_21.heic",
+      "kind": "photo",
+      "title": "Fotografi av sten med påväxt",
+      "labels": [],
+      "description": "Ett runt fotografi på högersidan visar en sten med påväxt. Ingen separat bildtext eller artidentifiering syns i underlaget.",
+      "approximateBounds": {
+        "unit": "normalized",
+        "left": 0.772,
+        "top": 0.354,
+        "width": 0.215,
+        "height": 0.18
+      },
+      "factIds": [],
+      "integrationNote": "Kan användas som en källillustration, men ska inte ges en artbestämning eller ytterligare biologisk tolkning som inte finns på sidan."
+    },
+    {
+      "id": "book-269-livscykler",
+      "page": 269,
+      "originalPhotoPath": "E:\\downloads\\ChatGPT Image 8 Oct 2026, 18_43_25.heic",
+      "kind": "diagram",
+      "title": "Asexuell och sexuell livscykel",
+      "labels": [
+        "Spor",
+        "asexuell livscykel",
+        "mycel",
+        "celler med flera cellkärnor",
+        "celler med ihopslagna cellkärnor",
+        "sexuell livscykel",
+        "meios",
+        "spor"
+      ],
+      "description": "Vänster cykel visar mycel, en sporbildande struktur, spor och tillbaka till växande celler och mycel. Höger cykel visar förenade mycel, celler med flera cellkärnor, därefter celler med ihopslagna cellkärnor, en struktur där meios sker, spor och tillbaka till ett nytt mycel. Bildtexten anger att svampar kan föröka sig både asexuellt och sexuellt.",
+      "approximateBounds": {
+        "unit": "normalized",
+        "left": 0.105,
+        "top": 0.57,
+        "width": 0.7,
+        "height": 0.335
+      },
+      "factIds": [
+        "asexuell-forokning-f10",
+        "sexuell-forokning-f05",
+        "sexuell-forokning-f08",
+        "sexuell-forokning-f09",
+        "sexuell-forokning-f10",
+        "sexuell-forokning-f12",
+        "sexuell-forokning-f13"
+      ],
+      "integrationNote": "Bevara skillnaden mellan flera åtskilda kärnor och senare ihopslagna kärnor. Meios kopplas till sporer med enkel kromosomuppsättning. Placera inte meios i den asexuella cykeln."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "film-not-in-this-extraction",
+      "kind": "scope",
+      "description": "Filmen ingår i provunderlaget enligt användaren, men inget filminnehåll har blandats in i den här avgränsade bokfilen.",
+      "action": "Integrera filmens fakta som en separat källtyp och behåll ursprunglig källkoppling."
+    },
+    {
+      "id": "pdf-supplementary",
+      "kind": "scope",
+      "description": "PDF-materialet är kompletterande och används inte som grund för bokavsnitten eller deras övningar.",
+      "action": "Märk eventuellt PDF-innehåll som komplement, utan att ersätta uppgifter från bok och film."
+    },
+    {
+      "id": "species-identification-not-provided",
+      "kind": "source_limit",
+      "description": "Boken nämner jäst, karljohanssvampar, aspsopp, björksopp, honungsskivlingar och trattkantareller, men sidorna ger inga artidentifierande kännetecken. Djurfångande svampen, lavens arter och svampen i häxringsfotot identifieras inte.",
+      "action": "Skapa inga frågor om hattfärg, skivor, rör, giftighet eller andra artdrag som dessa sidor inte beskriver."
+    },
+    {
+      "id": "complete-book-identity-not-known",
+      "kind": "bibliography",
+      "description": "Kapitelrubrik och sidnummer syns. Bokens fullständiga titel, författare och upplaga framgår inte av dessa fyra fotografier.",
+      "action": "Använd sidreferenserna 266–269 och kapitelrubriken; fyll bara i bibliografiska uppgifter om de tillhandahålls."
+    },
+    {
+      "id": "unlabeled-stone-photo",
+      "kind": "source_limit",
+      "description": "Stenfotot på sidan 268 saknar läsbar separat bildtext och artidentifiering.",
+      "action": "Använd ingen specifik artetikett eller påhittad faktauppgift för detta foto."
+    },
+    {
+      "id": "biomass-not-separately-defined",
+      "kind": "source_limit",
+      "description": "Boken använder begreppet biomassa men ger ingen separat definition på sidorna 266–269.",
+      "action": "Övningar kan fråga om mineralernas begränsande roll, men ska inte kräva en extern definition av biomassa."
+    }
+  ],
+  "coverage": [
+    {
+      "factId": "naringsstrategi-f01",
+      "sectionId": "naringsstrategi",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "naringsstrategi-c01",
+        "cellbyggnad-c03"
+      ],
+      "recallIds": [
+        "naringsstrategi-r1",
+        "naringsstrategi-r2"
+      ],
+      "quizIds": [
+        "naringsstrategi-q1"
+      ]
+    },
+    {
+      "factId": "naringsstrategi-f02",
+      "sectionId": "naringsstrategi",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "naringsstrategi-c02"
+      ],
+      "recallIds": [
+        "naringsstrategi-r2"
+      ],
+      "quizIds": [
+        "naringsstrategi-q5"
+      ]
+    },
+    {
+      "factId": "naringsstrategi-f03",
+      "sectionId": "naringsstrategi",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "naringsstrategi-c02",
+        "naringsstrategi-c03",
+        "naringsstrategi-c06"
+      ],
+      "recallIds": [
+        "naringsstrategi-r1",
+        "naringsstrategi-r2"
+      ],
+      "quizIds": [
+        "naringsstrategi-q2",
+        "naringsstrategi-q5"
+      ]
+    },
+    {
+      "factId": "naringsstrategi-f04",
+      "sectionId": "naringsstrategi",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "naringsstrategi-c04"
+      ],
+      "recallIds": [
+        "naringsstrategi-r1"
+      ],
+      "quizIds": [
+        "naringsstrategi-q3"
+      ]
+    },
+    {
+      "factId": "naringsstrategi-f05",
+      "sectionId": "naringsstrategi",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "naringsstrategi-c05",
+        "naringsstrategi-c06"
+      ],
+      "recallIds": [
+        "naringsstrategi-r1"
+      ],
+      "quizIds": [
+        "naringsstrategi-q2",
+        "naringsstrategi-q4"
+      ]
+    },
+    {
+      "factId": "naringsstrategi-f06",
+      "sectionId": "naringsstrategi",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "naringsstrategi-c02",
+        "naringsstrategi-c06"
+      ],
+      "recallIds": [
+        "naringsstrategi-r1",
+        "naringsstrategi-r2"
+      ],
+      "quizIds": [
+        "naringsstrategi-q2"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f01",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c01"
+      ],
+      "recallIds": [
+        "cellbyggnad-r1"
+      ],
+      "quizIds": [
+        "cellbyggnad-q3"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f02",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c02"
+      ],
+      "recallIds": [
+        "cellbyggnad-r1"
+      ],
+      "quizIds": [
+        "cellbyggnad-q1",
+        "cellbyggnad-q3",
+        "cellbyggnad-q5"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f03",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c03"
+      ],
+      "recallIds": [
+        "cellbyggnad-r1"
+      ],
+      "quizIds": [
+        "cellbyggnad-q1"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f04",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c04"
+      ],
+      "recallIds": [
+        "cellbyggnad-r1",
+        "cellbyggnad-r2"
+      ],
+      "quizIds": [
+        "cellbyggnad-q1"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f05",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c05"
+      ],
+      "recallIds": [
+        "cellbyggnad-r1",
+        "cellbyggnad-r2"
+      ],
+      "quizIds": [
+        "cellbyggnad-q2"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f06",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c06"
+      ],
+      "recallIds": [
+        "cellbyggnad-r2"
+      ],
+      "quizIds": [
+        "cellbyggnad-q2"
+      ]
+    },
+    {
+      "factId": "cellbyggnad-f07",
+      "sectionId": "cellbyggnad",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "cellbyggnad-c07"
+      ],
+      "recallIds": [
+        "cellbyggnad-r2"
+      ],
+      "quizIds": [
+        "cellbyggnad-q4"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f01",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c01"
+      ],
+      "recallIds": [],
+      "quizIds": [
+        "hyfer-mycel-q4"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f02",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c01"
+      ],
+      "recallIds": [],
+      "quizIds": [
+        "hyfer-mycel-q4"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f03",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c01",
+        "hyfer-mycel-c02"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "hyfer-mycel-f04",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c04"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r1"
+      ],
+      "quizIds": [
+        "hyfer-mycel-q2"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f05",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c04"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r1"
+      ],
+      "quizIds": [
+        "hyfer-mycel-q2"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f06",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c03",
+        "hyfer-mycel-c05"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r1"
+      ],
+      "quizIds": [
+        "hyfer-mycel-q1"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f07",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c05"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "hyfer-mycel-f08",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c06"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "hyfer-mycel-f09",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c07"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "hyfer-mycel-f10",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c08"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r2"
+      ],
+      "quizIds": [
+        "hyfer-mycel-q5"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f11",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c09"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r2"
+      ],
+      "quizIds": [
+        "hyfer-mycel-q5"
+      ]
+    },
+    {
+      "factId": "hyfer-mycel-f12",
+      "sectionId": "hyfer-mycel",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "hyfer-mycel-c10"
+      ],
+      "recallIds": [
+        "hyfer-mycel-r2"
+      ],
+      "quizIds": [
+        "hyfer-mycel-q3"
+      ]
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f01",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c01"
+      ],
+      "recallIds": [
+        "fruktkroppar-tillvaxt-r1"
+      ],
+      "quizIds": [
+        "fruktkroppar-tillvaxt-q1"
+      ]
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f02",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c02"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f03",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        266
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c03"
+      ],
+      "recallIds": [
+        "fruktkroppar-tillvaxt-r1"
+      ],
+      "quizIds": [
+        "fruktkroppar-tillvaxt-q3"
+      ]
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f04",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        266,
+        267
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c04",
+        "fruktkroppar-tillvaxt-c06"
+      ],
+      "recallIds": [
+        "fruktkroppar-tillvaxt-r1"
+      ],
+      "quizIds": [
+        "fruktkroppar-tillvaxt-q2"
+      ]
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f05",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c05",
+        "fruktkroppar-tillvaxt-c06"
+      ],
+      "recallIds": [
+        "fruktkroppar-tillvaxt-r1"
+      ],
+      "quizIds": [
+        "fruktkroppar-tillvaxt-q2",
+        "fruktkroppar-tillvaxt-q5"
+      ]
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f06",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c05"
+      ],
+      "recallIds": [
+        "fruktkroppar-tillvaxt-r1"
+      ],
+      "quizIds": [
+        "fruktkroppar-tillvaxt-q5"
+      ]
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f07",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        266,
+        267
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c06"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "fruktkroppar-tillvaxt-f08",
+      "sectionId": "fruktkroppar-tillvaxt",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "fruktkroppar-tillvaxt-c07"
+      ],
+      "recallIds": [
+        "fruktkroppar-tillvaxt-r2"
+      ],
+      "quizIds": [
+        "fruktkroppar-tillvaxt-q4"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f01",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c01"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f02",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c02"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f03",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c03"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q2"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f04",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [],
+      "recallIds": [
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f05",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c02",
+        "mykorrhiza-parasitism-c04"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1",
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f06",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c04",
+        "mykorrhiza-parasitism-c05",
+        "mykorrhiza-parasitism-c06"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1",
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q1"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f07",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c07"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q3"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f08",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c04"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1",
+        "mykorrhiza-parasitism-r2"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q1"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f09",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c08"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q4"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f10",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c09"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q4"
+      ]
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f11",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "mykorrhiza-parasitism-f12",
+      "sectionId": "mykorrhiza-parasitism",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "mykorrhiza-parasitism-c10"
+      ],
+      "recallIds": [
+        "mykorrhiza-parasitism-r1"
+      ],
+      "quizIds": [
+        "mykorrhiza-parasitism-q5"
+      ]
+    },
+    {
+      "factId": "ekosystem-f01",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c01"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": [
+        "ekosystem-q1"
+      ]
+    },
+    {
+      "factId": "ekosystem-f02",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c02"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": [
+        "ekosystem-q4"
+      ]
+    },
+    {
+      "factId": "ekosystem-f03",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c02"
+      ],
+      "recallIds": [],
+      "quizIds": [
+        "ekosystem-q4"
+      ]
+    },
+    {
+      "factId": "ekosystem-f04",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c03"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": [
+        "ekosystem-q1"
+      ]
+    },
+    {
+      "factId": "ekosystem-f05",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c05"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "ekosystem-f06",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c04"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": [
+        "ekosystem-q2"
+      ]
+    },
+    {
+      "factId": "ekosystem-f07",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c04"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": [
+        "ekosystem-q2"
+      ]
+    },
+    {
+      "factId": "ekosystem-f08",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c05"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "ekosystem-f09",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c06"
+      ],
+      "recallIds": [
+        "ekosystem-r1"
+      ],
+      "quizIds": [
+        "ekosystem-q1",
+        "ekosystem-q3"
+      ]
+    },
+    {
+      "factId": "ekosystem-f10",
+      "sectionId": "ekosystem",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "ekosystem-c07"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "ekosystem-f11",
+      "sectionId": "ekosystem",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "ekosystem-c08"
+      ],
+      "recallIds": [
+        "ekosystem-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "ekosystem-f12",
+      "sectionId": "ekosystem",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "ekosystem-c08"
+      ],
+      "recallIds": [
+        "ekosystem-r2"
+      ],
+      "quizIds": [
+        "ekosystem-q5"
+      ]
+    },
+    {
+      "factId": "ekosystem-f13",
+      "sectionId": "ekosystem",
+      "pages": [
+        267
+      ],
+      "cardIds": [
+        "ekosystem-c08"
+      ],
+      "recallIds": [
+        "ekosystem-r2"
+      ],
+      "quizIds": [
+        "ekosystem-q5"
+      ]
+    },
+    {
+      "factId": "lavar-f01",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c02"
+      ],
+      "recallIds": [],
+      "quizIds": [
+        "lavar-q5"
+      ]
+    },
+    {
+      "factId": "lavar-f02",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c01"
+      ],
+      "recallIds": [
+        "lavar-r1"
+      ],
+      "quizIds": [
+        "lavar-q1"
+      ]
+    },
+    {
+      "factId": "lavar-f03",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c03"
+      ],
+      "recallIds": [
+        "lavar-r1"
+      ],
+      "quizIds": [
+        "lavar-q2"
+      ]
+    },
+    {
+      "factId": "lavar-f04",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c04"
+      ],
+      "recallIds": [
+        "lavar-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "lavar-f05",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c05"
+      ],
+      "recallIds": [
+        "lavar-r1"
+      ],
+      "quizIds": [
+        "lavar-q3"
+      ]
+    },
+    {
+      "factId": "lavar-f06",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c06"
+      ],
+      "recallIds": [
+        "lavar-r1"
+      ],
+      "quizIds": [
+        "lavar-q3"
+      ]
+    },
+    {
+      "factId": "lavar-f07",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c06"
+      ],
+      "recallIds": [
+        "lavar-r1"
+      ],
+      "quizIds": [
+        "lavar-q3"
+      ]
+    },
+    {
+      "factId": "lavar-f08",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c08"
+      ],
+      "recallIds": [
+        "lavar-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "lavar-f09",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c07",
+        "lavar-c08"
+      ],
+      "recallIds": [
+        "lavar-r2"
+      ],
+      "quizIds": [
+        "lavar-q4"
+      ]
+    },
+    {
+      "factId": "lavar-f10",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c07",
+        "lavar-c08"
+      ],
+      "recallIds": [
+        "lavar-r2"
+      ],
+      "quizIds": [
+        "lavar-q4"
+      ]
+    },
+    {
+      "factId": "lavar-f11",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c08"
+      ],
+      "recallIds": [
+        "lavar-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "lavar-f12",
+      "sectionId": "lavar",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "lavar-c09"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "manniskans-tjanst-f01",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c01"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r1"
+      ],
+      "quizIds": [
+        "manniskans-tjanst-q1"
+      ]
+    },
+    {
+      "factId": "manniskans-tjanst-f02",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c02"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "manniskans-tjanst-f03",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c03"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "manniskans-tjanst-f04",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c04"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "manniskans-tjanst-f05",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c04"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r1"
+      ],
+      "quizIds": [
+        "manniskans-tjanst-q2"
+      ]
+    },
+    {
+      "factId": "manniskans-tjanst-f06",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c04",
+        "manniskans-tjanst-c05"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r1"
+      ],
+      "quizIds": [
+        "manniskans-tjanst-q2"
+      ]
+    },
+    {
+      "factId": "manniskans-tjanst-f07",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c06"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "manniskans-tjanst-f08",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c07"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "manniskans-tjanst-f09",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c08"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r2"
+      ],
+      "quizIds": [
+        "manniskans-tjanst-q3"
+      ]
+    },
+    {
+      "factId": "manniskans-tjanst-f10",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c09"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r2"
+      ],
+      "quizIds": [
+        "manniskans-tjanst-q4"
+      ]
+    },
+    {
+      "factId": "manniskans-tjanst-f11",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c09"
+      ],
+      "recallIds": [
+        "manniskans-tjanst-r2"
+      ],
+      "quizIds": [
+        "manniskans-tjanst-q4"
+      ]
+    },
+    {
+      "factId": "manniskans-tjanst-f12",
+      "sectionId": "manniskans-tjanst",
+      "pages": [
+        268
+      ],
+      "cardIds": [
+        "manniskans-tjanst-c10"
+      ],
+      "recallIds": [],
+      "quizIds": [
+        "manniskans-tjanst-q5"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f01",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c01",
+        "asexuell-forokning-c02"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r1"
+      ],
+      "quizIds": [
+        "asexuell-forokning-q1"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f02",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c03",
+        "asexuell-forokning-c04",
+        "sexuell-forokning-c01"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "asexuell-forokning-f03",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c05"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r1"
+      ],
+      "quizIds": [
+        "asexuell-forokning-q2"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f04",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c06"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r1",
+        "asexuell-forokning-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "asexuell-forokning-f05",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c06",
+        "asexuell-forokning-c07"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r1",
+        "asexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "asexuell-forokning-q3"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f06",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c06",
+        "asexuell-forokning-c07"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r1",
+        "asexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "asexuell-forokning-q3"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f07",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c08"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "asexuell-forokning-q5"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f08",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c09"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "asexuell-forokning-q4"
+      ]
+    },
+    {
+      "factId": "asexuell-forokning-f09",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "asexuell-forokning-c10"
+      ],
+      "recallIds": [
+        "asexuell-forokning-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "asexuell-forokning-f10",
+      "sectionId": "asexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [],
+      "recallIds": [
+        "asexuell-forokning-r2",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "sexuell-forokning-f01",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c01"
+      ],
+      "recallIds": [],
+      "quizIds": []
+    },
+    {
+      "factId": "sexuell-forokning-f02",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c02"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "sexuell-forokning-f03",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c02",
+        "sexuell-forokning-c03"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q1"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f04",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c04"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "sexuell-forokning-f05",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c05",
+        "sexuell-forokning-c12"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q2"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f06",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c05"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q2"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f07",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c06"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q5"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f08",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c07",
+        "sexuell-forokning-c08",
+        "sexuell-forokning-c12"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q3"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f09",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c09"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q4"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f10",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c09",
+        "sexuell-forokning-c10"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": [
+        "sexuell-forokning-q4"
+      ]
+    },
+    {
+      "factId": "sexuell-forokning-f11",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c11"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "sexuell-forokning-f12",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c11"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r1",
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": []
+    },
+    {
+      "factId": "sexuell-forokning-f13",
+      "sectionId": "sexuell-forokning",
+      "pages": [
+        269
+      ],
+      "cardIds": [
+        "sexuell-forokning-c12"
+      ],
+      "recallIds": [
+        "sexuell-forokning-r2"
+      ],
+      "quizIds": []
+    }
+  ],
+  "coverageSummary": {
+    "pages": [
+      266,
+      267,
+      268,
+      269
+    ],
+    "sectionCount": 10,
+    "factCount": 105,
+    "conceptCount": 28,
+    "cardCount": 89,
+    "recallCount": 20,
+    "quizCount": 50,
+    "uncoveredFactIds": [],
+    "invalidFactReferences": [],
+    "unreadableMaterialTextGaps": 0,
+    "note": "Varje faktapost är kopplad till sitt avsnitt och minst ett instuderingskort, en återkallningsfråga eller en flervalsfråga. De tre formerna övar olika bredd; alla fakta måste inte upprepas i varje övningsform."
+  }
+}
