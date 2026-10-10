@@ -1,3 +1,5 @@
+> Historisk kontroll före PowerPoint-kompletteringen. [Aktuell innehållsgranskning och tester](POWERPOINT-TACKNING.md).
+
 # Genomförda kontroller, 2026-10-09
 
 ## Automatiserade tester

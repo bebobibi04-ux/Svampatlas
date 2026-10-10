@@ -1,0 +1,1483 @@
+{
+  "review": {
+    "reviewer": "ppt_audit_27_39",
+    "independentOfAuthor": true,
+    "date": "2026-10-10",
+    "scope": "Svampar.pdf pages 14–26, actual integrated final course and coverage matrix; includes page14 in first author slime section. Cross-references to27/36 reviewed only for compatibility, not claimed as independent source review here.",
+    "sourceMethod": "All 13 original renderings re-opened visually, including whole rasterized prose page20. All four new section theories, 46 facts, 42 card answers, 26 quiz keys/explanations, 10 recall/model keys including four advanced assessments read. Final matrix checked semantically, not by term count.",
+    "authorContentSha256": "dc1e75e3c59cfdeaecb982d523ecde628f35fd799a6af44994d5778a3447e8cf",
+    "finalCourseSha256": "43d1319e89fa5dbeb98db01297372e06a7ab8594cda6c2edff12e24028a758d7",
+    "coverageSha256": "4fada22178275609e91af07a043eed4f3e95de885711e2b7bf3b78b57bddacb6",
+    "productionFilesEdited": false,
+    "finalIntegrationVerified": true
+  },
+  "summary": {
+    "status": "pass_after_verified_fixes",
+    "pagesReviewed": 13,
+    "auditItemsReviewed": 33,
+    "semanticContentGaps": 0,
+    "cardsReviewed": 42,
+    "quizReviewed": 26,
+    "recallReviewed": 10,
+    "advancedAssessmentsReviewed": 4,
+    "additionalPage14ExercisesReviewed": {
+      "card": "ppt-slemsvampar-c10",
+      "quiz": "ppt-slemsvampar-q07",
+      "recall": [
+        "ppt-slemsvampar-r02",
+        "ppt-slemsvampar-r03"
+      ]
+    },
+    "remainingFindings": 0,
+    "criticalFindings": 0,
+    "findingsCount": 4
+  },
+  "pageResults": [
+    {
+      "page": 14,
+      "originalImage": "work/ppt-correction/render/slide-14.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Den rosa–orange klungan på ved och namnet vargmjölk motsvaras av ppt-slemsvampar-f11 i första författarens avsnitt. Formen jämförs med trollsmör i kort, quiz och recall; inget säkert modernt Lycogala-artnamn uppfinns från fotot. Faktisk bild och samtliga relevanta facit har kontrollerats här.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p14-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f11"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-slemsvampar-f11",
+              "text": "Det namngivna vargmjölksfotot visar rosa–orange rundade strukturer i klungor på multnande ved."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-slemsvampar-c10"
+            ],
+            "quiz": [
+              "ppt-slemsvampar-q07"
+            ],
+            "recall": [
+              "ppt-slemsvampar-r02",
+              "ppt-slemsvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 15,
+      "originalImage": "work/ppt-correction/render/slide-15.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Fungi som eget rike, encellig jäst som motexempel till rubriken flercelliga och alla tre lärargrupper finns i teori, fakta och övningar. Algsvamp skiljs tydligt som historisk heterogen etikett från modern klassifikation. Här finns ingen generell felregel att alla svampar är flercelliga. En mindre prompt/facit/kriterium-anpassning behövs i recall.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p15-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-svampgrupper-f01"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-svampgrupper-f01",
+              "text": "Svampar (Fungi) är ett eget rike i presentationens klassiska modell med djur, växter och protister."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-svampgrupper-c01"
+            ],
+            "quiz": [],
+            "recall": [
+              "ppt-svampgrupper-r01"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p15-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-svampgrupper-f02"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-svampgrupper-f02",
+              "text": "Rubriken flercelliga svampar utesluter inte encelliga svampar som jäst."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-svampgrupper-c02"
+            ],
+            "quiz": [
+              "ppt-svampgrupper-q01"
+            ],
+            "recall": [
+              "ppt-svampgrupper-r01",
+              "ppt-svampgrupper-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p15-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-svampgrupper-f03",
+            "ppt-svampgrupper-f04"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-svampgrupper-f03",
+              "text": "Presentationens tre gruppnamn är algsvampar, sporsäckssvampar och basidiesvampar."
+            },
+            {
+              "factId": "ppt-svampgrupper-f04",
+              "text": "Algsvampar är en historisk samlingsgrupp, inte en enda modern släktskapsgrupp eller en fullständig lista över Fungi."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-svampgrupper-c03",
+              "ppt-svampgrupper-c04",
+              "ppt-svampgrupper-c07"
+            ],
+            "quiz": [
+              "ppt-svampgrupper-q02",
+              "ppt-svampgrupper-q04"
+            ],
+            "recall": [
+              "ppt-svampgrupper-r01",
+              "ppt-svampgrupper-r02"
+            ]
+          }
+        }
+      ],
+      "findings": [
+        "review-14-26-F03"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-14-26-F03"
+      ]
+    },
+    {
+      "page": 16,
+      "originalImage": "work/ppt-correction/render/slide-16.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Vattenliv, parasitism och kräftpest med kräftvärd finns, kompletterade med tydligt märkt oomycet/stramenopil-förtydligande. Brödmögel används som verklig svamptillväxt utan säker fotoart; Rhizopus är ett externt verifierat exempel och inte påstådd art i källbilden. Exemplen visas inte som samma moderna släktskapsgrupp. Kräftfotot används inte som säker sjukdomsdiagnos.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p16-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-svampgrupper-f04",
+            "ppt-svampgrupper-f05"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-svampgrupper-f04",
+              "text": "Algsvampar är en historisk samlingsgrupp, inte en enda modern släktskapsgrupp eller en fullständig lista över Fungi."
+            },
+            {
+              "factId": "ppt-svampgrupper-f05",
+              "text": "Bild 16 beskriver många av presentationens algsvampar som vattenlevande parasiter."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-svampgrupper-c04",
+              "ppt-svampgrupper-c05",
+              "ppt-svampgrupper-c07"
+            ],
+            "quiz": [
+              "ppt-svampgrupper-q02",
+              "ppt-svampgrupper-q04",
+              "ppt-svampgrupper-q05"
+            ],
+            "recall": [
+              "ppt-svampgrupper-r01",
+              "ppt-svampgrupper-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p16-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-svampgrupper-f06"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-svampgrupper-f06",
+              "text": "Kräftpest anges som exempel; organismen Aphanomyces astaci är en oomycet som i modern systematik placeras utanför Fungi."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-svampgrupper-c05",
+              "ppt-svampgrupper-c06",
+              "ppt-svampgrupper-c08"
+            ],
+            "quiz": [
+              "ppt-svampgrupper-q03",
+              "ppt-svampgrupper-q04",
+              "ppt-svampgrupper-q05"
+            ],
+            "recall": [
+              "ppt-svampgrupper-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p16-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-svampgrupper-f07",
+            "ppt-svampgrupper-f08"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-svampgrupper-f07",
+              "text": "Brödmögel anges som algsvamp, men olika verkliga svampar kan bilda mögel på bröd och fotot fastställer ingen säker art."
+            },
+            {
+              "factId": "ppt-svampgrupper-f08",
+              "text": "Rhizopus är ett klassiskt brödmögelexempel inom de egentliga svamparna, till skillnad från kräftpestorganismen som är en oomycet."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-svampgrupper-c07",
+              "ppt-svampgrupper-c08"
+            ],
+            "quiz": [
+              "ppt-svampgrupper-q04"
+            ],
+            "recall": [
+              "ppt-svampgrupper-r02"
+            ]
+          }
+        }
+      ],
+      "findings": [
+        "review-14-26-F03",
+        "review-14-26-F04"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-14-26-F03",
+        "review-14-26-F04"
+      ]
+    },
+    {
+      "page": 17,
+      "originalImage": "work/ppt-correction/render/slide-17.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Fotsvamp som svampparasitexempel hos människa finns med korrekt värd/näringsuttag/skada-relation och jämförelser mot träd/frukt. Fotografiet ger ingen säker svampart; behandlingsråd eller diagnoser läggs inte till.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p17-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-parasitism-f02",
+            "ppt-parasitism-f09"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-parasitism-f02",
+              "text": "Fotsvamp anges som parasitexempel hos människa på bild 17."
+            },
+            {
+              "factId": "ppt-parasitism-f09",
+              "text": "Fotsvamp, nagelsvamp, tallticka–tall och presentationens fruktmögel illustrerar parasitism med olika värdar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-parasitism-c02"
+            ],
+            "quiz": [
+              "ppt-parasitism-q02"
+            ],
+            "recall": [
+              "ppt-parasitism-r01",
+              "ppt-parasitism-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 18,
+      "originalImage": "work/ppt-correction/render/slide-18.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Källtextens tallticka–tall återges som lärarens namngivna parasitexempel. Den synliga konsolen kopplas till fruktkropp och näringsupptagande mycel inne i värden. Bildens rödbruna zon/ljusa kant hanteras som osäker artetikett och likhet med klibbticka, inte definitiv rättelse. Trädslaget på fotot fastslås inte. Ett ogiltigt relaterat avsnitts-ID behöver rättas.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p18-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-parasitism-f04",
+            "ppt-parasitism-f09"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-parasitism-f04",
+              "text": "Bild 18:s text anger tallticka som parasit på tall."
+            },
+            {
+              "factId": "ppt-parasitism-f09",
+              "text": "Fotsvamp, nagelsvamp, tallticka–tall och presentationens fruktmögel illustrerar parasitism med olika värdar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-parasitism-c03"
+            ],
+            "quiz": [
+              "ppt-parasitism-q02",
+              "ppt-parasitism-q04"
+            ],
+            "recall": [
+              "ppt-parasitism-r01",
+              "ppt-parasitism-r02",
+              "ppt-parasitism-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p18-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-parasitism-f07"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-parasitism-f07",
+              "text": "Tickans yttre konsol är en fruktkropp; parasitens näringsupptagande mycel kan finnas inne i den levande värden."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-parasitism-c04"
+            ],
+            "quiz": [
+              "ppt-parasitism-q04"
+            ],
+            "recall": [
+              "ppt-parasitism-r02"
+            ]
+          }
+        }
+      ],
+      "findings": [
+        "review-14-26-F01"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-14-26-F01"
+      ]
+    },
+    {
+      "page": 19,
+      "originalImage": "work/ppt-correction/render/slide-19.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Alla fyra formgrupper finns. Basidium är tydligt en mikroskopisk sporbildande cell och basidiosporer utvecklas utanpå på sterigmer, vilket korrigerar källans oprecisa i-formulering. Skivor/rör/taggar kopplas till basidier och sporbildande yta; basidiesvamp eller formgrupp ger ingen automatisk ätlighet.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p19-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f01",
+            "ppt-basidiesvampar-f19"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f01",
+              "text": "Presentationens basidiesvampar omfattar skivlingar, soppar, taggsvampar och buksvampar."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f19",
+              "text": "Formgrupp och tillhörighet till basidiesvampar innebär inte att en art är ätlig."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c03",
+              "ppt-basidiesvampar-c16"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q11"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p19-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f02",
+            "ppt-basidiesvampar-f07"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f02",
+              "text": "Ett basidium är en mikroskopisk sporbildande cell; basidiosporer utvecklas utanpå den på små utskott."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f07",
+              "text": "Hos rörsvampar bär rörväggarna basidier och öppningarna syns som porer."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c01",
+              "ppt-basidiesvampar-c07",
+              "ppt-basidiesvampar-c13",
+              "ppt-basidiesvampar-c17"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q01",
+              "ppt-basidiesvampar-q03",
+              "ppt-basidiesvampar-q04",
+              "ppt-basidiesvampar-q05"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r01",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 20,
+      "originalImage": "work/ppt-correction/render/slide-20.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Hela den rasteriserade textbilden har lästs visuellt och alla tio semantiska item kontrollerats. Fyra sterigmer med varsin spor lärs som vanligt exempel, inte universalregel. Hatt/fot, lameller, taggar, rörväggar/porer, yta för många basidier, tickors ofta fotlösa konsoler/hårdhet/flerårighet och variation, hyfer inne i ved/röta, soppar med hatt/fot, synonym stensopp/karljohan, innesluten buksvampsutveckling, röksvampens toppöppning/sporpulver och skillnaden från senare stinksvampsstadium finns i teori/facit. Ingen av punkterna räknas som täckt enbart av bildlänk.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p20-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f02",
+            "ppt-basidiesvampar-f03"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f02",
+              "text": "Ett basidium är en mikroskopisk sporbildande cell; basidiosporer utvecklas utanpå den på små utskott."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f03",
+              "text": "Presentationens mogna basidie har fyra skaft med varsin spor; fyra är vanligt men inte universellt."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c01",
+              "ppt-basidiesvampar-c02",
+              "ppt-basidiesvampar-c13",
+              "ppt-basidiesvampar-c17"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q01",
+              "ppt-basidiesvampar-q02",
+              "ppt-basidiesvampar-q04",
+              "ppt-basidiesvampar-q05"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r01",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f04"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f04",
+              "text": "Många vanliga hattsvampar är basidiesvampar med hatt och fot i fruktkroppen."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c04"
+            ],
+            "quiz": [],
+            "recall": []
+          }
+        },
+        {
+          "itemId": "ppt-p20-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f05",
+            "ppt-basidiesvampar-f07"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f05",
+              "text": "Skivor, taggar och rör ger plats åt många basidier på stor sporbildande yta."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f07",
+              "text": "Hos rörsvampar bär rörväggarna basidier och öppningarna syns som porer."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c05",
+              "ppt-basidiesvampar-c07"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q03"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r01",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i04",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f06",
+            "ppt-basidiesvampar-f07",
+            "ppt-basidiesvampar-f08",
+            "ppt-basidiesvampar-f19"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f06",
+              "text": "Skivlingarnas bladlika skivor kallas lameller."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f07",
+              "text": "Hos rörsvampar bär rörväggarna basidier och öppningarna syns som porer."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f08",
+              "text": "Taggsvampar har taggar under hatten; blek taggsvamp är bild 23:s exempel."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f19",
+              "text": "Formgrupp och tillhörighet till basidiesvampar innebär inte att en art är ätlig."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c06",
+              "ppt-basidiesvampar-c07",
+              "ppt-basidiesvampar-c13",
+              "ppt-basidiesvampar-c16",
+              "ppt-basidiesvampar-c17"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q03",
+              "ppt-basidiesvampar-q04",
+              "ppt-basidiesvampar-q05",
+              "ppt-basidiesvampar-q11"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r01",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i05",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f10"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f10",
+              "text": "Tickor beskrivs som rörsvampar som ofta saknar fot, men undantag finns."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c08"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q08"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i06",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f11"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f11",
+              "text": "Många tickfruktkroppar bildar konsoler på stammar och är ofta hårda och fleråriga."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c08",
+              "ppt-basidiesvampar-c09"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q08"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i07",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f12"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f12",
+              "text": "Hos parasitiska tickor tar hyfer näring inne i veden och kan orsaka röta."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c10"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q08"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i08",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f13"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f13",
+              "text": "Soppar är rörsvampar med hatt och fot; stensopp kallas även karljohan."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c08",
+              "ppt-basidiesvampar-c11"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q07"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i09",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f15",
+            "ppt-basidiesvampar-f18"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f15",
+              "text": "Buksvampars sporer utvecklas inne i en fruktkropp som åtminstone i början är sluten; röksvampar är exempel."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f18",
+              "text": "Buksvamp är en traditionell formgrupp, inte en enda naturlig släktskapsgrupp."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c13",
+              "ppt-basidiesvampar-c15",
+              "ppt-basidiesvampar-c16"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q09",
+              "ppt-basidiesvampar-q10",
+              "ppt-basidiesvampar-q11"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p20-i10",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f16"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f16",
+              "text": "Hos röksvampar kan moget sporpulver ryka ut genom en öppning i den rundade fruktkroppens topp."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c14"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q09"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [
+        "review-14-26-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-14-26-F02"
+      ]
+    },
+    {
+      "page": 21,
+      "originalImage": "work/ppt-correction/render/slide-21.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Stensopp=karljohan och rörsvamp/sopp är korrekt kopplade till hatt/fot och rör/porer. Teorin och bildfrågan anger korrekt att rörlagret inte syns tydligt i just källfotot och varför undersidan behövs. Quizets distraktorer behöver stärkas.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p21-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f13",
+            "ppt-basidiesvampar-f14"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f13",
+              "text": "Soppar är rörsvampar med hatt och fot; stensopp kallas även karljohan."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f14",
+              "text": "Bild 21:s stensopp visar hatt och fot men inte rörlagret tydligt; undersidan behövs för kontroll av rör/porer."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c08",
+              "ppt-basidiesvampar-c11",
+              "ppt-basidiesvampar-c12"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q07"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [
+        "review-14-26-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-14-26-F02"
+      ]
+    },
+    {
+      "page": 22,
+      "originalImage": "work/ppt-correction/render/slide-22.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Både namnet kantarell och de synliga nedlöpande förgrenade åsarna finns. Rubriken Skivling rättas öppet till åsar/veck jämfört med äkta lameller, i teori, fakta, kort, quiz och avancerat recall. Säker rättelse verifierad med US Forest Service.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p22-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f09"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f09",
+              "text": "Kantarell har nedlöpande åsar/veck, inte äkta lameller; bild 22:s rubrik Skivling är missvisande."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c18"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q06"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p22-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f09"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f09",
+              "text": "Kantarell har nedlöpande åsar/veck, inte äkta lameller; bild 22:s rubrik Skivling är missvisande."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c18"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q06"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 23,
+      "originalImage": "work/ppt-correction/render/slide-23.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Blek taggsvamp är namngivet exempel. De tydliga taggytorna på undersidan kopplas till stor sporbildande yta och mikroskopiska basidier, med korrekt skillnad mellan fotots makrostruktur och osynliga enskilda sporer/celler.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p23-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f08"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f08",
+              "text": "Taggsvampar har taggar under hatten; blek taggsvamp är bild 23:s exempel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c17"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q03",
+              "ppt-basidiesvampar-q05"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r01",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 24,
+      "originalImage": "work/ppt-correction/render/slide-24.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Stinksvamp lärs som källans buksvampsexempel. Den mogna vita foten/mörka slemmiga spormassan förklaras som senare öppet stadium efter innesluten utveckling. Röksvampens sporpulver och toppöppning likställs inte med alla buksvampars utsläpp. Buksvamp är tydligt en traditionell formgrupp.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p24-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-basidiesvampar-f17",
+            "ppt-basidiesvampar-f18"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-basidiesvampar-f17",
+              "text": "Stinksvamp visas som buksvamp; det mogna fotot har vit fot och mörk slemmig spormassa efter innesluten utveckling."
+            },
+            {
+              "factId": "ppt-basidiesvampar-f18",
+              "text": "Buksvamp är en traditionell formgrupp, inte en enda naturlig släktskapsgrupp."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidiesvampar-c15",
+              "ppt-basidiesvampar-c16"
+            ],
+            "quiz": [
+              "ppt-basidiesvampar-q10",
+              "ppt-basidiesvampar-q11"
+            ],
+            "recall": [
+              "ppt-basidiesvampar-r02",
+              "ppt-basidiesvampar-r03"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 25,
+      "originalImage": "work/ppt-correction/render/slide-25.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Murklor och äkta tryfflar är exempel på sporsäckssvampar; sexuella askosporer inuti asci jämförs med utvändiga basidiosporer. Fruktmögel är namngivet parasitexempel, utan obestyrkt art eller påstående att sexuella asci syns i fotot. Asexuella mögelstadier skiljs från gruppens definierande sexuella struktur. Värdrelationen mot dött material är utvecklad; en quizdistraktor behöver rättas.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p25-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-sporsackssvampar-f02"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-sporsackssvampar-f02",
+              "text": "Murklor, äkta tryfflar och skålsvampar anges som större sporsäckssvampsexempel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c03"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q02"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p25-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-parasitism-f06",
+            "ppt-parasitism-f09",
+            "ppt-parasitism-f10",
+            "ppt-sporsackssvampar-f04",
+            "ppt-sporsackssvampar-f08"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-parasitism-f06",
+              "text": "Fruktmögel anges som parasitiskt sporsäckssvampsexempel på bild 25."
+            },
+            {
+              "factId": "ppt-parasitism-f09",
+              "text": "Fotsvamp, nagelsvamp, tallticka–tall och presentationens fruktmögel illustrerar parasitism med olika värdar."
+            },
+            {
+              "factId": "ppt-parasitism-f10",
+              "text": "Parasit är en ekologisk relation medan basidiesvamp/sporsäckssvamp är gruppbegrepp kopplade till sexuell sporbildning."
+            },
+            {
+              "factId": "ppt-sporsackssvampar-f04",
+              "text": "Fruktmögel anges som parasitiskt sporsäckssvampsexempel, men bild 25 ger ingen säker mögelart."
+            },
+            {
+              "factId": "ppt-sporsackssvampar-f08",
+              "text": "Sporsäckssvampar kan också bilda asexuella sporer; ett vanligt mögelfoto visar inte säkert att sexuella sporsäckar syns."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c05",
+              "ppt-parasitism-c05",
+              "ppt-parasitism-c07"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q02",
+              "ppt-sporsackssvampar-q05",
+              "ppt-parasitism-q02",
+              "ppt-parasitism-q03",
+              "ppt-parasitism-q05"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r02",
+              "ppt-parasitism-r01",
+              "ppt-parasitism-r03"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p25-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-sporsackssvampar-f01",
+            "ppt-sporsackssvampar-f08",
+            "ppt-sporsackssvampar-f09"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-sporsackssvampar-f01",
+              "text": "Sporsäckssvampars sexuella sporer utvecklas inuti säcklika celler som kallas sporsäckar eller asci."
+            },
+            {
+              "factId": "ppt-sporsackssvampar-f08",
+              "text": "Sporsäckssvampar kan också bilda asexuella sporer; ett vanligt mögelfoto visar inte säkert att sexuella sporsäckar syns."
+            },
+            {
+              "factId": "ppt-sporsackssvampar-f09",
+              "text": "Askosporer utvecklas inuti en ascus, medan basidiosporer utvecklas utanpå ett basidium."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c01",
+              "ppt-sporsackssvampar-c02",
+              "ppt-sporsackssvampar-c05",
+              "ppt-sporsackssvampar-c08"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q01",
+              "ppt-sporsackssvampar-q03",
+              "ppt-sporsackssvampar-q05"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01",
+              "ppt-sporsackssvampar-r02"
+            ]
+          }
+        }
+      ],
+      "findings": [
+        "review-14-26-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-14-26-F02"
+      ]
+    },
+    {
+      "page": 26,
+      "originalImage": "work/ppt-correction/render/slide-26.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Vänster/höger foto används för murkleliknande gropig/veckad hatt på ljus fot och skiljs från mikroskopiska asci. Mittenbildens rosa rundade strukturer hanteras uttryckligen som misstänkt felinfogat slemsvampsexempel av vargmjölkstyp, med osäkerheten bevarad. Ingen säker modern Morchella- eller Lycogala-art fastslås. Bildtolkning och avancerat facit behandlar denna begränsning.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p26-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-sporsackssvampar-f06"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-sporsackssvampar-f06",
+              "text": "Vänster/höger murklefoto på bild 26 visar gropiga eller veckade hattar och ljus fot, inte enskilda mikroskopiska sporsäckar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c06"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q04"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01",
+              "ppt-sporsackssvampar-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p26-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-sporsackssvampar-f06"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-sporsackssvampar-f06",
+              "text": "Vänster/höger murklefoto på bild 26 visar gropiga eller veckade hattar och ljus fot, inte enskilda mikroskopiska sporsäckar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c06"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q04"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01",
+              "ppt-sporsackssvampar-r02"
+            ]
+          }
+        },
+        {
+          "itemId": "ppt-p26-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-sporsackssvampar-f07"
+          ],
+          "theoryEvidence": [
+            {
+              "factId": "ppt-sporsackssvampar-f07",
+              "text": "Mittbilden på bild 26 visar rosa rundade strukturer; rubriken ger inte säker grund att kalla bilden murkla eller sporsäckssvamp."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c07"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q04"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r02"
+            ]
+          }
+        }
+      ],
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    }
+  ],
+  "findings": [
+    {
+      "id": "review-14-26-F01",
+      "severity": "P2",
+      "status": "resolved",
+      "type": "broken_section_reference",
+      "pages": [
+        18
+      ],
+      "itemIds": [
+        "ppt-p18-i02"
+      ],
+      "sectionId": "ppt-parasitism",
+      "concreteGap": "relatedSections refers to ppt-ekologi, which does not exist in the final 38-section course.",
+      "evidence": "ppt-parasitism.relatedSections contains ppt-ekologi; final section IDs include ekosystem and ppt-tillvaxt-nedbrytning but no ppt-ekologi.",
+      "action": "Replace with the existing intended ecology section (for example ppt-tillvaxt-nedbrytning) or remove the invalid related reference; verify rendered navigation.",
+      "resolution": "ppt-parasitism.relatedSections now contains existing ppt-tillvaxt-nedbrytning and no invalid ppt-ekologi reference.",
+      "verifiedInFinalCourse": true
+    },
+    {
+      "id": "review-14-26-F02",
+      "severity": "P2",
+      "status": "resolved",
+      "type": "exercise_quality",
+      "pages": [
+        20,
+        21,
+        25
+      ],
+      "itemIds": [
+        "ppt-p20-i10",
+        "ppt-p21-i01",
+        "ppt-p25-i02"
+      ],
+      "exerciseIds": [
+        "ppt-basidiesvampar-q07",
+        "ppt-basidiesvampar-q09",
+        "ppt-parasitism-q05"
+      ],
+      "concreteGap": "Correct answers are biologically accurate, but some wrong choices are not plausible scientific alternatives. Counting grass blades or mold spots and evaporation of basidia are irrelevant to the question.",
+      "evidence": [
+        "ppt-basidiesvampar-q07: Att räkna grässtrån",
+        "ppt-basidiesvampar-q09: Fotosyntes i mogna sporer / Avdunstning av basidier",
+        "ppt-parasitism-q05: Att räkna mögelfläckar"
+      ],
+      "action": "Replace with relevant biological confusions: cap color/shape versus underside surface; spores on exposed hymenium versus inside fruitbody and distinct release modes; host vitality versus fungal group or visible mycelium. Keep four distinct choices and correct keys, and leave all pre-existing exercises unchanged.",
+      "userRequirement": "Wrong answer options must be scientifically plausible but unambiguously incorrect.",
+      "resolution": "Grass blades, evaporation of basidia and counting mold spots removed. New alternatives test underside inspection, release mode and ecological relation versus taxonomic/visual criteria.",
+      "verifiedInFinalCourse": true
+    },
+    {
+      "id": "review-14-26-F03",
+      "severity": "P3",
+      "status": "resolved",
+      "type": "assessment_alignment",
+      "pages": [
+        15,
+        16
+      ],
+      "itemIds": [
+        "ppt-p15-i01",
+        "ppt-p15-i02",
+        "ppt-p16-i02",
+        "ppt-p16-i03"
+      ],
+      "exerciseIds": [
+        "ppt-svampgrupper-r01",
+        "ppt-svampgrupper-r02"
+      ],
+      "concreteGap": "r02 requires explaining unicellular yeast as a criterion although the question only asks about bread mold/crayfish plague and phylogeny. r01 has Fungi as kingdom as a checkpoint but the model answer omits that point.",
+      "evidence": [
+        "r02 criterion/checkpoint Förklarar encellighet bland svampar is outside its stated comparison.",
+        "r01 checkpoint Fungi som rike is not included in its answer text."
+      ],
+      "action": "Remove the unstated yeast requirement from r02 (or explicitly ask it), and add a concise sentence identifying Fungi as kingdom in r01 model answer. Align advanced criteria and example answer with the final prompt.",
+      "resolution": "r01 model answer explicitly begins Svampar hör till riket Fungi. r02 removes the unasked yeast point from factIds, answer/example, checkpoints and assessment facts; six relevant criteria remain.",
+      "verifiedInFinalCourse": true
+    },
+    {
+      "id": "review-14-26-F04",
+      "severity": "P2",
+      "status": "resolved",
+      "type": "source_provenance_display",
+      "pages": [
+        16
+      ],
+      "itemIds": [
+        "ppt-p16-i02",
+        "ppt-p16-i03"
+      ],
+      "concreteGap": "During follow-up, added biological background in advanced assessment facts was under Källuppgifter att använda and received an original PowerPoint page badge, even when it was not present on the teacher slide.",
+      "evidence": "Modern taxonomy, Rhizopus and mycorrhizal contact types were correctly distinguished in theory, but assessment facts lacked provenance metadata and distinct display.",
+      "action": "Carry original factId/origin into new assessment facts and give clarification facts a distinct background link; preserve existing film assessments.",
+      "resolution": "Final assessment metadata resolves to the correct fact and origin. Biological renderer labels clarification facts as Biologiskt förtydligande till s. … · se källkommentaren and links to the relevant theory/source note. Rhizopus and ecto/arbuscular contact inspected explicitly; all 83 new assessment fact mappings checked without error.",
+      "verifiedInFinalCourse": true
+    }
+  ],
+  "remainingFindings": [],
+  "resolvedFindings": [
+    "review-14-26-F01",
+    "review-14-26-F02",
+    "review-14-26-F03",
+    "review-14-26-F04"
+  ],
+  "resolvedSourceIssues": [
+    {
+      "pages": [
+        15
+      ],
+      "itemIds": [
+        "ppt-p15-i02"
+      ],
+      "resolution": "Multicellular heading does not imply all Fungi are multicellular; unicellular yeast remains taught."
+    },
+    {
+      "pages": [
+        15,
+        16
+      ],
+      "itemIds": [
+        "ppt-p15-i03",
+        "ppt-p16-i01",
+        "ppt-p16-i02",
+        "ppt-p16-i03"
+      ],
+      "resolution": "Historical algsvamp term preserved; oomycete crayfish pathogen placed outside Fungi and real bread molds separately explained."
+    },
+    {
+      "pages": [
+        19,
+        20
+      ],
+      "itemIds": [
+        "ppt-p19-i02",
+        "ppt-p20-i01"
+      ],
+      "resolution": "Basidiospores outside basidia on sterigmata, commonly four but variable."
+    },
+    {
+      "pages": [
+        22
+      ],
+      "itemIds": [
+        "ppt-p22-i02"
+      ],
+      "resolution": "Chanterelle ridges/folds distinguished from true gills despite Skivling heading."
+    },
+    {
+      "pages": [
+        18,
+        26
+      ],
+      "itemIds": [
+        "ppt-p18-i02",
+        "ppt-p26-i03"
+      ],
+      "resolution": "Photo-label doubts explicitly treated as visual inferences; no definitive unsupported species identification."
+    }
+  ],
+  "primaryVerification": [
+    {
+      "title": "ANBG: Ascomycetes and basidiomycetes",
+      "url": "https://www.anbg.gov.au/fungi/ascomycetes-basidiomycetes.html",
+      "supports": "External basidiospores/projections, variable count; internal ascospores and distinct microscopic versus fruitbody levels."
+    },
+    {
+      "title": "SVA: Kräftpest",
+      "url": "https://www.sva.se/djurhaelsa/djursjukdomar-a-oe/sjukdomar/kraeftpest/",
+      "supports": "Water-living Aphanomyces astaci infects freshwater crayfish; algsvamp retained as Swedish source usage."
+    },
+    {
+      "title": "Derelle et al. 2016 stramenopile phylogenomics",
+      "url": "https://academic.oup.com/mbe/article/33/11/2890/2272106",
+      "supports": "Oomycetes within stramenopile Pseudofungi, distinct from true Fungi."
+    },
+    {
+      "title": "US Forest Service: Ecology and Management of Chanterelles",
+      "url": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr576.pdf",
+      "supports": "Chanterelles have ridges/folds rather than blade-like true gills."
+    },
+    {
+      "title": "CDC: Ringworm Basics",
+      "url": "https://www.cdc.gov/ringworm/about/index.html",
+      "supports": "Athlete foot and fungal nail infection examples; no diagnostic/treatment recommendations are added."
+    }
+  ],
+  "limitations": [
+    "This is a content/answer/traceability review, not a claim of browser execution or public deployment. Root verifies final UI, storage, mobile usability and publishing.",
+    "Pictures on pages18 and26 lack original image metadata; uncertain labels are disclosed rather than silently converted into definite biological identities."
+  ],
+  "followupReview": {
+    "date": "2026-10-10",
+    "finalCourseSha256": "43d1319e89fa5dbeb98db01297372e06a7ab8594cda6c2edff12e24028a758d7",
+    "coverageSha256": "4fada22178275609e91af07a043eed4f3e95de885711e2b7bf3b78b57bddacb6",
+    "changedQuizzesRead": 60,
+    "changedQuizIds": [
+      "ppt-systematik-q02",
+      "ppt-systematik-q04",
+      "ppt-systematik-q07",
+      "ppt-systematik-q09",
+      "ppt-slemsvampar-q01",
+      "ppt-slemsvampar-q02",
+      "ppt-slemsvampar-q03",
+      "ppt-slemsvampar-q05",
+      "ppt-slemsvampar-q06",
+      "ppt-slemsvampar-q07",
+      "ppt-slemsvampar-q08",
+      "ppt-slemsvampar-livscykel-q02",
+      "ppt-slemsvampar-livscykel-q04",
+      "ppt-slemsvampar-livscykel-q05",
+      "ppt-slemsvampar-livscykel-q06",
+      "ppt-slemsvampar-livscykel-q07",
+      "ppt-slemsvampar-livscykel-q08",
+      "ppt-slemsvampar-livscykel-q09",
+      "ppt-svampgrupper-q02",
+      "ppt-svampgrupper-q03",
+      "ppt-svampgrupper-q05",
+      "ppt-basidiesvampar-q02",
+      "ppt-basidiesvampar-q03",
+      "ppt-basidiesvampar-q05",
+      "ppt-basidiesvampar-q06",
+      "ppt-basidiesvampar-q07",
+      "ppt-basidiesvampar-q09",
+      "ppt-basidiesvampar-q11",
+      "ppt-sporsackssvampar-q01",
+      "ppt-sporsackssvampar-q03",
+      "ppt-sporsackssvampar-q05",
+      "ppt-parasitism-q01",
+      "ppt-parasitism-q02",
+      "ppt-parasitism-q03",
+      "ppt-parasitism-q05",
+      "ppt-jast-mogel-q01",
+      "ppt-jast-mogel-q02",
+      "ppt-jast-mogel-q04",
+      "ppt-jast-mogel-q05",
+      "ppt-anatomi-q02",
+      "ppt-anatomi-q03",
+      "ppt-anatomi-q04",
+      "ppt-anatomi-q05",
+      "ppt-anatomi-q06",
+      "ppt-anatomi-q07",
+      "ppt-mykorrhiza-q01",
+      "ppt-mykorrhiza-q02",
+      "ppt-mykorrhiza-q03",
+      "ppt-mykorrhiza-q04",
+      "ppt-mykorrhiza-q05",
+      "ppt-tillvaxt-nedbrytning-q01",
+      "ppt-tillvaxt-nedbrytning-q02",
+      "ppt-tillvaxt-nedbrytning-q04",
+      "ppt-tillvaxt-nedbrytning-q05",
+      "ppt-basidie-livscykel-q01",
+      "ppt-basidie-livscykel-q02",
+      "ppt-basidie-livscykel-q03",
+      "ppt-basidie-livscykel-q04",
+      "ppt-basidie-livscykel-q06",
+      "ppt-basidie-livscykel-q08"
+    ],
+    "isolatedContentFilesChecked": [
+      "content-01-13.json",
+      "content-14-26.json",
+      "content-27-39.json"
+    ],
+    "quizAssessment": "All 60 revised question option sets read against correct keys and target mechanisms; prior irrelevant domain/bacterium/grass/mold-spot distractors replaced. Additional yeast-to-mycorrhiza and cooling-halves-chromosomes distractors identified during this follow-up were subsequently corrected and reread. Four distinct alternatives remain, with correct keys unambiguous.",
+    "additionalDistractorsResolved": [
+      {
+        "questionId": "ppt-jast-mogel-q05",
+        "previousGap": "Oxygen causes yeast to become mycorrhiza.",
+        "resolution": "Wrong alternative now confuses availability of oxygen with an absolute exclusive respiration rule; process/organism distinction remains the correct answer."
+      },
+      {
+        "questionId": "ppt-tillvaxt-nedbrytning-q04",
+        "previousGap": "Cooling halves chromosome number.",
+        "resolution": "Wrong alternative now reverses ventilation humidity and cooling temperature effects, directly testing the intended causal relationship."
+      }
+    ],
+    "sourceClarificationChecks": {
+      "Rhizopus": "Theory/sourceNotes distinguish historical algsvamp wording and modern verified example. Assessment r02 assigns Rhizopus-f08 origin clarification and renders Biologiskt förtydligande till s.16 with link to the source note.",
+      "modernTaxonomy": "Classic teacher models remain explicit; modern Amoebozoa/microsporidia/oomycete placement is marked as clarification in theory and corresponding assessment facts.",
+      "mycorrhizalMantle": "Teacher pages33/34 mantle plus water/minerals and photosynthetic sugar remain source facts. Ectomycorrhiza versus arbuscular intracellular contact is marked added modern background in theory/sourceNotes and assessment fact ppt-mykorrhiza-f06 has clarification provenance."
+    },
+    "provenanceRenderer": "js/views.js biologicalAssessment now uses heading Källuppgifter och förtydliganden att använda. Facts with origin clarification receive a distinct Biologiskt förtydligande till s. … · se källkommentaren link rather than an original PowerPoint source badge. Only new biological assessments use this branch; existing film assessment output branch is unchanged.",
+    "assessmentMetadataCheck": {
+      "factsChecked": 83,
+      "clarificationFacts": 39,
+      "factIdsTextsOriginsMatchFinalFacts": true,
+      "errors": []
+    },
+    "nonRegressionReadChecks": {
+      "all26OriginalSectionObjectsExact": true,
+      "all54OriginalSpeciesObjectsExact": true,
+      "dataJsEqualsFinalCourse": true,
+      "all3AuthorArtifactsMatchFinalExceptAddedAssessmentOriginFactIdMetadata": true
+    },
+    "renderedBrowserClaim": false,
+    "note": "Source/render logic and data checked directly. Browser execution, public/mobile deployment and storage behavior remain root responsibilities."
+  }
+}

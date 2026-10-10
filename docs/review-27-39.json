@@ -1,0 +1,2764 @@
+{
+  "reviewer": "ppt_audit_01_13",
+  "reviewType": "Independent second review of another author range",
+  "scope": "Svampar.pdf pages 27–39",
+  "date": "2026-10-10",
+  "method": "Var och en av 13 ursprungliga JPG-renderingar lästes visuellt på nytt. Rastertext på 27/36 och bildrelationer/etiketter behandlades som kunskapsinnehåll. Författarunderlag lästes mot faktisk integrerad course.json, inklusive de tvärgående sporsäcks-/parasitismavsnitten, fakta, frågor, facit och resonemangsbedömningar. Item-mappning är bevisindex, inte ersättning för semantisk läsning. Numrerad anatomifigurs SVG-geometri kontrollerades mot facit. Ingen produktionsfil har ändrats av denna granskare.",
+  "reviewedFiles": [
+    "work/ppt-correction/content-27-39.json",
+    "work/ppt-correction/audit-27-39.json",
+    "outputs/github-pages/Svampatlas/content/course.json",
+    "outputs/github-pages/Svampatlas/content/powerpoint-coverage.json"
+  ],
+  "finalCourseSha256": "e5db0ee74c7f87fc3fb99ff33a16926482554462423321c2bc695a2eda21071e",
+  "finalCoverageSha256": "7c4b59363dc3167c7f35f5990ffea7ef551eedacd9c8b6515871f4eb8e8c3235",
+  "summary": {
+    "pages": 13,
+    "auditedItems": 68,
+    "semanticCoveredItems": 68,
+    "missingItems": 0,
+    "partialItems": 0,
+    "brokenReferences": 0,
+    "remainingFindings": 0,
+    "remainingBiologicalErrors": 0,
+    "original26SectionsUnchanged": true
+  },
+  "pageResults": [
+    {
+      "page": 27,
+      "title": "Sporsäcksvampar, jäsning och penselmögel",
+      "render": "work\\ppt-correction\\render\\slide-27.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Hela rastertexten och förstoringens etiketter har kontrollerats: asci och sporer inuti; jäst/mögel samt äkta tryfflar, murklor och skålsvampar; encellig jäst; jäsning utan syreanvändning i processen; etanol/koldioxid jämfört med cellandning; bröd/öl/vin; koldioxidens degverkan; Penicillium, roquefort/camembert och penicillin. Skålens inre yta kopplas till mikroskopiska säckar i bildövningar. Modern precisering om jäst/mögel som växtsätt är tydligt avgränsad.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-sporsackssvampar-c08",
+          "question": "Tolka kopplingen mellan skålsvampen och förstoringen.",
+          "answer": "Linjen kopplar den synliga skålens inre yta till mikroskopiska sporsäckar med sporer inuti."
+        },
+        {
+          "id": "ppt-sporsackssvampar-q03",
+          "question": "Vad visar relationen mellan figuren och förstoringen?",
+          "answer": "Figuren kopplar makroskopisk fruktkropp till mikroskopiska asci."
+        },
+        {
+          "id": "ppt-sporsackssvampar-r01",
+          "question": "Beskriv sporsäckssvamparnas sporbildning och skålsvampsfigurens nivåer.",
+          "answer": "Sexuella sporer utvecklas inuti mikroskopiska asci. Figuren kopplar skålens synliga inre yta till en förstoring med sporer i avlånga säckar. Exempel på större former är murklor, äkta tryfflar och skålsvampar. Ett vanligt murklefoto visar hattens form, inte enskilda asci."
+        },
+        {
+          "id": "ppt-jast-mogel-r02",
+          "question": "Två elever diskuterar en jästdeg. Den ena säger att etanolen höjer degen och att jäst aldrig kan använda syre. Bedöm båda påståendena genom att koppla produkter, processer och organismens förmågor.",
+          "answer": "Båda påståendena blandar ihop olika biologiska nivåer. Vid alkoholjäsning spjälkas socker till etanol och koldioxid utan att syre används i processen. Koldioxidgasen, inte etanolen, förklarar degens volymökning. Etanolen visar samtidigt att sockret inte har brutits ner fullständigt till koldioxid och vatten. Att en process inte använder syre innebär inte att organismen saknar cellandning: bakjäst kan också respirera. Vilken metabolism som dominerar beror på förhållandena; presentationen ensam anger inte alla sådana regler. Ett observerat större degmått stödjer gasbildning men mäter inte i sig hur mycket etanol som bildats."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p27-i01",
+          "sourceKnowledge": "Sporsäcksvampar bildar sporer inuti små säcklika sporsäckar.",
+          "sourceEvidence": "Rubrik och första stycke samt etiketter spor/sporsäck i förstoringen.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-sporsackssvampar-f01",
+              "sectionId": "ppt-sporsackssvampar",
+              "text": "Sporsäckssvampars sexuella sporer utvecklas inuti säcklika celler som kallas sporsäckar eller asci."
+            },
+            {
+              "id": "ppt-sporsackssvampar-f09",
+              "sectionId": "ppt-sporsackssvampar",
+              "text": "Askosporer utvecklas inuti en ascus, medan basidiosporer utvecklas utanpå ett basidium."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c01",
+              "ppt-sporsackssvampar-c02",
+              "ppt-sporsackssvampar-c08"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q01",
+              "ppt-sporsackssvampar-q03"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01",
+              "ppt-sporsackssvampar-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i02",
+          "sourceKnowledge": "Gruppen innehåller jästsvampar, mögelsvampar och storformer som äkta tryfflar, murklor och skålsvampar.",
+          "sourceEvidence": "Första stycket namnger alla fem exemplen.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-sporsackssvampar-f02",
+              "sectionId": "ppt-sporsackssvampar",
+              "text": "Murklor, äkta tryfflar och skålsvampar anges som större sporsäckssvampsexempel."
+            },
+            {
+              "id": "ppt-sporsackssvampar-f03",
+              "sectionId": "ppt-sporsackssvampar",
+              "text": "Bild 27 tar upp mikroskopiska jäst- och mögelsvampar, men alla jäst- och mögelformer är inte automatiskt Ascomycota."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c03",
+              "ppt-sporsackssvampar-c04"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q02"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i03",
+          "sourceKnowledge": "Skålsvampens säckar finns i den sporproducerande vävnaden i den skålformade fruktkroppen.",
+          "sourceEvidence": "Förstoringslinjen går från skålens inre yta till raden av sporsäckar.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-sporsackssvampar-f05",
+              "sectionId": "ppt-sporsackssvampar",
+              "text": "Skålsvampsfiguren kopplar skålens inre yta till förstorade sporsäckar med sporer inuti."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-sporsackssvampar-c08"
+            ],
+            "quiz": [
+              "ppt-sporsackssvampar-q03"
+            ],
+            "recall": [
+              "ppt-sporsackssvampar-r01",
+              "ppt-sporsackssvampar-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i04",
+          "sourceKnowledge": "Jästsvampar är encelliga.",
+          "sourceEvidence": "Jäsningsstyckets inledning.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "hyfer-mycel-f02",
+              "sectionId": "hyfer-mycel",
+              "text": "Jäst hör till gruppen med huvudsakligen ensamma, runda celler."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "hyfer-mycel-c01"
+            ],
+            "quiz": [
+              "hyfer-mycel-q4"
+            ],
+            "recall": []
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i05",
+          "sourceKnowledge": "Jäsning spjälkar socker utan att syre används och bildar koldioxid och etanol.",
+          "sourceEvidence": "Andra stycket beskriver energiprocessen, syre och de två produkterna.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-jast-mogel-f01",
+              "sectionId": "ppt-jast-mogel",
+              "text": "Vid alkoholjäsning spjälkar jäst socker utan att syre används i processen; koldioxid och etanol bildas."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-jast-mogel-c01",
+              "ppt-jast-mogel-c02",
+              "ppt-jast-mogel-c04"
+            ],
+            "quiz": [
+              "ppt-jast-mogel-q01",
+              "ppt-jast-mogel-q05"
+            ],
+            "recall": [
+              "ppt-jast-mogel-r01",
+              "ppt-jast-mogel-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i06",
+          "sourceKnowledge": "Jäsning skiljer sig från fullständig nedbrytning vid cellandning till koldioxid och vatten.",
+          "sourceEvidence": "Andra styckets jämförelse uttrycker att sockret inte spjälkas fullständigt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-jast-mogel-f02",
+              "sectionId": "ppt-jast-mogel",
+              "text": "Jäsningens produkter etanol och koldioxid skiljer sig från fullständig aerob nedbrytning till koldioxid och vatten."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-jast-mogel-c03"
+            ],
+            "quiz": [
+              "ppt-jast-mogel-q01",
+              "ppt-jast-mogel-q03"
+            ],
+            "recall": [
+              "ppt-jast-mogel-r01",
+              "ppt-jast-mogel-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i07",
+          "sourceKnowledge": "Jäsning utnyttjas i bakning samt öl- och vintillverkning.",
+          "sourceEvidence": "Andra stycket.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "manniskans-tjanst-f01",
+              "sectionId": "manniskans-tjanst",
+              "text": "Jäst används i brödbakning, ölbryggning och vinjäsning."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "manniskans-tjanst-c01"
+            ],
+            "quiz": [
+              "manniskans-tjanst-q1"
+            ],
+            "recall": [
+              "manniskans-tjanst-r1",
+              "ppt-jast-mogel-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i08",
+          "sourceKnowledge": "Koldioxidgasen får degen att svälla.",
+          "sourceEvidence": "Sista meningen i jäsningsstycket.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-jast-mogel-f03",
+              "sectionId": "ppt-jast-mogel",
+              "text": "Vid bakning är koldioxidgasen från jäsningen det som får degen att svälla."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-jast-mogel-c04"
+            ],
+            "quiz": [
+              "ppt-jast-mogel-q02"
+            ],
+            "recall": [
+              "ppt-jast-mogel-r01",
+              "ppt-jast-mogel-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i09",
+          "sourceKnowledge": "Penselmögel är släktet Penicillium och används i roquefort och camembert.",
+          "sourceEvidence": "Sista stycket anger släktet och båda ostarna.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-jast-mogel-f04",
+              "sectionId": "ppt-jast-mogel",
+              "text": "Penselmögel är släktet Penicillium och används bland annat i roquefort och camembert."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-jast-mogel-c05"
+            ],
+            "quiz": [
+              "ppt-jast-mogel-q04"
+            ],
+            "recall": []
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p27-i10",
+          "sourceKnowledge": "Penicillin är ett antibiotikum som utvinns ur penselmögel.",
+          "sourceEvidence": "Sista meningen.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-jast-mogel-f05",
+              "sectionId": "ppt-jast-mogel",
+              "text": "Penicillin är ett antibiotikum som har utvunnits ur penselmögel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-jast-mogel-c06"
+            ],
+            "quiz": [
+              "ppt-jast-mogel-q04"
+            ],
+            "recall": []
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "title": "Svampens delar – exempel hos en basidiesvamp",
+      "render": "work\\ppt-correction\\render\\slide-28.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Fruktkroppens hatt/fot/ring, markmycel och hyfal vävnad täcks. Förstoringsrelationen till basidium med utvändiga sporer och tre undersidetyper skivor/rör/taggar förklaras. Den nya numrerade övningsfiguren har konsekventa facit: 3 ring, 5 strumpa, 6 mycel, 7 hyf och 8 basidium. Originalets olegendade nummer används inte för att uppfinna en säker bildnyckel.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-anatomi-q01",
+          "question": "Vilken struktur visar nummer 3 i övningsbilden?",
+          "answer": "Nummer 3 visar strukturen runt foten ovanför fotbasen: ringen. Strumpan finns vid basen."
+        },
+        {
+          "id": "ppt-anatomi-q02",
+          "question": "Vilken förklaring är riktig för strukturen vid nummer 5?",
+          "answer": "Nummer 5 är strumpan/volvan, som ska hållas isär från ring och underjordiskt mycel."
+        },
+        {
+          "id": "ppt-anatomi-q03",
+          "question": "Vad visar skillnaden mellan nummer 6 och nummer 7?",
+          "answer": "Mycel är nätverket och hyf är en tråd. De ska inte beskrivas som svampens växtrötter."
+        },
+        {
+          "id": "ppt-anatomi-q04",
+          "question": "Den mikroskopiska förstoringen vid nummer 8 visar ett basidium. Vilken relation är riktig?",
+          "answer": "Basidiet är mikroskopiskt och bildar sporer på utskott, till skillnad från sporer inne i asci."
+        },
+        {
+          "id": "ppt-anatomi-c06",
+          "question": "Hur skiljer sig undersidan hos en skivling, rörsvamp och taggsvamp?",
+          "answer": "Skivling har skivor, rörsvamp har rör och taggsvamp har taggar."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p28-i01",
+          "sourceKnowledge": "Fruktkroppen har hatt och fot, ibland ring; markens nätverk är mycel.",
+          "sourceEvidence": "Hatt/fot markeras med 1/2 och mycel med 3; ring (ibland) är explicit.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f01",
+              "sectionId": "ppt-anatomi",
+              "text": "Hatt och fot är delar av den typiska hattsvampens fruktkropp; fruktkroppen sitter samman med ett mycel av hyfer."
+            },
+            {
+              "id": "ppt-anatomi-f05",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring finns på foten hos vissa arter, medan strumpa eller volva sitter vid fotbasen; de är inte samma struktur."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c01",
+              "ppt-anatomi-c02",
+              "ppt-anatomi-c07"
+            ],
+            "quiz": [
+              "ppt-anatomi-q01",
+              "ppt-anatomi-q02",
+              "ppt-anatomi-q03",
+              "ppt-anatomi-q07"
+            ],
+            "recall": [
+              "ppt-anatomi-r01",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p28-i02",
+          "sourceKnowledge": "Fruktkroppsvävnaden består av svamphyfer.",
+          "sourceEvidence": "Pil från fotens punkt till en cirkel med hyftrådar och etiketten svamphyfer.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "fruktkroppar-tillvaxt-f03",
+              "sectionId": "fruktkroppar-tillvaxt",
+              "text": "Fruktkroppar består i princip av många av samma slags celler som mycelet."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "fruktkroppar-tillvaxt-c03",
+              "ppt-anatomi-c01"
+            ],
+            "quiz": [
+              "fruktkroppar-tillvaxt-q3"
+            ],
+            "recall": [
+              "fruktkroppar-tillvaxt-r1",
+              "ppt-anatomi-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p28-i03",
+          "sourceKnowledge": "Basidiet är en klubbformad sporproducerande cell med sporer på utskott.",
+          "sourceEvidence": "Förstoring från hattens undersida; explicit basidietext.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f03",
+              "sectionId": "ppt-anatomi",
+              "text": "I den avbildade basidiesvampen finns basidier på hymeniet. Basidier är klubbformade celler som bildar sporer på utskott utanför cellen."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c05",
+              "ppt-anatomi-c11"
+            ],
+            "quiz": [
+              "ppt-anatomi-q04",
+              "ppt-anatomi-q05",
+              "ppt-anatomi-q06",
+              "ppt-anatomi-q07",
+              "ppt-basidie-livscykel-q02"
+            ],
+            "recall": [
+              "ppt-anatomi-r02",
+              "ppt-anatomi-r03",
+              "ppt-basidie-livscykel-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p28-i04",
+          "sourceKnowledge": "Skivling, rörsvamp och taggsvamp skiljs genom undersidans skivor, rör respektive taggar.",
+          "sourceEvidence": "Tre separata kroppsskisser till höger.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f04",
+              "sectionId": "ppt-anatomi",
+              "text": "Presentationens skivlingar, rörsvampar och taggsvampar skiljs genom undersidans skivor, rör respektive taggar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c06"
+            ],
+            "quiz": [
+              "ppt-anatomi-q06"
+            ],
+            "recall": []
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "title": "Svampens delar – två etiketterade bilder",
+      "render": "work\\ppt-correction\\render\\slide-29.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Alla märkta strukturer omfattas: hatt, skivor/lameller, ring, sporer, fot, strumpa, mycel, fjäll, hymenium och hyfer. Teorin kopplar skiva till sporbildande hymenium och mikroskopiskt basidium. Fjäll/ring/strumpa skiljs från sporer och beskrivs med artspecifik variation.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-anatomi-c03",
+          "question": "Vilka två ord används för samma undersidesstruktur på sida 29?",
+          "answer": "Skivor och lameller."
+        },
+        {
+          "id": "ppt-anatomi-c04",
+          "question": "Vad är hymenium, och varför är det inte samma sak som hela skivan?",
+          "answer": "Hymenium är den sporproducerande vävnaden på skivans yta. Skivan är den större fysiska strukturen."
+        },
+        {
+          "id": "ppt-anatomi-c08",
+          "question": "Vilket skyddshölje kan ge en ring?",
+          "answer": "Ett hölje som täckte den unga hattens sporproducerande undersida kan lämna en ring på foten."
+        },
+        {
+          "id": "ppt-anatomi-r03",
+          "question": "En elev kallar hela den synliga svampen för ett mycel och tror att fotens enda funktion är att ta upp vatten från marken. Förklara varför detta missar viktiga samband och koppla anatomin till näringsupptag och förökning.",
+          "answer": "Den synliga hattsvampen är en fruktkropp som består av hyfer och växer från mycelet. Mycel är hela det vegetativa hyfnätverket i substratet. Det nätverket ger stor kontaktyta och används för upptag av näring efter yttre enzymnedbrytning. Fruktkroppen bär däremot sporproducerande vävnad. Hatten bär undersidan; foten lyfter den så att sporer lättare kan spridas över markens hinder. På skivorna finns hymenium med basidier och sporer. Ring och strumpa är spår av skyddshöljen, inte egna näringsrötter. Modellen är en typisk hattsvamp: andra fruktkroppsformer och arter utan fot eller ring finns, så resonemanget får inte bli ett krav på all svampanatomi."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p29-i01",
+          "sourceKnowledge": "Hatt och fot är delar av fruktkroppen.",
+          "sourceEvidence": "Två teckningar med positionspilar och höger övergripande etikett FRUKTKROPP.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f01",
+              "sectionId": "ppt-anatomi",
+              "text": "Hatt och fot är delar av den typiska hattsvampens fruktkropp; fruktkroppen sitter samman med ett mycel av hyfer."
+            },
+            {
+              "id": "ppt-anatomi-f07",
+              "sectionId": "ppt-anatomi",
+              "text": "Hatten bär den sporproducerande ytan; foten lyfter den så att sporer kan spridas förbi markens hinder."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c01",
+              "ppt-anatomi-c02",
+              "ppt-anatomi-c10"
+            ],
+            "quiz": [
+              "ppt-anatomi-q03"
+            ],
+            "recall": [
+              "ppt-anatomi-r01",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p29-i02",
+          "sourceKnowledge": "Skivor kallas också lameller; hymenium är den sporproducerande vävnaden på ytan.",
+          "sourceEvidence": "Skivor på vänster bild, lameller och hymenium på höger bild med pilar mot undersidan.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f02",
+              "sectionId": "ppt-anatomi",
+              "text": "Skivor och lameller är två namn på undersidans skivformade strukturer. Hymenium är den sporproducerande vävnaden på ytan."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c03",
+              "ppt-anatomi-c04",
+              "ppt-anatomi-c11"
+            ],
+            "quiz": [
+              "ppt-anatomi-q05"
+            ],
+            "recall": [
+              "ppt-anatomi-r02",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p29-i03",
+          "sourceKnowledge": "Sporer lämnar hattens sporproducerande undersida.",
+          "sourceEvidence": "Vänster bild visar prickar under skivor och sporerpil.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f03",
+              "sectionId": "ppt-anatomi",
+              "text": "I den avbildade basidiesvampen finns basidier på hymeniet. Basidier är klubbformade celler som bildar sporer på utskott utanför cellen."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c05",
+              "ppt-anatomi-c11"
+            ],
+            "quiz": [
+              "ppt-anatomi-q04",
+              "ppt-anatomi-q05",
+              "ppt-anatomi-q06",
+              "ppt-anatomi-q07",
+              "ppt-basidie-livscykel-q02"
+            ],
+            "recall": [
+              "ppt-anatomi-r02",
+              "ppt-anatomi-r03",
+              "ppt-basidie-livscykel-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p29-i04",
+          "sourceKnowledge": "Ring sitter på foten och strumpa vid fotbasen.",
+          "sourceEvidence": "Vänster figur har särskilda pilar mot ring och strumpa; höger figur visar ring.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f05",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring finns på foten hos vissa arter, medan strumpa eller volva sitter vid fotbasen; de är inte samma struktur."
+            },
+            {
+              "id": "ppt-anatomi-f08",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring och strumpa är ofta rester av olika höljen kring den unga fruktkroppen: undersidans hölje kan lämna ring, hela kroppens hölje kan lämna strumpa och ibland hattfläckar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c07",
+              "ppt-anatomi-c08",
+              "ppt-anatomi-c09"
+            ],
+            "quiz": [
+              "ppt-anatomi-q01",
+              "ppt-anatomi-q02",
+              "ppt-anatomi-q07"
+            ],
+            "recall": [
+              "ppt-anatomi-r01",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p29-i05",
+          "sourceKnowledge": "Fjäll på hatten är en egen synlig struktur.",
+          "sourceEvidence": "Etiketten fjäll pekar mot hattens överyta i höger foto.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f06",
+              "sectionId": "ppt-anatomi",
+              "text": "Bildens hattfjäll är synliga delar på hattens översida och ska skiljas från skivor och sporer på undersidan."
+            },
+            {
+              "id": "ppt-anatomi-f08",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring och strumpa är ofta rester av olika höljen kring den unga fruktkroppen: undersidans hölje kan lämna ring, hela kroppens hölje kan lämna strumpa och ibland hattfläckar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c08",
+              "ppt-anatomi-c09",
+              "ppt-anatomi-c11"
+            ],
+            "quiz": [
+              "ppt-anatomi-q02"
+            ],
+            "recall": [
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p29-i06",
+          "sourceKnowledge": "Hyfer bildar mycel under marken, skilt från synlig fruktkropp.",
+          "sourceEvidence": "Vänster mycelpil; höger hyferpil under foto av fruktkropp.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "hyfer-mycel-f06",
+              "sectionId": "hyfer-mycel",
+              "text": "Hyferna förgrenar sig, och ett nätverk av hyfer kallas mycel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "hyfer-mycel-c03",
+              "hyfer-mycel-c05"
+            ],
+            "quiz": [
+              "hyfer-mycel-q1",
+              "ppt-anatomi-q03"
+            ],
+            "recall": [
+              "hyfer-mycel-r1",
+              "ppt-anatomi-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "title": "Röd flugsvamp – delar och mycel",
+      "render": "work\\ppt-correction\\render\\slide-30.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Röd flugsvamp är figurens exempel; hatt, skivor, ring, fot, strumpa och det sammanhängande markmycelet omfattas. Den schematiska basen markeras som förenklad och blir ingen säker artnyckel. Fruktkropp jämförs med hela svampens nätverk.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-anatomi-r01",
+          "question": "Förklara vad som är fruktkropp, mycel och hyf i figuren och ange hatt, fot, ring och strumpa.",
+          "answer": "Fruktkroppen är den synliga struktur som bär sporbildningen. Hatten sitter överst och foten bär hatten. Ringen sitter på foten, när en sådan finns, medan strumpa/volva finns vid fotbasen. Under marken är de sammanbundna trådarna mycel; varje tråd är en hyf. Fruktkroppen är själv byggd av hyfer och växer från mycelet. Alla svampar har inte exakt den visade kroppsformen."
+        },
+        {
+          "id": "ppt-anatomi-r03",
+          "question": "En elev kallar hela den synliga svampen för ett mycel och tror att fotens enda funktion är att ta upp vatten från marken. Förklara varför detta missar viktiga samband och koppla anatomin till näringsupptag och förökning.",
+          "answer": "Den synliga hattsvampen är en fruktkropp som består av hyfer och växer från mycelet. Mycel är hela det vegetativa hyfnätverket i substratet. Det nätverket ger stor kontaktyta och används för upptag av näring efter yttre enzymnedbrytning. Fruktkroppen bär däremot sporproducerande vävnad. Hatten bär undersidan; foten lyfter den så att sporer lättare kan spridas över markens hinder. På skivorna finns hymenium med basidier och sporer. Ring och strumpa är spår av skyddshöljen, inte egna näringsrötter. Modellen är en typisk hattsvamp: andra fruktkroppsformer och arter utan fot eller ring finns, så resonemanget får inte bli ett krav på all svampanatomi."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p30-i01",
+          "sourceKnowledge": "Röd flugsvamp kan användas som anatomiskt exempel med hatt, skivor, ring, fot, strumpa och mycel.",
+          "sourceEvidence": "Figurens titel och samtliga sex etiketter.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f01",
+              "sectionId": "ppt-anatomi",
+              "text": "Hatt och fot är delar av den typiska hattsvampens fruktkropp; fruktkroppen sitter samman med ett mycel av hyfer."
+            },
+            {
+              "id": "ppt-anatomi-f05",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring finns på foten hos vissa arter, medan strumpa eller volva sitter vid fotbasen; de är inte samma struktur."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c01",
+              "ppt-anatomi-c02",
+              "ppt-anatomi-c07"
+            ],
+            "quiz": [
+              "ppt-anatomi-q01",
+              "ppt-anatomi-q02",
+              "ppt-anatomi-q03",
+              "ppt-anatomi-q07"
+            ],
+            "recall": [
+              "ppt-anatomi-r01",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p30-i02",
+          "sourceKnowledge": "Skivorna under hatten utgör sporproducerande yta hos detta exempel.",
+          "sourceEvidence": "Förstoringsfotot och röd pil Skivor med sporer.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f03",
+              "sectionId": "ppt-anatomi",
+              "text": "I den avbildade basidiesvampen finns basidier på hymeniet. Basidier är klubbformade celler som bildar sporer på utskott utanför cellen."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c05",
+              "ppt-anatomi-c11"
+            ],
+            "quiz": [
+              "ppt-anatomi-q04",
+              "ppt-anatomi-q05",
+              "ppt-anatomi-q06",
+              "ppt-anatomi-q07",
+              "ppt-basidie-livscykel-q02"
+            ],
+            "recall": [
+              "ppt-anatomi-r02",
+              "ppt-anatomi-r03",
+              "ppt-basidie-livscykel-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p30-i03",
+          "sourceKnowledge": "Det marklevande mycelet är större än den synliga fruktkroppen och sitter samman med denna.",
+          "sourceEvidence": "Figuren visar nätverket utbrett under mark och foten ansluten ovanför.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "hyfer-mycel-f06",
+              "sectionId": "hyfer-mycel",
+              "text": "Hyferna förgrenar sig, och ett nätverk av hyfer kallas mycel."
+            },
+            {
+              "id": "hyfer-mycel-f08",
+              "sectionId": "hyfer-mycel",
+              "text": "Ett mycel i marken kan sträcka sig tiotals eller hundratals meter åt olika håll."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "hyfer-mycel-c03",
+              "hyfer-mycel-c05",
+              "hyfer-mycel-c06"
+            ],
+            "quiz": [
+              "hyfer-mycel-q1",
+              "ppt-anatomi-q03"
+            ],
+            "recall": [
+              "hyfer-mycel-r1",
+              "hyfer-mycel-r2",
+              "ppt-anatomi-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "title": "Hur svampar fungerar",
+      "render": "work\\ppt-correction\\render\\slide-31.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Eukaryoti, avsaknad av kloroplaster, cellvägg/kitin, polysackarid och källans styrkejämförelse återanvänder bevarade bokfakta och övningar. Encelliga/flercelliga former, långsträckta hyfer, mycel och temperatur/fukt som villkor för fruktkropp finns i både befintlig teori och nya sammanbindande stycken.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "cellbyggnad-c05",
+          "question": "Vilket ämne nämns särskilt i svampens cellvägg?",
+          "answer": "Kitin."
+        },
+        {
+          "id": "cellbyggnad-q4",
+          "question": "Hur beskrivs kitin i jämförelse med ren cellulosa?",
+          "answer": "Boken jämför kitin med ren cellulosa och anger att kitin är lite starkare och segare."
+        },
+        {
+          "id": "hyfer-mycel-r1",
+          "question": "Förklara sambandet mellan svampcell, hyf och mycel och hur nätverket kan transportera material.",
+          "answer": "Avlånga svampceller bildar långa hyfer. Cellerna är sammanbundna genom stora öppningar, där näringsämnen, proteiner, ribosomer och hela organeller kan förflyttas. Förgrenade hyfer bildar tillsammans ett mycel."
+        },
+        {
+          "id": "fruktkroppar-tillvaxt-r1",
+          "question": "Förklara hur fruktkroppar kan växa fram snabbt från ett mycel. Ta med villkor, celltyp och transport.",
+          "answer": "Hos några svampar skjuter fruktkroppar ut från mycelet när temperatur och fuktighet är rätt. De består i princip av samma slags celler som mycelet. Hyfer växer i ändarna och näring transporteras snabbt genom kanaler mellan cellerna. Ett mycel som omfattar hundratals kvadratmeter kan därför koncentrera tillväxten till några få platser."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p31-i01",
+          "sourceKnowledge": "Svampar är eukaryoter, saknar kloroplaster och har cellvägg.",
+          "sourceEvidence": "Första punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "cellbyggnad-f01",
+              "sectionId": "cellbyggnad",
+              "text": "Svampar är eukaryota organismer."
+            },
+            {
+              "id": "cellbyggnad-f03",
+              "sectionId": "cellbyggnad",
+              "text": "Svampar har inga kloroplaster och utför ingen fotosyntes."
+            },
+            {
+              "id": "cellbyggnad-f04",
+              "sectionId": "cellbyggnad",
+              "text": "Svampceller omges av en cellvägg som skiljer sig i byggnad från både växters och bakteriers cellväggar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "cellbyggnad-c01",
+              "cellbyggnad-c03",
+              "cellbyggnad-c04"
+            ],
+            "quiz": [
+              "cellbyggnad-q1",
+              "cellbyggnad-q3",
+              "ekosystem-flera"
+            ],
+            "recall": [
+              "cellbyggnad-r1",
+              "cellbyggnad-r2"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p31-i02",
+          "sourceKnowledge": "Cellväggen innehåller kitin, en polysackarid; läraren jämför styrkan med cellulosa.",
+          "sourceEvidence": "Andra punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "cellbyggnad-f05",
+              "sectionId": "cellbyggnad",
+              "text": "Svampens cellvägg innehåller bland annat kitin."
+            },
+            {
+              "id": "cellbyggnad-f06",
+              "sectionId": "cellbyggnad",
+              "text": "Kitin är en cellulosa­liknande polysackarid med många aminogrupper."
+            },
+            {
+              "id": "cellbyggnad-f07",
+              "sectionId": "cellbyggnad",
+              "text": "Kitin är enligt boken lite starkare och segare än ren cellulosa."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "cellbyggnad-c05",
+              "cellbyggnad-c06",
+              "cellbyggnad-c07"
+            ],
+            "quiz": [
+              "cellbyggnad-q2",
+              "cellbyggnad-q4"
+            ],
+            "recall": [
+              "cellbyggnad-r1",
+              "cellbyggnad-r2"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p31-i03",
+          "sourceKnowledge": "Svampar finns som encelliga, exempelvis jäst, och flercelliga trådformer.",
+          "sourceEvidence": "Tredje och fjärde punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "hyfer-mycel-f01",
+              "sectionId": "hyfer-mycel",
+              "text": "En av bokens två huvudgrupper har runda celler som huvudsakligen lever en och en som encelliga varelser."
+            },
+            {
+              "id": "hyfer-mycel-f02",
+              "sectionId": "hyfer-mycel",
+              "text": "Jäst hör till gruppen med huvudsakligen ensamma, runda celler."
+            },
+            {
+              "id": "hyfer-mycel-f03",
+              "sectionId": "hyfer-mycel",
+              "text": "I den andra huvudgruppen är cellerna avlånga och bildar långa trådar som kallas hyfer."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "hyfer-mycel-c01",
+              "hyfer-mycel-c02"
+            ],
+            "quiz": [
+              "hyfer-mycel-q4"
+            ],
+            "recall": [
+              "hyfer-mycel-r1"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p31-i04",
+          "sourceKnowledge": "Avlånga svampceller bildar hyfer; nätverk av hyfer kallas mycel.",
+          "sourceEvidence": "Fjärde och femte punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "hyfer-mycel-f03",
+              "sectionId": "hyfer-mycel",
+              "text": "I den andra huvudgruppen är cellerna avlånga och bildar långa trådar som kallas hyfer."
+            },
+            {
+              "id": "hyfer-mycel-f06",
+              "sectionId": "hyfer-mycel",
+              "text": "Hyferna förgrenar sig, och ett nätverk av hyfer kallas mycel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "hyfer-mycel-c01",
+              "hyfer-mycel-c02",
+              "hyfer-mycel-c03",
+              "hyfer-mycel-c05"
+            ],
+            "quiz": [
+              "hyfer-mycel-q1",
+              "ppt-anatomi-q03"
+            ],
+            "recall": [
+              "hyfer-mycel-r1",
+              "ppt-anatomi-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p31-i05",
+          "sourceKnowledge": "Fruktkroppar växer ut från mycel när temperatur och fukt är lämpliga.",
+          "sourceEvidence": "Sjätte punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "fruktkroppar-tillvaxt-f01",
+              "sectionId": "fruktkroppar-tillvaxt",
+              "text": "Hos några arter kan fruktkroppar skjuta ut från mycelet när temperatur och fuktighet är rätt."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "fruktkroppar-tillvaxt-c01"
+            ],
+            "quiz": [
+              "fruktkroppar-tillvaxt-q1"
+            ],
+            "recall": [
+              "fruktkroppar-tillvaxt-r1"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "title": "Ekologi och svampar – nedbrytare",
+      "render": "work\\ppt-correction\\render\\slide-32.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Fungi och bakterier nämns tillsammans som viktiga nedbrytare. Saprofyt förklaras troget mot lärartermen och jämförs med modern saprotrof. Dött växt- och djurmaterial samt stubbe illustrerar näringskällan utan påhittat artnamn.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-tillvaxt-nedbrytning-c01",
+          "question": "Vilka två organismgrupper lyfter presentationen fram som särskilt betydelsefulla nedbrytare?",
+          "answer": "Svampar och bakterier."
+        },
+        {
+          "id": "ppt-tillvaxt-nedbrytning-q01",
+          "question": "Vilket exempel beskriver näringsstrategin saprotrofi?",
+          "answer": "Saprotrofi innebär näring från dött organiskt material. De andra relationerna skiljer sig i näringskälla eller mekanism."
+        },
+        {
+          "id": "ppt-tillvaxt-nedbrytning-r01",
+          "question": "Förklara hur en svamp kan börja växa på dött organiskt material och varför fukt, temperatur, ventilation och kylförvaring spelar roll.",
+          "answer": "Sporen behöver hamna där förhållandena är gynnsamma: fukt, lämplig temperatur och organiskt material. Den kan då gro, ge hyfer och utveckla ett mycel. En saprotrof svamp får näring från döda växt- eller djurdelar genom att utsöndra enzymer och ta upp små molekyler efter nedbrytning. Torrhet och kyla bromsar tillväxt. Ventilation kan bidra till mindre fukt, medan kylförvaring sänker temperaturen. Åtgärderna minskar risken men betyder inte att alla sporer dör eller att mögel är omöjligt."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p32-i01",
+          "sourceKnowledge": "Svampar räknas tillsammans med bakterier till de mest betydelsefulla nedbrytarna.",
+          "sourceEvidence": "Första punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f01",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Presentationens s. 32 räknar svampar tillsammans med bakterier till de mest betydelsefulla nedbrytarna."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-tillvaxt-nedbrytning-c01"
+            ],
+            "quiz": [],
+            "recall": []
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p32-i02",
+          "sourceKnowledge": "Saprofyt är lärarens ord för organismer som tar näring från döda växter och djur.",
+          "sourceEvidence": "Andra punkt med understruket saprofyter.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f02",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Lärarens saprofyt tar näring från döda växt- och djurdelar. Den moderna termen saprotrof används för denna näringsstrategi."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-tillvaxt-nedbrytning-c02"
+            ],
+            "quiz": [
+              "ppt-tillvaxt-nedbrytning-q01"
+            ],
+            "recall": [
+              "ppt-tillvaxt-nedbrytning-r01",
+              "ppt-tillvaxt-nedbrytning-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p32-i03",
+          "sourceKnowledge": "Fruktkroppar på en stubbe visar hur svampar kan utnyttja dött växtmaterial.",
+          "sourceEvidence": "Fotot visar många fruktkroppar på död stubbe.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ekosystem-f09",
+              "sectionId": "ekosystem",
+              "text": "Svampar spelar stor roll som nedbrytare och kan exempelvis omvandla ett nedfallet träd till mull på några år."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ekosystem-c06"
+            ],
+            "quiz": [
+              "ekosystem-q1",
+              "ekosystem-q3",
+              "ekosystem-flera"
+            ],
+            "recall": [
+              "ekosystem-r1"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "title": "Mykorrhiza – rotkontakt i diagram",
+      "render": "work\\ppt-correction\\render\\slide-33.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Mykorrhizabilden läses som rotkontakt och en mantel av svamphyfer kring rotspetsen, skilt från själva rotvävnaden. Träd, markmycel och fruktkropp kopplas ihop; originalfigurens rootlet/fungus återges genom rot-/svampförklaringen. Bildfrågan kräver mekanismtolkning.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-mykorrhiza-q01",
+          "question": "Vad visar hyfmanteln runt roten?",
+          "answer": "Manteln består av hyfer från svampen och hör till den fysiska kontakten med roten."
+        },
+        {
+          "id": "ppt-mykorrhiza-r01",
+          "question": "Förklara mykorrhizabilden och följ resursutbytet i båda riktningarna.",
+          "answer": "Svampens mycel står i kontakt med växtens rötter. Presentationen visar en hyfmantel runt en rot. Mycelets stora markkontakt kan hjälpa växten att få vatten och mineralämnen eller lösta närsalter. Växten bildar socker genom fotosyntes och ger svampen kolhydrater. Det är ett ömsesidigt nyttigt utbyte, alltså mutualism. Mykorrhiza betyder svamprot. Smörsopp–tall och björksopp–björk är lärarens växtpartnerexempel. En mantel och hyfer inne i rotceller är olika typer av kontakt."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p33-i01",
+          "sourceKnowledge": "Mykorrhiza är fysisk kontakt mellan svampens mycel och växtens rötter.",
+          "sourceEvidence": "Översikt med fruktkropp, mycel och rötter samt rubriken Mykorrhiza.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f01",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Presentationens figur och text visar kontakt mellan mycel och växtrötter, ofta med en mantel av svamphyfer runt roten."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c01"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q01"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p33-i02",
+          "sourceKnowledge": "Diagrammet visar svamphyfer runt en rotspets, alltså en manteltyp av mykorrhiza.",
+          "sourceEvidence": "Förstoringen rootlet/fungus och streckets mål i rot–mycelgränsen.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f01",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Presentationens figur och text visar kontakt mellan mycel och växtrötter, ofta med en mantel av svamphyfer runt roten."
+            },
+            {
+              "id": "ppt-mykorrhiza-f06",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Ektomykorrhiza har hyfmantel runt roten och hyfer mellan rotceller; arbuskulär mykorrhiza kan ha hyfer inne i rotceller. Dessa kontaktmodeller får inte likställas."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c01",
+              "ppt-mykorrhiza-c07"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q01",
+              "ppt-mykorrhiza-q04"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "title": "Ekologi – mykorrhizans utbyte",
+      "render": "work\\ppt-correction\\render\\slide-34.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Utbytets båda riktningar är rätt: fotosyntetiskt producerade kolhydrater från växt till svamp och vatten/mineralämnen från svamp till växt. Hyfmantel och mutualism förklaras. Äldre bokmodell med inträngning i rotceller hålls avgränsad från ektomykorrhizans mantel/intercellulära hyfer.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-mykorrhiza-q02",
+          "question": "Vilket utbyte anger presentationen?",
+          "answer": "Växtens fotosyntes bidrar med organiskt socker; svampens marknätverk ger resurser till växten."
+        },
+        {
+          "id": "ppt-mykorrhiza-q04",
+          "question": "Vilken precisering skiljer rotkontaktens modeller åt?",
+          "answer": "Ektomykorrhiza omger roten och har kontakt mellan celler. Andra former kan ha kontakt inne i celler. Nytta/skada kan inte avgöras enbart av läget."
+        },
+        {
+          "id": "ppt-mykorrhiza-r02",
+          "question": "Två annars jämförbara plantor växer i näringsfattig jord. Den ena har fungerande mykorrhiza, den andra saknar kontakten. Resonera om en möjlig tillväxtskillnad, vad båda parterna får och varför man inte kan lova en fördel i alla miljöer.",
+          "answer": "Hyfernas stora kontaktyta kan hjälpa mykorrhizaplantan att få vatten och mineralämnen som begränsar växtens tillväxt. Växten ger samtidigt svampen kolhydrater från fotosyntesen: svampen är heterotrof och får en organisk resurs, medan växten kan få bättre markförsörjning. Det förklarar den tillväxtfördel presentationen och boken beskriver och varför relationen kan vara mutualism. En skillnad mellan plantorna skulle vara förenlig med mekanismen, men ensam inte bevisa att all tillväxtskillnad orsakas av mykorrhizan; andra förhållanden måste vara jämförbara. Resursbegränsning, partner och miljö påverkar nyttan, så en generell garanti följer inte av exemplet. Anatomiskt är en hyfmantel runt roten skild från en modell med hyfer inne i rotceller; båda behöver bedömas genom utbytet och effekten på partnern."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p34-i01",
+          "sourceKnowledge": "Svampar kan leva i symbios, mykorrhiza, med växter.",
+          "sourceEvidence": "Första punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "mykorrhiza-parasitism-f05",
+              "sectionId": "mykorrhiza-parasitism",
+              "text": "Ofta är kontakten mellan svamp och växt en ömsesidigt nyttig symbios."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "mykorrhiza-parasitism-c02",
+              "mykorrhiza-parasitism-c04"
+            ],
+            "quiz": [],
+            "recall": [
+              "mykorrhiza-parasitism-r1",
+              "mykorrhiza-parasitism-r2"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p34-i02",
+          "sourceKnowledge": "Växtrötter är ofta omgivna av en mantel av svamphyfer.",
+          "sourceEvidence": "Andra punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f01",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Presentationens figur och text visar kontakt mellan mycel och växtrötter, ofta med en mantel av svamphyfer runt roten."
+            },
+            {
+              "id": "ppt-mykorrhiza-f06",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Ektomykorrhiza har hyfmantel runt roten och hyfer mellan rotceller; arbuskulär mykorrhiza kan ha hyfer inne i rotceller. Dessa kontaktmodeller får inte likställas."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c01",
+              "ppt-mykorrhiza-c07"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q01",
+              "ppt-mykorrhiza-q04"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p34-i03",
+          "sourceKnowledge": "Trädet avger kolhydrater till svampen.",
+          "sourceEvidence": "Tredje punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "mykorrhiza-parasitism-f06",
+              "sectionId": "mykorrhiza-parasitism",
+              "text": "Vid denna symbios förser svampen växten med fosfater och andra mineraler i utbyte mot växtens kolhydrater."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "mykorrhiza-parasitism-c04",
+              "mykorrhiza-parasitism-c05",
+              "mykorrhiza-parasitism-c06"
+            ],
+            "quiz": [
+              "mykorrhiza-parasitism-q1",
+              "ekosystem-flera"
+            ],
+            "recall": [
+              "mykorrhiza-parasitism-r1",
+              "mykorrhiza-parasitism-r2"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p34-i04",
+          "sourceKnowledge": "Trädet får vatten och mineralämnen via svampens stora mycelnätverk.",
+          "sourceEvidence": "Fjärde punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f02",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Växten får vatten och mineralämnen/lösta närsalter genom svampens stora nätverk av hyfer; markkontakten ökar resursupptaget."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c02",
+              "ppt-mykorrhiza-c04"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q02",
+              "ppt-mykorrhiza-q03",
+              "ppt-mykorrhiza-q05"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "title": "Sex och kloning bland svampar",
+      "render": "work\\ppt-correction\\render\\slide-35.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Både asexuell celldelning/sporbildning och sexuell kompatibilitet/feromoner återanvänds. Spridning, groning och hyf-/mycelbildning hålls isär; fukt, lämplig temperatur och organiskt material är villkor, inte varmare-alltid-bättre. Cellinnehållsfusion och kärnfusion skiljs genom plasmogami, n+n och karyogami till 2n. Meios ger åter haploida kärnor/sporer.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-tillvaxt-nedbrytning-q02",
+          "question": "En spor landar på organiskt material. Vilken slutsats följer av presentationens groningsvillkor?",
+          "answer": "Tillgång till material är ett av flera villkor. Presentationen nämner också fukt och värme, vilket här preciseras som lämplig temperatur."
+        },
+        {
+          "id": "ppt-basidie-livscykel-q01",
+          "question": "Kompatibla primära mycel har just förenat sitt cellinnehåll. Kärnorna är fortfarande åtskilda. Vilket tillstånd har uppstått i den typiska modellen?",
+          "answer": "Plasmogami förenar cellinnehåll. Kärnfusion till en 2n-kärna sker senare och ska hållas isär."
+        },
+        {
+          "id": "ppt-basidie-livscykel-r03",
+          "question": "En elev säger: ”Efter att två mycel förenats är hela svampen diploid. När hatten växer sker meios i alla hyfer så att sporer kan bildas.” Analysera felen med basidiemodellen och förklara hur stor fruktkropp, tvåkärnighet och sexuella kärnsteg hänger ihop.",
+          "answer": "Eleven likställer plasmogami med karyogami och blandar sedan ihop tillväxt med meios. Vid plasmogami förenas kompatibla mycels cellinnehåll, men de haploida kärnorna hålls åtskilda. Sekundärt mycel och mycket av fruktkroppsvävnaden är i den typiska modellen n + n, inte en enda 2n-kärna. Mycelet kan växa och ge en stor fruktkropp utan att varje hyf genomgår meios. Mitotiska kärndelningar bevarar uppsättningen under tillväxt. De sexuella övergångarna är lokaliserade till basidier: karyogami ger en kort diploid kärnfas, följd av meios till haploida kärnor som hamnar i externa basidiesporer. Därmed återkopplas cykeln till nya primära mycel. Kroppens storlek eller antalet kärnor är inte ensamt ett mått på ploiditet. Förklaringen gäller den typiska avbildade basidiesvampcykeln; andra svampgrupper kan ha andra livscykler."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p35-i01",
+          "sourceKnowledge": "Svampar kan föröka sig asexuellt; encellig jäst kan dela sig.",
+          "sourceEvidence": "Första punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "asexuell-forokning-f03",
+              "sectionId": "asexuell-forokning",
+              "text": "Encelliga svampar som jäst förökar sig asexuellt genom att dela sig."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "asexuell-forokning-c05"
+            ],
+            "quiz": [
+              "asexuell-forokning-q2"
+            ],
+            "recall": [
+              "asexuell-forokning-r1"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p35-i02",
+          "sourceKnowledge": "Flercelliga kan bilda små sporceller med ett skyddande tåligt skal.",
+          "sourceEvidence": "Andra punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "asexuell-forokning-f04",
+              "sectionId": "asexuell-forokning",
+              "text": "Flercelliga svampar kan föröka sig asexuellt genom att några celler bildar en struktur där celler delar sig."
+            },
+            {
+              "id": "asexuell-forokning-f05",
+              "sectionId": "asexuell-forokning",
+              "text": "Vid denna sporbildning blir cellerna mycket små och omges av ett mycket hårt, tåligt skal."
+            },
+            {
+              "id": "asexuell-forokning-f06",
+              "sectionId": "asexuell-forokning",
+              "text": "De små skalomgivna cellerna kallas sporer."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "asexuell-forokning-c06",
+              "asexuell-forokning-c07"
+            ],
+            "quiz": [
+              "asexuell-forokning-q3",
+              "asexuell-forokning-ordna"
+            ],
+            "recall": [
+              "asexuell-forokning-r1",
+              "asexuell-forokning-r2"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p35-i03",
+          "sourceKnowledge": "Sporer sprids och gror vid gynnsam fukt, temperatur och tillgång till organiskt material; hyfer växer till mycel.",
+          "sourceEvidence": "Tredje punkt nämner fukt, värme och organiskt material, sedan tillväxt och mycel.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f03",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Sporgroning kräver gynnsamma förhållanden, i presentationens exempel fukt, lämplig temperatur och organiskt material; tillväxten ger hyfer och mycel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-tillvaxt-nedbrytning-c03"
+            ],
+            "quiz": [
+              "ppt-tillvaxt-nedbrytning-q02",
+              "ppt-tillvaxt-nedbrytning-q03",
+              "ppt-tillvaxt-nedbrytning-q05"
+            ],
+            "recall": [
+              "ppt-tillvaxt-nedbrytning-r01",
+              "ppt-tillvaxt-nedbrytning-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p35-i04",
+          "sourceKnowledge": "Många svampar kan föröka sig sexuellt; mycel söker parningspartner med feromoner.",
+          "sourceEvidence": "Fjärde punkt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "sexuell-forokning-f01",
+              "sectionId": "sexuell-forokning",
+              "text": "Många, men texten säger inte alla, svampar kan också föröka sig sexuellt."
+            },
+            {
+              "id": "sexuell-forokning-f03",
+              "sectionId": "sexuell-forokning",
+              "text": "De två könen skiljer sig bara genom att tillverka varsitt parningssignalämne, ett feromon, och ha en receptor för det motsatta könets parningssignalämne."
+            },
+            {
+              "id": "sexuell-forokning-f04",
+              "sectionId": "sexuell-forokning",
+              "text": "När mycel från samma slags svamp av motsatt kön kommer nära varandra får signalämnena hyfer att växa mot varandra."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "sexuell-forokning-c01",
+              "sexuell-forokning-c02",
+              "sexuell-forokning-c03",
+              "sexuell-forokning-c04"
+            ],
+            "quiz": [
+              "sexuell-forokning-q1",
+              "sexuell-forokning-ordna"
+            ],
+            "recall": [
+              "sexuell-forokning-r1"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p35-i05",
+          "sourceKnowledge": "Hyfförening och kärnförening är olika steg; åtskilda haploida kärnor föregår diploid kärna och åter haploida sporer.",
+          "sourceEvidence": "Femte punkten beskriver kärnor/diploid/haploida sporer men otydligt med celler slås ihop.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f03",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Plasmogami förenar kompatibla primära mycels cellinnehåll. Sekundärt mycel bildas med två fortfarande åtskilda haploida kärnor, n + n, i den typiska modellen."
+            },
+            {
+              "id": "ppt-basidie-livscykel-f08",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Två åtskilda haploida kärnor, n + n, är inte samma kärntillstånd som en enda diploid kärna, 2n."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c01",
+              "ppt-basidie-livscykel-c02",
+              "ppt-basidie-livscykel-c03"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q01",
+              "ppt-basidie-livscykel-q03",
+              "ppt-basidie-livscykel-q05"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r02",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p35-i06",
+          "sourceKnowledge": "Meios behövs för att återgå från diploid till haploid i den sexuella cykeln.",
+          "sourceEvidence": "Femte punktens diploid → haploida sporer; meiosnamnet saknas på denna sida men visas p39.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "sexuell-forokning-f10",
+              "sectionId": "sexuell-forokning",
+              "text": "Meiosen ger sporer med enkel kromosomuppsättning."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "sexuell-forokning-c09",
+              "sexuell-forokning-c10"
+            ],
+            "quiz": [
+              "sexuell-forokning-q4",
+              "sexuell-forokning-ordna"
+            ],
+            "recall": [
+              "sexuell-forokning-r1",
+              "sexuell-forokning-r2"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "title": "Svamparnas levnadssätt",
+      "render": "work\\ppt-correction\\render\\slide-36.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "All rastertext är inventerad: tre heterotrofa strategier; parasitism i levande värd; flera tickor och nagelsvamp; nedbrytning av döda växt-/djurdelar; mögel i hus; långsammare tillväxt vid torrt/kallt; ventilation och kylskåp; rot/mycelkontakt; närsalter/vatten mot fotosyntessocker; svamprot/mutualism; snabbare tillväxt och ekonomi; smörsopp-tall och björksopp-björk. Teorierna innehåller hela innehållet med korrekta facit. Den övergripande coveragepostens trevägsmodell granskas separat för fullständig spårbarhet.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-parasitism-q02",
+          "question": "Vilken värd och exempelkoppling anges?",
+          "answer": "Källans två människorelaterade exempel är fotsvamp och nagelsvamp."
+        },
+        {
+          "id": "ppt-parasitism-r01",
+          "question": "Beskriv parasitism och ge exempel hos människa, träd och frukt.",
+          "answer": "Mycelet tar näring i en levande värd som skadas. Fotsvamp och nagelsvamp exemplifierar människa som värd. Tallticka på tall är bildtextens trädexempel och flera tickor nämns som trädparasiter. Fruktmögel ges som parasitisk sporsäckssvamp. Näring från redan dött material är nedbrytning."
+        },
+        {
+          "id": "ppt-tillvaxt-nedbrytning-q04",
+          "question": "Vilken förklaring binder ihop ventilation och kylförvaring med lägre mögelrisk?",
+          "answer": "De påverkar olika miljöfaktorer som är relevanta för tillväxt. Presentationen beskriver riskminskning, inte en garanti om frånvaro av mögel."
+        },
+        {
+          "id": "ppt-mykorrhiza-c06",
+          "question": "Vilka växtpartner hör ihop med smörsopp och björksopp i presentationen?",
+          "answer": "Smörsopp med tall, björksopp med björk."
+        },
+        {
+          "id": "ppt-mykorrhiza-r02",
+          "question": "Två annars jämförbara plantor växer i näringsfattig jord. Den ena har fungerande mykorrhiza, den andra saknar kontakten. Resonera om en möjlig tillväxtskillnad, vad båda parterna får och varför man inte kan lova en fördel i alla miljöer.",
+          "answer": "Hyfernas stora kontaktyta kan hjälpa mykorrhizaplantan att få vatten och mineralämnen som begränsar växtens tillväxt. Växten ger samtidigt svampen kolhydrater från fotosyntesen: svampen är heterotrof och får en organisk resurs, medan växten kan få bättre markförsörjning. Det förklarar den tillväxtfördel presentationen och boken beskriver och varför relationen kan vara mutualism. En skillnad mellan plantorna skulle vara förenlig med mekanismen, men ensam inte bevisa att all tillväxtskillnad orsakas av mykorrhizan; andra förhållanden måste vara jämförbara. Resursbegränsning, partner och miljö påverkar nyttan, så en generell garanti följer inte av exemplet. Anatomiskt är en hyfmantel runt roten skild från en modell med hyfer inne i rotceller; båda behöver bedömas genom utbytet och effekten på partnern."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p36-i01",
+          "sourceKnowledge": "Svampar är heterotrofa och försörjer sig enligt tre här beskrivna strategier: parasitism, nedbrytning, symbios med fotoautotrofer.",
+          "sourceEvidence": "Inledning och tre fetstilta underrubriker.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "naringsstrategi-f01",
+              "sectionId": "naringsstrategi",
+              "text": "Svampar är heterotrofer och lever av energi som andra livsformer har skapat."
+            },
+            {
+              "id": "ppt-mykorrhiza-f02",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Växten får vatten och mineralämnen/lösta närsalter genom svampens stora nätverk av hyfer; markkontakten ökar resursupptaget."
+            },
+            {
+              "id": "ppt-mykorrhiza-f03",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Svampen får organiskt socker eller kolhydrater som den fotoautotrofa växten har bildat genom fotosyntes."
+            },
+            {
+              "id": "ppt-mykorrhiza-f04",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Mykorrhiza betyder svamprot. Det beskrivna ömsesidigt nyttiga utbytet är mutualism."
+            },
+            {
+              "id": "ppt-parasitism-f01",
+              "sectionId": "ppt-parasitism",
+              "text": "Vid parasitism växer svampens mycel i en levande organism, tar näring och skadar värden."
+            },
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f02",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Lärarens saprofyt tar näring från döda växt- och djurdelar. Den moderna termen saprotrof används för denna näringsstrategi."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "naringsstrategi-c01",
+              "cellbyggnad-c03",
+              "ppt-parasitism-c01",
+              "ppt-parasitism-c04",
+              "ppt-parasitism-c06",
+              "ppt-mykorrhiza-c02",
+              "ppt-mykorrhiza-c03",
+              "ppt-mykorrhiza-c04",
+              "ppt-mykorrhiza-c05",
+              "ppt-tillvaxt-nedbrytning-c02"
+            ],
+            "quiz": [
+              "naringsstrategi-q1",
+              "ppt-parasitism-q01",
+              "ppt-parasitism-q05",
+              "ppt-mykorrhiza-q02",
+              "ppt-mykorrhiza-q03",
+              "ppt-mykorrhiza-q05",
+              "ppt-tillvaxt-nedbrytning-q01"
+            ],
+            "recall": [
+              "naringsstrategi-r1",
+              "naringsstrategi-r2",
+              "ppt-parasitism-r01",
+              "ppt-parasitism-r02",
+              "ppt-parasitism-r03",
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02",
+              "ppt-tillvaxt-nedbrytning-r01",
+              "ppt-tillvaxt-nedbrytning-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i02",
+          "sourceKnowledge": "Parasitens mycel växer i levande organism, tar dess näring och skadar värden.",
+          "sourceEvidence": "Första underavsnittet.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-parasitism-f01",
+              "sectionId": "ppt-parasitism",
+              "text": "Vid parasitism växer svampens mycel i en levande organism, tar näring och skadar värden."
+            },
+            {
+              "id": "ppt-parasitism-f07",
+              "sectionId": "ppt-parasitism",
+              "text": "Tickans yttre konsol är en fruktkropp; parasitens näringsupptagande mycel kan finnas inne i den levande värden."
+            },
+            {
+              "id": "ppt-parasitism-f08",
+              "sectionId": "ppt-parasitism",
+              "text": "Parasitism gäller näring från en levande värd som skadas; nedbrytning av redan dött material är en annan relation."
+            },
+            {
+              "id": "ppt-parasitism-f10",
+              "sectionId": "ppt-parasitism",
+              "text": "Parasit är en ekologisk relation medan basidiesvamp/sporsäckssvamp är gruppbegrepp kopplade till sexuell sporbildning."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-parasitism-c01",
+              "ppt-parasitism-c04",
+              "ppt-parasitism-c06",
+              "ppt-parasitism-c07"
+            ],
+            "quiz": [
+              "ppt-parasitism-q01",
+              "ppt-parasitism-q03",
+              "ppt-parasitism-q04",
+              "ppt-parasitism-q05"
+            ],
+            "recall": [
+              "ppt-parasitism-r01",
+              "ppt-parasitism-r02",
+              "ppt-parasitism-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i03",
+          "sourceKnowledge": "Flera tickor är trädparasiter; nagelsvamp är ett exempel som angriper människor.",
+          "sourceEvidence": "Första underavsnittets två namngivna exempel.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-parasitism-f03",
+              "sectionId": "ppt-parasitism",
+              "text": "Nagelsvamp är ytterligare ett människorelaterat svampexempel på bild 36."
+            },
+            {
+              "id": "ppt-parasitism-f05",
+              "sectionId": "ppt-parasitism",
+              "text": "Bild 36 beskriver flera tickor som trädparasiter, inte alla tickor."
+            },
+            {
+              "id": "ppt-parasitism-f09",
+              "sectionId": "ppt-parasitism",
+              "text": "Fotsvamp, nagelsvamp, tallticka–tall och presentationens fruktmögel illustrerar parasitism med olika värdar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-parasitism-c02",
+              "ppt-parasitism-c08"
+            ],
+            "quiz": [
+              "ppt-parasitism-q02",
+              "ppt-parasitism-q04"
+            ],
+            "recall": [
+              "ppt-parasitism-r01",
+              "ppt-parasitism-r02",
+              "ppt-parasitism-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i04",
+          "sourceKnowledge": "Nedbrytare tar näring från döda växt- och djurdelar; läraren använder saprofyt.",
+          "sourceEvidence": "Andra underavsnittet.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f02",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Lärarens saprofyt tar näring från döda växt- och djurdelar. Den moderna termen saprotrof används för denna näringsstrategi."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-tillvaxt-nedbrytning-c02"
+            ],
+            "quiz": [
+              "ppt-tillvaxt-nedbrytning-q01"
+            ],
+            "recall": [
+              "ppt-tillvaxt-nedbrytning-r01",
+              "ppt-tillvaxt-nedbrytning-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i05",
+          "sourceKnowledge": "Mögelsvampar kan växa i bostäder; torrt och kallt bromsar svamptillväxt.",
+          "sourceEvidence": "Andra underavsnittets mitt.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f04",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Mögelsvampar kan växa i bostäder; svamptillväxten går långsamt när förhållandena är torra och kalla."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-tillvaxt-nedbrytning-c04",
+              "ppt-tillvaxt-nedbrytning-c05"
+            ],
+            "quiz": [
+              "ppt-tillvaxt-nedbrytning-q04",
+              "ppt-tillvaxt-nedbrytning-q05"
+            ],
+            "recall": [
+              "ppt-tillvaxt-nedbrytning-r01",
+              "ppt-tillvaxt-nedbrytning-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i06",
+          "sourceKnowledge": "God ventilation och kylförvaring av känslig mat minskar risken för mögelangrepp.",
+          "sourceEvidence": "Andra underavsnittets avslutning.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f05",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "God ventilation kan minska risken för mögelangrepp genom att bidra till torrare förhållanden."
+            },
+            {
+              "id": "ppt-tillvaxt-nedbrytning-f06",
+              "sectionId": "ppt-tillvaxt-nedbrytning",
+              "text": "Kylförvaring av känslig mat minskar mögelrisken genom att bromsa tillväxten; den garanterar inte att alla sporer dör eller att mögel blir omöjligt."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-tillvaxt-nedbrytning-c05",
+              "ppt-tillvaxt-nedbrytning-c06"
+            ],
+            "quiz": [
+              "ppt-tillvaxt-nedbrytning-q04",
+              "ppt-tillvaxt-nedbrytning-q05"
+            ],
+            "recall": [
+              "ppt-tillvaxt-nedbrytning-r01",
+              "ppt-tillvaxt-nedbrytning-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i07",
+          "sourceKnowledge": "Hyfer ökar växtens upptag av vatten och lösta närsalter från marken.",
+          "sourceEvidence": "Tredje underavsnittets inledning.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f02",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Växten får vatten och mineralämnen/lösta närsalter genom svampens stora nätverk av hyfer; markkontakten ökar resursupptaget."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c02",
+              "ppt-mykorrhiza-c04"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q02",
+              "ppt-mykorrhiza-q03",
+              "ppt-mykorrhiza-q05"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i08",
+          "sourceKnowledge": "Svampen får organiskt socker som växten bildat genom fotosyntes.",
+          "sourceEvidence": "Tredje underavsnittets utbytesmening.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f03",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Svampen får organiskt socker eller kolhydrater som den fotoautotrofa växten har bildat genom fotosyntes."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c03"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q02",
+              "ppt-mykorrhiza-q03"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i09",
+          "sourceKnowledge": "Mykorrhiza betyder svamprot; utbytet är mutualism som gynnar båda parterna.",
+          "sourceEvidence": "Tredje underavsnittets två följande meningar.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f04",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Mykorrhiza betyder svamprot. Det beskrivna ömsesidigt nyttiga utbytet är mutualism."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c05"
+            ],
+            "quiz": [],
+            "recall": [
+              "ppt-mykorrhiza-r01",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i10",
+          "sourceKnowledge": "Mykorrhiza gynnar trädtillväxt och är viktig för skogsbrukets ekonomi.",
+          "sourceEvidence": "Tredje underavsnittets näst sista mening.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "mykorrhiza-parasitism-f10",
+              "sectionId": "mykorrhiza-parasitism",
+              "text": "Växter växer betydligt snabbare när mykorrhiza har etablerats än utan mykorrhiza."
+            },
+            {
+              "id": "mykorrhiza-parasitism-f11",
+              "sectionId": "mykorrhiza-parasitism",
+              "text": "Mykorrhiza har en viktig roll för avkastningen i både åkrar och skogar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "mykorrhiza-parasitism-c09"
+            ],
+            "quiz": [
+              "mykorrhiza-parasitism-q4",
+              "ppt-mykorrhiza-q05"
+            ],
+            "recall": [
+              "mykorrhiza-parasitism-r1",
+              "ppt-mykorrhiza-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p36-i11",
+          "sourceKnowledge": "Många mykorrhizasvampar har särskilda växtpartner: smörsopp vid tall och björksopp vid björk.",
+          "sourceEvidence": "Tredje underavsnittets sista två meningar.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-mykorrhiza-f05",
+              "sectionId": "ppt-mykorrhiza",
+              "text": "Presentationens växtpartnerexempel är smörsopp vid tall och björksopp vid björk."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-mykorrhiza-c06"
+            ],
+            "quiz": [
+              "ppt-mykorrhiza-q03"
+            ],
+            "recall": [
+              "ppt-mykorrhiza-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "title": "Svampens livscykel – groning och fruktkroppsutveckling",
+      "render": "work\\ppt-correction\\render\\slide-37.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Den avbildade synliga tillväxtkedjan spor→hyf→mycel→anlag→ung→mogen fruktkropp återges och övas. Hatt/skivor/ring/strumpa/fot/sporer/mycel/hyf/fruktkropp täcks via anatomiavsnittet. Figuren anses inte ensam visa vare sig kärnfusion, meios eller en entydigt fullständig sexuell cykel.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-basidie-livscykel-c08",
+          "question": "Vad saknar sida 37 om man vill förklara den fullständiga sexuella basidiesvampcykeln?",
+          "answer": "Kärnstegen: plasmogami, åtskilda kärnor, karyogami och meios. Sida 37 visar främst spridning, groning och synlig tillväxt."
+        },
+        {
+          "id": "ppt-basidie-livscykel-q06",
+          "question": "Varför ger sida 37 ensam inte en fullständig förklaring av sexuell basidiesvampförökning?",
+          "answer": "Tillväxtcykeln är relevant men behöver kompletteras med p39s sexuella kärnsteg."
+        },
+        {
+          "id": "ppt-basidie-livscykel-r02",
+          "question": "Jämför vad sida 37 och sida 39 visar. Vad kan du lära dig av utvecklingsbilden, och vilka extra mekanismer behöver den för att bli en fullständig sexuell modell?",
+          "answer": "Sida 37 visar en fruktkropp som släpper sporer, groning till hyfer, mycel och anlag som blir ung och mogen fruktkropp. Den förklarar synlig utveckling men saknar kärnfusions- och meiosetiketter. Sida 39 tillför primärt och sekundärt mycel, plasmogami, åtskilda kärnor, karyogami i basidiet, meios och basidiesporer. Därför kan inte sida 37 ensam användas som bevis för om en viss avbildad spore bildats asexuellt eller sexuellt. Den biologiska förklaringen behöver koppla makroskopisk tillväxt till de mikroskopiska kärnstegen."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p37-i01",
+          "sourceKnowledge": "Mogen fruktkropp släpper sporer som gror och växer till hyfer och mycel.",
+          "sourceEvidence": "Pilar 1–4 med spor-/hyffigurer och Mycel.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f10",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Sida 37 visar sporspridning, groning, mycel och fruktkroppsutveckling, men saknar cellkärnornas fusions- och meiossteg som sida 39 visar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c08"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q06"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r02"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p37-i02",
+          "sourceKnowledge": "Mycelet växer och kan bilda fruktkroppsanlag som utvecklas till ung och mogen fruktkropp.",
+          "sourceEvidence": "Pilar 4–7 och anlag under/vid markytan.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f04",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Det sekundära mycelet kan bilda fruktkroppsanlag som utvecklas via ett ungt knoppstadium till mogen fruktkropp."
+            },
+            {
+              "id": "ppt-basidie-livscykel-f10",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Sida 37 visar sporspridning, groning, mycel och fruktkroppsutveckling, men saknar cellkärnornas fusions- och meiossteg som sida 39 visar."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c07",
+              "ppt-basidie-livscykel-c08"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q03",
+              "ppt-basidie-livscykel-q05",
+              "ppt-basidie-livscykel-q06"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r02",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p37-i03",
+          "sourceKnowledge": "Hatt, skivor, ring, strumpa och fot hör till fruktkroppen, medan hyfer bildar mycelet.",
+          "sourceEvidence": "Samtliga anatomietiketter runt mogen kropp och rotliknande nätverk.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f01",
+              "sectionId": "ppt-anatomi",
+              "text": "Hatt och fot är delar av den typiska hattsvampens fruktkropp; fruktkroppen sitter samman med ett mycel av hyfer."
+            },
+            {
+              "id": "ppt-anatomi-f05",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring finns på foten hos vissa arter, medan strumpa eller volva sitter vid fotbasen; de är inte samma struktur."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c01",
+              "ppt-anatomi-c02",
+              "ppt-anatomi-c07"
+            ],
+            "quiz": [
+              "ppt-anatomi-q01",
+              "ppt-anatomi-q02",
+              "ppt-anatomi-q03",
+              "ppt-anatomi-q07"
+            ],
+            "recall": [
+              "ppt-anatomi-r01",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "title": "Mycel – fotografi",
+      "render": "work\\ppt-correction\\render\\slide-38.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Det vita förgrenade mycelet i substratet kopplas till nätverket av hyfer i den befintliga teori som återanvänds. Texten identifierar varken säker art eller kärnfas från makrofotot.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "hyfer-mycel-q1",
+          "question": "Vilket alternativ beskriver ett mycel?",
+          "answer": "Mycel är namnet på nätverket av förgrenade hyfer."
+        },
+        {
+          "id": "ppt-anatomi-q03",
+          "question": "Vad visar skillnaden mellan nummer 6 och nummer 7?",
+          "answer": "Mycel är nätverket och hyf är en tråd. De ska inte beskrivas som svampens växtrötter."
+        },
+        {
+          "id": "ppt-anatomi-r01",
+          "question": "Förklara vad som är fruktkropp, mycel och hyf i figuren och ange hatt, fot, ring och strumpa.",
+          "answer": "Fruktkroppen är den synliga struktur som bär sporbildningen. Hatten sitter överst och foten bär hatten. Ringen sitter på foten, när en sådan finns, medan strumpa/volva finns vid fotbasen. Under marken är de sammanbundna trådarna mycel; varje tråd är en hyf. Fruktkroppen är själv byggd av hyfer och växer från mycelet. Alla svampar har inte exakt den visade kroppsformen."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p38-i01",
+          "sourceKnowledge": "Mycel ser ut som ett förgrenat nätverk av hyfer i substratet.",
+          "sourceEvidence": "Det vita nätverket över mörkt material och rubriken.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "hyfer-mycel-f06",
+              "sectionId": "hyfer-mycel",
+              "text": "Hyferna förgrenar sig, och ett nätverk av hyfer kallas mycel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "hyfer-mycel-c03",
+              "hyfer-mycel-c05"
+            ],
+            "quiz": [
+              "hyfer-mycel-q1",
+              "ppt-anatomi-q03"
+            ],
+            "recall": [
+              "hyfer-mycel-r1",
+              "ppt-anatomi-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "title": "Basidiesvampens sexuella livscykel – Amanita pantherina",
+      "render": "work\\ppt-correction\\render\\slide-39.jpg",
+      "visualInspectedFresh": true,
+      "semanticStatus": "covered",
+      "sourceAndAnswerReview": "Amanita pantherina identifieras korrekt som panterflugsvamp, skilt från röd flugsvamp på s.30. Hela engelska figuren översätts biologiskt: primärt mycel n, plasmogami, sekundärt mycel n+n, utvecklat mycel/knopp/fruktkropp, basidier med kärnor, Fertilization som karyogami till 2n, meios och typiskt fyra externa haploida basidiosporer. Tillväxt med mitotiska kärndelningar bevarar ploiditet; fruktkroppens storlek gör den inte diploid. Cap/Gills/Ring/Stem/Volva samt developing egg/button stage är anatomiska respektive fruktkroppsstadier. Figurens särskilda modell blandas inte med bokmodellens generella celldelningsformulering.",
+      "representativeExercisesActuallyRead": [
+        {
+          "id": "ppt-basidie-livscykel-q08",
+          "question": "Originalfiguren är märkt ”Amanita pantherina Life Cycle”. Vad är figurens exempel och huvudsakliga biologiska innehåll?",
+          "answer": "Amanita pantherina är panterflugsvamp. Diagrammet visar en basidiesvamps cykel med primärt och sekundärt mycel, plasmogami, kärnfusion och meios. Röd flugsvamp visas på sida 30, men är inte artbeteckningen i figur 39."
+        },
+        {
+          "id": "ppt-basidie-livscykel-q04",
+          "question": "Vilken kärnförändring hör till karyogami respektive meios i basidiet?",
+          "answer": "Karyogami förenar kärnorna; meios återger haploida kärnor. Dessa övergångar är inte vanlig tillväxt."
+        },
+        {
+          "id": "ppt-basidie-livscykel-q05",
+          "question": "Ordna den sexuella basidiesvampcykeln från en groende basidiespor fram till nya sporer.",
+          "answer": "Följ olika biologiska nivåer: tillväxt, förening av cellinnehåll, kärnfusion, meios och sporbildning."
+        },
+        {
+          "id": "ppt-basidie-livscykel-r01",
+          "question": "Förklara hela den sexuella basidiesvampcykeln från en spor till nästa generation sporer. Ange vad som förenas, var kärnstegen sker och hur kromosomuppsättningen ändras.",
+          "answer": "En haploid basidiespor gror till hyfer och primärt mycel. Kompatibla primära mycel förenar cellinnehåll genom plasmogami. Kärnorna hålls åtskilda: sekundärt mycel med två haploida kärnor, n + n, utvecklas. Det kan växa och bilda fruktkroppar. Basidier finns på hymeniet, exempelvis på skivorna. I basidiet förenas kärnorna genom karyogami, vilket ger en diploid kärna, 2n. Den följs av meios och typiskt fyra haploida kärnor. Dessa hamnar i sporer som utvecklas på utskott utanför basidiet. Sporerna släpps och kan gro till nya primära mycel. Två åtskilda n-kärnor är inte en enda 2n-kärna."
+        },
+        {
+          "id": "ppt-basidie-livscykel-r03",
+          "question": "En elev säger: ”Efter att två mycel förenats är hela svampen diploid. När hatten växer sker meios i alla hyfer så att sporer kan bildas.” Analysera felen med basidiemodellen och förklara hur stor fruktkropp, tvåkärnighet och sexuella kärnsteg hänger ihop.",
+          "answer": "Eleven likställer plasmogami med karyogami och blandar sedan ihop tillväxt med meios. Vid plasmogami förenas kompatibla mycels cellinnehåll, men de haploida kärnorna hålls åtskilda. Sekundärt mycel och mycket av fruktkroppsvävnaden är i den typiska modellen n + n, inte en enda 2n-kärna. Mycelet kan växa och ge en stor fruktkropp utan att varje hyf genomgår meios. Mitotiska kärndelningar bevarar uppsättningen under tillväxt. De sexuella övergångarna är lokaliserade till basidier: karyogami ger en kort diploid kärnfas, följd av meios till haploida kärnor som hamnar i externa basidiesporer. Därmed återkopplas cykeln till nya primära mycel. Kroppens storlek eller antalet kärnor är inte ensamt ett mått på ploiditet. Förklaringen gäller den typiska avbildade basidiesvampcykeln; andra svampgrupper kan ha andra livscykler."
+        }
+      ],
+      "itemResults": [
+        {
+          "itemId": "ppt-p39-i01",
+          "sourceKnowledge": "Amanita pantherina är artnamnet på livscykelexemplet, inte röd flugsvamp.",
+          "sourceEvidence": "Latintext längst ner i bilden.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f01",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Sida 39 visar Amanita pantherina, panterflugsvamp, som exempel på en basidiesvamps sexuella livscykel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [],
+            "quiz": [
+              "ppt-basidie-livscykel-q08"
+            ],
+            "recall": []
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i02",
+          "sourceKnowledge": "Mogna skivor bär basidier; basidierna innehåller cellkärnorna där sexuella kärnsteg sker.",
+          "sourceEvidence": "Pil från Gills till förstorad Basidium med Nuclei.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f03",
+              "sectionId": "ppt-anatomi",
+              "text": "I den avbildade basidiesvampen finns basidier på hymeniet. Basidier är klubbformade celler som bildar sporer på utskott utanför cellen."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c05",
+              "ppt-anatomi-c11"
+            ],
+            "quiz": [
+              "ppt-anatomi-q04",
+              "ppt-anatomi-q05",
+              "ppt-anatomi-q06",
+              "ppt-anatomi-q07",
+              "ppt-basidie-livscykel-q02"
+            ],
+            "recall": [
+              "ppt-anatomi-r02",
+              "ppt-anatomi-r03",
+              "ppt-basidie-livscykel-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i03",
+          "sourceKnowledge": "Kärnfusion sker i basidiet: två haploida kärnor förenas till en diploid kärna.",
+          "sourceEvidence": "Förstoringssekvensen Nuclei → Fertilization visar två kärnor sedan en sammanslagen.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f05",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Karyogami är kärnfusionen i basidiet: två åtskilda haploida kärnor blir en diploid kärna, 2n. Bildens Fertilization avser detta steg."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c04"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q02",
+              "ppt-basidie-livscykel-q04",
+              "ppt-basidie-livscykel-q05",
+              "ppt-basidie-livscykel-q07",
+              "ppt-basidie-livscykel-q08"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r02",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i04",
+          "sourceKnowledge": "Meios efter kärnfusion bildar haploida kärnor i basidiet.",
+          "sourceEvidence": "Meiosis-etikett över mikroskopisk sekvens med fyra kärnor.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f06",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "I p39s typiska basidium följs kärnfusionen av meios, som bildar fyra haploida kärnor."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c05",
+              "ppt-basidie-livscykel-c06",
+              "ppt-basidie-livscykel-c09"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q02",
+              "ppt-basidie-livscykel-q04",
+              "ppt-basidie-livscykel-q05",
+              "ppt-basidie-livscykel-q07",
+              "ppt-basidie-livscykel-q08"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r02",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i05",
+          "sourceKnowledge": "Basidiesporer utvecklas på utskott utanför basidiet och släpps till omgivningen.",
+          "sourceEvidence": "Fyra färgade sporer på utskott i sekvensen, Basidiospores falls to the ground.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f07",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Basidiesporer utvecklas på utskott utanför basidiet; de kan släppas till omgivningen och ge nya primära mycel."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c06"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q05"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r02",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i06",
+          "sourceKnowledge": "Basidiesporer gror till primärt mycel med haploida kärnor.",
+          "sourceEvidence": "Höger del: fallande sporer och Primary mycelium före Plasmogamy.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f02",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Basidiesporer kan gro till hyfer som bildar ett primärt mycel med haploida kärnor."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c01"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q05",
+              "ppt-basidie-livscykel-q08"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i07",
+          "sourceKnowledge": "Plasmogami förenar kompatibla primära mycels cellinnehåll och ger sekundärt mycel med åtskilda haploida kärnor.",
+          "sourceEvidence": "Plasmogamy-etikett och Mycelial hyphae → Secondary mycelium med två kärnfärger.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f03",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Plasmogami förenar kompatibla primära mycels cellinnehåll. Sekundärt mycel bildas med två fortfarande åtskilda haploida kärnor, n + n, i den typiska modellen."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c01",
+              "ppt-basidie-livscykel-c02"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q01",
+              "ppt-basidie-livscykel-q03",
+              "ppt-basidie-livscykel-q05"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r02",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i08",
+          "sourceKnowledge": "Det etablerade sekundära mycelet utvecklar anlag, knoppstadium och mogen fruktkropp.",
+          "sourceEvidence": "Pilar under Developed mycelium och Developing egg → Button stage → Mature mushroom.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f04",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Det sekundära mycelet kan bilda fruktkroppsanlag som utvecklas via ett ungt knoppstadium till mogen fruktkropp."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-basidie-livscykel-c07"
+            ],
+            "quiz": [
+              "ppt-basidie-livscykel-q03",
+              "ppt-basidie-livscykel-q05"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i09",
+          "sourceKnowledge": "Hatt, skivor, ring, fot och strumpa ingår i exemplet; fruktkroppen bär sporproduktion ovan mark medan mycel finns i mark.",
+          "sourceEvidence": "Cap/Gills/Ring/Stem/Volva och Developed mycelium.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-anatomi-f01",
+              "sectionId": "ppt-anatomi",
+              "text": "Hatt och fot är delar av den typiska hattsvampens fruktkropp; fruktkroppen sitter samman med ett mycel av hyfer."
+            },
+            {
+              "id": "ppt-anatomi-f05",
+              "sectionId": "ppt-anatomi",
+              "text": "Ring finns på foten hos vissa arter, medan strumpa eller volva sitter vid fotbasen; de är inte samma struktur."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [
+              "ppt-anatomi-c01",
+              "ppt-anatomi-c02",
+              "ppt-anatomi-c07"
+            ],
+            "quiz": [
+              "ppt-anatomi-q01",
+              "ppt-anatomi-q02",
+              "ppt-anatomi-q03",
+              "ppt-anatomi-q07"
+            ],
+            "recall": [
+              "ppt-anatomi-r01",
+              "ppt-anatomi-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        },
+        {
+          "itemId": "ppt-p39-i10",
+          "sourceKnowledge": "Den fulla basidiesvampcykeln har separata stadier: spor n → primärt mycel → plasmogami → sekundärt mycel n+n → fruktkropp/basidier → karyogami 2n → meios → nya sporer n.",
+          "sourceEvidence": "Cirkulära pilar förbinder alla makro- och mikrosteg, vilket enbart textutdrag inte fångar.",
+          "semanticStatus": "covered",
+          "factEvidence": [
+            {
+              "id": "ppt-basidie-livscykel-f09",
+              "sectionId": "ppt-basidie-livscykel",
+              "text": "Den typiska basidiemodellens ordning är spor n → primärt mycel → plasmogami → sekundärt mycel n + n → fruktkropp/basidier → karyogami 2n → meios → nya basidiesporer n."
+            }
+          ],
+          "exerciseEvidence": {
+            "cards": [],
+            "quiz": [
+              "ppt-basidie-livscykel-q05"
+            ],
+            "recall": [
+              "ppt-basidie-livscykel-r01",
+              "ppt-basidie-livscykel-r03"
+            ]
+          },
+          "traceabilityStatus": "verified",
+          "uncertainties": []
+        }
+      ]
+    }
+  ],
+  "scientificClarificationsChecked": [
+    {
+      "pages": [
+        27
+      ],
+      "note": "Sexuella askosporer utvecklas inuti asci; asexuella stadier och jäst/mögel som växtsätt gör att inte varje exempel automatiskt visar asci. Källans jäsning ska inte tolkas som att jäst aldrig kan respirera.",
+      "reference": "https://www.anbg.gov.au/fungi/ascomycetes-basidiomycetes.html"
+    },
+    {
+      "pages": [
+        33,
+        34,
+        36
+      ],
+      "note": "Mantel runt roten i ektomykorrhiza hålls skild från bokmodellens rotcellinträngning; vatten/mineraler respektive fotosyntessocker går åt rätt håll. Smörsopp-tall/björksopp-björk är källans partners, ingen universell en-till-en-regel.",
+      "reference": "https://www.anbg.gov.au/fungi/mycorrhiza.html"
+    },
+    {
+      "pages": [
+        35,
+        39
+      ],
+      "note": "Plasmogami förenar cellinnehåll; n+n är två åtskilda haploida kärnor. Karyogami i basidium ger kort 2n-fas följd av meios. Tillväxt med mitoser föregår dessa kärnsteg. Typiskt fyra externa basidiosporer är avbildad modell, inte universalantal.",
+      "reference": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267591/"
+    },
+    {
+      "pages": [
+        32,
+        36
+      ],
+      "note": "Modern saprotrof och lärarens saprofyt hålls synliga. Kyla/torrhet bromsar tillväxt och blir ingen garanti om att alla sporer dör.",
+      "reference": "https://www.anbg.gov.au/fungi/what-is-fungus.html"
+    }
+  ],
+  "findings": [
+    {
+      "id": "review27-39-F01",
+      "severity": "low",
+      "itemId": "ppt-p39-i01",
+      "issue": "Art-exemplet Amanita pantherina/panterflugsvamp hade teorifakta men ingen övning i det första författarunderlaget.",
+      "action": "Lägg till en bildtolkningsfråga som skiljer originalets art-exempel från röd flugsvamp och knyter det till basidiesvampscykeln.",
+      "status": "resolved",
+      "resolutionEvidence": [
+        "ppt-basidie-livscykel-q08",
+        "ppt-basidie-livscykel-f01"
+      ]
+    },
+    {
+      "id": "review27-39-D01",
+      "severity": "info",
+      "itemId": "ppt-p27-i01",
+      "relatedItemIds": [
+        "ppt-p27-i02",
+        "ppt-p27-i03"
+      ],
+      "issue": "Asci, samtliga grupp-exempel och skålens förstoring kunde inte slutkontrolleras medan content-14-26.json ännu bara innehöll två av sina avsnitt.",
+      "action": "Kontrollera den integrerade versionens faktiska sporsäcksavsnitt.",
+      "status": "resolved",
+      "resolutionEvidence": [
+        "ppt-sporsackssvampar-f01",
+        "ppt-sporsackssvampar-f02",
+        "ppt-sporsackssvampar-f03",
+        "ppt-sporsackssvampar-f05",
+        "ppt-sporsackssvampar-q03",
+        "ppt-sporsackssvampar-r01"
+      ]
+    },
+    {
+      "id": "review27-39-D02",
+      "severity": "info",
+      "itemId": "ppt-p36-i03",
+      "relatedItemIds": [
+        "ppt-p36-i02"
+      ],
+      "issue": "Människoparasitism/nagelsvamp behövde det då ännu inte integrerade parasitismavsnittet.",
+      "action": "Läs slutversionens parasitfakta och facit.",
+      "status": "resolved",
+      "resolutionEvidence": [
+        "ppt-parasitism-f01",
+        "ppt-parasitism-f03",
+        "ppt-parasitism-f05",
+        "ppt-parasitism-f09",
+        "ppt-parasitism-q02",
+        "ppt-parasitism-r01"
+      ]
+    },
+    {
+      "id": "review27-39-F02",
+      "severity": "low",
+      "itemId": "ppt-p36-i01",
+      "issue": "Den övergripande informationen omfattar både heterotrofi och tre strategier, men dess registrerade factIds och exerciseIds omfattade bara heterotrofibegreppet. Faktisk teori täcker strategierna i andra avsnitt; bristen gäller spårbarhet, inte ett sakfel i teorin.",
+      "action": "Lägg samma coverageId på parasitismens, nedbrytningens och mykorrhizans konkreta faktakopplingar så att hela trevägsmodellen får korrekta övningsreferenser.",
+      "suggestedFactIds": [
+        "naringsstrategi-f01",
+        "ppt-parasitism-f01",
+        "ppt-tillvaxt-nedbrytning-f02",
+        "ppt-mykorrhiza-f02",
+        "ppt-mykorrhiza-f03"
+      ],
+      "status": "resolved",
+      "resolutionEvidence": [
+        "naringsstrategi-f01",
+        "ppt-mykorrhiza-f02",
+        "ppt-mykorrhiza-f03",
+        "ppt-mykorrhiza-f04",
+        "ppt-parasitism-f01",
+        "ppt-tillvaxt-nedbrytning-f02"
+      ]
+    }
+  ],
+  "resolvedFindings": [
+    {
+      "id": "review27-39-F01",
+      "severity": "low",
+      "itemId": "ppt-p39-i01",
+      "issue": "Art-exemplet Amanita pantherina/panterflugsvamp hade teorifakta men ingen övning i det första författarunderlaget.",
+      "action": "Lägg till en bildtolkningsfråga som skiljer originalets art-exempel från röd flugsvamp och knyter det till basidiesvampscykeln.",
+      "status": "resolved",
+      "resolutionEvidence": [
+        "ppt-basidie-livscykel-q08",
+        "ppt-basidie-livscykel-f01"
+      ]
+    },
+    {
+      "id": "review27-39-D01",
+      "severity": "info",
+      "itemId": "ppt-p27-i01",
+      "relatedItemIds": [
+        "ppt-p27-i02",
+        "ppt-p27-i03"
+      ],
+      "issue": "Asci, samtliga grupp-exempel och skålens förstoring kunde inte slutkontrolleras medan content-14-26.json ännu bara innehöll två av sina avsnitt.",
+      "action": "Kontrollera den integrerade versionens faktiska sporsäcksavsnitt.",
+      "status": "resolved",
+      "resolutionEvidence": [
+        "ppt-sporsackssvampar-f01",
+        "ppt-sporsackssvampar-f02",
+        "ppt-sporsackssvampar-f03",
+        "ppt-sporsackssvampar-f05",
+        "ppt-sporsackssvampar-q03",
+        "ppt-sporsackssvampar-r01"
+      ]
+    },
+    {
+      "id": "review27-39-D02",
+      "severity": "info",
+      "itemId": "ppt-p36-i03",
+      "relatedItemIds": [
+        "ppt-p36-i02"
+      ],
+      "issue": "Människoparasitism/nagelsvamp behövde det då ännu inte integrerade parasitismavsnittet.",
+      "action": "Läs slutversionens parasitfakta och facit.",
+      "status": "resolved",
+      "resolutionEvidence": [
+        "ppt-parasitism-f01",
+        "ppt-parasitism-f03",
+        "ppt-parasitism-f05",
+        "ppt-parasitism-f09",
+        "ppt-parasitism-q02",
+        "ppt-parasitism-r01"
+      ]
+    },
+    {
+      "id": "review27-39-F02",
+      "severity": "low",
+      "itemId": "ppt-p36-i01",
+      "issue": "Den övergripande informationen omfattar både heterotrofi och tre strategier, men dess registrerade factIds och exerciseIds omfattade bara heterotrofibegreppet. Faktisk teori täcker strategierna i andra avsnitt; bristen gäller spårbarhet, inte ett sakfel i teorin.",
+      "action": "Lägg samma coverageId på parasitismens, nedbrytningens och mykorrhizans konkreta faktakopplingar så att hela trevägsmodellen får korrekta övningsreferenser.",
+      "suggestedFactIds": [
+        "naringsstrategi-f01",
+        "ppt-parasitism-f01",
+        "ppt-tillvaxt-nedbrytning-f02",
+        "ppt-mykorrhiza-f02",
+        "ppt-mykorrhiza-f03"
+      ],
+      "status": "resolved",
+      "resolutionEvidence": [
+        "naringsstrategi-f01",
+        "ppt-mykorrhiza-f02",
+        "ppt-mykorrhiza-f03",
+        "ppt-mykorrhiza-f04",
+        "ppt-parasitism-f01",
+        "ppt-tillvaxt-nedbrytning-f02"
+      ]
+    }
+  ],
+  "remainingFindings": [],
+  "limitations": [
+    "Granskningen gäller källinnehåll, figursemantik, övningsfacit och itemspårbarhet. Den bekräftar inte drift eller webbläsar-UI; sådana tester görs av huvudagenten.",
+    "Artetiketter som originalet inte fastställer blir inte säkra identifieringar."
+  ],
+  "overallResult": "Pass; all 68 source items semantically covered and reviewed observations resolved"
+}

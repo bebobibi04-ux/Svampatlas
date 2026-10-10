@@ -18,9 +18,10 @@ test('Runtime has no service integrations, remote resource loaders, or authentic
  const app=fs.readFileSync(path.join(root,'js/app.js'),'utf8');assert(app.includes("storageKey='svampatlas-v1',draftKey='svampatlas-exam-v1'"));assert(app.includes('localStorage.setItem'));
 });
 
-test('All bundled original website files and corrected course content match the export inventory',()=>{
+test('Original export assets and unchanged runtimes match the historical export inventory',()=>{
  const crypto=require('node:crypto'),inventory=JSON.parse(fs.readFileSync(path.join(root,'docs/EXPORTKONTROLL.json'),'utf8'));
- for(const item of inventory.preservedWebsiteFiles)assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,item.file))).digest('hex'),item.sha256,item.file);
- assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'content/course.json'))).digest('hex'),inventory.courseSha256);
- const data=JSON.parse(fs.readFileSync(path.join(root,'content/course.json'),'utf8'));assert.equal(data.contentRevision,'film-subject-v2');assert.equal(data.species.length,54);assert.equal(data.sections.flatMap(s=>s.recall).filter(q=>q.type==='open').length,8);
+ for(const item of inventory.preservedWebsiteFiles.filter(item=>!['js/data.js','js/sessions.js'].includes(item.file)))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,item.file))).digest('hex'),item.sha256,item.file);
+ // Full original content preservation is checked by before-powerpoint hashes.
+
+ const data=JSON.parse(fs.readFileSync(path.join(root,'content/course.json'),'utf8'));assert.equal(data.contentRevision,'film-subject-v2');assert.equal(data.species.length,54);assert.equal(data.sections.filter(s=>s.source.kind==='film').flatMap(s=>s.recall).filter(q=>q.type==='open').length,8);
 });

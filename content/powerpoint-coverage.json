@@ -1,0 +1,5024 @@
+{
+  "source": "Svampar.pdf",
+  "sourceSha256": "3c74ca4bce686a35e72d38c6eaf751a73a2af5316ff667af81150ad1029528d7",
+  "date": "2026-10-10",
+  "method": "Alla 39 sidor har granskats visuellt. Varje informationsenhet jämfördes semantiskt mot den sparade publicerade originalversionen; kopplingarna pekar på teorifakta och konkreta övningar. En separat kontroll granskar därefter slutversionen.",
+  "baselineCommit": "429b8037a910e86bd92b65d271f52604257ac3c3",
+  "baselineCounts": {
+    "covered": 22,
+    "missing": 61,
+    "partial": 53
+  },
+  "items": [
+    {
+      "id": "ppt-p01-i01",
+      "page": 1,
+      "knowledge": "Titel SVAMPAR och foto av flera brunhattade fruktkroppar med fot bland mossa. Ingen artetikett eller anatomisk märkning.",
+      "sourceEvidence": "Titel SVAMPAR och foto av flera brunhattade fruktkroppar med fot bland mossa. Ingen artetikett eller anatomisk märkning.",
+      "baselineStatus": "covered",
+      "examinable": false,
+      "uncertainties": [
+        "Arten är inte namngiven på sidan och ska inte identifieras säkert från omslaget."
+      ],
+      "factIds": [
+        "fruktkroppar-tillvaxt-f02"
+      ],
+      "sectionIds": [
+        "fruktkroppar-tillvaxt"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "fruktkroppar-tillvaxt-c02"
+        ],
+        "quiz": [],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i01",
+      "page": 2,
+      "knowledge": "Carl Woeses livsträd visar tre namngivna huvudgrenar: Bakterier, Arkéer och Eukaryoter.",
+      "sourceEvidence": "Carl Woeses livsträd visar tre namngivna huvudgrenar: Bakterier, Arkéer och Eukaryoter.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Tre domäner är lärarens klassiska modell. Märk tydligt att den fullständiga äldre trädtopologin inte är en slutlig modern fylogeni."
+      ],
+      "factIds": [
+        "ppt-systematik-f01",
+        "ppt-systematik-f17"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c01",
+          "ppt-systematik-c06",
+          "ppt-systematik-c11",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q02",
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i02",
+      "page": 2,
+      "knowledge": "Trädgrenarna utgår från en gemensam bas med ett frågetecken och delar sig i ytterligare grenar. Figuren visar släktskap och förgreningar, inte storleksnivåer i taxonomisk hierarki.",
+      "sourceEvidence": "Trädgrenarna utgår från en gemensam bas med ett frågetecken och delar sig i ytterligare grenar. Figuren visar släktskap och förgreningar, inte storleksnivåer i taxonomisk hierarki.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Frågetecknet har ingen ytterligare bildförklaring. De tunna grå tvärlinjerna saknar legend och får inte ges en säker mekanistisk tolkning."
+      ],
+      "factIds": [
+        "ppt-systematik-f02"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c02"
+        ],
+        "quiz": [
+          "ppt-systematik-q07"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i03",
+      "page": 2,
+      "knowledge": "Djur, svampar och växter är märkta inom eukaryotgrenen. Piltexten Ni är här och en röd cirkel pekar vid djurgrenen. Djur och svampar visas som närliggande förgreningar.",
+      "sourceEvidence": "Djur, svampar och växter är märkta inom eukaryotgrenen. Piltexten Ni är här och en röd cirkel pekar vid djurgrenen. Djur och svampar visas som närliggande förgreningar.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "cellbyggnad-f01",
+        "ppt-systematik-f03"
+      ],
+      "sectionIds": [
+        "cellbyggnad",
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "cellbyggnad-c01",
+          "ppt-systematik-c03"
+        ],
+        "quiz": [
+          "cellbyggnad-q3",
+          "ppt-systematik-q02"
+        ],
+        "recall": [
+          "cellbyggnad-r1",
+          "ppt-systematik-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i04",
+      "page": 2,
+      "knowledge": "Bakteriegrenens bildetiketter: Thermotogales, Gröna svavelbakterier, Flavobakterier, Purpurbakterier, Grampositiva bakterier och Cyanobakterier.",
+      "sourceEvidence": "Bakteriegrenens bildetiketter: Thermotogales, Gröna svavelbakterier, Flavobakterier, Purpurbakterier, Grampositiva bakterier och Cyanobakterier.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Presentationens exempelgrupper är äldre benämningar och inte samtliga moderna formella taxa; lägg inte till ospecificerade fysiologiska egenskaper."
+      ],
+      "factIds": [
+        "ppt-systematik-f04"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c04"
+        ],
+        "quiz": [
+          "ppt-systematik-q03"
+        ],
+        "recall": [
+          "ppt-systematik-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i05",
+      "page": 2,
+      "knowledge": "Arkégrenens bildetiketter: Pyrodicticum, Thermoproteus, Halofiler, Methanosarcina, Methanobacterium, Metanokocker och Termokocker.",
+      "sourceEvidence": "Arkégrenens bildetiketter: Pyrodicticum, Thermoproteus, Halofiler, Methanosarcina, Methanobacterium, Metanokocker och Termokocker.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Figuren stavar Pyrodicticum; den etablerade släktesstavningen är Pyrodictium. Blanda inte lärarens stavning med ett påstående om en annan organism."
+      ],
+      "factIds": [
+        "ppt-systematik-f05"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c05"
+        ],
+        "quiz": [
+          "ppt-systematik-q03"
+        ],
+        "recall": [
+          "ppt-systematik-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i06",
+      "page": 2,
+      "knowledge": "Eukaryotgrenens ytterligare etiketter: Ciliater, Spordjur, Amöbor, Flagellater, Tricomonader, Microsporidier och Diplomonader, förutom djur/svampar/växter.",
+      "sourceEvidence": "Eukaryotgrenens ytterligare etiketter: Ciliater, Spordjur, Amöbor, Flagellater, Tricomonader, Microsporidier och Diplomonader, förutom djur/svampar/växter.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Det äldre trädet ritar Microsporidier som en tidigt avvikande egen gren. Presentera detta som källbildens äldre placering och kommentera deras anknytning till svamplinjen i modern forskning; inte som ett aktuellt säkert basalt eukaryot-släktskap."
+      ],
+      "factIds": [
+        "ppt-systematik-f06",
+        "ppt-systematik-f17"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c06",
+          "ppt-systematik-c11",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q03",
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p02-i07",
+      "page": 2,
+      "knowledge": "Bildnyckeln säger att röda blad representerar värmetåliga organismer.",
+      "sourceEvidence": "Bildnyckeln säger att röda blad representerar värmetåliga organismer.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Den röda cirkeln vid Ni är här är en separat markering; det betyder inte att människor är ett rött värmetåligt blad."
+      ],
+      "factIds": [
+        "ppt-systematik-f07"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c07"
+        ],
+        "quiz": [
+          "ppt-systematik-q04"
+        ],
+        "recall": [
+          "ppt-systematik-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p03-i01",
+      "page": 3,
+      "knowledge": "Eukaryoter (Eukaryota) betecknas som en av de tre domänerna som organismer delas in i.",
+      "sourceEvidence": "Eukaryoter (Eukaryota) betecknas som en av de tre domänerna som organismer delas in i.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Formuleringen modern systematik på sidan behöver kommentaren om klassisk tredomänmodell."
+      ],
+      "factIds": [
+        "cellbyggnad-f01",
+        "ppt-systematik-f01"
+      ],
+      "sectionIds": [
+        "cellbyggnad",
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "cellbyggnad-c01",
+          "ppt-systematik-c01"
+        ],
+        "quiz": [
+          "cellbyggnad-q3",
+          "ppt-systematik-q01",
+          "ppt-systematik-q02"
+        ],
+        "recall": [
+          "cellbyggnad-r1",
+          "ppt-systematik-r01",
+          "ppt-systematik-r02",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p03-i02",
+      "page": 3,
+      "knowledge": "En eukaryot kan ha en eller flera komplexa celler; kärnans arvsmassa finns i en avgränsad cellkärna.",
+      "sourceEvidence": "En eukaryot kan ha en eller flera komplexa celler; kärnans arvsmassa finns i en avgränsad cellkärna.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Källan skriver cellmembran runt kärnan. Använd kärnmembran/kärnhölje i förklaringen, och markera att det skiljer sig från cellens yttre membran. Hela organismens DNA ska inte påstås sakna förekomst i andra organeller."
+      ],
+      "factIds": [
+        "cellbyggnad-f02",
+        "hyfer-mycel-f02",
+        "ppt-systematik-f08",
+        "ppt-systematik-f09",
+        "ppt-systematik-f10"
+      ],
+      "sectionIds": [
+        "cellbyggnad",
+        "hyfer-mycel",
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "cellbyggnad-c02",
+          "hyfer-mycel-c01",
+          "ppt-systematik-c08",
+          "ppt-systematik-c09",
+          "ppt-systematik-c10"
+        ],
+        "quiz": [
+          "cellbyggnad-q1",
+          "cellbyggnad-q3",
+          "cellbyggnad-q5",
+          "hyfer-mycel-q4",
+          "ppt-systematik-q05"
+        ],
+        "recall": [
+          "cellbyggnad-r1",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p04-i01",
+      "page": 4,
+      "knowledge": "Eukaryoter delas i klassisk systematik in i riken; riken delas vidare i stammar och därefter fler nivåer.",
+      "sourceEvidence": "Eukaryoter delas i klassisk systematik in i riken; riken delas vidare i stammar och därefter fler nivåer.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-systematik-f12"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c12"
+        ],
+        "quiz": [
+          "ppt-systematik-q06"
+        ],
+        "recall": [
+          "ppt-systematik-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p04-i02",
+      "page": 4,
+      "knowledge": "Presentationens fyra eukaryota riken är protister, svampar, växter och djur.",
+      "sourceEvidence": "Presentationens fyra eukaryota riken är protister, svampar, växter och djur.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Protister är ett historiskt samlingsbegrepp, inte en enda modern naturlig släktskapsgren. Det måste framgå samtidigt som originalschemat bevaras."
+      ],
+      "factIds": [
+        "ppt-systematik-f11",
+        "ppt-systematik-f17"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c06",
+          "ppt-systematik-c11",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p05-i01",
+      "page": 5,
+      "knowledge": "Hierarkibilden har uppifrån Art, Släkte, Familj, Ordning, Klass, Stam, Rike, Domän, Liv. I riktningen från bredast till snävast blir ordningen omvänd.",
+      "sourceEvidence": "Hierarkibilden har uppifrån Art, Släkte, Familj, Ordning, Klass, Stam, Rike, Domän, Liv. I riktningen från bredast till snävast blir ordningen omvänd.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Liv är bildens övergripande etikett, inte en vedertagen taxonomisk rang av samma typ som domän och rike."
+      ],
+      "factIds": [
+        "ppt-systematik-f13",
+        "ppt-systematik-f14"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c12",
+          "ppt-systematik-c13"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q06",
+          "ppt-systematik-q07"
+        ],
+        "recall": [
+          "ppt-systematik-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p05-i02",
+      "page": 5,
+      "knowledge": "Funnelbilden visar nivåer inuti större grupper: flera arter kan ingå i ett släkte, flera släkten i en familj och så vidare till en domän.",
+      "sourceEvidence": "Funnelbilden visar nivåer inuti större grupper: flera arter kan ingå i ett släkte, flera släkten i en familj och så vidare till en domän.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Antalet ritade cirklar är schematiskt och får inte behandlas som biologiska antal arter/släkten."
+      ],
+      "factIds": [
+        "ppt-systematik-f02",
+        "ppt-systematik-f14"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c02",
+          "ppt-systematik-c12",
+          "ppt-systematik-c13"
+        ],
+        "quiz": [
+          "ppt-systematik-q06",
+          "ppt-systematik-q07"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p06-i01",
+      "page": 6,
+      "knowledge": "Protister, Protista, betecknade i äldre systematik mestadels encelliga organismer med cellkärna.",
+      "sourceEvidence": "Protister, Protista, betecknade i äldre systematik mestadels encelliga organismer med cellkärna.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Begreppet får inte förklaras som en enda modern monofyletisk grupp."
+      ],
+      "factIds": [
+        "ppt-systematik-f15",
+        "ppt-systematik-f17"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c06",
+          "ppt-systematik-c11",
+          "ppt-systematik-c14",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p06-i02",
+      "page": 6,
+      "knowledge": "Traditionell indelning: protozoer/urdjur är djurliknande, alger växtliknande och slemsvampar svampliknande.",
+      "sourceEvidence": "Traditionell indelning: protozoer/urdjur är djurliknande, alger växtliknande och slemsvampar svampliknande.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "'Prostiser' är stavfel på sidan. Normalisera till protister men bevara källbilden. Liknelserna är traditionella beskrivningar, inte alla detaljer i modern taxonomi."
+      ],
+      "factIds": [
+        "ppt-systematik-f16"
+      ],
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q08"
+        ],
+        "recall": [
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p07-i01",
+      "page": 7,
+      "knowledge": "Fotot under rubriken Slemsvampar visar många gula kul-/droppformade strukturer, flera på tunna skaft, på död ved.",
+      "sourceEvidence": "Fotot under rubriken Slemsvampar visar många gula kul-/droppformade strukturer, flera på tunna skaft, på död ved.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Ingen art namnges i källan. Enbart färg och form ska inte användas för att hitta på ett artnamn eller stadieidentifiering bortom vad bilden och senare diagram stödjer."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f12"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c11"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p08-i01",
+      "page": 8,
+      "knowledge": "Rubriken säger att slemsvampar inte är riktiga svampar.",
+      "sourceEvidence": "Rubriken säger att slemsvampar inte är riktiga svampar.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Bredbeteckningen slemsvampar täcker inte en universell livscykel; sidorna 8–11 illustrerar plasmodiebildande slemsvampar."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f01",
+        "ppt-slemsvampar-f02"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c01"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q01",
+          "ppt-slemsvampar-q04",
+          "ppt-slemsvampar-q07"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p08-i02",
+      "page": 8,
+      "knowledge": "Presentationens fyra livsstadier anges som spor, gamet, plasmoid och fruktkropp.",
+      "sourceEvidence": "Presentationens fyra livsstadier anges som spor, gamet, plasmoid och fruktkropp.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Gameterna är här haploida amöb-/flagellatceller med en möjlig könscellsroll; inte en separat universell djurlik gamettyp. Ingen enda fyrastadiemodell får påstås omfatta alla slemsvampar."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f01"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c01"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p08-i03",
+      "page": 8,
+      "knowledge": "Sporer anges vara överlevare och lätta att sprida.",
+      "sourceEvidence": "Sporer anges vara överlevare och lätta att sprida.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f02"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c02"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p08-i04",
+      "page": 8,
+      "knowledge": "Ur en mogen spor kommer i presentationens ord gameter/könsceller med enkel kromosomuppsättning.",
+      "sourceEvidence": "Ur en mogen spor kommer i presentationens ord gameter/könsceller med enkel kromosomuppsättning.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Källans 'föds gameter' är en förenkling. Ett groende myxogastriskt sporstadium ger amöboida/flagellata celler som också kan växa och dela sig."
+      ],
+      "factIds": [
+        "asexuell-forokning-f01",
+        "ppt-slemsvampar-livscykel-f03"
+      ],
+      "sectionIds": [
+        "asexuell-forokning",
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "asexuell-forokning-c01",
+          "asexuell-forokning-c02",
+          "ppt-slemsvampar-livscykel-c02",
+          "ppt-slemsvampar-livscykel-c04"
+        ],
+        "quiz": [
+          "asexuell-forokning-q1",
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q05"
+        ],
+        "recall": [
+          "asexuell-forokning-r1",
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p08-i05",
+      "page": 8,
+      "knowledge": "Gameter smälter samman parvis och bildar en zygot; zygot definieras som den cell som bildas vid befruktning när två gameter förenas.",
+      "sourceEvidence": "Gameter smälter samman parvis och bildar en zygot; zygot definieras som den cell som bildas vid befruktning när två gameter förenas.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f05"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c04",
+          "ppt-slemsvampar-livscykel-c05"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p08-i06",
+      "page": 8,
+      "knowledge": "Texten påstår därefter att zygoter förenar sig med andra zygoter för att bilda plasmodier.",
+      "sourceEvidence": "Texten påstår därefter att zygoter förenar sig med andra zygoter för att bilda plasmodier.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Att många zygoter måste fusionera är inte den korrekta grundmekanismen i denna cykel. Olika plasmodier kan under vissa villkor fusionera, men det ska inte tillskrivas denna text som förklaring till huvudcykeln."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f06",
+        "ppt-slemsvampar-livscykel-f12"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c06",
+          "ppt-slemsvampar-livscykel-c07",
+          "ppt-slemsvampar-livscykel-c12"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q04",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q07",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p09-i01",
+      "page": 9,
+      "knowledge": "Plasmoid beskrivs som en supercell som lever i förnan/i multnande organiskt material.",
+      "sourceEvidence": "Plasmoid beskrivs som en supercell som lever i förnan/i multnande organiskt material.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "'Plasmoid' är källans terminologi; standardtermen är plasmodium. Att leva på multnande ved innebär inte att cellmassan är ett svampmycel eller nödvändigtvis äter veden direkt."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f03",
+        "ppt-slemsvampar-f04"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c02",
+          "ppt-slemsvampar-c03"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q02",
+          "ppt-slemsvampar-q04"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r01",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p09-i02",
+      "page": 9,
+      "knowledge": "Plasmodier äter genom att innesluta födan och lösa upp den.",
+      "sourceEvidence": "Plasmodier äter genom att innesluta födan och lösa upp den.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-slemsvampar-f05",
+        "ppt-slemsvampar-f06"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c04",
+          "ppt-slemsvampar-c05"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q03",
+          "ppt-slemsvampar-q04"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r01",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p09-i03",
+      "page": 9,
+      "knowledge": "Plasmodier rör sig/sprider sig; läraren anger normalt ungefär en millimeter per timme.",
+      "sourceEvidence": "Plasmodier rör sig/sprider sig; läraren anger normalt ungefär en millimeter per timme.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Hastigheten varierar med organism och förhållanden. Ingen primär källa i denna audit verifierar 1 mm/h som allmänt normalvärde; lärarens siffra ska märkas källuppgift, inte universalbiologisk konstant."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f07"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c06"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q05"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r01",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p09-i04",
+      "page": 9,
+      "knowledge": "Fruktkropp beskrivs som det sista stadiet och bildas vid näringsbrist.",
+      "sourceEvidence": "Fruktkropp beskrivs som det sista stadiet och bildas vid näringsbrist.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Näringsbrist är inte ensam universell utlösare för alla taxa; ljus och andra miljösignaler kan krävas i undersökta Physarum-system."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f08",
+        "ppt-slemsvampar-livscykel-f08"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar",
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c07",
+          "ppt-slemsvampar-livscykel-c09"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q06",
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r01",
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p10-i01",
+      "page": 10,
+      "knowledge": "Foto under Slemsvampar visar stora oregelbundna gula, skummiga/korniga massor över en ruttnande stubbe; formen skiljer sig från skaftade kulor på sida 7.",
+      "sourceEvidence": "Foto under Slemsvampar visar stora oregelbundna gula, skummiga/korniga massor över en ruttnande stubbe; formen skiljer sig från skaftade kulor på sida 7.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Sidan namnger ingen art eller livsstadium. Fotografiet ensamt fastställer inte vilket specifikt stadium varje gul struktur befinner sig i."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f12"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c11"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p11-i01",
+      "page": 11,
+      "knowledge": "Diagrammets huvudföljd: spor → groende spor → amöboid cell eller flagellatcell → syngami → zygot (2n) → mitos → näringsupptagande plasmodium → moget plasmodium inför sporbildning → ungt sporangium → moget sporangium → meios → sporer.",
+      "sourceEvidence": "Diagrammets huvudföljd: spor → groende spor → amöboid cell eller flagellatcell → syngami → zygot (2n) → mitos → näringsupptagande plasmodium → moget plasmodium inför sporbildning → ungt sporangium → moget sporangium → meios → sporer.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Detta är den sexuella cykel som illustreras för plasmodiebildande slemsvampar; använd inte som identisk cykel för cellulära slemsvampar."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f01",
+        "ppt-slemsvampar-livscykel-f03",
+        "ppt-slemsvampar-livscykel-f07",
+        "ppt-slemsvampar-livscykel-f08",
+        "ppt-slemsvampar-livscykel-f10",
+        "ppt-slemsvampar-livscykel-f13"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c01",
+          "ppt-slemsvampar-livscykel-c02",
+          "ppt-slemsvampar-livscykel-c04",
+          "ppt-slemsvampar-livscykel-c08",
+          "ppt-slemsvampar-livscykel-c09",
+          "ppt-slemsvampar-livscykel-c11",
+          "ppt-slemsvampar-livscykel-c13"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q07",
+          "ppt-slemsvampar-livscykel-q08",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p11-i02",
+      "page": 11,
+      "knowledge": "Pilar mellan amöboid cell och flagellatcell går i båda riktningar; båda cellformerna ansluter till syngami.",
+      "sourceEvidence": "Pilar mellan amöboid cell och flagellatcell går i båda riktningar; båda cellformerna ansluter till syngami.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f04"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c03"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q02"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p11-i03",
+      "page": 11,
+      "knowledge": "Bakgrundsfärgerna skiljer haploid fas (n) vid sporer och amöb-/flagellatceller från diploid fas efter syngami vid zygot/plasmodium. Zygoten är explicit märkt 2n; meios markerar övergången tillbaka till sporer.",
+      "sourceEvidence": "Bakgrundsfärgerna skiljer haploid fas (n) vid sporer och amöb-/flagellatceller från diploid fas efter syngami vid zygot/plasmodium. Zygoten är explicit märkt 2n; meios markerar övergången tillbaka till sporer.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Legendens nedre rad är felmärkt 'Diploid (n)' i originalet. Den ska förklaras som diploid (2n), med synlig källkommentar; zygotetiketten 2n bekräftar felet."
+      ],
+      "factIds": [
+        "asexuell-forokning-f01",
+        "ppt-slemsvampar-livscykel-f02",
+        "ppt-slemsvampar-livscykel-f05",
+        "ppt-slemsvampar-livscykel-f10",
+        "ppt-slemsvampar-livscykel-f11",
+        "sexuell-forokning-f08",
+        "sexuell-forokning-f09",
+        "sexuell-forokning-f10"
+      ],
+      "sectionIds": [
+        "asexuell-forokning",
+        "ppt-slemsvampar-livscykel",
+        "sexuell-forokning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "asexuell-forokning-c01",
+          "asexuell-forokning-c02",
+          "sexuell-forokning-c07",
+          "sexuell-forokning-c08",
+          "sexuell-forokning-c09",
+          "sexuell-forokning-c10",
+          "sexuell-forokning-c12",
+          "ppt-slemsvampar-livscykel-c02",
+          "ppt-slemsvampar-livscykel-c04",
+          "ppt-slemsvampar-livscykel-c05",
+          "ppt-slemsvampar-livscykel-c11",
+          "ppt-slemsvampar-livscykel-c12"
+        ],
+        "quiz": [
+          "asexuell-forokning-q1",
+          "sexuell-forokning-q3",
+          "sexuell-forokning-q4",
+          "sexuell-forokning-ordna",
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q07",
+          "ppt-slemsvampar-livscykel-q08",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "asexuell-forokning-r1",
+          "sexuell-forokning-r1",
+          "sexuell-forokning-r2",
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p11-i04",
+      "page": 11,
+      "knowledge": "En pil märkt Mitos leder från zygoten till feeding plasmodium, som växer till mature plasmodium. Det är kärndelning/tillväxt, inte en avbildad serie av zygotfusioner.",
+      "sourceEvidence": "En pil märkt Mitos leder från zygoten till feeding plasmodium, som växer till mature plasmodium. Det är kärndelning/tillväxt, inte en avbildad serie av zygotfusioner.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Den exakta formuleringen utan celluppdelning är vetenskaplig förklaring av diagrammet och ska märkas som förtydligande med referens."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f06",
+        "ppt-slemsvampar-livscykel-f07",
+        "ppt-slemsvampar-livscykel-f12",
+        "ppt-slemsvampar-livscykel-f13"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c06",
+          "ppt-slemsvampar-livscykel-c07",
+          "ppt-slemsvampar-livscykel-c08",
+          "ppt-slemsvampar-livscykel-c12",
+          "ppt-slemsvampar-livscykel-c13"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q04",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q07",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p11-i05",
+      "page": 11,
+      "knowledge": "Sporangier finns som young sporangium och mature sporangium. Den mogna sporbehållaren ritas med sporer inuti och en struktur märkt Stalk/skaft.",
+      "sourceEvidence": "Sporangier finns som young sporangium och mature sporangium. Den mogna sporbehållaren ritas med sporer inuti och en struktur märkt Stalk/skaft.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Alla slemsvampars sporbildande kroppar är inte skaftade. Figurens skaftform är ett exempel."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f09"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c10"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q06",
+          "ppt-slemsvampar-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p12-i01",
+      "page": 12,
+      "knowledge": "Trollsmör och vargmjölk anges som kända arter av slemsvampar.",
+      "sourceEvidence": "Trollsmör och vargmjölk anges som kända arter av slemsvampar.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Vetenskapliga namn finns inte på denna slide. Om de läggs till är de externt verifierade förtydliganden, inte originaltext."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f09"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c08"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q07"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p13-i01",
+      "page": 13,
+      "knowledge": "Rubriken Trollsmör kopplas till ett foto av en gul, oregelbunden, kornig/skummig massa på död ved.",
+      "sourceEvidence": "Rubriken Trollsmör kopplas till ett foto av en gul, oregelbunden, kornig/skummig massa på död ved.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Källan namnger trollsmör men anger inte det avbildade livsstadiet. Ange inte säkert plasmodium kontra färdig sporbildande kropp enbart från fotot."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f10"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c09",
+          "ppt-slemsvampar-c10"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q07"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p14-i01",
+      "page": 14,
+      "knowledge": "Vargmjölk visas som namngivet exempel bland slemsvampar.",
+      "sourceEvidence": "Rosa/orange rundade kulformiga strukturer i klungor på multnande ved; fotografiet visar olika storlekar.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Lycogala-gruppen innehåller närstående arter. Ange vargmjölk enligt källans bildtext, inte säker modern artbestämning av fotografiet."
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f11"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-slemsvampar-c10"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q07"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p15-i01",
+      "page": 15,
+      "knowledge": "Svampar (Fungi) utgör ett eget rike, presenterat vid sidan av djur, växter och protister i den klassiska indelningen.",
+      "sourceEvidence": "Ingen biologisk figur; två textpunkter.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Protister är ett traditionellt samlingsbegrepp och inte ett enda naturligt släktskap. Presentera den äldre rikemodellen som modell, inte som fullständig modern taxonomi."
+      ],
+      "factIds": [
+        "ppt-svampgrupper-f01"
+      ],
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-svampgrupper-c01"
+        ],
+        "quiz": [],
+        "recall": [
+          "ppt-svampgrupper-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p15-i02",
+      "page": 15,
+      "knowledge": "Rubriken beskriver svampar som flercelliga.",
+      "sourceEvidence": "Rubriken Svampar (flercelliga).",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Rubriken får inte leda till felaktiga påståendet att alla svampar är flercelliga."
+      ],
+      "factIds": [
+        "ppt-svampgrupper-f02"
+      ],
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-svampgrupper-c02"
+        ],
+        "quiz": [
+          "ppt-svampgrupper-q01"
+        ],
+        "recall": [
+          "ppt-svampgrupper-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p15-i03",
+      "page": 15,
+      "knowledge": "Presentationens tre grupper heter algsvampar, sporsäckssvampar och basidiesvampar.",
+      "sourceEvidence": "Tre kursiverade gruppnamn i text.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Algsvampar är en historisk heterogen gruppering. Den tredelade listan är inte en fullständig eller vetenskapligt aktuell indelning av Fungi."
+      ],
+      "factIds": [
+        "ppt-svampgrupper-f03",
+        "ppt-svampgrupper-f04"
+      ],
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-svampgrupper-c03",
+          "ppt-svampgrupper-c04",
+          "ppt-svampgrupper-c07"
+        ],
+        "quiz": [
+          "ppt-svampgrupper-q02",
+          "ppt-svampgrupper-q04"
+        ],
+        "recall": [
+          "ppt-svampgrupper-r01",
+          "ppt-svampgrupper-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p16-i01",
+      "page": 16,
+      "knowledge": "Presentationens algsvampar sägs ofta leva i vatten och som parasiter.",
+      "sourceEvidence": "Fotografi av en kräfta till höger om texten.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Överför inte detta till alla sanna svampar eller alla organismer som tidigare räknades som algsvampar."
+      ],
+      "factIds": [
+        "ppt-svampgrupper-f04",
+        "ppt-svampgrupper-f05"
+      ],
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-svampgrupper-c04",
+          "ppt-svampgrupper-c05",
+          "ppt-svampgrupper-c07"
+        ],
+        "quiz": [
+          "ppt-svampgrupper-q02",
+          "ppt-svampgrupper-q04",
+          "ppt-svampgrupper-q05"
+        ],
+        "recall": [
+          "ppt-svampgrupper-r01",
+          "ppt-svampgrupper-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p16-i02",
+      "page": 16,
+      "knowledge": "Kräftpest anges som exempel på en sjukdom orsakad av en organism i presentationens grupp algsvampar.",
+      "sourceEvidence": "Hand som håller en kräfta; bilden ensam bevisar inte sjukdom eller diagnostiska symptom.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Oomyceten är svamplik men hör enligt modern taxonomi inte till Fungi. Fotot bör beskrivas som kräfta, inte som säker diagnostisk illustration av kräftpest."
+      ],
+      "factIds": [
+        "ppt-svampgrupper-f06"
+      ],
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-svampgrupper-c05",
+          "ppt-svampgrupper-c06",
+          "ppt-svampgrupper-c08"
+        ],
+        "quiz": [
+          "ppt-svampgrupper-q03",
+          "ppt-svampgrupper-q04",
+          "ppt-svampgrupper-q05"
+        ],
+        "recall": [
+          "ppt-svampgrupper-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p16-i03",
+      "page": 16,
+      "knowledge": "Brödmögel anges som en annan algsvamp i presentationen.",
+      "sourceEvidence": "Två brödskivor täckta med mörkt/ljust mögel.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Olika svampar kan bilda mögel på bröd. Fotot kan inte artbestämmas. Rhizopus kan ges som verifierat allmänt brödmögelexempel, inte som fastslagen art i fotot. Rhizopus är en riktig svamp, till skillnad från kräftpestorganismen."
+      ],
+      "factIds": [
+        "ppt-svampgrupper-f07",
+        "ppt-svampgrupper-f08"
+      ],
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-svampgrupper-c07",
+          "ppt-svampgrupper-c08"
+        ],
+        "quiz": [
+          "ppt-svampgrupper-q04"
+        ],
+        "recall": [
+          "ppt-svampgrupper-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p17-i01",
+      "page": 17,
+      "knowledge": "Fotsvamp är presentationens exempel på svampar som parasiter hos människan.",
+      "sourceEvidence": "Närbild av hud mellan tårna med fjällande, missfärgat/inflammerat område.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Förklara principen och källans exempel; gör ingen diagnos eller artbestämning utifrån bilden och lägg inte till behandlingstips."
+      ],
+      "factIds": [
+        "ppt-parasitism-f02",
+        "ppt-parasitism-f09"
+      ],
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-parasitism-c02"
+        ],
+        "quiz": [
+          "ppt-parasitism-q02"
+        ],
+        "recall": [
+          "ppt-parasitism-r01",
+          "ppt-parasitism-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p18-i01",
+      "page": 18,
+      "knowledge": "En tallticka som parasiterar en tall anges som exempel på parasitism hos träd.",
+      "sourceEvidence": "Bildtexten säger tallticka och tall.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Håll textens exempel åtskilt från bildens osäkra artetikett."
+      ],
+      "factIds": [
+        "ppt-parasitism-f04",
+        "ppt-parasitism-f09"
+      ],
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-parasitism-c03"
+        ],
+        "quiz": [
+          "ppt-parasitism-q02",
+          "ppt-parasitism-q04"
+        ],
+        "recall": [
+          "ppt-parasitism-r01",
+          "ppt-parasitism-r02",
+          "ppt-parasitism-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p18-i02",
+      "page": 18,
+      "knowledge": "En konsolformad tickfruktkropp växer från en trädstam.",
+      "sourceEvidence": "Översidan har mörk/grå bakdel och rödbrun zon; bred ljusgul/vit kant och ljus undersida; trädslag kan inte säkert verifieras från beskärningen.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Fotot liknar klibbticka (Fomitopsis pinicola) mer än tallticka. Detta är en visuell inferens som stöds av Artsdatabankens karakteristiska röda/orange zon; inte en definitiv identifiering."
+      ],
+      "factIds": [
+        "ppt-parasitism-f07"
+      ],
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-parasitism-c04"
+        ],
+        "quiz": [
+          "ppt-parasitism-q04"
+        ],
+        "recall": [
+          "ppt-parasitism-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p19-i01",
+      "page": 19,
+      "knowledge": "Basidiesvampar omfattar många vanliga matsvampar och presentationen räknar upp skivlingar, soppar, taggsvampar och buksvampar.",
+      "sourceEvidence": "Textlista, ingen figur.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Basidiesvamp betyder inte matsvamp. Formgrupper är användbara för utseende men ger inte automatiskt nära släktskap eller ätlighet."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f01",
+        "ppt-basidiesvampar-f19"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c03",
+          "ppt-basidiesvampar-c16"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q11"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p19-i02",
+      "page": 19,
+      "knowledge": "Sporbildande basidier finns på skivor, rör och taggar.",
+      "sourceEvidence": "Orden sporerna, basidier och skivor/rör/taggar är understrukna.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Källan säger sporer bildas i små utskott, basidier. Förtydliga att basidiet är en sporbildande cell; sporerna utvecklas utanpå den på små utskott (sterigmer), inte inuti basidiet."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f02",
+        "ppt-basidiesvampar-f07"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c01",
+          "ppt-basidiesvampar-c07",
+          "ppt-basidiesvampar-c13",
+          "ppt-basidiesvampar-c17"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q01",
+          "ppt-basidiesvampar-q03",
+          "ppt-basidiesvampar-q04",
+          "ppt-basidiesvampar-q05"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r01",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i01",
+      "page": 20,
+      "knowledge": "Hos basidiesvampar knyts sporbildningen till basidier. En mogen basidie beskrivs med fyra skaft som vart och ett bär en spor.",
+      "sourceEvidence": "Hela sidan är en infogad bild av biologitext; PDF-textutdraget är tomt. Textens utsida-påståendet 'ytterst' kompletterar dess oprecisa formulering att sporerna bildas 'i' basidier.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Fyra är vanligt, inte universellt. Behåll kopplingen till källans vanliga exempel utan att generalisera till exakt fyra hos alla basidiesvampar."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f02",
+        "ppt-basidiesvampar-f03"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c01",
+          "ppt-basidiesvampar-c02",
+          "ppt-basidiesvampar-c13",
+          "ppt-basidiesvampar-c17"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q01",
+          "ppt-basidiesvampar-q02",
+          "ppt-basidiesvampar-q04",
+          "ppt-basidiesvampar-q05"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r01",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i02",
+      "page": 20,
+      "knowledge": "De välkända hattsvamparna beskrivs som basidiesvampar med sporkropp/fruktkropp som består av hatt och fot.",
+      "sourceEvidence": "Andra stycket beskriver hatt och fot; ingen anatomisk figur här.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Alla basidiesvampar är inte hattsvampar och inte alla fruktkroppar har hatt och fot. De vanliga hattsvampsexemplen är basidiesvampar."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f04"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c04"
+        ],
+        "quiz": [],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i03",
+      "page": 20,
+      "knowledge": "Basidier sitter ordnade på skivor/lameller, taggar eller i rör på hattens undersida så att många basidier får plats.",
+      "sourceEvidence": "Förklarar funktionen av den veckade eller uppdelade sporbildande ytan.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Skilj hyfers kontaktyta för näringsupptag från fruktkroppens yta för sporproduktion."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f05",
+        "ppt-basidiesvampar-f07"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c05",
+          "ppt-basidiesvampar-c07"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q03"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r01",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i04",
+      "page": 20,
+      "knowledge": "Benämningarna skivlingar, taggsvampar och rörsvampar kopplas till hattundersidans strukturer.",
+      "sourceEvidence": "Kursiverade gruppnamn i textbilden.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Kantarellens åsar behöver en egen förklaring på p22 eftersom de inte är äkta skivor."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f06",
+        "ppt-basidiesvampar-f07",
+        "ppt-basidiesvampar-f08",
+        "ppt-basidiesvampar-f19"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c06",
+          "ppt-basidiesvampar-c07",
+          "ppt-basidiesvampar-c13",
+          "ppt-basidiesvampar-c16",
+          "ppt-basidiesvampar-c17"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q03",
+          "ppt-basidiesvampar-q04",
+          "ppt-basidiesvampar-q05",
+          "ppt-basidiesvampar-q11"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r01",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i05",
+      "page": 20,
+      "knowledge": "Tickor beskrivs som rörsvampar som med få undantag saknar fot.",
+      "sourceEvidence": "Stycke med ordet Tickor kursiverat.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Presentationens ofta/med få undantag bör inte bli ett absolut påstående om alla tickor."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f10"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c08"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q08"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i06",
+      "page": 20,
+      "knowledge": "Många tickor är parasiter på träd. Fruktkropparna växer som skärmar/konsoler på stammar, är ofta fleråriga och hårda.",
+      "sourceEvidence": "Beskrivning av tickors konsolform och livslängd, anknyter till fotot p18.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Många/ofta är viktiga: alla tickor är inte parasiter, hårda eller fleråriga."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f11"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c08",
+          "ppt-basidiesvampar-c09"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q08"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i07",
+      "page": 20,
+      "knowledge": "Tickors hyfer tar upp näring inne i stammen där de orsakar röta.",
+      "sourceEvidence": "Texten binder den synliga konsolen till osynliga hyfer i veden.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Det är ett tickexempel; inte skäl att kalla alla vedlevande svampar parasiter."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f12"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c10"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q08"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i08",
+      "page": 20,
+      "knowledge": "Soppar är rörsvampar med hatt och fot. Stensopp/karljohan anges som uppskattat matsvampsexempel.",
+      "sourceEvidence": "Stycke med synonymparet stensopp–karljohan.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Hela gruppen soppar ska inte beskrivas som ätlig bara för att stensopp är exempel på matsvamp."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f13"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c08",
+          "ppt-basidiesvampar-c11"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q07"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i09",
+      "page": 20,
+      "knowledge": "Buksvampar beskrivs ha slutna sporkroppar under sporutvecklingen. Röksvampar är ett exempel.",
+      "sourceEvidence": "Sista stycket beskriver intern sporbildning och rundad fruktkropp.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Buksvampar är en traditionell formgrupp; namnet garanterar inte ett enda nära släktskap. Svampar som senare öppnas (stinksvamp) ska inte motsägas av för absolut formulering."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f15",
+        "ppt-basidiesvampar-f18"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c13",
+          "ppt-basidiesvampar-c15",
+          "ppt-basidiesvampar-c16"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q09",
+          "ppt-basidiesvampar-q10",
+          "ppt-basidiesvampar-q11"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p20-i10",
+      "page": 20,
+      "knowledge": "När röksvampars sporer är färdiga öppnas den rundade fruktkroppen i toppen och sporerna ryker ut.",
+      "sourceEvidence": "Sporspridning via en toppöppning beskrivs, ingen röksvampsbild på sidan.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Beskriv det vanliga röksvampsexemplet, inte alla buksvampar. Stinksvamp sprider inte sporer på samma sätt."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f16"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c14"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q09"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p21-i01",
+      "page": 21,
+      "knowledge": "Stensopp, även kallad karljohan, anges som rörsvamp.",
+      "sourceEvidence": "Brun välvd hatt och kraftig, ljusbrun fot i vegetation. Rörlagret syns inte tydligt i detta fotografi.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "En bild av bara hatt och fot lär inte ut hur porerna/rören ser ut. Skriv inte att rören syns tydligt på presentationens p21."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f13",
+        "ppt-basidiesvampar-f14"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c08",
+          "ppt-basidiesvampar-c11",
+          "ppt-basidiesvampar-c12"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q07"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p22-i01",
+      "page": 22,
+      "knowledge": "Presentationens bildtext identifierar kantarell.",
+      "sourceEvidence": "Gula fruktkroppar; en ligger så att nedlöpande, förgrenade åsar på undersidan syns tydligt.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Artfoton finns redan men p22:s strukturkunskap finns inte i baseline."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f09"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c18"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q06"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p22-i02",
+      "page": 22,
+      "knowledge": "Rubriken Skivling använder kantarell som exempel, trots att kantarell har åsar snarare än äkta skivor/lameller.",
+      "sourceEvidence": "Den synliga undersidan har relativt tjocka nedlöpande åsar, inte tunna fria bladlika skivor.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Åsar är en direkt relevant rättelse av källan. Lär inte ut kantarell som standardexempel på äkta skivling."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f09"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c18"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q06"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p23-i01",
+      "page": 23,
+      "knowledge": "Blek taggsvamp anges som taggsvamp.",
+      "sourceEvidence": "Ljus, oregelbunden hatt och ljus fot; täta korta taggar på hattens undersida syns tydligt.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Den visuella uppgiften taggar är tydlig; sporerna/basidierna är mikroskopiska och syns inte på fotografiet."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f08"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c17"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q03",
+          "ppt-basidiesvampar-q05"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r01",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p24-i01",
+      "page": 24,
+      "knowledge": "Stinksvamp visas som exempel på buksvamp.",
+      "sourceEvidence": "Lång vit porös fot med mörk/grönbrun slemmig spormassa på toppen i gräs. Den fotograferade fruktkroppen är redan öppnad/utvuxen.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Sluten under sporutveckling betyder inte att den mogna stinksvampen alltid är en sluten boll. Sporerna utvecklas i det unga, inneslutna stadiet; det mogna fotot visar ett senare stadium."
+      ],
+      "factIds": [
+        "ppt-basidiesvampar-f17",
+        "ppt-basidiesvampar-f18"
+      ],
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidiesvampar-c15",
+          "ppt-basidiesvampar-c16"
+        ],
+        "quiz": [
+          "ppt-basidiesvampar-q10",
+          "ppt-basidiesvampar-q11"
+        ],
+        "recall": [
+          "ppt-basidiesvampar-r02",
+          "ppt-basidiesvampar-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p25-i01",
+      "page": 25,
+      "knowledge": "Murklor och tryfflar anges som exempel på sporsäckssvampar.",
+      "sourceEvidence": "Texten ger två namngivna grupper, bilden visar inte murkla eller tryffel.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Tryffel används i olika bred betydelse. Presentationens exempel kan förklaras med äkta tryfflar; inte alla tryffelliknande svampar är Ascomycota."
+      ],
+      "factIds": [
+        "ppt-sporsackssvampar-f02"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c03"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q02"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p25-i02",
+      "page": 25,
+      "knowledge": "Sporsäckssvampar kan vara parasiter; fruktmögel anges som exempel.",
+      "sourceEvidence": "Brun skadad frukt med grå/vita mögelkuddar/fläckar, delvis ordnade i ringar; inga mikroskopiska sporsäckar syns.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Art/släkte fastslås inte i källan och kan inte avgöras säkert från fotot. Alla mögel är inte samma grupp, och det synliga mögelstadiet behöver inte visa de sexuella sporsäckarna."
+      ],
+      "factIds": [
+        "ppt-parasitism-f06",
+        "ppt-parasitism-f09",
+        "ppt-parasitism-f10",
+        "ppt-sporsackssvampar-f04",
+        "ppt-sporsackssvampar-f08"
+      ],
+      "sectionIds": [
+        "ppt-parasitism",
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c05",
+          "ppt-parasitism-c05",
+          "ppt-parasitism-c07"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q02",
+          "ppt-sporsackssvampar-q05",
+          "ppt-parasitism-q02",
+          "ppt-parasitism-q03",
+          "ppt-parasitism-q05"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r02",
+          "ppt-parasitism-r01",
+          "ppt-parasitism-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p25-i03",
+      "page": 25,
+      "knowledge": "Sporsäckssvampars sporer bildas i säckar.",
+      "sourceEvidence": "Ingen mikroskopisk figur; den avgörande detaljen uttrycks i tredje punkten.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Avser den sexuella sporbildning som definierar gruppen. En sporsäckssvamp kan även bilda asexuella sporer, vilket fruktmögelbilden inte skiljer på."
+      ],
+      "factIds": [
+        "ppt-sporsackssvampar-f01",
+        "ppt-sporsackssvampar-f08",
+        "ppt-sporsackssvampar-f09"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c01",
+          "ppt-sporsackssvampar-c02",
+          "ppt-sporsackssvampar-c05",
+          "ppt-sporsackssvampar-c08"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q01",
+          "ppt-sporsackssvampar-q03",
+          "ppt-sporsackssvampar-q05"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01",
+          "ppt-sporsackssvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p26-i01",
+      "page": 26,
+      "knowledge": "Murkla presenteras som sporsäckssvamp; vänster bild visar en ljus murkleliknande fruktkropp.",
+      "sourceEvidence": "Ljus, oregelbundet nätgropig hatt och ljus fot.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Källan ger inget säkert artnamn för vänster bild; skriv murkla enligt källan, inte påhittad artbestämning."
+      ],
+      "factIds": [
+        "ppt-sporsackssvampar-f06"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c06"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q04"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01",
+          "ppt-sporsackssvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p26-i02",
+      "page": 26,
+      "knowledge": "Höger bild visar en mörk, långsträckt murkleliknande hatt med gropar mellan upphöjda åsar.",
+      "sourceEvidence": "Mörk konisk/gropig hatt på ljus fot, tydligt olik skivor/rör/taggar under en utbredd hatt.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [
+        "Använd inte fotografiets form som bevis för ett exakt modernt Morchella-artnamn."
+      ],
+      "factIds": [
+        "ppt-sporsackssvampar-f06"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c06"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q04"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01",
+          "ppt-sporsackssvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p26-i03",
+      "page": 26,
+      "knowledge": "Collagets mittenbild innehåller rosa/orange kulor som visuellt liknar vargmjölk, inte en murkla.",
+      "sourceEvidence": "Klungor av rundade rosa strukturer på ved, stark visuell likhet med slemsvampsexemplet p14 och inga murkleliknande gropar eller hatt/fot.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [
+        "Visuell inferens, inte definitiv artbestämning. Den exakta bildkällan saknas; lär inte ut att samtliga tre foton är murklor."
+      ],
+      "factIds": [
+        "ppt-sporsackssvampar-f07"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c07"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q04"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i01",
+      "page": 27,
+      "knowledge": "Sporsäcksvampar bildar sporer inuti små säcklika sporsäckar.",
+      "sourceEvidence": "Rubrik och första stycke samt etiketter spor/sporsäck i förstoringen.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-sporsackssvampar-f01",
+        "ppt-sporsackssvampar-f09"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c01",
+          "ppt-sporsackssvampar-c02",
+          "ppt-sporsackssvampar-c08"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q01",
+          "ppt-sporsackssvampar-q03"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01",
+          "ppt-sporsackssvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i02",
+      "page": 27,
+      "knowledge": "Gruppen innehåller jästsvampar, mögelsvampar och storformer som äkta tryfflar, murklor och skålsvampar.",
+      "sourceEvidence": "Första stycket namnger alla fem exemplen.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-sporsackssvampar-f02",
+        "ppt-sporsackssvampar-f03"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c03",
+          "ppt-sporsackssvampar-c04"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q02"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i03",
+      "page": 27,
+      "knowledge": "Skålsvampens säckar finns i den sporproducerande vävnaden i den skålformade fruktkroppen.",
+      "sourceEvidence": "Förstoringslinjen går från skålens inre yta till raden av sporsäckar.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-sporsackssvampar-f05"
+      ],
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-sporsackssvampar-c08"
+        ],
+        "quiz": [
+          "ppt-sporsackssvampar-q03"
+        ],
+        "recall": [
+          "ppt-sporsackssvampar-r01",
+          "ppt-sporsackssvampar-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i04",
+      "page": 27,
+      "knowledge": "Jästsvampar är encelliga.",
+      "sourceEvidence": "Jäsningsstyckets inledning.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "hyfer-mycel-f02"
+      ],
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "hyfer-mycel-c01"
+        ],
+        "quiz": [
+          "hyfer-mycel-q4"
+        ],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i05",
+      "page": 27,
+      "knowledge": "Jäsning spjälkar socker utan att syre används och bildar koldioxid och etanol.",
+      "sourceEvidence": "Andra stycket beskriver energiprocessen, syre och de två produkterna.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-jast-mogel-f01"
+      ],
+      "sectionIds": [
+        "ppt-jast-mogel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-jast-mogel-c01",
+          "ppt-jast-mogel-c02",
+          "ppt-jast-mogel-c04"
+        ],
+        "quiz": [
+          "ppt-jast-mogel-q01",
+          "ppt-jast-mogel-q05"
+        ],
+        "recall": [
+          "ppt-jast-mogel-r01",
+          "ppt-jast-mogel-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i06",
+      "page": 27,
+      "knowledge": "Jäsning skiljer sig från fullständig nedbrytning vid cellandning till koldioxid och vatten.",
+      "sourceEvidence": "Andra styckets jämförelse uttrycker att sockret inte spjälkas fullständigt.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-jast-mogel-f02"
+      ],
+      "sectionIds": [
+        "ppt-jast-mogel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-jast-mogel-c03"
+        ],
+        "quiz": [
+          "ppt-jast-mogel-q01",
+          "ppt-jast-mogel-q03"
+        ],
+        "recall": [
+          "ppt-jast-mogel-r01",
+          "ppt-jast-mogel-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i07",
+      "page": 27,
+      "knowledge": "Jäsning utnyttjas i bakning samt öl- och vintillverkning.",
+      "sourceEvidence": "Andra stycket.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "manniskans-tjanst-f01"
+      ],
+      "sectionIds": [
+        "manniskans-tjanst"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "manniskans-tjanst-c01"
+        ],
+        "quiz": [
+          "manniskans-tjanst-q1"
+        ],
+        "recall": [
+          "manniskans-tjanst-r1",
+          "ppt-jast-mogel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i08",
+      "page": 27,
+      "knowledge": "Koldioxidgasen får degen att svälla.",
+      "sourceEvidence": "Sista meningen i jäsningsstycket.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-jast-mogel-f03"
+      ],
+      "sectionIds": [
+        "ppt-jast-mogel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-jast-mogel-c04"
+        ],
+        "quiz": [
+          "ppt-jast-mogel-q02"
+        ],
+        "recall": [
+          "ppt-jast-mogel-r01",
+          "ppt-jast-mogel-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i09",
+      "page": 27,
+      "knowledge": "Penselmögel är släktet Penicillium och används i roquefort och camembert.",
+      "sourceEvidence": "Sista stycket anger släktet och båda ostarna.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-jast-mogel-f04"
+      ],
+      "sectionIds": [
+        "ppt-jast-mogel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-jast-mogel-c05"
+        ],
+        "quiz": [
+          "ppt-jast-mogel-q04"
+        ],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p27-i10",
+      "page": 27,
+      "knowledge": "Penicillin är ett antibiotikum som utvinns ur penselmögel.",
+      "sourceEvidence": "Sista meningen.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-jast-mogel-f05"
+      ],
+      "sectionIds": [
+        "ppt-jast-mogel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-jast-mogel-c06"
+        ],
+        "quiz": [
+          "ppt-jast-mogel-q04"
+        ],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p28-i01",
+      "page": 28,
+      "knowledge": "Fruktkroppen har hatt och fot, ibland ring; markens nätverk är mycel.",
+      "sourceEvidence": "Hatt/fot markeras med 1/2 och mycel med 3; ring (ibland) är explicit.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f01",
+        "ppt-anatomi-f05"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c01",
+          "ppt-anatomi-c02",
+          "ppt-anatomi-c07"
+        ],
+        "quiz": [
+          "ppt-anatomi-q01",
+          "ppt-anatomi-q02",
+          "ppt-anatomi-q03",
+          "ppt-anatomi-q07"
+        ],
+        "recall": [
+          "ppt-anatomi-r01",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p28-i02",
+      "page": 28,
+      "knowledge": "Fruktkroppsvävnaden består av svamphyfer.",
+      "sourceEvidence": "Pil från fotens punkt till en cirkel med hyftrådar och etiketten svamphyfer.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "fruktkroppar-tillvaxt-f03"
+      ],
+      "sectionIds": [
+        "fruktkroppar-tillvaxt"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "fruktkroppar-tillvaxt-c03",
+          "ppt-anatomi-c01"
+        ],
+        "quiz": [
+          "fruktkroppar-tillvaxt-q3"
+        ],
+        "recall": [
+          "fruktkroppar-tillvaxt-r1",
+          "ppt-anatomi-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p28-i03",
+      "page": 28,
+      "knowledge": "Basidiet är en klubbformad sporproducerande cell med sporer på utskott.",
+      "sourceEvidence": "Förstoring från hattens undersida; explicit basidietext.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f03"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c05",
+          "ppt-anatomi-c11"
+        ],
+        "quiz": [
+          "ppt-anatomi-q04",
+          "ppt-anatomi-q05",
+          "ppt-anatomi-q06",
+          "ppt-anatomi-q07",
+          "ppt-basidie-livscykel-q02"
+        ],
+        "recall": [
+          "ppt-anatomi-r02",
+          "ppt-anatomi-r03",
+          "ppt-basidie-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p28-i04",
+      "page": 28,
+      "knowledge": "Skivling, rörsvamp och taggsvamp skiljs genom undersidans skivor, rör respektive taggar.",
+      "sourceEvidence": "Tre separata kroppsskisser till höger.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f04"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c06"
+        ],
+        "quiz": [
+          "ppt-anatomi-q06"
+        ],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p29-i01",
+      "page": 29,
+      "knowledge": "Hatt och fot är delar av fruktkroppen.",
+      "sourceEvidence": "Två teckningar med positionspilar och höger övergripande etikett FRUKTKROPP.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f01",
+        "ppt-anatomi-f07"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c01",
+          "ppt-anatomi-c02",
+          "ppt-anatomi-c10"
+        ],
+        "quiz": [
+          "ppt-anatomi-q03"
+        ],
+        "recall": [
+          "ppt-anatomi-r01",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p29-i02",
+      "page": 29,
+      "knowledge": "Skivor kallas också lameller; hymenium är den sporproducerande vävnaden på ytan.",
+      "sourceEvidence": "Skivor på vänster bild, lameller och hymenium på höger bild med pilar mot undersidan.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f02"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c03",
+          "ppt-anatomi-c04",
+          "ppt-anatomi-c11"
+        ],
+        "quiz": [
+          "ppt-anatomi-q05"
+        ],
+        "recall": [
+          "ppt-anatomi-r02",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p29-i03",
+      "page": 29,
+      "knowledge": "Sporer lämnar hattens sporproducerande undersida.",
+      "sourceEvidence": "Vänster bild visar prickar under skivor och sporerpil.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f03"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c05",
+          "ppt-anatomi-c11"
+        ],
+        "quiz": [
+          "ppt-anatomi-q04",
+          "ppt-anatomi-q05",
+          "ppt-anatomi-q06",
+          "ppt-anatomi-q07",
+          "ppt-basidie-livscykel-q02"
+        ],
+        "recall": [
+          "ppt-anatomi-r02",
+          "ppt-anatomi-r03",
+          "ppt-basidie-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p29-i04",
+      "page": 29,
+      "knowledge": "Ring sitter på foten och strumpa vid fotbasen.",
+      "sourceEvidence": "Vänster figur har särskilda pilar mot ring och strumpa; höger figur visar ring.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f05",
+        "ppt-anatomi-f08"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c07",
+          "ppt-anatomi-c08",
+          "ppt-anatomi-c09"
+        ],
+        "quiz": [
+          "ppt-anatomi-q01",
+          "ppt-anatomi-q02",
+          "ppt-anatomi-q07"
+        ],
+        "recall": [
+          "ppt-anatomi-r01",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p29-i05",
+      "page": 29,
+      "knowledge": "Fjäll på hatten är en egen synlig struktur.",
+      "sourceEvidence": "Etiketten fjäll pekar mot hattens överyta i höger foto.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f06",
+        "ppt-anatomi-f08"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c08",
+          "ppt-anatomi-c09",
+          "ppt-anatomi-c11"
+        ],
+        "quiz": [
+          "ppt-anatomi-q02"
+        ],
+        "recall": [
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p29-i06",
+      "page": 29,
+      "knowledge": "Hyfer bildar mycel under marken, skilt från synlig fruktkropp.",
+      "sourceEvidence": "Vänster mycelpil; höger hyferpil under foto av fruktkropp.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "hyfer-mycel-f06"
+      ],
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "hyfer-mycel-c03",
+          "hyfer-mycel-c05"
+        ],
+        "quiz": [
+          "hyfer-mycel-q1",
+          "ppt-anatomi-q03"
+        ],
+        "recall": [
+          "hyfer-mycel-r1",
+          "ppt-anatomi-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p30-i01",
+      "page": 30,
+      "knowledge": "Röd flugsvamp kan användas som anatomiskt exempel med hatt, skivor, ring, fot, strumpa och mycel.",
+      "sourceEvidence": "Figurens titel och samtliga sex etiketter.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f01",
+        "ppt-anatomi-f05"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c01",
+          "ppt-anatomi-c02",
+          "ppt-anatomi-c07"
+        ],
+        "quiz": [
+          "ppt-anatomi-q01",
+          "ppt-anatomi-q02",
+          "ppt-anatomi-q03",
+          "ppt-anatomi-q07"
+        ],
+        "recall": [
+          "ppt-anatomi-r01",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p30-i02",
+      "page": 30,
+      "knowledge": "Skivorna under hatten utgör sporproducerande yta hos detta exempel.",
+      "sourceEvidence": "Förstoringsfotot och röd pil Skivor med sporer.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f03"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c05",
+          "ppt-anatomi-c11"
+        ],
+        "quiz": [
+          "ppt-anatomi-q04",
+          "ppt-anatomi-q05",
+          "ppt-anatomi-q06",
+          "ppt-anatomi-q07",
+          "ppt-basidie-livscykel-q02"
+        ],
+        "recall": [
+          "ppt-anatomi-r02",
+          "ppt-anatomi-r03",
+          "ppt-basidie-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p30-i03",
+      "page": 30,
+      "knowledge": "Det marklevande mycelet är större än den synliga fruktkroppen och sitter samman med denna.",
+      "sourceEvidence": "Figuren visar nätverket utbrett under mark och foten ansluten ovanför.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "hyfer-mycel-f06",
+        "hyfer-mycel-f08"
+      ],
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "hyfer-mycel-c03",
+          "hyfer-mycel-c05",
+          "hyfer-mycel-c06"
+        ],
+        "quiz": [
+          "hyfer-mycel-q1",
+          "ppt-anatomi-q03"
+        ],
+        "recall": [
+          "hyfer-mycel-r1",
+          "hyfer-mycel-r2",
+          "ppt-anatomi-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p31-i01",
+      "page": 31,
+      "knowledge": "Svampar är eukaryoter, saknar kloroplaster och har cellvägg.",
+      "sourceEvidence": "Första punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "cellbyggnad-f01",
+        "cellbyggnad-f03",
+        "cellbyggnad-f04"
+      ],
+      "sectionIds": [
+        "cellbyggnad"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "cellbyggnad-c01",
+          "cellbyggnad-c03",
+          "cellbyggnad-c04"
+        ],
+        "quiz": [
+          "cellbyggnad-q1",
+          "cellbyggnad-q3",
+          "ekosystem-flera"
+        ],
+        "recall": [
+          "cellbyggnad-r1",
+          "cellbyggnad-r2"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p31-i02",
+      "page": 31,
+      "knowledge": "Cellväggen innehåller kitin, en polysackarid; läraren jämför styrkan med cellulosa.",
+      "sourceEvidence": "Andra punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "cellbyggnad-f05",
+        "cellbyggnad-f06",
+        "cellbyggnad-f07"
+      ],
+      "sectionIds": [
+        "cellbyggnad"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "cellbyggnad-c05",
+          "cellbyggnad-c06",
+          "cellbyggnad-c07"
+        ],
+        "quiz": [
+          "cellbyggnad-q2",
+          "cellbyggnad-q4"
+        ],
+        "recall": [
+          "cellbyggnad-r1",
+          "cellbyggnad-r2"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p31-i03",
+      "page": 31,
+      "knowledge": "Svampar finns som encelliga, exempelvis jäst, och flercelliga trådformer.",
+      "sourceEvidence": "Tredje och fjärde punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "hyfer-mycel-f01",
+        "hyfer-mycel-f02",
+        "hyfer-mycel-f03"
+      ],
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "hyfer-mycel-c01",
+          "hyfer-mycel-c02"
+        ],
+        "quiz": [
+          "hyfer-mycel-q4"
+        ],
+        "recall": [
+          "hyfer-mycel-r1"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p31-i04",
+      "page": 31,
+      "knowledge": "Avlånga svampceller bildar hyfer; nätverk av hyfer kallas mycel.",
+      "sourceEvidence": "Fjärde och femte punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "hyfer-mycel-f03",
+        "hyfer-mycel-f06"
+      ],
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "hyfer-mycel-c01",
+          "hyfer-mycel-c02",
+          "hyfer-mycel-c03",
+          "hyfer-mycel-c05"
+        ],
+        "quiz": [
+          "hyfer-mycel-q1",
+          "ppt-anatomi-q03"
+        ],
+        "recall": [
+          "hyfer-mycel-r1",
+          "ppt-anatomi-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p31-i05",
+      "page": 31,
+      "knowledge": "Fruktkroppar växer ut från mycel när temperatur och fukt är lämpliga.",
+      "sourceEvidence": "Sjätte punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "fruktkroppar-tillvaxt-f01"
+      ],
+      "sectionIds": [
+        "fruktkroppar-tillvaxt"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "fruktkroppar-tillvaxt-c01"
+        ],
+        "quiz": [
+          "fruktkroppar-tillvaxt-q1"
+        ],
+        "recall": [
+          "fruktkroppar-tillvaxt-r1"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p32-i01",
+      "page": 32,
+      "knowledge": "Svampar räknas tillsammans med bakterier till de mest betydelsefulla nedbrytarna.",
+      "sourceEvidence": "Första punkt.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f01"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-tillvaxt-nedbrytning-c01"
+        ],
+        "quiz": [],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p32-i02",
+      "page": 32,
+      "knowledge": "Saprofyt är lärarens ord för organismer som tar näring från döda växter och djur.",
+      "sourceEvidence": "Andra punkt med understruket saprofyter.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f02"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-tillvaxt-nedbrytning-c02"
+        ],
+        "quiz": [
+          "ppt-tillvaxt-nedbrytning-q01"
+        ],
+        "recall": [
+          "ppt-tillvaxt-nedbrytning-r01",
+          "ppt-tillvaxt-nedbrytning-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p32-i03",
+      "page": 32,
+      "knowledge": "Fruktkroppar på en stubbe visar hur svampar kan utnyttja dött växtmaterial.",
+      "sourceEvidence": "Fotot visar många fruktkroppar på död stubbe.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ekosystem-f09"
+      ],
+      "sectionIds": [
+        "ekosystem"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ekosystem-c06"
+        ],
+        "quiz": [
+          "ekosystem-q1",
+          "ekosystem-q3",
+          "ekosystem-flera"
+        ],
+        "recall": [
+          "ekosystem-r1"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p33-i01",
+      "page": 33,
+      "knowledge": "Mykorrhiza är fysisk kontakt mellan svampens mycel och växtens rötter.",
+      "sourceEvidence": "Översikt med fruktkropp, mycel och rötter samt rubriken Mykorrhiza.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f01"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c01"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q01"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p33-i02",
+      "page": 33,
+      "knowledge": "Diagrammet visar svamphyfer runt en rotspets, alltså en manteltyp av mykorrhiza.",
+      "sourceEvidence": "Förstoringen rootlet/fungus och streckets mål i rot–mycelgränsen.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f01",
+        "ppt-mykorrhiza-f06"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c01",
+          "ppt-mykorrhiza-c07"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q01",
+          "ppt-mykorrhiza-q04"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p34-i01",
+      "page": 34,
+      "knowledge": "Svampar kan leva i symbios, mykorrhiza, med växter.",
+      "sourceEvidence": "Första punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "mykorrhiza-parasitism-f05"
+      ],
+      "sectionIds": [
+        "mykorrhiza-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "mykorrhiza-parasitism-c02",
+          "mykorrhiza-parasitism-c04"
+        ],
+        "quiz": [],
+        "recall": [
+          "mykorrhiza-parasitism-r1",
+          "mykorrhiza-parasitism-r2"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p34-i02",
+      "page": 34,
+      "knowledge": "Växtrötter är ofta omgivna av en mantel av svamphyfer.",
+      "sourceEvidence": "Andra punkt.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f01",
+        "ppt-mykorrhiza-f06"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c01",
+          "ppt-mykorrhiza-c07"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q01",
+          "ppt-mykorrhiza-q04"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p34-i03",
+      "page": 34,
+      "knowledge": "Trädet avger kolhydrater till svampen.",
+      "sourceEvidence": "Tredje punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "mykorrhiza-parasitism-f06"
+      ],
+      "sectionIds": [
+        "mykorrhiza-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "mykorrhiza-parasitism-c04",
+          "mykorrhiza-parasitism-c05",
+          "mykorrhiza-parasitism-c06"
+        ],
+        "quiz": [
+          "mykorrhiza-parasitism-q1",
+          "ekosystem-flera"
+        ],
+        "recall": [
+          "mykorrhiza-parasitism-r1",
+          "mykorrhiza-parasitism-r2"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p34-i04",
+      "page": 34,
+      "knowledge": "Trädet får vatten och mineralämnen via svampens stora mycelnätverk.",
+      "sourceEvidence": "Fjärde punkt.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f02"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c02",
+          "ppt-mykorrhiza-c04"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q02",
+          "ppt-mykorrhiza-q03",
+          "ppt-mykorrhiza-q05"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p35-i01",
+      "page": 35,
+      "knowledge": "Svampar kan föröka sig asexuellt; encellig jäst kan dela sig.",
+      "sourceEvidence": "Första punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "asexuell-forokning-f03"
+      ],
+      "sectionIds": [
+        "asexuell-forokning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "asexuell-forokning-c05"
+        ],
+        "quiz": [
+          "asexuell-forokning-q2"
+        ],
+        "recall": [
+          "asexuell-forokning-r1"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p35-i02",
+      "page": 35,
+      "knowledge": "Flercelliga kan bilda små sporceller med ett skyddande tåligt skal.",
+      "sourceEvidence": "Andra punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "asexuell-forokning-f04",
+        "asexuell-forokning-f05",
+        "asexuell-forokning-f06"
+      ],
+      "sectionIds": [
+        "asexuell-forokning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "asexuell-forokning-c06",
+          "asexuell-forokning-c07"
+        ],
+        "quiz": [
+          "asexuell-forokning-q3",
+          "asexuell-forokning-ordna"
+        ],
+        "recall": [
+          "asexuell-forokning-r1",
+          "asexuell-forokning-r2"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p35-i03",
+      "page": 35,
+      "knowledge": "Sporer sprids och gror vid gynnsam fukt, temperatur och tillgång till organiskt material; hyfer växer till mycel.",
+      "sourceEvidence": "Tredje punkt nämner fukt, värme och organiskt material, sedan tillväxt och mycel.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f03"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-tillvaxt-nedbrytning-c03"
+        ],
+        "quiz": [
+          "ppt-tillvaxt-nedbrytning-q02",
+          "ppt-tillvaxt-nedbrytning-q03",
+          "ppt-tillvaxt-nedbrytning-q05"
+        ],
+        "recall": [
+          "ppt-tillvaxt-nedbrytning-r01",
+          "ppt-tillvaxt-nedbrytning-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p35-i04",
+      "page": 35,
+      "knowledge": "Många svampar kan föröka sig sexuellt; mycel söker parningspartner med feromoner.",
+      "sourceEvidence": "Fjärde punkt.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "sexuell-forokning-f01",
+        "sexuell-forokning-f03",
+        "sexuell-forokning-f04"
+      ],
+      "sectionIds": [
+        "sexuell-forokning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "sexuell-forokning-c01",
+          "sexuell-forokning-c02",
+          "sexuell-forokning-c03",
+          "sexuell-forokning-c04"
+        ],
+        "quiz": [
+          "sexuell-forokning-q1",
+          "sexuell-forokning-ordna"
+        ],
+        "recall": [
+          "sexuell-forokning-r1"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p35-i05",
+      "page": 35,
+      "knowledge": "Hyfförening och kärnförening är olika steg; åtskilda haploida kärnor föregår diploid kärna och åter haploida sporer.",
+      "sourceEvidence": "Femte punkten beskriver kärnor/diploid/haploida sporer men otydligt med celler slås ihop.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f03",
+        "ppt-basidie-livscykel-f08"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c01",
+          "ppt-basidie-livscykel-c02",
+          "ppt-basidie-livscykel-c03"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q01",
+          "ppt-basidie-livscykel-q03",
+          "ppt-basidie-livscykel-q05"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r02",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p35-i06",
+      "page": 35,
+      "knowledge": "Meios behövs för att återgå från diploid till haploid i den sexuella cykeln.",
+      "sourceEvidence": "Femte punktens diploid → haploida sporer; meiosnamnet saknas på denna sida men visas p39.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "sexuell-forokning-f10"
+      ],
+      "sectionIds": [
+        "sexuell-forokning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "sexuell-forokning-c09",
+          "sexuell-forokning-c10"
+        ],
+        "quiz": [
+          "sexuell-forokning-q4",
+          "sexuell-forokning-ordna"
+        ],
+        "recall": [
+          "sexuell-forokning-r1",
+          "sexuell-forokning-r2"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i01",
+      "page": 36,
+      "knowledge": "Svampar är heterotrofa och försörjer sig enligt tre här beskrivna strategier: parasitism, nedbrytning, symbios med fotoautotrofer.",
+      "sourceEvidence": "Inledning och tre fetstilta underrubriker.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "naringsstrategi-f01",
+        "ppt-mykorrhiza-f02",
+        "ppt-mykorrhiza-f03",
+        "ppt-mykorrhiza-f04",
+        "ppt-parasitism-f01",
+        "ppt-tillvaxt-nedbrytning-f02"
+      ],
+      "sectionIds": [
+        "naringsstrategi",
+        "ppt-mykorrhiza",
+        "ppt-parasitism",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "naringsstrategi-c01",
+          "cellbyggnad-c03",
+          "ppt-parasitism-c01",
+          "ppt-parasitism-c04",
+          "ppt-parasitism-c06",
+          "ppt-mykorrhiza-c02",
+          "ppt-mykorrhiza-c03",
+          "ppt-mykorrhiza-c04",
+          "ppt-mykorrhiza-c05",
+          "ppt-tillvaxt-nedbrytning-c02"
+        ],
+        "quiz": [
+          "naringsstrategi-q1",
+          "ppt-parasitism-q01",
+          "ppt-parasitism-q05",
+          "ppt-mykorrhiza-q02",
+          "ppt-mykorrhiza-q03",
+          "ppt-mykorrhiza-q05",
+          "ppt-tillvaxt-nedbrytning-q01"
+        ],
+        "recall": [
+          "naringsstrategi-r1",
+          "naringsstrategi-r2",
+          "ppt-parasitism-r01",
+          "ppt-parasitism-r02",
+          "ppt-parasitism-r03",
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02",
+          "ppt-tillvaxt-nedbrytning-r01",
+          "ppt-tillvaxt-nedbrytning-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i02",
+      "page": 36,
+      "knowledge": "Parasitens mycel växer i levande organism, tar dess näring och skadar värden.",
+      "sourceEvidence": "Första underavsnittet.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-parasitism-f01",
+        "ppt-parasitism-f07",
+        "ppt-parasitism-f08",
+        "ppt-parasitism-f10"
+      ],
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-parasitism-c01",
+          "ppt-parasitism-c04",
+          "ppt-parasitism-c06",
+          "ppt-parasitism-c07"
+        ],
+        "quiz": [
+          "ppt-parasitism-q01",
+          "ppt-parasitism-q03",
+          "ppt-parasitism-q04",
+          "ppt-parasitism-q05"
+        ],
+        "recall": [
+          "ppt-parasitism-r01",
+          "ppt-parasitism-r02",
+          "ppt-parasitism-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i03",
+      "page": 36,
+      "knowledge": "Flera tickor är trädparasiter; nagelsvamp är ett exempel som angriper människor.",
+      "sourceEvidence": "Första underavsnittets två namngivna exempel.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-parasitism-f03",
+        "ppt-parasitism-f05",
+        "ppt-parasitism-f09"
+      ],
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-parasitism-c02",
+          "ppt-parasitism-c08"
+        ],
+        "quiz": [
+          "ppt-parasitism-q02",
+          "ppt-parasitism-q04"
+        ],
+        "recall": [
+          "ppt-parasitism-r01",
+          "ppt-parasitism-r02",
+          "ppt-parasitism-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i04",
+      "page": 36,
+      "knowledge": "Nedbrytare tar näring från döda växt- och djurdelar; läraren använder saprofyt.",
+      "sourceEvidence": "Andra underavsnittet.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f02"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-tillvaxt-nedbrytning-c02"
+        ],
+        "quiz": [
+          "ppt-tillvaxt-nedbrytning-q01"
+        ],
+        "recall": [
+          "ppt-tillvaxt-nedbrytning-r01",
+          "ppt-tillvaxt-nedbrytning-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i05",
+      "page": 36,
+      "knowledge": "Mögelsvampar kan växa i bostäder; torrt och kallt bromsar svamptillväxt.",
+      "sourceEvidence": "Andra underavsnittets mitt.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f04"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-tillvaxt-nedbrytning-c04",
+          "ppt-tillvaxt-nedbrytning-c05"
+        ],
+        "quiz": [
+          "ppt-tillvaxt-nedbrytning-q04",
+          "ppt-tillvaxt-nedbrytning-q05"
+        ],
+        "recall": [
+          "ppt-tillvaxt-nedbrytning-r01",
+          "ppt-tillvaxt-nedbrytning-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i06",
+      "page": 36,
+      "knowledge": "God ventilation och kylförvaring av känslig mat minskar risken för mögelangrepp.",
+      "sourceEvidence": "Andra underavsnittets avslutning.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f05",
+        "ppt-tillvaxt-nedbrytning-f06"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-tillvaxt-nedbrytning-c05",
+          "ppt-tillvaxt-nedbrytning-c06"
+        ],
+        "quiz": [
+          "ppt-tillvaxt-nedbrytning-q04",
+          "ppt-tillvaxt-nedbrytning-q05"
+        ],
+        "recall": [
+          "ppt-tillvaxt-nedbrytning-r01",
+          "ppt-tillvaxt-nedbrytning-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i07",
+      "page": 36,
+      "knowledge": "Hyfer ökar växtens upptag av vatten och lösta närsalter från marken.",
+      "sourceEvidence": "Tredje underavsnittets inledning.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f02"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c02",
+          "ppt-mykorrhiza-c04"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q02",
+          "ppt-mykorrhiza-q03",
+          "ppt-mykorrhiza-q05"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i08",
+      "page": 36,
+      "knowledge": "Svampen får organiskt socker som växten bildat genom fotosyntes.",
+      "sourceEvidence": "Tredje underavsnittets utbytesmening.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f03"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c03"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q02",
+          "ppt-mykorrhiza-q03"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i09",
+      "page": 36,
+      "knowledge": "Mykorrhiza betyder svamprot; utbytet är mutualism som gynnar båda parterna.",
+      "sourceEvidence": "Tredje underavsnittets två följande meningar.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f04"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c05"
+        ],
+        "quiz": [],
+        "recall": [
+          "ppt-mykorrhiza-r01",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i10",
+      "page": 36,
+      "knowledge": "Mykorrhiza gynnar trädtillväxt och är viktig för skogsbrukets ekonomi.",
+      "sourceEvidence": "Tredje underavsnittets näst sista mening.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "mykorrhiza-parasitism-f10",
+        "mykorrhiza-parasitism-f11"
+      ],
+      "sectionIds": [
+        "mykorrhiza-parasitism"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "mykorrhiza-parasitism-c09"
+        ],
+        "quiz": [
+          "mykorrhiza-parasitism-q4",
+          "ppt-mykorrhiza-q05"
+        ],
+        "recall": [
+          "mykorrhiza-parasitism-r1",
+          "ppt-mykorrhiza-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p36-i11",
+      "page": 36,
+      "knowledge": "Många mykorrhizasvampar har särskilda växtpartner: smörsopp vid tall och björksopp vid björk.",
+      "sourceEvidence": "Tredje underavsnittets sista två meningar.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-mykorrhiza-f05"
+      ],
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-mykorrhiza-c06"
+        ],
+        "quiz": [
+          "ppt-mykorrhiza-q03"
+        ],
+        "recall": [
+          "ppt-mykorrhiza-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p37-i01",
+      "page": 37,
+      "knowledge": "Mogen fruktkropp släpper sporer som gror och växer till hyfer och mycel.",
+      "sourceEvidence": "Pilar 1–4 med spor-/hyffigurer och Mycel.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f10"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c08"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q06"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r02"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p37-i02",
+      "page": 37,
+      "knowledge": "Mycelet växer och kan bilda fruktkroppsanlag som utvecklas till ung och mogen fruktkropp.",
+      "sourceEvidence": "Pilar 4–7 och anlag under/vid markytan.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f04",
+        "ppt-basidie-livscykel-f10"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c07",
+          "ppt-basidie-livscykel-c08"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q03",
+          "ppt-basidie-livscykel-q05",
+          "ppt-basidie-livscykel-q06"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r02",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p37-i03",
+      "page": 37,
+      "knowledge": "Hatt, skivor, ring, strumpa och fot hör till fruktkroppen, medan hyfer bildar mycelet.",
+      "sourceEvidence": "Samtliga anatomietiketter runt mogen kropp och rotliknande nätverk.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f01",
+        "ppt-anatomi-f05"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c01",
+          "ppt-anatomi-c02",
+          "ppt-anatomi-c07"
+        ],
+        "quiz": [
+          "ppt-anatomi-q01",
+          "ppt-anatomi-q02",
+          "ppt-anatomi-q03",
+          "ppt-anatomi-q07"
+        ],
+        "recall": [
+          "ppt-anatomi-r01",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p38-i01",
+      "page": 38,
+      "knowledge": "Mycel ser ut som ett förgrenat nätverk av hyfer i substratet.",
+      "sourceEvidence": "Det vita nätverket över mörkt material och rubriken.",
+      "baselineStatus": "covered",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "hyfer-mycel-f06"
+      ],
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "hyfer-mycel-c03",
+          "hyfer-mycel-c05"
+        ],
+        "quiz": [
+          "hyfer-mycel-q1",
+          "ppt-anatomi-q03"
+        ],
+        "recall": [
+          "hyfer-mycel-r1",
+          "ppt-anatomi-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i01",
+      "page": 39,
+      "knowledge": "Amanita pantherina är artnamnet på livscykelexemplet, inte röd flugsvamp.",
+      "sourceEvidence": "Latintext längst ner i bilden.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f01"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [],
+        "quiz": [
+          "ppt-basidie-livscykel-q08"
+        ],
+        "recall": []
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i02",
+      "page": 39,
+      "knowledge": "Mogna skivor bär basidier; basidierna innehåller cellkärnorna där sexuella kärnsteg sker.",
+      "sourceEvidence": "Pil från Gills till förstorad Basidium med Nuclei.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f03"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c05",
+          "ppt-anatomi-c11"
+        ],
+        "quiz": [
+          "ppt-anatomi-q04",
+          "ppt-anatomi-q05",
+          "ppt-anatomi-q06",
+          "ppt-anatomi-q07",
+          "ppt-basidie-livscykel-q02"
+        ],
+        "recall": [
+          "ppt-anatomi-r02",
+          "ppt-anatomi-r03",
+          "ppt-basidie-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i03",
+      "page": 39,
+      "knowledge": "Kärnfusion sker i basidiet: två haploida kärnor förenas till en diploid kärna.",
+      "sourceEvidence": "Förstoringssekvensen Nuclei → Fertilization visar två kärnor sedan en sammanslagen.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f05"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c04"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q02",
+          "ppt-basidie-livscykel-q04",
+          "ppt-basidie-livscykel-q05",
+          "ppt-basidie-livscykel-q07",
+          "ppt-basidie-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r02",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i04",
+      "page": 39,
+      "knowledge": "Meios efter kärnfusion bildar haploida kärnor i basidiet.",
+      "sourceEvidence": "Meiosis-etikett över mikroskopisk sekvens med fyra kärnor.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f06"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c05",
+          "ppt-basidie-livscykel-c06",
+          "ppt-basidie-livscykel-c09"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q02",
+          "ppt-basidie-livscykel-q04",
+          "ppt-basidie-livscykel-q05",
+          "ppt-basidie-livscykel-q07",
+          "ppt-basidie-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r02",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i05",
+      "page": 39,
+      "knowledge": "Basidiesporer utvecklas på utskott utanför basidiet och släpps till omgivningen.",
+      "sourceEvidence": "Fyra färgade sporer på utskott i sekvensen, Basidiospores falls to the ground.",
+      "baselineStatus": "missing",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f07"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c06"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q05"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r02",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i06",
+      "page": 39,
+      "knowledge": "Basidiesporer gror till primärt mycel med haploida kärnor.",
+      "sourceEvidence": "Höger del: fallande sporer och Primary mycelium före Plasmogamy.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f02"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c01"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q05",
+          "ppt-basidie-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i07",
+      "page": 39,
+      "knowledge": "Plasmogami förenar kompatibla primära mycels cellinnehåll och ger sekundärt mycel med åtskilda haploida kärnor.",
+      "sourceEvidence": "Plasmogamy-etikett och Mycelial hyphae → Secondary mycelium med två kärnfärger.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f03"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c01",
+          "ppt-basidie-livscykel-c02"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q01",
+          "ppt-basidie-livscykel-q03",
+          "ppt-basidie-livscykel-q05"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r02",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i08",
+      "page": 39,
+      "knowledge": "Det etablerade sekundära mycelet utvecklar anlag, knoppstadium och mogen fruktkropp.",
+      "sourceEvidence": "Pilar under Developed mycelium och Developing egg → Button stage → Mature mushroom.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f04"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-basidie-livscykel-c07"
+        ],
+        "quiz": [
+          "ppt-basidie-livscykel-q03",
+          "ppt-basidie-livscykel-q05"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i09",
+      "page": 39,
+      "knowledge": "Hatt, skivor, ring, fot och strumpa ingår i exemplet; fruktkroppen bär sporproduktion ovan mark medan mycel finns i mark.",
+      "sourceEvidence": "Cap/Gills/Ring/Stem/Volva och Developed mycelium.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-anatomi-f01",
+        "ppt-anatomi-f05"
+      ],
+      "sectionIds": [
+        "ppt-anatomi"
+      ],
+      "exerciseIds": {
+        "cards": [
+          "ppt-anatomi-c01",
+          "ppt-anatomi-c02",
+          "ppt-anatomi-c07"
+        ],
+        "quiz": [
+          "ppt-anatomi-q01",
+          "ppt-anatomi-q02",
+          "ppt-anatomi-q03",
+          "ppt-anatomi-q07"
+        ],
+        "recall": [
+          "ppt-anatomi-r01",
+          "ppt-anatomi-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    },
+    {
+      "id": "ppt-p39-i10",
+      "page": 39,
+      "knowledge": "Den fulla basidiesvampcykeln har separata stadier: spor n → primärt mycel → plasmogami → sekundärt mycel n+n → fruktkropp/basidier → karyogami 2n → meios → nya sporer n.",
+      "sourceEvidence": "Cirkulära pilar förbinder alla makro- och mikrosteg, vilket enbart textutdrag inte fångar.",
+      "baselineStatus": "partial",
+      "examinable": true,
+      "uncertainties": [],
+      "factIds": [
+        "ppt-basidie-livscykel-f09"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel"
+      ],
+      "exerciseIds": {
+        "cards": [],
+        "quiz": [
+          "ppt-basidie-livscykel-q05"
+        ],
+        "recall": [
+          "ppt-basidie-livscykel-r01",
+          "ppt-basidie-livscykel-r03"
+        ]
+      },
+      "finalStatus": "covered"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "title": "Omslag",
+      "summary": "Titel SVAMPAR och foto av flera brunhattade fruktkroppar med fot bland mossa. Ingen artetikett eller anatomisk märkning.",
+      "sectionIds": [],
+      "notes": [
+        "Arten är inte namngiven på sidan och ska inte identifieras säkert från omslaget."
+      ],
+      "coverageIds": [
+        "ppt-p01-i01"
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Carl Woeses livsträd",
+      "summary": "Carl Woeses livsträd visar tre namngivna huvudgrenar: Bakterier, Arkéer och Eukaryoter. Trädgrenarna utgår från en gemensam bas med ett frågetecken och delar sig i ytterligare grenar. Figuren visar släktskap och förgreningar, inte storleksnivåer i taxonomisk hierarki. Djur, svampar och växter är märkta inom eukaryotgrenen. Piltexten Ni är här och en röd cirkel pekar vid djurgrenen. Djur och svampar visas som närliggande förgreningar. Bakteriegrenens bildetiketter: Thermotogales, Gröna svavelbakterier, Flavobakterier, Purpurbakterier, Grampositiva bakterier och Cyanobakterier. Arkégrenens bildetiketter: Pyrodicticum, Thermoproteus, Halofiler, Methanosarcina, Methanobacterium, Metanokocker och Termokocker. Eukaryotgrenens ytterligare etiketter: Ciliater, Spordjur, Amöbor, Flagellater, Tricomonader, Microsporidier och Diplomonader, förutom djur/svampar/växter. Bildnyckeln säger att röda blad representerar värmetåliga organismer.",
+      "sectionIds": [
+        "ppt-systematik",
+        "cellbyggnad"
+      ],
+      "notes": [
+        "Tre domäner är lärarens klassiska modell. Märk tydligt att den fullständiga äldre trädtopologin inte är en slutlig modern fylogeni.",
+        "Frågetecknet har ingen ytterligare bildförklaring. De tunna grå tvärlinjerna saknar legend och får inte ges en säker mekanistisk tolkning.",
+        "Presentationens exempelgrupper är äldre benämningar och inte samtliga moderna formella taxa; lägg inte till ospecificerade fysiologiska egenskaper.",
+        "Figuren stavar Pyrodicticum; den etablerade släktesstavningen är Pyrodictium. Blanda inte lärarens stavning med ett påstående om en annan organism.",
+        "Det äldre trädet ritar Microsporidier som en tidigt avvikande egen gren. Presentera detta som källbildens äldre placering och kommentera deras anknytning till svamplinjen i modern forskning; inte som ett aktuellt säkert basalt eukaryot-släktskap.",
+        "Den röda cirkeln vid Ni är här är en separat markering; det betyder inte att människor är ett rött värmetåligt blad."
+      ],
+      "coverageIds": [
+        "ppt-p02-i01",
+        "ppt-p02-i02",
+        "ppt-p02-i03",
+        "ppt-p02-i04",
+        "ppt-p02-i05",
+        "ppt-p02-i06",
+        "ppt-p02-i07"
+      ]
+    },
+    {
+      "page": 3,
+      "title": "Eukaryoter",
+      "summary": "Eukaryoter (Eukaryota) betecknas som en av de tre domänerna som organismer delas in i. En eukaryot kan ha en eller flera komplexa celler; kärnans arvsmassa finns i en avgränsad cellkärna.",
+      "sectionIds": [
+        "ppt-systematik",
+        "cellbyggnad",
+        "hyfer-mycel"
+      ],
+      "notes": [
+        "Formuleringen modern systematik på sidan behöver kommentaren om klassisk tredomänmodell.",
+        "Källan skriver cellmembran runt kärnan. Använd kärnmembran/kärnhölje i förklaringen, och markera att det skiljer sig från cellens yttre membran. Hela organismens DNA ska inte påstås sakna förekomst i andra organeller."
+      ],
+      "coverageIds": [
+        "ppt-p03-i01",
+        "ppt-p03-i02"
+      ]
+    },
+    {
+      "page": 4,
+      "title": "Klassisk systematik",
+      "summary": "Eukaryoter delas i klassisk systematik in i riken; riken delas vidare i stammar och därefter fler nivåer. Presentationens fyra eukaryota riken är protister, svampar, växter och djur.",
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "notes": [
+        "Protister är ett historiskt samlingsbegrepp, inte en enda modern naturlig släktskapsgren. Det måste framgå samtidigt som originalschemat bevaras."
+      ],
+      "coverageIds": [
+        "ppt-p04-i01",
+        "ppt-p04-i02"
+      ]
+    },
+    {
+      "page": 5,
+      "title": "Taxonomisk hierarki",
+      "summary": "Hierarkibilden har uppifrån Art, Släkte, Familj, Ordning, Klass, Stam, Rike, Domän, Liv. I riktningen från bredast till snävast blir ordningen omvänd. Funnelbilden visar nivåer inuti större grupper: flera arter kan ingå i ett släkte, flera släkten i en familj och så vidare till en domän.",
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "notes": [
+        "Liv är bildens övergripande etikett, inte en vedertagen taxonomisk rang av samma typ som domän och rike.",
+        "Antalet ritade cirklar är schematiskt och får inte behandlas som biologiska antal arter/släkten."
+      ],
+      "coverageIds": [
+        "ppt-p05-i01",
+        "ppt-p05-i02"
+      ]
+    },
+    {
+      "page": 6,
+      "title": "Protister",
+      "summary": "Protister, Protista, betecknade i äldre systematik mestadels encelliga organismer med cellkärna. Traditionell indelning: protozoer/urdjur är djurliknande, alger växtliknande och slemsvampar svampliknande.",
+      "sectionIds": [
+        "ppt-systematik"
+      ],
+      "notes": [
+        "Begreppet får inte förklaras som en enda modern monofyletisk grupp.",
+        "'Prostiser' är stavfel på sidan. Normalisera till protister men bevara källbilden. Liknelserna är traditionella beskrivningar, inte alla detaljer i modern taxonomi."
+      ],
+      "coverageIds": [
+        "ppt-p06-i01",
+        "ppt-p06-i02"
+      ]
+    },
+    {
+      "page": 7,
+      "title": "Slemsvampar – bildexempel",
+      "summary": "Fotot under rubriken Slemsvampar visar många gula kul-/droppformade strukturer, flera på tunna skaft, på död ved.",
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "notes": [
+        "Ingen art namnges i källan. Enbart färg och form ska inte användas för att hitta på ett artnamn eller stadieidentifiering bortom vad bilden och senare diagram stödjer."
+      ],
+      "coverageIds": [
+        "ppt-p07-i01"
+      ]
+    },
+    {
+      "page": 8,
+      "title": "Slemsvampars kännetecken och förökning",
+      "summary": "Rubriken säger att slemsvampar inte är riktiga svampar. Presentationens fyra livsstadier anges som spor, gamet, plasmoid och fruktkropp. Sporer anges vara överlevare och lätta att sprida. Ur en mogen spor kommer i presentationens ord gameter/könsceller med enkel kromosomuppsättning. Gameter smälter samman parvis och bildar en zygot; zygot definieras som den cell som bildas vid befruktning när två gameter förenas. Texten påstår därefter att zygoter förenar sig med andra zygoter för att bilda plasmodier.",
+      "sectionIds": [
+        "ppt-slemsvampar",
+        "ppt-slemsvampar-livscykel",
+        "asexuell-forokning"
+      ],
+      "notes": [
+        "Bredbeteckningen slemsvampar täcker inte en universell livscykel; sidorna 8–11 illustrerar plasmodiebildande slemsvampar.",
+        "Gameterna är här haploida amöb-/flagellatceller med en möjlig könscellsroll; inte en separat universell djurlik gamettyp. Ingen enda fyrastadiemodell får påstås omfatta alla slemsvampar.",
+        "Källans 'föds gameter' är en förenkling. Ett groende myxogastriskt sporstadium ger amöboida/flagellata celler som också kan växa och dela sig.",
+        "Att många zygoter måste fusionera är inte den korrekta grundmekanismen i denna cykel. Olika plasmodier kan under vissa villkor fusionera, men det ska inte tillskrivas denna text som förklaring till huvudcykeln."
+      ],
+      "coverageIds": [
+        "ppt-p08-i01",
+        "ppt-p08-i02",
+        "ppt-p08-i03",
+        "ppt-p08-i04",
+        "ppt-p08-i05",
+        "ppt-p08-i06"
+      ]
+    },
+    {
+      "page": 9,
+      "title": "Slemsvampars livsstadier",
+      "summary": "Plasmoid beskrivs som en supercell som lever i förnan/i multnande organiskt material. Plasmodier äter genom att innesluta födan och lösa upp den. Plasmodier rör sig/sprider sig; läraren anger normalt ungefär en millimeter per timme. Fruktkropp beskrivs som det sista stadiet och bildas vid näringsbrist.",
+      "sectionIds": [
+        "ppt-slemsvampar",
+        "ppt-slemsvampar-livscykel"
+      ],
+      "notes": [
+        "'Plasmoid' är källans terminologi; standardtermen är plasmodium. Att leva på multnande ved innebär inte att cellmassan är ett svampmycel eller nödvändigtvis äter veden direkt.",
+        "Hastigheten varierar med organism och förhållanden. Ingen primär källa i denna audit verifierar 1 mm/h som allmänt normalvärde; lärarens siffra ska märkas källuppgift, inte universalbiologisk konstant.",
+        "Näringsbrist är inte ensam universell utlösare för alla taxa; ljus och andra miljösignaler kan krävas i undersökta Physarum-system."
+      ],
+      "coverageIds": [
+        "ppt-p09-i01",
+        "ppt-p09-i02",
+        "ppt-p09-i03",
+        "ppt-p09-i04"
+      ]
+    },
+    {
+      "page": 10,
+      "title": "Slemsvampar på ved",
+      "summary": "Foto under Slemsvampar visar stora oregelbundna gula, skummiga/korniga massor över en ruttnande stubbe; formen skiljer sig från skaftade kulor på sida 7.",
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "notes": [
+        "Sidan namnger ingen art eller livsstadium. Fotografiet ensamt fastställer inte vilket specifikt stadium varje gul struktur befinner sig i."
+      ],
+      "coverageIds": [
+        "ppt-p10-i01"
+      ]
+    },
+    {
+      "page": 11,
+      "title": "Slemsvampens livscykel",
+      "summary": "Diagrammets huvudföljd: spor → groende spor → amöboid cell eller flagellatcell → syngami → zygot (2n) → mitos → näringsupptagande plasmodium → moget plasmodium inför sporbildning → ungt sporangium → moget sporangium → meios → sporer. Pilar mellan amöboid cell och flagellatcell går i båda riktningar; båda cellformerna ansluter till syngami. Bakgrundsfärgerna skiljer haploid fas (n) vid sporer och amöb-/flagellatceller från diploid fas efter syngami vid zygot/plasmodium. Zygoten är explicit märkt 2n; meios markerar övergången tillbaka till sporer. En pil märkt Mitos leder från zygoten till feeding plasmodium, som växer till mature plasmodium. Det är kärndelning/tillväxt, inte en avbildad serie av zygotfusioner. Sporangier finns som young sporangium och mature sporangium. Den mogna sporbehållaren ritas med sporer inuti och en struktur märkt Stalk/skaft.",
+      "sectionIds": [
+        "ppt-slemsvampar-livscykel",
+        "asexuell-forokning",
+        "sexuell-forokning"
+      ],
+      "notes": [
+        "Detta är den sexuella cykel som illustreras för plasmodiebildande slemsvampar; använd inte som identisk cykel för cellulära slemsvampar.",
+        "Legendens nedre rad är felmärkt 'Diploid (n)' i originalet. Den ska förklaras som diploid (2n), med synlig källkommentar; zygotetiketten 2n bekräftar felet.",
+        "Den exakta formuleringen utan celluppdelning är vetenskaplig förklaring av diagrammet och ska märkas som förtydligande med referens.",
+        "Alla slemsvampars sporbildande kroppar är inte skaftade. Figurens skaftform är ett exempel."
+      ],
+      "coverageIds": [
+        "ppt-p11-i01",
+        "ppt-p11-i02",
+        "ppt-p11-i03",
+        "ppt-p11-i04",
+        "ppt-p11-i05"
+      ]
+    },
+    {
+      "page": 12,
+      "title": "Trollsmör",
+      "summary": "Trollsmör och vargmjölk anges som kända arter av slemsvampar.",
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "notes": [
+        "Vetenskapliga namn finns inte på denna slide. Om de läggs till är de externt verifierade förtydliganden, inte originaltext."
+      ],
+      "coverageIds": [
+        "ppt-p12-i01"
+      ]
+    },
+    {
+      "page": 13,
+      "title": "Trollsmör – bildexempel",
+      "summary": "Rubriken Trollsmör kopplas till ett foto av en gul, oregelbunden, kornig/skummig massa på död ved.",
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "notes": [
+        "Källan namnger trollsmör men anger inte det avbildade livsstadiet. Ange inte säkert plasmodium kontra färdig sporbildande kropp enbart från fotot."
+      ],
+      "coverageIds": [
+        "ppt-p13-i01"
+      ]
+    },
+    {
+      "page": 14,
+      "title": "Vargmjölk",
+      "summary": "Vargmjölk visas som namngivet exempel bland slemsvampar.",
+      "sectionIds": [
+        "ppt-slemsvampar"
+      ],
+      "notes": [
+        "Lycogala-gruppen innehåller närstående arter. Ange vargmjölk enligt källans bildtext, inte säker modern artbestämning av fotografiet."
+      ],
+      "coverageIds": [
+        "ppt-p14-i01"
+      ]
+    },
+    {
+      "page": 15,
+      "title": "Svampriket och huvudgrupper",
+      "summary": "Svampar (Fungi) utgör ett eget rike, presenterat vid sidan av djur, växter och protister i den klassiska indelningen. Rubriken beskriver svampar som flercelliga. Presentationens tre grupper heter algsvampar, sporsäckssvampar och basidiesvampar.",
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "notes": [
+        "Protister är ett traditionellt samlingsbegrepp och inte ett enda naturligt släktskap. Presentera den äldre rikemodellen som modell, inte som fullständig modern taxonomi.",
+        "Rubriken får inte leda till felaktiga påståendet att alla svampar är flercelliga.",
+        "Algsvampar är en historisk heterogen gruppering. Den tredelade listan är inte en fullständig eller vetenskapligt aktuell indelning av Fungi."
+      ],
+      "coverageIds": [
+        "ppt-p15-i01",
+        "ppt-p15-i02",
+        "ppt-p15-i03"
+      ]
+    },
+    {
+      "page": 16,
+      "title": "Algsvampar, kräftpest och brödmögel",
+      "summary": "Presentationens algsvampar sägs ofta leva i vatten och som parasiter. Kräftpest anges som exempel på en sjukdom orsakad av en organism i presentationens grupp algsvampar. Brödmögel anges som en annan algsvamp i presentationen.",
+      "sectionIds": [
+        "ppt-svampgrupper"
+      ],
+      "notes": [
+        "Överför inte detta till alla sanna svampar eller alla organismer som tidigare räknades som algsvampar.",
+        "Oomyceten är svamplik men hör enligt modern taxonomi inte till Fungi. Fotot bör beskrivas som kräfta, inte som säker diagnostisk illustration av kräftpest.",
+        "Olika svampar kan bilda mögel på bröd. Fotot kan inte artbestämmas. Rhizopus kan ges som verifierat allmänt brödmögelexempel, inte som fastslagen art i fotot. Rhizopus är en riktig svamp, till skillnad från kräftpestorganismen."
+      ],
+      "coverageIds": [
+        "ppt-p16-i01",
+        "ppt-p16-i02",
+        "ppt-p16-i03"
+      ]
+    },
+    {
+      "page": 17,
+      "title": "Fotsvamp – parasitism",
+      "summary": "Fotsvamp är presentationens exempel på svampar som parasiter hos människan.",
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "notes": [
+        "Förklara principen och källans exempel; gör ingen diagnos eller artbestämning utifrån bilden och lägg inte till behandlingstips."
+      ],
+      "coverageIds": [
+        "ppt-p17-i01"
+      ]
+    },
+    {
+      "page": 18,
+      "title": "Tallticka – parasitism",
+      "summary": "En tallticka som parasiterar en tall anges som exempel på parasitism hos träd. En konsolformad tickfruktkropp växer från en trädstam.",
+      "sectionIds": [
+        "ppt-parasitism"
+      ],
+      "notes": [
+        "Håll textens exempel åtskilt från bildens osäkra artetikett.",
+        "Fotot liknar klibbticka (Fomitopsis pinicola) mer än tallticka. Detta är en visuell inferens som stöds av Artsdatabankens karakteristiska röda/orange zon; inte en definitiv identifiering."
+      ],
+      "coverageIds": [
+        "ppt-p18-i01",
+        "ppt-p18-i02"
+      ]
+    },
+    {
+      "page": 19,
+      "title": "Basidiesvampar",
+      "summary": "Basidiesvampar omfattar många vanliga matsvampar och presentationen räknar upp skivlingar, soppar, taggsvampar och buksvampar. Sporbildande basidier finns på skivor, rör och taggar.",
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "notes": [
+        "Basidiesvamp betyder inte matsvamp. Formgrupper är användbara för utseende men ger inte automatiskt nära släktskap eller ätlighet.",
+        "Källan säger sporer bildas i små utskott, basidier. Förtydliga att basidiet är en sporbildande cell; sporerna utvecklas utanpå den på små utskott (sterigmer), inte inuti basidiet."
+      ],
+      "coverageIds": [
+        "ppt-p19-i01",
+        "ppt-p19-i02"
+      ]
+    },
+    {
+      "page": 20,
+      "title": "Basidiesvampars grupper och sporbildning",
+      "summary": "Hos basidiesvampar knyts sporbildningen till basidier. En mogen basidie beskrivs med fyra skaft som vart och ett bär en spor. De välkända hattsvamparna beskrivs som basidiesvampar med sporkropp/fruktkropp som består av hatt och fot. Basidier sitter ordnade på skivor/lameller, taggar eller i rör på hattens undersida så att många basidier får plats. Benämningarna skivlingar, taggsvampar och rörsvampar kopplas till hattundersidans strukturer. Tickor beskrivs som rörsvampar som med få undantag saknar fot. Många tickor är parasiter på träd. Fruktkropparna växer som skärmar/konsoler på stammar, är ofta fleråriga och hårda. Tickors hyfer tar upp näring inne i stammen där de orsakar röta. Soppar är rörsvampar med hatt och fot. Stensopp/karljohan anges som uppskattat matsvampsexempel. Buksvampar beskrivs ha slutna sporkroppar under sporutvecklingen. Röksvampar är ett exempel. När röksvampars sporer är färdiga öppnas den rundade fruktkroppen i toppen och sporerna ryker ut.",
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "notes": [
+        "Fyra är vanligt, inte universellt. Behåll kopplingen till källans vanliga exempel utan att generalisera till exakt fyra hos alla basidiesvampar.",
+        "Alla basidiesvampar är inte hattsvampar och inte alla fruktkroppar har hatt och fot. De vanliga hattsvampsexemplen är basidiesvampar.",
+        "Skilj hyfers kontaktyta för näringsupptag från fruktkroppens yta för sporproduktion.",
+        "Kantarellens åsar behöver en egen förklaring på p22 eftersom de inte är äkta skivor.",
+        "Presentationens ofta/med få undantag bör inte bli ett absolut påstående om alla tickor.",
+        "Många/ofta är viktiga: alla tickor är inte parasiter, hårda eller fleråriga.",
+        "Det är ett tickexempel; inte skäl att kalla alla vedlevande svampar parasiter.",
+        "Hela gruppen soppar ska inte beskrivas som ätlig bara för att stensopp är exempel på matsvamp.",
+        "Buksvampar är en traditionell formgrupp; namnet garanterar inte ett enda nära släktskap. Svampar som senare öppnas (stinksvamp) ska inte motsägas av för absolut formulering.",
+        "Beskriv det vanliga röksvampsexemplet, inte alla buksvampar. Stinksvamp sprider inte sporer på samma sätt."
+      ],
+      "coverageIds": [
+        "ppt-p20-i01",
+        "ppt-p20-i02",
+        "ppt-p20-i03",
+        "ppt-p20-i04",
+        "ppt-p20-i05",
+        "ppt-p20-i06",
+        "ppt-p20-i07",
+        "ppt-p20-i08",
+        "ppt-p20-i09",
+        "ppt-p20-i10"
+      ]
+    },
+    {
+      "page": 21,
+      "title": "Skivlingar och soppar",
+      "summary": "Stensopp, även kallad karljohan, anges som rörsvamp.",
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "notes": [
+        "En bild av bara hatt och fot lär inte ut hur porerna/rören ser ut. Skriv inte att rören syns tydligt på presentationens p21."
+      ],
+      "coverageIds": [
+        "ppt-p21-i01"
+      ]
+    },
+    {
+      "page": 22,
+      "title": "Kantarellens åsar",
+      "summary": "Presentationens bildtext identifierar kantarell. Rubriken Skivling använder kantarell som exempel, trots att kantarell har åsar snarare än äkta skivor/lameller.",
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "notes": [
+        "Artfoton finns redan men p22:s strukturkunskap finns inte i baseline.",
+        "Åsar är en direkt relevant rättelse av källan. Lär inte ut kantarell som standardexempel på äkta skivling."
+      ],
+      "coverageIds": [
+        "ppt-p22-i01",
+        "ppt-p22-i02"
+      ]
+    },
+    {
+      "page": 23,
+      "title": "Taggsvampar",
+      "summary": "Blek taggsvamp anges som taggsvamp.",
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "notes": [
+        "Den visuella uppgiften taggar är tydlig; sporerna/basidierna är mikroskopiska och syns inte på fotografiet."
+      ],
+      "coverageIds": [
+        "ppt-p23-i01"
+      ]
+    },
+    {
+      "page": 24,
+      "title": "Buksvampar",
+      "summary": "Stinksvamp visas som exempel på buksvamp.",
+      "sectionIds": [
+        "ppt-basidiesvampar"
+      ],
+      "notes": [
+        "Sluten under sporutveckling betyder inte att den mogna stinksvampen alltid är en sluten boll. Sporerna utvecklas i det unga, inneslutna stadiet; det mogna fotot visar ett senare stadium."
+      ],
+      "coverageIds": [
+        "ppt-p24-i01"
+      ]
+    },
+    {
+      "page": 25,
+      "title": "Sporsäckssvampar och parasitiskt mögel",
+      "summary": "Murklor och tryfflar anges som exempel på sporsäckssvampar. Sporsäckssvampar kan vara parasiter; fruktmögel anges som exempel. Sporsäckssvampars sporer bildas i säckar.",
+      "sectionIds": [
+        "ppt-sporsackssvampar",
+        "ppt-parasitism"
+      ],
+      "notes": [
+        "Tryffel används i olika bred betydelse. Presentationens exempel kan förklaras med äkta tryfflar; inte alla tryffelliknande svampar är Ascomycota.",
+        "Art/släkte fastslås inte i källan och kan inte avgöras säkert från fotot. Alla mögel är inte samma grupp, och det synliga mögelstadiet behöver inte visa de sexuella sporsäckarna.",
+        "Avser den sexuella sporbildning som definierar gruppen. En sporsäckssvamp kan även bilda asexuella sporer, vilket fruktmögelbilden inte skiljer på."
+      ],
+      "coverageIds": [
+        "ppt-p25-i01",
+        "ppt-p25-i02",
+        "ppt-p25-i03"
+      ]
+    },
+    {
+      "page": 26,
+      "title": "Murklor och källbildens osäkerhet",
+      "summary": "Murkla presenteras som sporsäckssvamp; vänster bild visar en ljus murkleliknande fruktkropp. Höger bild visar en mörk, långsträckt murkleliknande hatt med gropar mellan upphöjda åsar. Collagets mittenbild innehåller rosa/orange kulor som visuellt liknar vargmjölk, inte en murkla.",
+      "sectionIds": [
+        "ppt-sporsackssvampar"
+      ],
+      "notes": [
+        "Källan ger inget säkert artnamn för vänster bild; skriv murkla enligt källan, inte påhittad artbestämning.",
+        "Använd inte fotografiets form som bevis för ett exakt modernt Morchella-artnamn.",
+        "Visuell inferens, inte definitiv artbestämning. Den exakta bildkällan saknas; lär inte ut att samtliga tre foton är murklor."
+      ],
+      "coverageIds": [
+        "ppt-p26-i01",
+        "ppt-p26-i02",
+        "ppt-p26-i03"
+      ]
+    },
+    {
+      "page": 27,
+      "title": "Sporsäckar, jäst, jäsning och Penicillium",
+      "summary": "Sporsäcksvampar bildar sporer inuti små säcklika sporsäckar. Gruppen innehåller jästsvampar, mögelsvampar och storformer som äkta tryfflar, murklor och skålsvampar. Skålsvampens säckar finns i den sporproducerande vävnaden i den skålformade fruktkroppen. Jästsvampar är encelliga. Jäsning spjälkar socker utan att syre används och bildar koldioxid och etanol. Jäsning skiljer sig från fullständig nedbrytning vid cellandning till koldioxid och vatten. Jäsning utnyttjas i bakning samt öl- och vintillverkning. Koldioxidgasen får degen att svälla. Penselmögel är släktet Penicillium och används i roquefort och camembert. Penicillin är ett antibiotikum som utvinns ur penselmögel.",
+      "sectionIds": [
+        "ppt-sporsackssvampar",
+        "ppt-jast-mogel",
+        "hyfer-mycel",
+        "manniskans-tjanst"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p27-i01",
+        "ppt-p27-i02",
+        "ppt-p27-i03",
+        "ppt-p27-i04",
+        "ppt-p27-i05",
+        "ppt-p27-i06",
+        "ppt-p27-i07",
+        "ppt-p27-i08",
+        "ppt-p27-i09",
+        "ppt-p27-i10"
+      ]
+    },
+    {
+      "page": 28,
+      "title": "Fruktkropp, mycel och sporbildande ytor",
+      "summary": "Fruktkroppen har hatt och fot, ibland ring; markens nätverk är mycel. Fruktkroppsvävnaden består av svamphyfer. Basidiet är en klubbformad sporproducerande cell med sporer på utskott. Skivling, rörsvamp och taggsvamp skiljs genom undersidans skivor, rör respektive taggar.",
+      "sectionIds": [
+        "ppt-anatomi",
+        "fruktkroppar-tillvaxt"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p28-i01",
+        "ppt-p28-i02",
+        "ppt-p28-i03",
+        "ppt-p28-i04"
+      ]
+    },
+    {
+      "page": 29,
+      "title": "Svampens anatomi",
+      "summary": "Hatt och fot är delar av fruktkroppen. Skivor kallas också lameller; hymenium är den sporproducerande vävnaden på ytan. Sporer lämnar hattens sporproducerande undersida. Ring sitter på foten och strumpa vid fotbasen. Fjäll på hatten är en egen synlig struktur. Hyfer bildar mycel under marken, skilt från synlig fruktkropp.",
+      "sectionIds": [
+        "ppt-anatomi",
+        "hyfer-mycel"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p29-i01",
+        "ppt-p29-i02",
+        "ppt-p29-i03",
+        "ppt-p29-i04",
+        "ppt-p29-i05",
+        "ppt-p29-i06"
+      ]
+    },
+    {
+      "page": 30,
+      "title": "Röd flugsvamp som anatomiexempel",
+      "summary": "Röd flugsvamp kan användas som anatomiskt exempel med hatt, skivor, ring, fot, strumpa och mycel. Skivorna under hatten utgör sporproducerande yta hos detta exempel. Det marklevande mycelet är större än den synliga fruktkroppen och sitter samman med denna.",
+      "sectionIds": [
+        "ppt-anatomi",
+        "hyfer-mycel"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p30-i01",
+        "ppt-p30-i02",
+        "ppt-p30-i03"
+      ]
+    },
+    {
+      "page": 31,
+      "title": "Svampcell, kitin, hyfer och tillväxt",
+      "summary": "Svampar är eukaryoter, saknar kloroplaster och har cellvägg. Cellväggen innehåller kitin, en polysackarid; läraren jämför styrkan med cellulosa. Svampar finns som encelliga, exempelvis jäst, och flercelliga trådformer. Avlånga svampceller bildar hyfer; nätverk av hyfer kallas mycel. Fruktkroppar växer ut från mycel när temperatur och fukt är lämpliga.",
+      "sectionIds": [
+        "cellbyggnad",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p31-i01",
+        "ppt-p31-i02",
+        "ppt-p31-i03",
+        "ppt-p31-i04",
+        "ppt-p31-i05"
+      ]
+    },
+    {
+      "page": 32,
+      "title": "Nedbrytare och saprofyter",
+      "summary": "Svampar räknas tillsammans med bakterier till de mest betydelsefulla nedbrytarna. Saprofyt är lärarens ord för organismer som tar näring från döda växter och djur. Fruktkroppar på en stubbe visar hur svampar kan utnyttja dött växtmaterial.",
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning",
+        "ekosystem"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p32-i01",
+        "ppt-p32-i02",
+        "ppt-p32-i03"
+      ]
+    },
+    {
+      "page": 33,
+      "title": "Mykorrhiza – rotkontakt",
+      "summary": "Mykorrhiza är fysisk kontakt mellan svampens mycel och växtens rötter. Diagrammet visar svamphyfer runt en rotspets, alltså en manteltyp av mykorrhiza.",
+      "sectionIds": [
+        "ppt-mykorrhiza"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p33-i01",
+        "ppt-p33-i02"
+      ]
+    },
+    {
+      "page": 34,
+      "title": "Mykorrhiza – rotmantel och utbyte",
+      "summary": "Svampar kan leva i symbios, mykorrhiza, med växter. Växtrötter är ofta omgivna av en mantel av svamphyfer. Trädet avger kolhydrater till svampen. Trädet får vatten och mineralämnen via svampens stora mycelnätverk.",
+      "sectionIds": [
+        "ppt-mykorrhiza",
+        "mykorrhiza-parasitism"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p34-i01",
+        "ppt-p34-i02",
+        "ppt-p34-i03",
+        "ppt-p34-i04"
+      ]
+    },
+    {
+      "page": 35,
+      "title": "Förökning, sporer och feromoner",
+      "summary": "Svampar kan föröka sig asexuellt; encellig jäst kan dela sig. Flercelliga kan bilda små sporceller med ett skyddande tåligt skal. Sporer sprids och gror vid gynnsam fukt, temperatur och tillgång till organiskt material; hyfer växer till mycel. Många svampar kan föröka sig sexuellt; mycel söker parningspartner med feromoner. Hyfförening och kärnförening är olika steg; åtskilda haploida kärnor föregår diploid kärna och åter haploida sporer. Meios behövs för att återgå från diploid till haploid i den sexuella cykeln.",
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning",
+        "ppt-basidie-livscykel",
+        "asexuell-forokning",
+        "sexuell-forokning"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p35-i01",
+        "ppt-p35-i02",
+        "ppt-p35-i03",
+        "ppt-p35-i04",
+        "ppt-p35-i05",
+        "ppt-p35-i06"
+      ]
+    },
+    {
+      "page": 36,
+      "title": "Näringssätt, mykorrhiza, parasitism och fukt",
+      "summary": "Svampar är heterotrofa och försörjer sig enligt tre här beskrivna strategier: parasitism, nedbrytning, symbios med fotoautotrofer. Parasitens mycel växer i levande organism, tar dess näring och skadar värden. Flera tickor är trädparasiter; nagelsvamp är ett exempel som angriper människor. Nedbrytare tar näring från döda växt- och djurdelar; läraren använder saprofyt. Mögelsvampar kan växa i bostäder; torrt och kallt bromsar svamptillväxt. God ventilation och kylförvaring av känslig mat minskar risken för mögelangrepp. Hyfer ökar växtens upptag av vatten och lösta närsalter från marken. Svampen får organiskt socker som växten bildat genom fotosyntes. Mykorrhiza betyder svamprot; utbytet är mutualism som gynnar båda parterna. Mykorrhiza gynnar trädtillväxt och är viktig för skogsbrukets ekonomi. Många mykorrhizasvampar har särskilda växtpartner: smörsopp vid tall och björksopp vid björk.",
+      "sectionIds": [
+        "ppt-parasitism",
+        "ppt-mykorrhiza",
+        "ppt-tillvaxt-nedbrytning",
+        "naringsstrategi",
+        "mykorrhiza-parasitism"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p36-i01",
+        "ppt-p36-i02",
+        "ppt-p36-i03",
+        "ppt-p36-i04",
+        "ppt-p36-i05",
+        "ppt-p36-i06",
+        "ppt-p36-i07",
+        "ppt-p36-i08",
+        "ppt-p36-i09",
+        "ppt-p36-i10",
+        "ppt-p36-i11"
+      ]
+    },
+    {
+      "page": 37,
+      "title": "Från spor till fruktkropp",
+      "summary": "Mogen fruktkropp släpper sporer som gror och växer till hyfer och mycel. Mycelet växer och kan bilda fruktkroppsanlag som utvecklas till ung och mogen fruktkropp. Hatt, skivor, ring, strumpa och fot hör till fruktkroppen, medan hyfer bildar mycelet.",
+      "sectionIds": [
+        "ppt-anatomi",
+        "ppt-basidie-livscykel"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p37-i01",
+        "ppt-p37-i02",
+        "ppt-p37-i03"
+      ]
+    },
+    {
+      "page": 38,
+      "title": "Mycel i marken",
+      "summary": "Mycel ser ut som ett förgrenat nätverk av hyfer i substratet.",
+      "sectionIds": [
+        "hyfer-mycel"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p38-i01"
+      ]
+    },
+    {
+      "page": 39,
+      "title": "Basidiesvampens sexuella livscykel",
+      "summary": "Amanita pantherina är artnamnet på livscykelexemplet, inte röd flugsvamp. Mogna skivor bär basidier; basidierna innehåller cellkärnorna där sexuella kärnsteg sker. Kärnfusion sker i basidiet: två haploida kärnor förenas till en diploid kärna. Meios efter kärnfusion bildar haploida kärnor i basidiet. Basidiesporer utvecklas på utskott utanför basidiet och släpps till omgivningen. Basidiesporer gror till primärt mycel med haploida kärnor. Plasmogami förenar kompatibla primära mycels cellinnehåll och ger sekundärt mycel med åtskilda haploida kärnor. Det etablerade sekundära mycelet utvecklar anlag, knoppstadium och mogen fruktkropp. Hatt, skivor, ring, fot och strumpa ingår i exemplet; fruktkroppen bär sporproduktion ovan mark medan mycel finns i mark. Den fulla basidiesvampcykeln har separata stadier: spor n → primärt mycel → plasmogami → sekundärt mycel n+n → fruktkropp/basidier → karyogami 2n → meios → nya sporer n.",
+      "sectionIds": [
+        "ppt-anatomi",
+        "ppt-basidie-livscykel"
+      ],
+      "notes": [],
+      "coverageIds": [
+        "ppt-p39-i01",
+        "ppt-p39-i02",
+        "ppt-p39-i03",
+        "ppt-p39-i04",
+        "ppt-p39-i05",
+        "ppt-p39-i06",
+        "ppt-p39-i07",
+        "ppt-p39-i08",
+        "ppt-p39-i09",
+        "ppt-p39-i10"
+      ]
+    }
+  ]
+}

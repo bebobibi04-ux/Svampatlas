@@ -1,3 +1,5 @@
+> Historisk kontroll före PowerPoint-kompletteringen. [Aktuell innehållsgranskning och tester](POWERPOINT-TACKNING.md).
+
 # Svampatlas på GitHub Pages
 
 Datum: 2026-10-10.

@@ -6,6 +6,10 @@ Det här är den befintliga färdigbyggda Svampatlas, exporterad för vanlig web
 
 Allt studiematerial, filmkorrigeringarna, designen, navigationen, bilderna och studieverktygen är bevarade. Endast den valfria agentintegrationen har tagits bort och backupinstruktionen har anpassats till byte av valfri webbadress. Koden använder vanlig HTML, CSS och JavaScript.
 
+## PowerPoint-komplettering 2026-10-10
+
+Hela lärarens 39-sidiga PowerPoint ingår nu i teori, kort, quiz, active recall och prov. Tolv nya avsnitt kompletterar det bevarade originalmaterialet. [Fullständig sida-för-sida-granskning och testresultat](docs/POWERPOINT-TACKNING.md). Äldre verifieringsrapporter beskriver versionen före denna komplettering.
+
 ## Publicera gratis på GitHub Pages
 
 1. Packa upp ZIP-filen och öppna mappen **Svampatlas**.

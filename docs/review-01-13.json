@@ -1,0 +1,993 @@
+{
+  "review": {
+    "reviewer": "ppt_audit_27_39",
+    "independentOfAuthor": true,
+    "scope": "Svampar.pdf pages 1–13; isolated content-01-13.json, audit-01-13.json and preserved baseline only",
+    "date": "2026-10-10",
+    "contentSha256": "d07b6000d54f1dca6e908e3de927796209cee0c37b962fcf532c1a10e2d30ec1",
+    "method": "All 13 original Poppler page renders re-inspected visually; all theory blocks/facts/processes/source notes plus every card answer, quiz key/explanation and recall model/checkpoints/biological assessment read. Audit items compared semantically with precise fact evidence. References, image paths and quiz indices checked.",
+    "finalCourseSha256": "43d1319e89fa5dbeb98db01297372e06a7ab8594cda6c2edff12e24028a758d7",
+    "coverageSha256": "4fada22178275609e91af07a043eed4f3e95de885711e2b7bf3b78b57bddacb6",
+    "finalIntegrationVerified": true,
+    "integrationMethod": "The three reviewed section objects equal the integrated course objects in all authored fields. Every fact, section and exercise ID in the 35 final coverage entries resolves; individual theory/keys remain as semantically reviewed. Cover slide source asset exists and is non-examinable in final matrix."
+  },
+  "summary": {
+    "status": "pass_after_verified_fixes",
+    "pagesReviewed": 13,
+    "auditItemsReviewed": 35,
+    "examinableItemsSemanticallyCovered": 34,
+    "supportiveCoverItems": 1,
+    "findingsCount": 2,
+    "cardsReviewed": 39,
+    "quizReviewed": 26,
+    "recallReviewed": 11,
+    "advancedAssessmentsReviewed": 3,
+    "referenceImageKeyErrors": [],
+    "semanticContentGaps": 0,
+    "finalCoverageEntriesVerified": 35,
+    "remainingFindings": 0
+  },
+  "pageResults": [
+    {
+      "page": 1,
+      "originalImage": "work/ppt-correction/render/slide-01.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Omslaget innehåller ingen säker artetikett eller separat biologisk detalj att examinera. Originalbilden finns i assets/pdf/page-1.jpg; befintligt fruktkroppsavsnitt förklarar fruktkroppen. Ingen art eller exakt livsstadium uppfinns.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p01-i01",
+          "status": "covered_supportive_visual",
+          "factIds": [
+            "fruktkroppar-tillvaxt-f02"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [],
+        "quiz": [],
+        "recall": []
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 2,
+      "originalImage": "work/ppt-correction/render/slide-02.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Samtliga tre domäner, sex bakterieetiketter, sju arkéetiketter och tio eukaryotetiketter finns explicit i teori och faktanyckel, inte bara via bildlänk. Människans djurgren, svampars närliggande gren, släktskap kontra ranghierarki och de två skilda röda markeringarna har korrekta facit. Pyrodicticum återges som källstavning med Pyrodictium-kommentar. Äldre mikrosporidieplacering och träddetaljer förväxlas inte med slutlig modern fylogeni. Frågetecknet och olegendförsedda tvärlinjer ges ingen påhittad mekanism.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p02-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f01",
+            "ppt-systematik-f17"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p02-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f02"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p02-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f03",
+            "cellbyggnad-f01"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p02-i04",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f04"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p02-i05",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f05"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p02-i06",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f06",
+            "ppt-systematik-f17"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p02-i07",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f07"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-systematik-c01",
+          "ppt-systematik-c02",
+          "ppt-systematik-c03",
+          "ppt-systematik-c04",
+          "ppt-systematik-c05",
+          "ppt-systematik-c06",
+          "ppt-systematik-c07",
+          "ppt-systematik-c11",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q02",
+          "ppt-systematik-q03",
+          "ppt-systematik-q04",
+          "ppt-systematik-q07",
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "findings": [
+        "review-01-13-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-01-13-F02"
+      ]
+    },
+    {
+      "page": 3,
+      "originalImage": "work/ppt-correction/render/slide-03.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Domänbegreppet kopplas till eukaryota celler med avgränsad cellkärna, inklusive både encellig och flercellig organisation. Kärnhölje och cellens yttre membran skiljs uttryckligen åt. Formuleringen kärnans arvsmassa undviker felpåståendet att allt eukaryotiskt DNA måste ligga i kärnan.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p03-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f01",
+            "cellbyggnad-f01"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p03-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f08",
+            "ppt-systematik-f09",
+            "ppt-systematik-f10",
+            "cellbyggnad-f02",
+            "hyfer-mycel-f02"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-systematik-c01",
+          "ppt-systematik-c08",
+          "ppt-systematik-c09",
+          "ppt-systematik-c10"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q02",
+          "ppt-systematik-q05"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 4,
+      "originalImage": "work/ppt-correction/render/slide-04.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Klassisk domän–rike–stam-relation och samtliga fyra lärarriken finns i teori och övningar. Protista avgränsas som ett äldre samlingsbegrepp och likställs inte med en enda modern naturlig släktskapsgren.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p04-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f12"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p04-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f11",
+            "ppt-systematik-f17"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-systematik-c06",
+          "ppt-systematik-c11",
+          "ppt-systematik-c12",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q06",
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "findings": [
+        "review-01-13-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-01-13-F02"
+      ]
+    },
+    {
+      "page": 5,
+      "originalImage": "work/ppt-correction/render/slide-05.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Alla åtta rangenheter återges i korrekt ordning: domän, rike, stam, klass, ordning, familj, släkte, art. Liv finns kvar som figurens samlande basetikett, med korrekt avgränsning från formell rang. Inklusion och bredare/snävare grupper förklaras och prövas genom ordningsquiz och recall; bildsymbolerna behandlas inte som faktiska artantal.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p05-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f13",
+            "ppt-systematik-f14"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p05-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f02",
+            "ppt-systematik-f14"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-systematik-c02",
+          "ppt-systematik-c12",
+          "ppt-systematik-c13"
+        ],
+        "quiz": [
+          "ppt-systematik-q01",
+          "ppt-systematik-q06",
+          "ppt-systematik-q07"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r02"
+        ]
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 6,
+      "originalImage": "work/ppt-correction/render/slide-06.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Protista definieras enligt äldre systematik med orden mestadels encelliga och cellkärna. Alla tre traditionella liknelser finns: protozoer/urdjur djurliknande, alger växtliknande och slemsvampar svampliknande. Likhet skiljs från släktskap; stavfelet Prostiser kopieras inte till undervisningen.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p06-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f15",
+            "ppt-systematik-f17"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p06-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-systematik-f16"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-systematik-c06",
+          "ppt-systematik-c11",
+          "ppt-systematik-c14",
+          "ppt-systematik-c15"
+        ],
+        "quiz": [
+          "ppt-systematik-q08",
+          "ppt-systematik-q09"
+        ],
+        "recall": [
+          "ppt-systematik-r01",
+          "ppt-systematik-r03",
+          "ppt-systematik-r04"
+        ]
+      },
+      "findings": [
+        "review-01-13-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-01-13-F02"
+      ]
+    },
+    {
+      "page": 7,
+      "originalImage": "work/ppt-correction/render/slide-07.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Fotot används som visuell variation: gula kulformade strukturer på skaft och död ved. Inget obestyrkt artnamn eller exakt stadium tilldelas fotot. Kopplingen till sporbildande strukturer utvecklas i livscykelavsnittet.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p07-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f12"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-c11"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 8,
+      "originalImage": "work/ppt-correction/render/slide-08.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Samtliga fyra lärarstadier finns men utvecklas till hela den avbildade sexuella cykeln med zygot som övergång. Sporernas överlevnad/spridning och haploida groddceller finns separat. Syngami ger en diploid zygot. Källfelet om flera zygoters sammansmältning är synligt citerat som felaktig huvudförklaring och ersatt med mitotiska kärndelningar utan celluppdelning, förenligt med sida 11 och primär forskning. Modellen avgränsas till plasmodiebildande slemsvampar.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p08-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f01",
+            "ppt-slemsvampar-f02"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p08-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f01"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p08-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f02"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p08-i04",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f03",
+            "asexuell-forokning-f01"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p08-i05",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f05"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p08-i06",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f06",
+            "ppt-slemsvampar-livscykel-f12"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-c01",
+          "ppt-slemsvampar-livscykel-c01",
+          "ppt-slemsvampar-livscykel-c02",
+          "ppt-slemsvampar-livscykel-c04",
+          "ppt-slemsvampar-livscykel-c05",
+          "ppt-slemsvampar-livscykel-c06",
+          "ppt-slemsvampar-livscykel-c07",
+          "ppt-slemsvampar-livscykel-c12"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q01",
+          "ppt-slemsvampar-q04",
+          "ppt-slemsvampar-q07",
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q04",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q07",
+          "ppt-slemsvampar-livscykel-q08",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03",
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "findings": [
+        "review-01-13-F01",
+        "review-01-13-F02"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-01-13-F01",
+        "review-01-13-F02"
+      ]
+    },
+    {
+      "page": 9,
+      "originalImage": "work/ppt-correction/render/slide-09.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Förna/multnande organiskt material beskrivs som livsmiljö, inte som bevis för att veden äts. Flerkärnig gemensam cellmassa skiljs från hyfmycel. Födan innesluts/fagocyteras och bryts ned inne i cellen; detta jämförs kausalt med egentliga svampars yttre enzymnedbrytning och absorption. Rörelse och cirka 1 mm/timme finns som lärarens uppgift, med variabilitetsnot. Näringsbrist kopplas till sporbildning men lärs inte som cykelns absoluta slut eller ensam universell signal.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p09-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f03",
+            "ppt-slemsvampar-f04"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p09-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f05",
+            "ppt-slemsvampar-f06"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p09-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f07"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p09-i04",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f08",
+            "ppt-slemsvampar-livscykel-f08"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-c02",
+          "ppt-slemsvampar-c03",
+          "ppt-slemsvampar-c04",
+          "ppt-slemsvampar-c05",
+          "ppt-slemsvampar-c06",
+          "ppt-slemsvampar-c07",
+          "ppt-slemsvampar-livscykel-c09"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q02",
+          "ppt-slemsvampar-q03",
+          "ppt-slemsvampar-q04",
+          "ppt-slemsvampar-q05",
+          "ppt-slemsvampar-q06",
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r01",
+          "ppt-slemsvampar-r03",
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "findings": [
+        "review-01-13-F01"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-01-13-F01"
+      ]
+    },
+    {
+      "page": 10,
+      "originalImage": "work/ppt-correction/render/slide-10.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Det omärkta fotots gula oregelbundna massor återges och jämförs med sida 7 utan säker art- eller stadiegissning. Teori och bildtolkningsquiz gör tydligt vad bilden faktiskt visar och vad den inte avgör.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p10-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f12"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-c11"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q08"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 11,
+      "originalImage": "work/ppt-correction/render/slide-11.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Den fullständiga diagramkedjan återges: haploid spor/groning, alternativa växlingsbara amöb-/flagellatceller, syngami, zygot 2n, mitos utan celluppdelning, näringsupptagande och moget plasmodium, ungt och moget sporangium med skaft och meios tillbaka till nya haploida sporer. Dubbelpilarna förklaras som alternativ, inte två obligatoriska kronologiska steg. Båda ploidyfaserna, alla kärnövergångar och skaftets funktion finns i teori och relevanta facit. Originalets Diploid (n) korrigeras tydligt till 2n. Flerkärnigt diploidplasmodium skiljs från svampars åtskilda haploida kärnor. Avancerad fråga om utebliven meios har rimliga biologiska kriterier och avgränsar osäkra konsekvenser.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p11-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f01",
+            "ppt-slemsvampar-livscykel-f03",
+            "ppt-slemsvampar-livscykel-f07",
+            "ppt-slemsvampar-livscykel-f08",
+            "ppt-slemsvampar-livscykel-f10",
+            "ppt-slemsvampar-livscykel-f13"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p11-i02",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f04"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p11-i03",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f02",
+            "ppt-slemsvampar-livscykel-f05",
+            "ppt-slemsvampar-livscykel-f10",
+            "ppt-slemsvampar-livscykel-f11",
+            "asexuell-forokning-f01",
+            "sexuell-forokning-f08",
+            "sexuell-forokning-f09",
+            "sexuell-forokning-f10"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p11-i04",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f06",
+            "ppt-slemsvampar-livscykel-f07",
+            "ppt-slemsvampar-livscykel-f12",
+            "ppt-slemsvampar-livscykel-f13"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        },
+        {
+          "itemId": "ppt-p11-i05",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-livscykel-f09"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-livscykel-c01",
+          "ppt-slemsvampar-livscykel-c02",
+          "ppt-slemsvampar-livscykel-c03",
+          "ppt-slemsvampar-livscykel-c04",
+          "ppt-slemsvampar-livscykel-c05",
+          "ppt-slemsvampar-livscykel-c06",
+          "ppt-slemsvampar-livscykel-c07",
+          "ppt-slemsvampar-livscykel-c08",
+          "ppt-slemsvampar-livscykel-c09",
+          "ppt-slemsvampar-livscykel-c10",
+          "ppt-slemsvampar-livscykel-c11",
+          "ppt-slemsvampar-livscykel-c12",
+          "ppt-slemsvampar-livscykel-c13"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-livscykel-q01",
+          "ppt-slemsvampar-livscykel-q02",
+          "ppt-slemsvampar-livscykel-q03",
+          "ppt-slemsvampar-livscykel-q04",
+          "ppt-slemsvampar-livscykel-q05",
+          "ppt-slemsvampar-livscykel-q06",
+          "ppt-slemsvampar-livscykel-q07",
+          "ppt-slemsvampar-livscykel-q08",
+          "ppt-slemsvampar-livscykel-q09"
+        ],
+        "recall": [
+          "ppt-slemsvampar-livscykel-r01",
+          "ppt-slemsvampar-livscykel-r02",
+          "ppt-slemsvampar-livscykel-r03",
+          "ppt-slemsvampar-livscykel-r04"
+        ]
+      },
+      "findings": [
+        "review-01-13-F01"
+      ],
+      "remainingFindings": [],
+      "resolvedFindings": [
+        "review-01-13-F01"
+      ]
+    },
+    {
+      "page": 12,
+      "originalImage": "work/ppt-correction/render/slide-12.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Trollsmör och vargmjölk är explicit namngivna i teori/kort/quiz och kopplade till presentationens exempel. De blandas inte in i den oförändrade artprovslistans 54 svampar. Vetenskapliga namn uppfinns inte från denna sida.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p12-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f09"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-c08"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q07"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02"
+        ]
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    },
+    {
+      "page": 13,
+      "originalImage": "work/ppt-correction/render/slide-13.jpg",
+      "visuallyInspected": true,
+      "status": "pass",
+      "semanticAssessment": "Den namngivna trollsmörsbildens gulhet och oregelbundna korniga/skummiga massa på död ved är studerbar med formbeskrivning och jämförelse. Kortet frågar om formen, inte en artidentifiering där den synliga bildrubriken skulle ge svaret. Fotot tilldelas inget säkert mikroskopiskt/livscykelstadium.",
+      "itemResults": [
+        {
+          "itemId": "ppt-p13-i01",
+          "status": "semantically_covered",
+          "factIds": [
+            "ppt-slemsvampar-f10"
+          ],
+          "evidenceType": "actual source rendering plus theory/facits; term presence alone not accepted"
+        }
+      ],
+      "exerciseEvidence": {
+        "cards": [
+          "ppt-slemsvampar-c09",
+          "ppt-slemsvampar-c10"
+        ],
+        "quiz": [
+          "ppt-slemsvampar-q07"
+        ],
+        "recall": [
+          "ppt-slemsvampar-r02",
+          "ppt-slemsvampar-r03"
+        ]
+      },
+      "findings": [],
+      "remainingFindings": [],
+      "resolvedFindings": []
+    }
+  ],
+  "findings": [
+    {
+      "id": "review-01-13-F01",
+      "severity": "P2",
+      "status": "resolved",
+      "type": "exercise_quality",
+      "pages": [
+        8,
+        9,
+        11
+      ],
+      "itemIds": [
+        "ppt-p08-i06",
+        "ppt-p09-i04",
+        "ppt-p11-i05"
+      ],
+      "exerciseIds": [
+        "ppt-slemsvampar-q06",
+        "ppt-slemsvampar-livscykel-q04",
+        "ppt-slemsvampar-livscykel-q06",
+        "ppt-slemsvampar-livscykel-q08"
+      ],
+      "concreteGap": "Correct keys and theory are sound, but several distractors are biologically irrelevant or plainly nonsensical instead of plausible. Examples: a plasmodium develops into a new domain, Stalk is a third domain, lack of food changes Amoebozoa into Fungi, and a eukaryote becomes a bacterium. These allow easy elimination without understanding the target mechanism.",
+      "evidence": [
+        "ppt-slemsvampar-livscykel-q04: många zygoter ... till en ny domän / kärnlös bakterie som bildas vid meios",
+        "ppt-slemsvampar-livscykel-q06: Stalk är en tredje domän",
+        "ppt-slemsvampar-livscykel-q08: byter från Amoebozoa till Fungi",
+        "ppt-slemsvampar-q06: Övergång från encellig eukaryot till bakterie"
+      ],
+      "action": "Replace irrelevant wrong choices with plausible but unambiguously incorrect confusions within the process: gamete versus zygote fusion, mitosis versus meiosis, nuclear division versus cytokinesis, spor versus sporangium versus stalk, growth versus starvation-induced sporulation. Review other new distractors with the same criterion while preserving all original pre-PPT exercises.",
+      "userRequirement": "Wrong answer options must be scientifically plausible but unambiguously incorrect.",
+      "resolution": "The four cited wrong-choice sets and all other revised new quiz sets were reread. Distractors now use relevant stage, mechanism, ploidy and category confusions. Correct answers remain semantically sound.",
+      "verifiedInFinalCourse": true
+    },
+    {
+      "id": "review-01-13-F02",
+      "severity": "P2",
+      "status": "resolved",
+      "type": "source_provenance_display",
+      "pages": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "itemIds": [
+        "ppt-p02-i06",
+        "ppt-p06-i01",
+        "ppt-p08-i01"
+      ],
+      "concreteGap": "During follow-up, added biological background in advanced assessment facts was under Källuppgifter att använda and received an original PowerPoint page badge, even when it was not present on the teacher slide.",
+      "evidence": "Modern taxonomy, Rhizopus and mycorrhizal contact types were correctly distinguished in theory, but assessment facts lacked provenance metadata and distinct display.",
+      "action": "Carry original factId/origin into new assessment facts and give clarification facts a distinct background link; preserve existing film assessments.",
+      "resolution": "Final assessment metadata resolves to the correct fact and origin. Biological renderer labels clarification facts as Biologiskt förtydligande till s. … · se källkommentaren and links to the relevant theory/source note. Rhizopus and ecto/arbuscular contact inspected explicitly; all 83 new assessment fact mappings checked without error.",
+      "verifiedInFinalCourse": true
+    }
+  ],
+  "resolvedSourceIssues": [
+    {
+      "page": 3,
+      "itemId": "ppt-p03-i02",
+      "original": "Källan kallar avgränsningen runt cellkärnan cellmembran.",
+      "resolution": "Kärnhölje och yttre cellmembran skiljs med dubbelmembran-förtydligande.",
+      "factIds": [
+        "ppt-systematik-f10"
+      ]
+    },
+    {
+      "page": 8,
+      "itemId": "ppt-p08-i06",
+      "original": "Zygoter förenar sig med andra zygoter för att bilda plasmodier.",
+      "resolution": "I avbildad sexuell plasmodiecykel utvecklas en zygot via mitotiska kärndelningar utan cytokines till flerkärnigt plasmodium. Originalfelet kommenteras uttryckligen.",
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f06",
+        "ppt-slemsvampar-livscykel-f12"
+      ]
+    },
+    {
+      "page": 11,
+      "itemId": "ppt-p11-i03",
+      "original": "Legend Diploid (n).",
+      "resolution": "Diploid är 2n; originalets zygotetikett 2n och fasövergångarna gör korrigeringen tydlig.",
+      "factIds": [
+        "ppt-slemsvampar-livscykel-f11"
+      ]
+    }
+  ],
+  "primaryVerification": [
+    {
+      "title": "Woese, Kandler and Wheelis 1990: domains above kingdoms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2112744/",
+      "supports": "Klassiskt tredomänschema och domän som överordnad rang."
+    },
+    {
+      "title": "Schaap et al., Physarum genome and lifecycle, 2016",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4758236/",
+      "supports": "Haploida groddceller, kompatibel parning till diploid zygot, flerkärnigt plasmodium och meios till haploidsporer; sexuell modell avgränsad från alternativa cykler."
+    },
+    {
+      "title": "Bailey et al. 1990: cellular events during sexual plasmodium development",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2398347/",
+      "supports": "Direkt tidsförloppsstudie: zygot utvecklas via mitos utan cytokines till flerkärnigt plasmodium."
+    }
+  ],
+  "limitations": [
+    "Page 14 content is present in the first author artifact but is outside this report; it will be inspected in the separate pages 14–26 review.",
+    "Supportive cover photo needs no invented species fact/exercise; source asset exists and preservation/source-navigation is an integration check.",
+    "New external clarification is kept distinct from teacher source wording. No unlabelled photos are assigned unsupported species or exact stages.",
+    "Browser execution, storage migration, public deployment and live/mobile use are root integration responsibilities, not claimed by this content review."
+  ],
+  "remainingFindings": [],
+  "resolvedFindings": [
+    "review-01-13-F01",
+    "review-01-13-F02"
+  ],
+  "followupReview": {
+    "date": "2026-10-10",
+    "finalCourseSha256": "43d1319e89fa5dbeb98db01297372e06a7ab8594cda6c2edff12e24028a758d7",
+    "coverageSha256": "4fada22178275609e91af07a043eed4f3e95de885711e2b7bf3b78b57bddacb6",
+    "changedQuizzesRead": 60,
+    "changedQuizIds": [
+      "ppt-systematik-q02",
+      "ppt-systematik-q04",
+      "ppt-systematik-q07",
+      "ppt-systematik-q09",
+      "ppt-slemsvampar-q01",
+      "ppt-slemsvampar-q02",
+      "ppt-slemsvampar-q03",
+      "ppt-slemsvampar-q05",
+      "ppt-slemsvampar-q06",
+      "ppt-slemsvampar-q07",
+      "ppt-slemsvampar-q08",
+      "ppt-slemsvampar-livscykel-q02",
+      "ppt-slemsvampar-livscykel-q04",
+      "ppt-slemsvampar-livscykel-q05",
+      "ppt-slemsvampar-livscykel-q06",
+      "ppt-slemsvampar-livscykel-q07",
+      "ppt-slemsvampar-livscykel-q08",
+      "ppt-slemsvampar-livscykel-q09",
+      "ppt-svampgrupper-q02",
+      "ppt-svampgrupper-q03",
+      "ppt-svampgrupper-q05",
+      "ppt-basidiesvampar-q02",
+      "ppt-basidiesvampar-q03",
+      "ppt-basidiesvampar-q05",
+      "ppt-basidiesvampar-q06",
+      "ppt-basidiesvampar-q07",
+      "ppt-basidiesvampar-q09",
+      "ppt-basidiesvampar-q11",
+      "ppt-sporsackssvampar-q01",
+      "ppt-sporsackssvampar-q03",
+      "ppt-sporsackssvampar-q05",
+      "ppt-parasitism-q01",
+      "ppt-parasitism-q02",
+      "ppt-parasitism-q03",
+      "ppt-parasitism-q05",
+      "ppt-jast-mogel-q01",
+      "ppt-jast-mogel-q02",
+      "ppt-jast-mogel-q04",
+      "ppt-jast-mogel-q05",
+      "ppt-anatomi-q02",
+      "ppt-anatomi-q03",
+      "ppt-anatomi-q04",
+      "ppt-anatomi-q05",
+      "ppt-anatomi-q06",
+      "ppt-anatomi-q07",
+      "ppt-mykorrhiza-q01",
+      "ppt-mykorrhiza-q02",
+      "ppt-mykorrhiza-q03",
+      "ppt-mykorrhiza-q04",
+      "ppt-mykorrhiza-q05",
+      "ppt-tillvaxt-nedbrytning-q01",
+      "ppt-tillvaxt-nedbrytning-q02",
+      "ppt-tillvaxt-nedbrytning-q04",
+      "ppt-tillvaxt-nedbrytning-q05",
+      "ppt-basidie-livscykel-q01",
+      "ppt-basidie-livscykel-q02",
+      "ppt-basidie-livscykel-q03",
+      "ppt-basidie-livscykel-q04",
+      "ppt-basidie-livscykel-q06",
+      "ppt-basidie-livscykel-q08"
+    ],
+    "isolatedContentFilesChecked": [
+      "content-01-13.json",
+      "content-14-26.json",
+      "content-27-39.json"
+    ],
+    "quizAssessment": "All 60 revised question option sets read against correct keys and target mechanisms; prior irrelevant domain/bacterium/grass/mold-spot distractors replaced. Additional yeast-to-mycorrhiza and cooling-halves-chromosomes distractors identified during this follow-up were subsequently corrected and reread. Four distinct alternatives remain, with correct keys unambiguous.",
+    "additionalDistractorsResolved": [
+      {
+        "questionId": "ppt-jast-mogel-q05",
+        "previousGap": "Oxygen causes yeast to become mycorrhiza.",
+        "resolution": "Wrong alternative now confuses availability of oxygen with an absolute exclusive respiration rule; process/organism distinction remains the correct answer."
+      },
+      {
+        "questionId": "ppt-tillvaxt-nedbrytning-q04",
+        "previousGap": "Cooling halves chromosome number.",
+        "resolution": "Wrong alternative now reverses ventilation humidity and cooling temperature effects, directly testing the intended causal relationship."
+      }
+    ],
+    "sourceClarificationChecks": {
+      "Rhizopus": "Theory/sourceNotes distinguish historical algsvamp wording and modern verified example. Assessment r02 assigns Rhizopus-f08 origin clarification and renders Biologiskt förtydligande till s.16 with link to the source note.",
+      "modernTaxonomy": "Classic teacher models remain explicit; modern Amoebozoa/microsporidia/oomycete placement is marked as clarification in theory and corresponding assessment facts.",
+      "mycorrhizalMantle": "Teacher pages33/34 mantle plus water/minerals and photosynthetic sugar remain source facts. Ectomycorrhiza versus arbuscular intracellular contact is marked added modern background in theory/sourceNotes and assessment fact ppt-mykorrhiza-f06 has clarification provenance."
+    },
+    "provenanceRenderer": "js/views.js biologicalAssessment now uses heading Källuppgifter och förtydliganden att använda. Facts with origin clarification receive a distinct Biologiskt förtydligande till s. … · se källkommentaren link rather than an original PowerPoint source badge. Only new biological assessments use this branch; existing film assessment output branch is unchanged.",
+    "assessmentMetadataCheck": {
+      "factsChecked": 83,
+      "clarificationFacts": 39,
+      "factIdsTextsOriginsMatchFinalFacts": true,
+      "errors": []
+    },
+    "nonRegressionReadChecks": {
+      "all26OriginalSectionObjectsExact": true,
+      "all54OriginalSpeciesObjectsExact": true,
+      "dataJsEqualsFinalCourse": true,
+      "all3AuthorArtifactsMatchFinalExceptAddedAssessmentOriginFactIdMetadata": true
+    },
+    "renderedBrowserClaim": false,
+    "note": "Source/render logic and data checked directly. Browser execution, public/mobile deployment and storage behavior remain root responsibilities."
+  }
+}

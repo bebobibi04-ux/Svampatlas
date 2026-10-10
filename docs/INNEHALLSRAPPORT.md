@@ -5,7 +5,7 @@
 - Boken: fyra läsbara originalsidor, 266–269, med 105 inventerade kunskapsenheter i tio avsnitt.
 - Filmen: lokal video på 58:51,776, en svensk VTT-fil med 287 textblock och tidigare OCR-granskning av inbrända intervjuundertexter genom hela filmen. Den aktuella filmdelen har 16 ämnesavsnitt och 101 inventerade källuppgifter.
 - Artkunskap: kalkylbladets samtliga 54 namn med fotograferade bildexempel och redovisade källor/licenser. Artlistan anger namn, inte detaljerade biologiska artbeskrivningar.
-- `Svampar.pdf`: 39 originalsidor bevarade som kompletterande material. Teorifrågorna följer boken och filmen enligt provets avgränsning.
+- `Svampar.pdf`: hela lärarens presentation med 39 sidor är obligatoriskt teoriunderlag och har integrerats i tolv nya avsnitt och studieverktygen. Se [fullständig sida-för-sida-granskning](POWERPOINT-TACKNING.md).
 
 ## Filmdelens omarbetning
 
@@ -32,3 +32,7 @@ En felaktig artlistelänk för Brun flugsvamp korrigerades vid bildvalet. Sammet
 Boktexter, bokövningars formuleringar och svar, artmaterial, undertexter, design, navigation och lagringsnycklar bevaras. Elva felaktigt formaterade interna faktareferenser i två bokquizfrågor rättades; deras innehåll och rättning ändrades inte. Automatisk jämförelse kontrollerar denna avgränsning.
 
 Äldre resultat och repetitionshistorik finns kvar. Omarbetade filmövningar behöver ett nytt svar för att räknas som aktuellt tränade. Äldre pågående prov behåller sina sparade frågeformuleringar och alternativ. Inlämnade öppna svar kan senare granskas och självbedömas i historiken samt flyttas med backup.
+
+## PowerPoint-komplettering 2026-10-10
+
+Den äldre inventeringen ovan dokumenterar bok- och filmversionen. Efter kompletteringen finns totalt 38 teoriavsnitt, 298 flashcards, 185 quizfrågor, 77 recallfrågor och 122 begrepp. Hela presentationen är provunderlag. [Alla 39 sidresultat, detaljerade faktakopplingar och kontroller](POWERPOINT-TACKNING.md).

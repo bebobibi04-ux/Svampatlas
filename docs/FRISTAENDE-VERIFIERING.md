@@ -1,3 +1,5 @@
+> Historisk kontroll före PowerPoint-kompletteringen. [Aktuell innehållsgranskning och tester](POWERPOINT-TACKNING.md).
+
 # Verifiering av fristående Svampatlas
 
 Datum: 2026-10-09.
