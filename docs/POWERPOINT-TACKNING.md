@@ -249,7 +249,13 @@ Verklig lokal webbläsartestning vid 1280×720 och 390×844: anatomifigur och li
 
 ## E. Publicering
 
-Publiceringsunderlaget är färdigt för befintligt repository bebobibi04-ux/Svampatlas. GitHub Pages-status och offentlig webbläsarkontroll fylls i efter att publiceringen genomförts.
+Den befintliga webbplatsen är uppdaterad på [bebobibi04-ux.github.io/Svampatlas](https://bebobibi04-ux.github.io/Svampatlas/). PowerPointens [39-sidiga studieguide](https://bebobibi04-ux.github.io/Svampatlas/#presentation) och de nya avsnitten finns där tillsammans med tidigare bok-, film- och artmaterial. Webbplatsen fungerar fristående utan ChatGPT-inloggning eller OpenAI-tjänster.
+
+Studieinnehållet publicerades i [commit 234dc5ac4d72660a05b786ac887dfea34c8cba9e](https://github.com/bebobibi04-ux/Svampatlas/commit/234dc5ac4d72660a05b786ac887dfea34c8cba9e). Alla 147 projektfiler jämfördes med GitHub-trädets filhashar. Inga ursprungliga filer togs bort. GitHub Pages [körning 38050250394](https://github.com/bebobibi04-ux/Svampatlas/actions/runs/38050250394) avslutades med success för samtliga tre jobb: build, deploy och report-build-status. Denna rapport färdigställdes därefter som en separat dokumentationsändring.
+
+Efter publicering kontrollerades webbplatsen i en verklig webbläsare på dator och mobil (1280×720 respektive 390×844): översikten visar 38 teoriavsnitt och 298 flashcards, sidguiden innehåller alla 39 sidor, nya PowerPoint-kort går att vända med synlig källhänvisning och provlägets knapp för enbart PowerPoint väljer bort bok och film. Den ursprungliga ämnesorienterade filmintroduktionen och ett bokavsnitt öppnades. Artbiblioteket innehåller alla 54 arter; de 12 bilder som kontrollerades på den öppnade biblioteksdelen hade laddats korrekt. De nya anatomi- och basidielivscykelfigurerna laddades och kunde förstoras. Mobilguiden hade ingen horisontell sidöverströmning. Inga varningar eller fel registrerades i webbläsarens konsol under dessa kontroller.
+
+På den offentliga sidan skapades inget nytt provresultat och inga kort självskattades under kontrollen. Full provgenomföring, omladdning av ett pågående prov, manuell bedömning, sparad progress och backupexport verifierades i den lokala versionen med samma innehåll och kod, enligt avsnitt D. Återkommande användares sparformat och tidigare backupdata kontrollerades med regressionstester; andra användares privata webbläsarprogress kan inte inspekteras.
 
 ## F. Kvarvarande begränsningar
 
