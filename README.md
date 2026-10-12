@@ -85,3 +85,9 @@ node --test tests/standalone.test.cjs
 Webbplatsen kräver inte Node.js för att användas eller publiceras. Kontrollera även originalbilder, källinventering och övningar efter innehållsändringar. Ändras bok- eller artmaterial avsiktligt behöver jämförelseunderlaget i testerna uppdateras.
 
 Se `docs/GITHUB-PAGES-PUBLICERING.md` för kontrollen av den publicerade webbplatsen och `docs/FRISTAENDE-VERIFIERING.md` för exportkontrollen. Tidigare innehållsrapport och filmgranskning följer med som dokumentation.
+
+## Filmens lärarfrågor och resonemang, 2026-10-12
+
+Filmens studieplats finns på `#filmstudier`. Alla tio originalfrågor på `#filmfragor` har utvecklade svar. `#resonemang` ger åtta egna resonemangsövningar, två fullständiga diskussionsmodeller, argumentationsanalys och bedömningsstöd. Svar börjar dolda; egen skrivtext och självskattning kan sparas och säkerhetskopieras. Filmen kan väljas separat i provläget.
+
+Tillägget innehåller tre filmavsnitt, 18 kort, 16 quizfrågor och 20 recallfrågor. Alla tidigare 38 avsnitt, 54 arter, övningssvar och originalbilder är bevarade. 36 tester passerade, och verklig export/import av både äldre och nya backupdata är verifierad. Se [slutrapporten](docs/FILM-PEDAGOGIK-SLUTRAPPORT.md) och [källgranskningen](docs/FILM-PEDAGOGIK-KALLGRANSKNING.json).
