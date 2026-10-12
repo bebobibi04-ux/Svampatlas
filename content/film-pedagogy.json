@@ -1,0 +1,541 @@
+{
+  "revision": "film-teacher-v1",
+  "sourceYear": 2022,
+  "teacherQuestions": [
+    {
+      "number": 1,
+      "question": "Vad är psilocybin?",
+      "exerciseId": "film-lararfragor-recall-01",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-psilocybin-steve-fact-1",
+        "film-psilocybin-steve-fact-3",
+        "film-psilocybin-steve-fact-6",
+        "film-psilocybin-hjarna-fact-1",
+        "film-psilocybin-hjarna-fact-2",
+        "film-psilocybin-hjarna-fact-3",
+        "film-psilocybin-hjarna-fact-4",
+        "film-lararfragor-fact-4"
+      ],
+      "time": "00:18:46"
+    },
+    {
+      "number": 2,
+      "question": "Vilka sjukdomar eller besvär hoppas forskarna kunna behandla?",
+      "exerciseId": "film-lararfragor-recall-02",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-introduktion-fact-2",
+        "film-psilocybin-steve-fact-3",
+        "film-miljo-cancer-fact-4",
+        "film-ki-psilocybin-fact-1",
+        "film-svensk-mdma-fact-1"
+      ],
+      "time": "00:19:03"
+    },
+    {
+      "number": 3,
+      "question": "Hur beskriver patienterna sina upplevelser av behandlingen?",
+      "exerciseId": "film-lararfragor-recall-03",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-psilocybin-steve-fact-5",
+        "film-psilocybin-steve-fact-6",
+        "film-miljo-cancer-fact-5",
+        "film-osakerhet-framtid-fact-2",
+        "film-lararfragor-fact-1",
+        "film-lararfragor-fact-2"
+      ],
+      "time": "00:24:40"
+    },
+    {
+      "number": 4,
+      "question": "Vilka positiva effekter nämns i filmen?",
+      "exerciseId": "film-lararfragor-recall-04",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-5",
+        "film-psilocybin-steve-fact-4",
+        "film-psilocybin-steve-knowledge-motstandskraft",
+        "film-miljo-cancer-fact-4",
+        "film-mdma-studie-fact-4",
+        "film-psilocybin-hjarna-fact-1",
+        "film-lararfragor-fact-3"
+      ],
+      "time": "00:30:35"
+    },
+    {
+      "number": 5,
+      "question": "Vilka risker eller nackdelar tas upp?",
+      "exerciseId": "film-lararfragor-recall-05",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-psilocybin-steve-fact-5",
+        "film-ki-psilocybin-fact-5",
+        "film-kommersiellt-fact-4",
+        "film-kommersiellt-fact-6",
+        "film-osakerhet-framtid-fact-2",
+        "film-mdma-mekanism-risk-fact-3",
+        "film-mdma-mekanism-risk-fact-4",
+        "film-mdma-mekanism-risk-fact-6",
+        "film-metodkritik-fact-1",
+        "film-osakerhet-framtid-fact-1"
+      ],
+      "time": "00:39:19"
+    },
+    {
+      "number": 6,
+      "question": "Varför ges behandlingen tillsammans med utbildad personal?",
+      "exerciseId": "film-lararfragor-recall-06",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-psilocybin-forsok-fact-4",
+        "film-miljo-cancer-fact-1",
+        "film-miljo-cancer-fact-2",
+        "film-psilocybin-steve-fact-5",
+        "film-mdma-mekanism-risk-fact-3",
+        "film-osakerhet-framtid-fact-2"
+      ],
+      "time": "00:23:38"
+    },
+    {
+      "number": 7,
+      "question": "Vilka bevis använder forskarna för att visa att behandlingen fungerar?",
+      "exerciseId": "film-lararfragor-recall-07",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-psilocybin-forsok-fact-1",
+        "film-psilocybin-forsok-fact-2",
+        "film-psilocybin-forsok-fact-3",
+        "film-psilocybin-forsok-fact-4",
+        "film-psilocybin-forsok-fact-7",
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-3",
+        "film-psilocybin-resultat-fact-4",
+        "film-psilocybin-steve-fact-4",
+        "film-psilocybin-hjarna-fact-1",
+        "film-psilocybin-hjarna-fact-3",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-metodkritik-fact-3",
+        "film-kommersiellt-fact-4"
+      ],
+      "time": "00:23:15"
+    },
+    {
+      "number": 8,
+      "question": "Vilka argument framförs av personer som är skeptiska?",
+      "exerciseId": "film-lararfragor-recall-08",
+      "answerKind": "sourceExplanation",
+      "factIds": [
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-psilocybin-resultat-fact-3",
+        "film-psilocybin-steve-fact-4",
+        "film-osakerhet-framtid-fact-1",
+        "film-ki-psilocybin-fact-4",
+        "film-ki-psilocybin-fact-5",
+        "film-kommersiellt-fact-1",
+        "film-kommersiellt-fact-2",
+        "film-kommersiellt-fact-4"
+      ],
+      "time": "00:35:08"
+    },
+    {
+      "number": 9,
+      "question": "Något i filmen som förvånade dig?",
+      "exerciseId": "film-lararfragor-recall-09",
+      "answerKind": "personalReflection",
+      "factIds": [
+        "film-psilocybin-forsok-fact-5",
+        "film-psilocybin-forsok-fact-8",
+        "film-psilocybin-forsok-fact-9",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2"
+      ],
+      "time": "00:24:04"
+    },
+    {
+      "number": 10,
+      "question": "Tror du att psilocybin kommer att användas som läkemedel i framtiden? Varför eller varför inte?",
+      "exerciseId": "film-lararfragor-recall-10",
+      "answerKind": "personalJudgment",
+      "factIds": [
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-3",
+        "film-psilocybin-resultat-fact-5",
+        "film-ki-psilocybin-fact-1",
+        "film-ki-psilocybin-fact-4",
+        "film-ki-psilocybin-fact-5",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-kommersiellt-fact-4",
+        "film-psilocybin-steve-fact-4",
+        "film-psilocybin-forsok-fact-4",
+        "film-svensk-mdma-fact-6",
+        "film-osakerhet-framtid-fact-1"
+      ],
+      "time": "00:54:14"
+    }
+  ],
+  "discussion": {
+    "question": "Bör psykedeliska substanser som psilocybin få användas inom sjukvården för att behandla psykisk ohälsa, eller är riskerna för stora? Motivera ditt ställningstagande med argument från filmen.",
+    "exerciseId": "film-resonemang-recall-diskussionsuppgift",
+    "factIds": [
+      "film-psilocybin-resultat-fact-1",
+      "film-psilocybin-resultat-fact-2",
+      "film-psilocybin-resultat-fact-3",
+      "film-psilocybin-resultat-fact-5",
+      "film-psilocybin-forsok-fact-4",
+      "film-psilocybin-steve-fact-2",
+      "film-psilocybin-steve-fact-5",
+      "film-psilocybin-hjarna-fact-1",
+      "film-psilocybin-hjarna-fact-2",
+      "film-psilocybin-hjarna-fact-3",
+      "film-metodkritik-fact-1",
+      "film-metodkritik-fact-2",
+      "film-kommersiellt-fact-4",
+      "film-osakerhet-framtid-fact-2",
+      "film-psilocybin-steve-fact-4"
+    ],
+    "modelWordCounts": [
+      427,
+      432
+    ]
+  },
+  "sourceAnchors": {
+    "definition": {
+      "factIds": [
+        "film-psilocybin-steve-fact-1"
+      ],
+      "times": [
+        "00:17:55",
+        "00:18:46",
+        "00:18:56",
+        "00:21:55"
+      ],
+      "status": "Verifierat i VTT: ämne i svampar, inte svampen själv."
+    },
+    "targets": {
+      "factIds": [
+        "film-introduktion-fact-2",
+        "film-psilocybin-steve-fact-3",
+        "film-miljo-cancer-fact-4",
+        "film-svensk-mdma-fact-1"
+      ],
+      "times": [
+        "00:03:35",
+        "00:19:03",
+        "00:19:12",
+        "00:45:51",
+        "00:46:00",
+        "00:49:57"
+      ],
+      "status": "Verifierat i VTT; substans och behandlingsområde hålls isär."
+    },
+    "patientExperience": {
+      "factIds": [
+        "film-psilocybin-steve-fact-5",
+        "film-psilocybin-steve-fact-6",
+        "film-miljo-cancer-fact-5"
+      ],
+      "times": [
+        "00:24:20",
+        "00:24:40",
+        "00:25:36",
+        "00:29:28",
+        "00:29:32",
+        "00:30:00",
+        "00:47:24",
+        "00:47:32"
+      ],
+      "status": "OCR och tidigare visuella kontroller av inbränd svensk intervjutext; individuella erfarenheter.",
+      "directEvidence": [
+        {
+          "time": "00:25:36",
+          "text": "Patienten beskriver en uppbyggd persona eller ett ego som faller samman.",
+          "status": "OCR och tidigare visuell kontroll i review-5.jpg; kopplat till samma första session som film-psilocybin-steve-fact-6."
+        },
+        {
+          "time": "00:30:00",
+          "text": "Den andra sessionens mörka del följs i patientens berättelse av starka känslor av kärlek.",
+          "status": "OCR och tidigare visuell kontroll av en full bildruta vid 00:30:00; individuellt fall."
+        }
+      ]
+    },
+    "benefits": {
+      "factIds": [
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-5",
+        "film-psilocybin-steve-fact-4",
+        "film-psilocybin-steve-knowledge-motstandskraft"
+      ],
+      "times": [
+        "00:30:28",
+        "00:30:35",
+        "00:30:44",
+        "00:31:08",
+        "00:31:16",
+        "00:32:45",
+        "00:33:20"
+      ],
+      "status": "VTT och OCR; 30/60-grafik visuellt verifierad på nytt i frame-1852.jpg vid 00:30:52."
+    },
+    "psilocybinTrial": {
+      "factIds": [
+        "film-psilocybin-forsok-fact-1",
+        "film-psilocybin-forsok-fact-2",
+        "film-psilocybin-forsok-fact-3",
+        "film-psilocybin-forsok-fact-4",
+        "film-psilocybin-forsok-fact-7"
+      ],
+      "times": [
+        "00:23:04",
+        "00:23:15",
+        "00:23:21",
+        "00:23:27",
+        "00:23:38",
+        "00:23:45"
+      ],
+      "status": "VTT samt visuellt verifierad inbränd intervju om escitalopram."
+    },
+    "supportEnvironment": {
+      "factIds": [
+        "film-psilocybin-forsok-fact-4",
+        "film-miljo-cancer-fact-1",
+        "film-miljo-cancer-fact-2",
+        "film-mdma-mekanism-risk-fact-3"
+      ],
+      "times": [
+        "00:23:38",
+        "00:23:45",
+        "00:44:36",
+        "00:45:00",
+        "00:45:08",
+        "00:17:01",
+        "00:17:06"
+      ],
+      "status": "VTT och verifierad intervju. Slutsatser om stödets funktion är källförankrade tolkningar."
+    },
+    "brain": {
+      "factIds": [
+        "film-psilocybin-hjarna-fact-1",
+        "film-psilocybin-hjarna-fact-2",
+        "film-psilocybin-hjarna-fact-3",
+        "film-psilocybin-hjarna-fact-4",
+        "film-psilocybin-hjarna-fact-5"
+      ],
+      "times": [
+        "00:26:19",
+        "00:26:23",
+        "00:26:42",
+        "00:27:29",
+        "00:27:52",
+        "00:28:04",
+        "00:28:49"
+      ],
+      "status": "VTT, OCR och tidigare visuellt verifierade nätverksbilder. Mekanismförklaring är inte bevisad symtomorsak."
+    },
+    "methods": {
+      "factIds": [
+        "film-psilocybin-forsok-fact-5",
+        "film-psilocybin-forsok-fact-8",
+        "film-psilocybin-forsok-fact-9",
+        "film-psilocybin-resultat-fact-3",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-metodkritik-fact-3"
+      ],
+      "times": [
+        "00:23:27",
+        "00:23:33",
+        "00:23:51",
+        "00:24:04",
+        "00:30:49",
+        "00:35:08",
+        "00:35:16",
+        "00:35:20",
+        "00:35:25"
+      ],
+      "status": "VTT och visuellt verifierad kritik. Förväntningarnas och substansens bidrag är omdiskuterade."
+    },
+    "psilocybinRiskSignal": {
+      "factIds": [
+        "film-kommersiellt-fact-4",
+        "film-kommersiellt-fact-6",
+        "film-psilocybin-resultat-fact-4"
+      ],
+      "times": [
+        "00:38:42",
+        "00:39:19",
+        "00:39:33",
+        "00:39:39"
+      ],
+      "status": "Verifierat i VTT: tre självmordsförsök och misstänkta biverkningar. Substansorsak fastslås inte."
+    },
+    "unsupervisedRisk": {
+      "factIds": [
+        "film-osakerhet-framtid-fact-2"
+      ],
+      "times": [
+        "00:54:32",
+        "00:54:36",
+        "00:54:41",
+        "00:54:44",
+        "00:54:49"
+      ],
+      "status": "Verifierat i VTT: oro för egna försök och psykos; ingen riskandel."
+    },
+    "mdmaDistinct": {
+      "factIds": [
+        "film-mdma-studie-fact-1",
+        "film-mdma-studie-fact-2",
+        "film-mdma-studie-fact-3",
+        "film-mdma-studie-fact-4",
+        "film-mdma-mekanism-risk-fact-3",
+        "film-mdma-mekanism-risk-fact-4",
+        "film-mdma-mekanism-risk-fact-6",
+        "film-mdma-mekanism-risk-knowledge-placebo-risk",
+        "film-svensk-mdma-fact-4"
+      ],
+      "times": [
+        "00:07:05",
+        "00:10:23",
+        "00:10:36",
+        "00:11:00",
+        "00:11:04",
+        "00:12:34",
+        "00:12:40",
+        "00:12:52",
+        "00:17:01",
+        "00:17:28",
+        "00:17:32",
+        "00:51:50"
+      ],
+      "status": "VTT och verifierad intervju. Uppgifterna gäller MDMA eller dess studie, inte automatiskt psilocybin."
+    },
+    "experienceNecessary": {
+      "factIds": [
+        "film-ki-psilocybin-fact-3",
+        "film-ki-psilocybin-fact-4",
+        "film-ki-psilocybin-fact-5"
+      ],
+      "times": [
+        "00:48:39",
+        "00:48:48",
+        "00:49:05",
+        "00:49:11",
+        "00:49:20",
+        "00:49:36",
+        "00:49:51"
+      ],
+      "status": "Verifierat i VTT: om den hallucinogena upplevelsen behövs är en öppen fråga."
+    },
+    "futureNeeds": {
+      "factIds": [
+        "film-ki-psilocybin-fact-1",
+        "film-ki-psilocybin-fact-2",
+        "film-osakerhet-framtid-fact-1",
+        "film-osakerhet-framtid-fact-3",
+        "film-studio-historia-fact-4",
+        "film-studio-historia-fact-7",
+        "film-svensk-mdma-fact-6"
+      ],
+      "times": [
+        "00:47:55",
+        "00:48:28",
+        "00:51:30",
+        "00:54:14",
+        "00:57:05",
+        "00:57:11",
+        "00:57:16",
+        "00:58:23"
+      ],
+      "status": "VTT och verifierad KI-ruta. Forskningsläget och planerna gäller 2022."
+    },
+    "accessInterests": {
+      "factIds": [
+        "film-kommersiellt-fact-1",
+        "film-kommersiellt-fact-2",
+        "film-kommersiellt-fact-5"
+      ],
+      "times": [
+        "00:37:25",
+        "00:37:33",
+        "00:39:52",
+        "00:39:56",
+        "00:40:00"
+      ],
+      "status": "VTT och verifierad intervju. Prognos och ambition om tillgång är inga effektbevis."
+    }
+  },
+  "sourceLimits": [
+    {
+      "topic": "Specifika receptorer och kemiska omvandlingar",
+      "status": "Inget verifierat filmstöd här.",
+      "action": "Lägg inte till receptorfakta; använd filmens hjärnaktivitet, kommunikation och modell med reservation."
+    },
+    {
+      "topic": "Självmordsförsökens orsak",
+      "status": "Fastslås inte i filmen.",
+      "action": "Beskriv säkerhetssignal, inte bevisad substansorsak eller riskfrihet."
+    },
+    {
+      "topic": "Psilocybins beroenderisk",
+      "status": "Ingen verifierad generell slutsats här.",
+      "action": "Beroendeuttalandet avser MDMA; överför det inte till psilocybin."
+    },
+    {
+      "topic": "Urval och riskandelar för psilocybin",
+      "status": "Otillräckligt specificerat.",
+      "action": "MDMA-studiens urval får inte göras till dokumenterade psilocybinregler."
+    },
+    {
+      "topic": "Undvika hallucinationer med bibehållen nytta",
+      "status": "Öppen fråga.",
+      "action": "Påstå inte att upplevelsen bevisat är onödig eller att nyttan säkert finns kvar."
+    },
+    {
+      "topic": "Dagens godkännande och vårdtillgång",
+      "status": "Filmunderlaget från 2022 kan inte ge aktuellt besked.",
+      "action": "Framtidsbedömningar är villkorade egna resonemang."
+    },
+    {
+      "topic": "Originalstatistik och långtidsdata",
+      "status": "Originalartiklar och fullständig statistik ingår inte.",
+      "action": "Siffror är filmens återgivning; lägg inte till p-värden eller bevisad universell bot."
+    },
+    {
+      "topic": "Samtycke och etik",
+      "status": "Filmen verifierar inte fullständiga normativa principer eller protokoll.",
+      "action": "Märk som elevens etiska resonemang med filmuppgifter som bakgrund."
+    }
+  ],
+  "knowledgeLayers": [
+    {
+      "code": "A",
+      "name": "Filmuppgift",
+      "meaning": "Verifierbar uppgift från VTT, inbränd intervjutext eller bildgrafik."
+    },
+    {
+      "code": "B",
+      "name": "Lärarens underlag",
+      "meaning": "Tryckta originalfrågor och diskussionsuppgift; elevsvar är inte facit."
+    },
+    {
+      "code": "C",
+      "name": "Källförankrad tolkning",
+      "meaning": "Metodisk eller biologisk slutsats som bygger på filmuppgifter och markeras som tolkning."
+    },
+    {
+      "code": "D",
+      "name": "Egen avvägning",
+      "meaning": "Etisk ståndpunkt eller hypotetisk framtidsbedömning, inte ett nytt uppmätt filmresultat."
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "date": "2026-10-12",
+  "status": "pass",
+  "scope": "Begränsad källkontroll av integrerad filmPedagogy, tre nya filmavsnitt, metadata,18 kort,16 quiz och4 nya faktaposter. Inga projektändringar.",
+  "blockingFindings": [],
+  "nonblockingFindings": [],
+  "teacherChecks": [
+    {
+      "number": 1,
+      "exerciseId": "film-lararfragor-recall-01",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 2,
+      "exerciseId": "film-lararfragor-recall-02",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 3,
+      "exerciseId": "film-lararfragor-recall-03",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 4,
+      "exerciseId": "film-lararfragor-recall-04",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 5,
+      "exerciseId": "film-lararfragor-recall-05",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 6,
+      "exerciseId": "film-lararfragor-recall-06",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 7,
+      "exerciseId": "film-lararfragor-recall-07",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 8,
+      "exerciseId": "film-lararfragor-recall-08",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 9,
+      "exerciseId": "film-lararfragor-recall-09",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    },
+    {
+      "number": 10,
+      "exerciseId": "film-lararfragor-recall-10",
+      "questionExact": true,
+      "answerExact": true,
+      "metadataQuestionExact": true,
+      "metadataIdMatches": true
+    }
+  ],
+  "discussionCheck": {
+    "questionExact": true,
+    "positiveModelExact": true,
+    "cautiousModelExact": true,
+    "metadataQuestionExact": true,
+    "metadataIdMatches": true,
+    "wordCounts": [
+      427,
+      432
+    ]
+  },
+  "advancedIntegration": "Sju modelltexter är innehållsligt bevarade. En text har ett verifierat redaktionellt förtydligande av deltagarandel; övriga skiljer högst i blanksteg.",
+  "newCardChecks": [
+    {
+      "id": "film-behandling-evidens-card-01",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-card-02",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-card-03",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-card-04",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-card-05",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-card-06",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-01",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-02",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-03",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-04",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-05",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-06",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-07",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-card-08",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-card-01",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-card-02",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-card-03",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-card-04",
+      "questionEquivalent": true,
+      "answerEquivalent": true,
+      "factIdsValid": true
+    }
+  ],
+  "rotatedQuizChecks": [
+    {
+      "id": "film-behandling-evidens-quiz-01",
+      "questionEquivalent": true,
+      "correctIndex": 0,
+      "correctIndexValid": true,
+      "correctAnswerText": "Deltagaren kan förstå vilken grupp den tillhör och ändra sina förväntningar",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-quiz-02",
+      "questionEquivalent": true,
+      "correctIndex": 3,
+      "correctIndexValid": true,
+      "correctAnswerText": "Fyrtio timmar med två terapeuter, som filmen anger för MDMA-terapi",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-quiz-03",
+      "questionEquivalent": true,
+      "correctIndex": 2,
+      "correctIndexValid": true,
+      "correctAnswerText": "Det är en forskningsfråga som ännu inte besvaras i filmen",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-behandling-evidens-quiz-04",
+      "questionEquivalent": true,
+      "correctIndex": 1,
+      "correctIndexValid": true,
+      "correctAnswerText": "Om fortsatt forskning visar tillräcklig nytta och hanterbara risker stärks skälen för användning",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-01",
+      "questionEquivalent": true,
+      "correctIndex": 0,
+      "correctIndexValid": true,
+      "correctAnswerText": "En psykedelisk substans i vissa svampar",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-02",
+      "questionEquivalent": true,
+      "correctIndex": 3,
+      "correctIndexValid": true,
+      "correctAnswerText": "Psilocybin–depression; MDMA–PTSD",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-03",
+      "questionEquivalent": true,
+      "correctIndex": 2,
+      "correctIndexValid": true,
+      "correctAnswerText": "Personen beskriver möjlig individuell nytta; generell effekt kräver fler slags belägg",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-04",
+      "questionEquivalent": true,
+      "correctIndex": 1,
+      "correctIndexValid": true,
+      "correctAnswerText": "Filmens uppgift om andelen med minskade depressionssymtom i den lilla psilocybingruppen",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-05",
+      "questionEquivalent": true,
+      "correctIndex": 0,
+      "correctIndexValid": true,
+      "correctAnswerText": "Som allvarliga händelser som behöver utredas; materialet fastställer inte substansorsak",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-06",
+      "questionEquivalent": true,
+      "correctIndex": 3,
+      "correctIndexValid": true,
+      "correctAnswerText": "Terapeutiskt stöd ingick i båda grupperna i det brittiska försöket",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-07",
+      "questionEquivalent": true,
+      "correctIndex": 2,
+      "correctIndexValid": true,
+      "correctAnswerText": "Kunskap om hjärnpåverkan och hypoteser om mekanismer",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-lararfragor-quiz-08",
+      "questionEquivalent": true,
+      "correctIndex": 1,
+      "correctIndexValid": true,
+      "correctAnswerText": "Man vet ännu inte hur mycket av förbättringen som beror på placebo",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-quiz-01",
+      "questionEquivalent": true,
+      "correctIndex": 0,
+      "correctIndexValid": true,
+      "correctAnswerText": "Filmen rapporterar symptomförbättring i ett litet försök; jag bedömer att det motiverar fortsatt kontrollerad forskning",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-quiz-02",
+      "questionEquivalent": true,
+      "correctIndex": 3,
+      "correctIndexValid": true,
+      "correctAnswerText": "Behovet motiverar prövning, men patienterna ska inte få starkare effekt- och säkerhetslöften än underlaget tillåter",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-quiz-03",
+      "questionEquivalent": true,
+      "correctIndex": 2,
+      "correctIndexValid": true,
+      "correctAnswerText": "Blindningsproblem, liten jämförelse och allvarliga händelser som behöver utredas begränsar underlaget",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    },
+    {
+      "id": "film-resonemang-quiz-04",
+      "questionEquivalent": true,
+      "correctIndex": 1,
+      "correctIndexValid": true,
+      "correctAnswerText": "Starkare belägg för varaktig nytta och hanterbara risker skulle stödja användning; större risker eller liten nytta skulle stödja begränsning",
+      "rotatedCorrectMeaningPreserved": true,
+      "optionSetPreserved": true,
+      "fourDistinctOptions": true,
+      "explanationEquivalent": true,
+      "factIdsValid": true
+    }
+  ],
+  "newFactChecks": [
+    {
+      "factId": "film-lararfragor-fact-1",
+      "status": "verified",
+      "type": "individual patient experience",
+      "times": [
+        "00:25:28",
+        "00:25:36",
+        "00:25:40"
+      ],
+      "evidence": [
+        "film-ocr-transcript.txt",
+        "work/film-research/review-5.jpg"
+      ],
+      "note": "OCR beskriver att bygget/personan/egot försvinner. Första sessionen framgår av filmens ordningsföljd före nästa dos. Ingen generell egoeffekt påstås."
+    },
+    {
+      "factId": "film-lararfragor-fact-2",
+      "status": "verified",
+      "type": "individual patient experience",
+      "times": [
+        "00:29:28",
+        "00:29:40",
+        "00:30:00"
+      ],
+      "evidence": [
+        "film-ocr-transcript.txt",
+        "work/film-research/frames/1800.00.jpg"
+      ],
+      "note": "Mörk andra session och stark kärlekskänsla är båda verifierade. Bilden vid30:00 har granskats på nytt."
+    },
+    {
+      "factId": "film-lararfragor-fact-3",
+      "status": "verified",
+      "type": "researcher interview claim",
+      "times": [
+        "00:30:28",
+        "00:30:32"
+      ],
+      "evidence": [
+        "film-ocr-transcript.txt",
+        "work/film-research/subtitle-frames/00459.jpg"
+      ],
+      "note": "Vid30:28 säger forskaren att båda grupperna förbättrades; vid30:32 säger han starkare och snabbare. evidenceTimes omfattar rätt replik. Posten är korrekt märkt som forskarens framställning, inte oberoende bevisad överlägsenhet."
+    },
+    {
+      "factId": "film-lararfragor-fact-4",
+      "status": "verified",
+      "type": "narrator statement as of2022",
+      "times": [
+        "00:18:56"
+      ],
+      "evidence": [
+        "film-vtt-transcript.txt"
+      ],
+      "note": "VTT18:56.480 säger att psilocybin ger hallucinationer och är narkotikaklassat. Posten avgränsar uttryckligen till filmens tidpunkt."
+    }
+  ],
+  "sourceInterpretationAudit": [
+    "Psilocybin är ett ämne i vissa svampar och skiljs från MDMA.",
+    "Depression/psilocybin och PTSD/MDMA hålls isär i svar och facit.",
+    "30/60 avser filmens deltagarandelar med minskade depressionssymtom; ingen universell botandel eller ny57/28-siffra.",
+    "MDMA:s tvåtredjedelsresultat används inte som psilocybinresultat.",
+    "Hjärnaktivitet och mekanismmodeller skiljs från klinisk effekt och fastslagen symtomorsak.",
+    "Tre självmordsförsök behandlas som en viktig signal utan bevisad substansorsak.",
+    "Långvarigt MDMA-bruk, självförsök och stödd psilocybinbehandling får rätt avgränsning.",
+    "Beroendeuttalandet tillskrivs MDMA och görs inte till generell psilocybinuppgift.",
+    "Patientupplevelser skiljs från gruppresultat och långtidsfall från gruppuppföljning.",
+    "Etik, samtycke och framtida användning märks som resonemang, inte nya mätresultat eller dagens myndighetsbesked.",
+    "Inga nya receptor- eller molekylmekanismer har konstruerats."
+  ],
+  "metadataAudit": {
+    "sourceYear2022": true,
+    "teacherIdsAndQuestionsMatch": true,
+    "discussionIdAndQuestionMatch": true,
+    "newSectionIdsExist": true,
+    "preservesSourceGapsAndSourceLayers": true
+  },
+  "validationSummary": {
+    "teacherQuestions": 10,
+    "teacherAnswersExact": 10,
+    "discussionModels": 2,
+    "newCards": 18,
+    "newQuiz": 16,
+    "rotatedCorrectAnswersValid": 16,
+    "newFactsVerified": 4,
+    "blockingCount": 0
+  },
+  "reviewedFileHashes": {
+    "outputs\\github-pages\\Svampatlas\\content\\course.json": "362f276cd8e46b5521330ebf7b41b2ad981191e32108169a242038dd1b124f5d",
+    "outputs\\github-pages\\Svampatlas\\content\\film-pedagogy.json": "5ed3cbd57b28117db8d78362c9977c6a73f88afdf36f2d61bac7c614fde52209",
+    "work\\film-pedagogik-2026-10-12\\exercises.json": "6d6c66acd3c6bab330a00802ce2037630994242179b591836842b0fe75afe401",
+    "work\\film-pedagogik-2026-10-12\\research.json": "864d3fc8f0b49206cffa5fa01408a738e702d631c71d249abc86b59a6c1cb726"
+  },
+  "limits": [
+    "Kontrollerar källtrohet mot programmet2022, inte dagens forskning eller godkännanden.",
+    "VTT och OCR är inte en fullständig ordagrann engelskaudiotranskription.",
+    "Inga originalartiklar eller ytterligare forskningsfakta har förts in.",
+    "Webbplatsens tekniska funktion och publicering hanteras av huvudagenten."
+  ],
+  "resolvedEditorialDifferences": [
+    {
+      "exerciseId": "film-resonemang-recall-studier-siffror",
+      "change": "hos nästan trettio procent har förtydligats till hos en andel på nästan trettio procent",
+      "assessment": "Källtroget andelsförtydligande; ingen ny siffra eller effektuppgift, ingen åtgärd behövs."
+    }
+  ]
+}

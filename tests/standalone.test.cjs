@@ -23,5 +23,5 @@ test('Original export assets and unchanged runtimes match the historical export 
  for(const item of inventory.preservedWebsiteFiles.filter(item=>!['js/data.js','js/sessions.js'].includes(item.file)))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,item.file))).digest('hex'),item.sha256,item.file);
  // Full original content preservation is checked by before-powerpoint hashes.
 
- const data=JSON.parse(fs.readFileSync(path.join(root,'content/course.json'),'utf8'));assert.equal(data.contentRevision,'film-subject-v2');assert.equal(data.species.length,54);assert.equal(data.sections.filter(s=>s.source.kind==='film').flatMap(s=>s.recall).filter(q=>q.type==='open').length,8);
+ const data=JSON.parse(fs.readFileSync(path.join(root,'content/course.json'),'utf8'));assert.equal(data.contentRevision,'film-subject-v2');assert.equal(data.species.length,54);assert.equal(data.sections.filter(s=>s.source.kind==='film').flatMap(s=>s.recall).filter(q=>q.type==='open'&&q.revision===2).length,8);
 });
