@@ -1,0 +1,767 @@
+{
+  ".nojekyll": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "gitSha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "bytes": 0
+  },
+  "index.html": {
+    "sha256": "786173aae4088822f35e161af4e230d19b344096e0580c9084b1041e2883eb4b",
+    "gitSha": "371669c5a8f15a80fc1715dcd0648289d063efcd",
+    "bytes": 3489
+  },
+  "README.md": {
+    "sha256": "6349d9b756fc7ae352196a9481c71a87717953d23fd3911fed1cf98cb1e8986f",
+    "gitSha": "f152f6321fcbffe8f911da912687d78a25f787c9",
+    "bytes": 7909
+  },
+  "styles.css": {
+    "sha256": "6ec4303dfaa201e84d213a38a6e0dea3404604aae63eac287e843279ec15486c",
+    "gitSha": "461a14ecaed4ec8215588f52837e1299c17a1397",
+    "bytes": 17524
+  },
+  "assets/Svampar-att-lara-in.xlsx": {
+    "sha256": "7381482ad97909ae5ceba0d40bbe3a8dc58a8a55b7669eff8208252c9e674c02",
+    "gitSha": "28a0d5407d5574aa8b8fa2d59d0ac19190a41864",
+    "bytes": 13898
+  },
+  "assets/Svampar.pdf": {
+    "sha256": "3c74ca4bce686a35e72d38c6eaf751a73a2af5316ff667af81150ad1029528d7",
+    "gitSha": "650137af214f842002157f1d38666f792c4eff34",
+    "bytes": 1676269
+  },
+  "assets/undertexter.vtt": {
+    "sha256": "950c05f84c5f5064b40d2d3f8af5687b4084f529334f4bfea2b44f08037156c8",
+    "gitSha": "2e8d51a8a5dc0f5e2665b4d20e98874b0432cb39",
+    "bytes": 49417
+  },
+  "content/book-source.json": {
+    "sha256": "76ed545ada6fee3ac099d8c4cdf3cd404e9dced6efc87ad8a9347b3404f27f55",
+    "gitSha": "3d62860feb87cca7c6217ed3b635a332c7c7e131",
+    "bytes": 177094
+  },
+  "content/course.json": {
+    "sha256": "362f276cd8e46b5521330ebf7b41b2ad981191e32108169a242038dd1b124f5d",
+    "gitSha": "6a89fd41138136b10e591ee249d00f08aab733d2",
+    "bytes": 1278642
+  },
+  "content/coverage.csv": {
+    "sha256": "0d44b44a9f211a804d3da9c548e23644ce9958c2324571746dbeff25f1e0656f",
+    "gitSha": "dec812a0f6847d8a758192b0a6a07acdec044fe3",
+    "bytes": 83954
+  },
+  "content/film-ocr-transcript.txt": {
+    "sha256": "3049234b8e692b29917c73f034434cc303e7872233e9fb7eb7363a195dd1f25a",
+    "gitSha": "8a106c6c80b2ff9fe63720fa3c6f77b138bb7fbc",
+    "bytes": 26524
+  },
+  "content/film-pedagogy-coverage.csv": {
+    "sha256": "e876d3b1d571b4bd8e94f277cf06398da4e993e4df70bc32ec2432f82e0182bf",
+    "gitSha": "f2a73ba31e3d39b2dc62caaad26fab3d110c2b68",
+    "bytes": 16670
+  },
+  "content/film-pedagogy.json": {
+    "sha256": "5ed3cbd57b28117db8d78362c9977c6a73f88afdf36f2d61bac7c614fde52209",
+    "gitSha": "b72e67c2500701a099c94c6275abdee383283512",
+    "bytes": 17531
+  },
+  "content/film-source.json": {
+    "sha256": "c30d634a0099a3454707bcb063057ddaa2fa306f459e304d9d93e822ad606d0b",
+    "gitSha": "4b195bd5bacf9df23e6dae4403612106ad4ea5cd",
+    "bytes": 160484
+  },
+  "content/film-subject.json": {
+    "sha256": "1252ad8418a22716a7d4516dbf62ff9210b0d20145a8bdf1bd063ea15390806b",
+    "gitSha": "d7a67c59c973ac3495a203c1f55659f3a0fb44b0",
+    "bytes": 296560
+  },
+  "content/film-vtt-transcript.txt": {
+    "sha256": "9fa35c14058eb93a5195c59dacbdb00d55773d19fc6d2a17de2d2699e2a39f09",
+    "gitSha": "7ced2cb4d769369b7714cca6ffc647e52c87fad3",
+    "bytes": 21651
+  },
+  "content/image-sources.json": {
+    "sha256": "7bb513e44d26377a8dfb23e29cb89f1111ba4f96758375e17ac6fcc61cc619eb",
+    "gitSha": "17f37457b7c9962cac0d69fd681aad42cb7c1986",
+    "bytes": 101234
+  },
+  "content/powerpoint-coverage.json": {
+    "sha256": "4fada22178275609e91af07a043eed4f3e95de885711e2b7bf3b78b57bddacb6",
+    "gitSha": "833ece996a77daf928250c65c2058464a5f1689c",
+    "bytes": 166868
+  },
+  "docs/EXPORTKONTROLL.json": {
+    "sha256": "28269b983917559706e560d6dae84a7f2599a1860df69ed5ad19d2da17dfbdf5",
+    "gitSha": "e9e6f459dab75362c39619dd13ab80b38ccf40f0",
+    "bytes": 17068
+  },
+  "docs/FILM-PEDAGOGIK-KALLGRANSKNING.json": {
+    "sha256": "cd71ebe3b1c533c628830efc7cf1a6263ab4262349984ec95a8514fa62b044a6",
+    "gitSha": "2adc752f50a75ff9d29990b21234cb5d8e5a76a8",
+    "bytes": 17726
+  },
+  "docs/FILM-PEDAGOGIK-SLUTRAPPORT.md": {
+    "sha256": "9222056929b9f437874500669c61712a00ea7eb92d5f2ddb27e3d9fd76c31da8",
+    "gitSha": "4a9cbbbc66ac29e9671f5c4679a03f437b1dc8f2",
+    "bytes": 13387
+  },
+  "docs/filmdelen-mobil.jpg": {
+    "sha256": "1a7a1ee43b469c4fdc3f592f599ccce35a515b5fd6971a169e6f437188cee7d1",
+    "gitSha": "6ac19be0875fd388850a288e73afd54922a9ae8d",
+    "bytes": 42663
+  },
+  "docs/filmdelen-omarbetad.jpg": {
+    "sha256": "31a5e0c95fb581e3be1794b706e1e0a100e55bf9ef6409a65cd3cc00c77fb403",
+    "gitSha": "8b10d5aec8a5c0df9ebce9490af1923982523f96",
+    "bytes": 86031
+  },
+  "docs/FILMKALLANS-GRANSKNING.md": {
+    "sha256": "2503aca2f202ba230cdf3c3bded7b010c898eafdc4af30d3dc4dd474df0a24e3",
+    "gitSha": "61878e58083f3446375b0dae40e222ea270e1cac",
+    "bytes": 8178
+  },
+  "docs/FRISTAENDE-VERIFIERING.md": {
+    "sha256": "c7875758a40ac22e6026e762169ff1e3d6e52f93488af786d37387173acc92f1",
+    "gitSha": "448f529744d118fc0ccfa5d141d935a75f702551",
+    "bytes": 4905
+  },
+  "docs/GITHUB-PAGES-PUBLICERING.md": {
+    "sha256": "062772fdac74a41bd10435d42b82988dbf80b153216a20bfdc486a6d55133310",
+    "gitSha": "e0561c22a264283c8209eb83d971596fbb3fe9de",
+    "bytes": 3093
+  },
+  "docs/INNEHALLSRAPPORT.md": {
+    "sha256": "fdb8f100a0ee4e1f6677f8a28b8db4100b6287f4efe10db2e3b62f96544bb6ce",
+    "gitSha": "0cd116b11d920f94c0a1c9eaeb51aafe3cdf7b93",
+    "bytes": 4892
+  },
+  "docs/POWERPOINT-TACKNING.md": {
+    "sha256": "9a271459d415aeabe17f4d6c9a0a0d5570ee4dc0adcf57778f811607268950f7",
+    "gitSha": "fbe81ea97b9c2f22b92a8913040b3e8a81e695d5",
+    "bytes": 66053
+  },
+  "docs/review-01-13.json": {
+    "sha256": "6fe1207b67839847bfb17d86d81883e539e4738e3a4813ff82ebe169d9f88114",
+    "gitSha": "6e7084585a57ee3246895269e3643e64c7207fee",
+    "bytes": 40454
+  },
+  "docs/review-14-26.json": {
+    "sha256": "e8bcfa75d96ca9c8b8089729e591b78ace5a6eb7e1de4164ab3491a80128f99e",
+    "gitSha": "99a801924b88ba60db47ef0abd7d9dd4b6b516be",
+    "bytes": 55517
+  },
+  "docs/review-27-39.json": {
+    "sha256": "331769e637ade36ba7e58b2c4e6abd36d117334eff5ca7a55cf343cd629ae74c",
+    "gitSha": "f26aaffb9c31ac15aa4bf8c663e6dba353dab9e0",
+    "bytes": 122363
+  },
+  "docs/svampatlas-fristaende.jpg": {
+    "sha256": "4da747c04d29ff61302d1c84c97b97747304126d9ad55179dcd367ac375f8c47",
+    "gitSha": "a5d53cfa95f45039b7e65e233cd103b29934836a",
+    "bytes": 74162
+  },
+  "docs/VERIFIERING.md": {
+    "sha256": "a05ab8b1d970d9a4e275714a39dc870f8414f06d749707bbc10280f849785b79",
+    "gitSha": "7507e95347c9786902dc1336047d21c4d118a04a",
+    "bytes": 3646
+  },
+  "js/app.js": {
+    "sha256": "dc3f16e6090bfc515a7cb225ac301f3c3455fe7e6cac5bb1f77146c00702de5a",
+    "gitSha": "f240b822938336ef39ff7e62887ebd348bde28b4",
+    "bytes": 11667
+  },
+  "js/core.js": {
+    "sha256": "26d5d38d3b634bda3b617f8444beb799869317bf176d646e00ef38d048bfc167",
+    "gitSha": "cdc934bf63a4f0f41bdb57bff744bc0262e97f83",
+    "bytes": 3745
+  },
+  "js/data.js": {
+    "sha256": "070b6226b819ccad436d07859475a75efb1cfd523d4e18fc8596370d367cdf27",
+    "gitSha": "ec8541786d3ec45c6711dc65787b53bbbae8f911",
+    "bytes": 913235
+  },
+  "js/sessions.js": {
+    "sha256": "0401ea4ff3bdffe580439adbe1d76c83b7b5346dfd3cc8ccc85e30279de7a996",
+    "gitSha": "93090284ca45e4278545efefbbe6c0f60f6e6120",
+    "bytes": 31748
+  },
+  "js/views.js": {
+    "sha256": "efc533b14be553c119ed656c24d9974aaa241f5e9199aae60444acf7defb983e",
+    "gitSha": "ac7cb86d1a9fcdccd81d7c80229a95c5263a9195",
+    "bytes": 44021
+  },
+  "tests/film-pedagogy.test.cjs": {
+    "sha256": "818c6204430c5329d91a7bf2396e8872fee2fec0257cf54d7cc3c7bc57e3cb4a",
+    "gitSha": "132feaeb46af1158a97357c76abe0fb6fbc8686f",
+    "bytes": 11072
+  },
+  "tests/powerpoint.test.cjs": {
+    "sha256": "8dc96d74ce22aa40b9aa74214d3e70929ab9315dde38caf3f24daaf5a9abbac5",
+    "gitSha": "39a9b8a1e8ecf46b938aecfd007ba30fce8bf659",
+    "bytes": 11433
+  },
+  "tests/standalone.test.cjs": {
+    "sha256": "1a5ed273b8137864f91807494eece5e6782c17abb46382e5d30e2b2f603c6008",
+    "gitSha": "9406a1e27b410d07c8ec119c7b1565380a77802c",
+    "bytes": 2459
+  },
+  "tests/study.test.cjs": {
+    "sha256": "89f6ecb2278e89c17c8fc69347b51d142cda899c4da0496042918440f206dc86",
+    "gitSha": "04f84f9e05a29240e5608914e25c7f00d4f1b7a9",
+    "bytes": 13677
+  },
+  "tools/build-data.mjs": {
+    "sha256": "4951c38743efe590535a4e3082043d97150d6d854781f9d483fada4e3ae2db52",
+    "gitSha": "25e1f775c79c687e1c4b53f4f24eba7b536988de",
+    "bytes": 467
+  },
+  "assets/book/266.jpg": {
+    "sha256": "40b8210b4d9c2f09bcce783ef6b1a81779688f5297de263b53223d165bc8702e",
+    "gitSha": "e4a8f2fd544c923aaa05d7ffffb02f830c991329",
+    "bytes": 394400
+  },
+  "assets/book/267.jpg": {
+    "sha256": "06e0d4d30e02386812e4f65de898d137df32d9e1e247ddb8a1a68bcad1551bca",
+    "gitSha": "daf649a3d9025fa2aa20fed343f0ab745e22b357",
+    "bytes": 382887
+  },
+  "assets/book/268.jpg": {
+    "sha256": "72a4c7e4ee61fb3a3b5607d38ff6416189e3f7aa47d4f2b6589f6e8e24320dd0",
+    "gitSha": "023838212d363c567999349ac7ccf264b77cce79",
+    "bytes": 469309
+  },
+  "assets/book/269.jpg": {
+    "sha256": "e1d807bfc49cb1d2fb755ee59157ffe98f82d2b640ee334d973fdd6684f2b607",
+    "gitSha": "599ea74ad0f256aa48bd20739dc251b58f45623d",
+    "bytes": 345737
+  },
+  "assets/figures/book-266-mycel-hyf.jpg": {
+    "sha256": "28bd1cd9a6ca88922ee1386b41f80b59366d2df42c96c6e316d0cd2e3cb46182",
+    "gitSha": "83cb128f9bff7d4b3e023e2dca6f1724011ee2ac",
+    "bytes": 80852
+  },
+  "assets/figures/book-267-haxring.jpg": {
+    "sha256": "6bf1861e5e7474255c9ed6036f3bdac39a55001bbc4548776d7f05b7fe5958e1",
+    "gitSha": "1d43daa27dc85c5ddced06e51f8419fcd0505d36",
+    "bytes": 76232
+  },
+  "assets/figures/book-267-hyfer-vaxtceller.jpg": {
+    "sha256": "fc673d99b6f1ed80adcacc7105f0e99990cf3a77c10900bc3f9087bd80b4f760",
+    "gitSha": "7dcabc20ee6cfd8cc0f98c83482283f24195f189",
+    "bytes": 64294
+  },
+  "assets/figures/book-268-lav-natverk.jpg": {
+    "sha256": "92e4ff6a278a25cea736771c2bff873b0278999091ffd2d2680440da500c80c9",
+    "gitSha": "38712e9cf599b4eb236922cb49947039a12c733d",
+    "bytes": 50813
+  },
+  "assets/figures/book-269-livscykler.jpg": {
+    "sha256": "5fc23256e4a5848f12dbc0c23c163cd7cf6c35e3ae9580e6f35532b9aaf5855c",
+    "gitSha": "3cab58cc69c70549919fd9f328e0eb01b7e815b7",
+    "bytes": 129803
+  },
+  "assets/figures/ppt-anatomi-ovning.svg": {
+    "sha256": "8ab8dd611d24bb84226e77d276fa1c9333e04a8a6dca8335158ccf3c946df83b",
+    "gitSha": "17848b2b47c5a87cfa2b09c9528613fd53a0782a",
+    "bytes": 5525
+  },
+  "assets/figures/ppt-anatomi.svg": {
+    "sha256": "635b429fc304ab194457f5776919f8e6dd1f689566b9cc5697df327ffce027b6",
+    "gitSha": "c8a165e074a4cbb70f8546e84f745ffa768c09dd",
+    "bytes": 5728
+  },
+  "assets/figures/ppt-basidie-livscykel.svg": {
+    "sha256": "5ad8ae6b643f065b936a3911a0f8872e5771f1b00ff237c57f2fa49448101812",
+    "gitSha": "7aa0e8117f8e677980f81f4e2c49bc9ef916b531",
+    "bytes": 4158
+  },
+  "assets/figures/ppt-slemsvamp-livscykel.svg": {
+    "sha256": "26d8bdca34f0abf7e794d28a946cb1556392d00fb4874175b4cbb214e1e4dff2",
+    "gitSha": "4dc403d78be1e3cd1555c7a4868a5c9e150f9472",
+    "bytes": 4122
+  },
+  "assets/pdf/page-1.jpg": {
+    "sha256": "d53a5e1bbf349d500da64e8b73279e3f4fd047351b9aa5b6ec772389e7275738",
+    "gitSha": "25279b2632eedc8826828506ce302efe6ddf88fa",
+    "bytes": 132011
+  },
+  "assets/pdf/page-10.jpg": {
+    "sha256": "84a32f49bb4d7c67464eae46a746396aa4bf1f09347a1de4a1f785a1d9a04530",
+    "gitSha": "1cd32df190ae10006800ee7426caad8fafe5f5c9",
+    "bytes": 139922
+  },
+  "assets/pdf/page-11.jpg": {
+    "sha256": "95417b9fea40087f5d7175df321b96f7a98eefc545ece17681522e88689ac681",
+    "gitSha": "abdc9cd5f821e8c2e6c4f7fa108ea0fefea2c018",
+    "bytes": 131702
+  },
+  "assets/pdf/page-12.jpg": {
+    "sha256": "f7f2d1a2ca0bf5c7efb50273c691af23d2445f21a9bf7201d789945d4ed58e45",
+    "gitSha": "103c280f8ea7a10c91c64d24a3ed97de066fa4cb",
+    "bytes": 76324
+  },
+  "assets/pdf/page-13.jpg": {
+    "sha256": "2cff0ea85b1f20fbaaa21c74b216d3c4db7bc8a82f479d5463964233cf4a28ef",
+    "gitSha": "997e287004a470165d637256c5d64f3abb574750",
+    "bytes": 134586
+  },
+  "assets/pdf/page-14.jpg": {
+    "sha256": "3eb6aec2849c49b74d8b24c9e618792d3eff9843a3c6b450cee0d15806843b9b",
+    "gitSha": "54530c97c92c89f085be09477d1fbde29ed0aa6c",
+    "bytes": 198933
+  },
+  "assets/pdf/page-15.jpg": {
+    "sha256": "c44002b0b2fac41f1f6ca9856532771ac276750e0d3b9819ea53fbe812c50148",
+    "gitSha": "55f2f880e9248b61286c37869b4b973ae7f192a1",
+    "bytes": 106196
+  },
+  "assets/pdf/page-16.jpg": {
+    "sha256": "af184520661fd5a1f120cb3d05909f0c76f4e53b7ba7df8ec6bdb629707b98cb",
+    "gitSha": "30ca5f1cf1845b228decf36bcef8ecd0d5231927",
+    "bytes": 160059
+  },
+  "assets/pdf/page-17.jpg": {
+    "sha256": "88509a1480975f6a71907b0e60f079e5088cef7388dd71b884e38adbe1f491ee",
+    "gitSha": "a270556ad52fc0e184890ef9cec0b57f2741b25c",
+    "bytes": 97752
+  },
+  "assets/pdf/page-18.jpg": {
+    "sha256": "601348f767d3c21e48b53da682e93d2b9a13e19c3abf58956b627e3fec1eef95",
+    "gitSha": "00716b8cfa8d75ebce3f1a0955c2e3324b2c2a56",
+    "bytes": 199415
+  },
+  "assets/pdf/page-19.jpg": {
+    "sha256": "832ad024c835661cd2f4692a06f3a87ba42b453ba872a6b3406d924516303276",
+    "gitSha": "fb6c0ce6c936de4c289f41c410a572475460c524",
+    "bytes": 90186
+  },
+  "assets/pdf/page-2.jpg": {
+    "sha256": "aab9edb39f6a427168e3f3744bf9b22e65bd262331806697cd610c095aa4d560",
+    "gitSha": "131f3b3556120f7e07f0e75f28e1341d59330b5b",
+    "bytes": 152784
+  },
+  "assets/pdf/page-20.jpg": {
+    "sha256": "36fe2711b08f6006ab66c37f391a243cfbe2686ba56a1514c07c568523094980",
+    "gitSha": "b400d0240af0b566bf7a7644483e9f830a5d15ea",
+    "bytes": 164329
+  },
+  "assets/pdf/page-21.jpg": {
+    "sha256": "50cef3446b9628f4878ae0ad40411d7dfdefa8949b20beb038a41f516fa03286",
+    "gitSha": "fc3ed4f5b3a1ba422dfc6c338851142bac187fe4",
+    "bytes": 170010
+  },
+  "assets/pdf/page-22.jpg": {
+    "sha256": "62a94042426bcbd19782c13a55ef6f1986eea8fd99286ea44895988b8a106622",
+    "gitSha": "4acef9efe6001fdf0024599d4f7c4ba8079c42e7",
+    "bytes": 162267
+  },
+  "assets/pdf/page-23.jpg": {
+    "sha256": "950b8151cdfda27dea4fdcad3c3a5621196aebd54243f01b70835fe51c7169f0",
+    "gitSha": "89b97707b74df93674faeca5b827d00837e5d37c",
+    "bytes": 133186
+  },
+  "assets/pdf/page-24.jpg": {
+    "sha256": "099a3ccb04b9b70c0d02f7e79c1172f25f060f846a181ecb21697903e0966d7d",
+    "gitSha": "13301e2175cf59af819094dab1164e81916294da",
+    "bytes": 240129
+  },
+  "assets/pdf/page-25.jpg": {
+    "sha256": "bbbafc1e831547a2e3597b0b9b1ad3cc3e1dbf4295dfe0c7280e157c86dde695",
+    "gitSha": "aee9b846fe97a64892deb15308ff92daca4f3567",
+    "bytes": 121389
+  },
+  "assets/pdf/page-26.jpg": {
+    "sha256": "acb404f97ee47bfcee5d7b9aad09262dcc35a6c275a96c33339d06d2a23325d5",
+    "gitSha": "b3c52b48223285ca1a732905d148f630874f728d",
+    "bytes": 154411
+  },
+  "assets/pdf/page-27.jpg": {
+    "sha256": "4b7ec935c6bccb5cdad1016389ef54fa1f23904ea44cbcb6b485a97a0bb7b437",
+    "gitSha": "24e886168814fd6c40582a4e13b03d678cfb68c5",
+    "bytes": 181877
+  },
+  "assets/pdf/page-28.jpg": {
+    "sha256": "7fb682f892118a01061f5a3eb14a4d6c6df44c19258cdb969e17dde3c339c1be",
+    "gitSha": "9a7238155192662756dc4caff1d174951656ec87",
+    "bytes": 121278
+  },
+  "assets/pdf/page-29.jpg": {
+    "sha256": "3fda9ca58c35e141e5a2a464f2738336089733c9c26d66021d848b2dbfcfc783",
+    "gitSha": "315bc8e795245d026b01d4da5a2da5910bbd5e68",
+    "bytes": 202833
+  },
+  "assets/pdf/page-3.jpg": {
+    "sha256": "4bed6df0e70ad343f702e1ae58f3f8134007b0c200b454d6f03335d7e0c694ee",
+    "gitSha": "449c8c58b13caeb185b56a86e6811c8fc7357bfe",
+    "bytes": 148343
+  },
+  "assets/pdf/page-30.jpg": {
+    "sha256": "6e57886bcd0a503485dd074f53e0b705b782f77a6fca1b6d8277a4877a93d3ef",
+    "gitSha": "d59a5b3b48c8f4302a0c62d5d8ca46e69e74a0aa",
+    "bytes": 216214
+  },
+  "assets/pdf/page-31.jpg": {
+    "sha256": "5f65041e2b24468ff0adade1136efc5aec91b72a2bbdedad59b54b06b33c9f16",
+    "gitSha": "6e125c58a298885b2c329479c8f5b75951d14216",
+    "bytes": 120634
+  },
+  "assets/pdf/page-32.jpg": {
+    "sha256": "be1ef92fcffb0843cafd92eb6cc8d1082cd5488f1ef6558c03a2b8eed73247ef",
+    "gitSha": "a91e0ab0d81cc0f0922c892250b20e32e5238253",
+    "bytes": 239916
+  },
+  "assets/pdf/page-33.jpg": {
+    "sha256": "59c2eefe3757143a0405ffcf2b82cfcd4ea38dff81fab66b8fb59a95b1ae87d2",
+    "gitSha": "1c06bdc2f84e8fb561aece013120d9ae1e5bba37",
+    "bytes": 137078
+  },
+  "assets/pdf/page-34.jpg": {
+    "sha256": "0e2bf8e62c61a73ee2a91a57b6556870058288623165439e0f6e556a050a8cbd",
+    "gitSha": "c26a5122a1e4c9a7d78221312d86f9a4c1c99c85",
+    "bytes": 124321
+  },
+  "assets/pdf/page-35.jpg": {
+    "sha256": "7869855ad27f3f6bdfd222b482b5800cb9701815d9036a506d2f75cb4019d8cb",
+    "gitSha": "a0d7ff12976a503f9a8b49baaa260f58c9d7c653",
+    "bytes": 173185
+  },
+  "assets/pdf/page-36.jpg": {
+    "sha256": "4a9a027b0dda92c55d894650bbabefbaad2d6efd1f87f35bd935b2223b702a8c",
+    "gitSha": "2da7caceafabc88f9b163e61ec79307cd0adbf72",
+    "bytes": 170405
+  },
+  "assets/pdf/page-37.jpg": {
+    "sha256": "4973abc2dc155c5db240644defd7b390a07ca9bee5de0d7c8e5e65b65040b512",
+    "gitSha": "edb99a17f79319d7059184e5ebb0fae511fbe9bf",
+    "bytes": 106238
+  },
+  "assets/pdf/page-38.jpg": {
+    "sha256": "98561b5afc3f5a0e8c028a0c21219ad6a7bf2d8548b138f9998090bb438fcc3c",
+    "gitSha": "fea63e7f62561b2e452cbd8666a43e3bbbc68182",
+    "bytes": 168716
+  },
+  "assets/pdf/page-39.jpg": {
+    "sha256": "1ce82dfaa8e55db2580edfb8e3e1d13e852c565195e21d6770633103dcc7f091",
+    "gitSha": "8f1eeb715c488d392e346377bf4734b655b11ca0",
+    "bytes": 122100
+  },
+  "assets/pdf/page-4.jpg": {
+    "sha256": "3039967bb6ebe0d73c43bedf4c017b9cb1630c7878132fef3e6e2d3173e80e2b",
+    "gitSha": "6d448f422d2d40a8f27bcf18c0a78a40b02e610d",
+    "bytes": 81970
+  },
+  "assets/pdf/page-5.jpg": {
+    "sha256": "0d810af7b2ff534fcad555db0dfb0ac23d954c89d9abe8c9ca2d769b19466996",
+    "gitSha": "1333c4479cfffa09b57cdbd2acba8faea8d1ed27",
+    "bytes": 100552
+  },
+  "assets/pdf/page-6.jpg": {
+    "sha256": "1cd527095b71f99eec6696d45f1723dd9ea5e47df8fff4ebee512a600976fa7f",
+    "gitSha": "4313e0f22bccc7c5b728b72e46f027e9beb4f9eb",
+    "bytes": 98515
+  },
+  "assets/pdf/page-7.jpg": {
+    "sha256": "a27ea07e97d776a1d64a7e236ebed97a518f7c1c3d97a7b455dc04859c0433c5",
+    "gitSha": "2a85ae70724e107debc78e7e59a85d958f2eaf2d",
+    "bytes": 157627
+  },
+  "assets/pdf/page-8.jpg": {
+    "sha256": "19bf61ca7d4f57a24467cd253aff2453b8f34c24d9deecfb4fe62e2940c0e62a",
+    "gitSha": "77a075bb84f7c7b5e5836dca65e62cdf52d55857",
+    "bytes": 148348
+  },
+  "assets/pdf/page-9.jpg": {
+    "sha256": "24d9a8ece91335e9dde7c1d68b401b5652e6cf9a215991d9c976cab5536a59da",
+    "gitSha": "b5b4cb8d251cde7cff7ed2481fee452fddc523e1",
+    "bytes": 109392
+  },
+  "assets/species/angschampinjon.webp": {
+    "sha256": "aec5611bf97a8010f16635cf5d70c89d82d2d2feb3f5a8dc714c8bb7681786bc",
+    "gitSha": "880cd91bb6e0b875c83240bc282933647767e9c5",
+    "bytes": 195678
+  },
+  "assets/species/angsvaxskivling.webp": {
+    "sha256": "13694a3fb8984a1f1bcdba0a11267591f31e593d61e0544ce4168d57be0039dc",
+    "gitSha": "c478fa9cbf9fa32381930d23c975f250135d3121",
+    "bytes": 369610
+  },
+  "assets/species/aspsopp.webp": {
+    "sha256": "75eb170b1b8d013473283550d7b421d91d317602918e9751f2cf7720a3bc12d4",
+    "gitSha": "6daa90436ea9577073e6bd0c9339a61408ef4eb7",
+    "bytes": 137168
+  },
+  "assets/species/bjorksopp.webp": {
+    "sha256": "12d069e43b61b140578fb9e1b780022842d27768704817ff031cdb1a29771e59",
+    "gitSha": "9a680298fb5905f6f22d6c2e2c8689df3686001b",
+    "bytes": 277454
+  },
+  "assets/species/blamusseron.webp": {
+    "sha256": "c0af5401e7ff27c1ee6c0ebfae7c071be3e68e2e7275a667fa6cc693bc524d74",
+    "gitSha": "b36c1ca62aed5ed40a7497d151a80de922963fb2",
+    "bytes": 87146
+  },
+  "assets/species/blek-taggsvamp.webp": {
+    "sha256": "e11fea72f87faf1df5262f62f0d82b2ae7dd14ef758f43b4faaecac492564829",
+    "gitSha": "3e212ebf516e8f25460d2284246ab09de38f464c",
+    "bytes": 439098
+  },
+  "assets/species/blodchampinjon.webp": {
+    "sha256": "9520c32707a5ddf13f7a11ccbb0d67e13e3932d1d1166a28605db93332fce049",
+    "gitSha": "f677a6e0db3de9cfd190539eec53c4a239690779",
+    "bytes": 318312
+  },
+  "assets/species/blodriska.webp": {
+    "sha256": "107936ca86a18df77f00fa041fb326d69f55d1e295881a5194d101c77fbf8ef4",
+    "gitSha": "9b4d68c40c5d3b5d7aadbc1d4e9fcec64e953b1d",
+    "bytes": 270896
+  },
+  "assets/species/blomkalssvamp.webp": {
+    "sha256": "4319580d6e4a4e5f99bbf67556afd9f80f47dcddb6e10fcafb0005cf2cad3c2b",
+    "gitSha": "30d492014fb974c060eb29d513190987dd3578bd",
+    "bytes": 87872
+  },
+  "assets/species/bolmortskivling.webp": {
+    "sha256": "bd1df09a4870ac8e46773e51d6736ac60c17aa98b041969939e881a5a7da0656",
+    "gitSha": "30b410f4b1ec55c4daf8d4cf57b5c5c18edfa073",
+    "bytes": 161244
+  },
+  "assets/species/brun-flugsvamp.webp": {
+    "sha256": "3b5492e60883164550eda9db25d36008634becef0e26c52d3c5392899fd14a97",
+    "gitSha": "9297e4ddd5cede5b173e96835cfeab5d32362a46",
+    "bytes": 478210
+  },
+  "assets/species/brunsopp.webp": {
+    "sha256": "e83e705a6e2847aa758ccf7c58aca31566a59173457da8d38bb5c3cb6ca0f830",
+    "gitSha": "547db94dd6be649a27dbbefcd24c7bce63b9f895",
+    "bytes": 297034
+  },
+  "assets/species/citronslemskivling.webp": {
+    "sha256": "9bd5a62974ee23ea24aaf3545c16e76143ea150f83749369bcfae063b2f6c2b4",
+    "gitSha": "7a62dae8af794d06f956e9370e864c400cec1a6f",
+    "bytes": 155526
+  },
+  "assets/species/farticka.webp": {
+    "sha256": "b3b0375374f4266c66314b61c5c77697b7244129d8ce457a3eef9a68bdbb9a0d",
+    "gitSha": "955bda2497e00dc1ca65347a0e4d5fb7b44499de",
+    "bytes": 389356
+  },
+  "assets/species/fjallig-blacksvamp.webp": {
+    "sha256": "7b59a322f84a95df1466fcd6707ffe0b9fe874b0bca1c830f5d0393177549f6d",
+    "gitSha": "3f0dc54dc8b31f016132084f7a59934f017a6ae9",
+    "bytes": 360576
+  },
+  "assets/species/gifthatting.webp": {
+    "sha256": "4663fca1fef4e77c8aff1e2f9d603284d47b328b4522155bbf3d265862252ca3",
+    "gitSha": "45dee2842a7d752b73d1ad38433fde977850e967",
+    "bytes": 76144
+  },
+  "assets/species/gra-blacksvamp.webp": {
+    "sha256": "8992534ee0a00cf519f691b64bae44e24414a62e576630b63b35f1dc401937b9",
+    "gitSha": "2aaba319d7ee3bb63be59981937df16dddb4914b",
+    "bytes": 102746
+  },
+  "assets/species/grynsopp.webp": {
+    "sha256": "03703f42dc9d08cbf4899d8dba5fdf61f4699aa51039a76b1c93b1f52e8a589f",
+    "gitSha": "ad9a3b905f868885bcfda9d2a45181fe2e134360",
+    "bytes": 113144
+  },
+  "assets/species/gulkremla.webp": {
+    "sha256": "845d4ec646a88bbe2f14b463cc11183930b77a8b7d3d47e6f630c48d27a31c14",
+    "gitSha": "71d5dcd00c4193b4d0f258c90899fd92413329bb",
+    "bytes": 81188
+  },
+  "assets/species/honungsskivling.webp": {
+    "sha256": "20f2d6245b09c36823576fd9d7154d05b6f8c4027450cf2aa5a87d308d6632c6",
+    "gitSha": "55576c59ae8cca60fed042969aa7ee24f58189e5",
+    "bytes": 296460
+  },
+  "assets/species/hostmusseron.webp": {
+    "sha256": "0225dde627cc7d8cafe89d2ef68e413c09c0c96f0d342c2be89cf096a19ea513",
+    "gitSha": "10dcebf54987fa0d869aea0bbc7a9dfd1745dd05",
+    "bytes": 144608
+  },
+  "assets/species/kantarell.webp": {
+    "sha256": "6f70c10ce490cbacd67c8c5c1d8990d6897c4bdb53fa22ecbebb0029c483c8c7",
+    "gitSha": "4550c2a62487916a08df4fcf87cd30e021a6137a",
+    "bytes": 195810
+  },
+  "assets/species/kantkremla.webp": {
+    "sha256": "39581590100603fe031baf8de81ace29f99e8ec39c859243f355fe2256716d1e",
+    "gitSha": "c171a66918eba425f4bfadeca2aff4afcd83d6bd",
+    "bytes": 241676
+  },
+  "assets/species/knolchampinjon.webp": {
+    "sha256": "e28afb21de112705f9f7a137aa822dbf1a99969bf71bb992517b5d49582d98d7",
+    "gitSha": "ce44ce4624b1216e66756d51560bfd64c7a3735c",
+    "bytes": 92808
+  },
+  "assets/species/larksopp.webp": {
+    "sha256": "8e36318e854a623c54ff3a3101949ee3bb8d17750a0c9cdd0e885dd9ecf049f1",
+    "gitSha": "4fa0e0ebeb0eb59b557ccedd75ff64b88ab15646",
+    "bytes": 302518
+  },
+  "assets/species/lomsk-flugsvamp.webp": {
+    "sha256": "0c31f825a5c891fbbd4aa5f2bd517dc14e24444273b592b8c915dedb5723e549",
+    "gitSha": "490f019f303b9f151c2be62e4c743612603955bb",
+    "bytes": 187682
+  },
+  "assets/species/mandelkremla.webp": {
+    "sha256": "6b835e549b3a449d1844848879e2ba339be7e89cb877c519d309b55cf7bde5a3",
+    "gitSha": "ef1cc3f9320cfae831c0079da7e38d8ab3b35fc5",
+    "bytes": 186430
+  },
+  "assets/species/mandelriska.webp": {
+    "sha256": "5f3ec6dad6b4f8e1c624bd9c7c3544501b8bad1dcbbc916c048e97c6dd58d510",
+    "gitSha": "eb37bfcfb57d5ccf95a1ff01de02501f0c686b77",
+    "bytes": 344930
+  },
+  "assets/species/orangebrun-giftspindling.webp": {
+    "sha256": "bac1c01c4290c4d46aaa2127dc4b34ade8531622bbabc4c9bcf2f8a47f1e527d",
+    "gitSha": "1cc4cf9ab89ae128b4d6fefc557a15c27074da38",
+    "bytes": 53566
+  },
+  "assets/species/ostronmussling.webp": {
+    "sha256": "40dd76d6ac04143a3b24e72d39851ea2b2b569bbfbe93ec320be55daf3792eee",
+    "gitSha": "7260be707f23cea2e2e1ff45c027ad9562467bff",
+    "bytes": 78616
+  },
+  "assets/species/panterflugsvamp.webp": {
+    "sha256": "6f5d29c48bd67556d32224d00a34532f585e00dfdce7ee7df33df4f676cf006b",
+    "gitSha": "9385bd5b0a69086796a67448e9e87fc85237f1f3",
+    "bytes": 141794
+  },
+  "assets/species/pepparriska.webp": {
+    "sha256": "098c7dcae12fa175588b3aae297688f2336128447135999d0bba3667ee6e02ca",
+    "gitSha": "1f202c932c0217ac8e9e1e6cccbabedcacfdabf8",
+    "bytes": 417498
+  },
+  "assets/species/pluggskivling.webp": {
+    "sha256": "9265e69f5e316d118b164063a8f326f41c3b42dcadd194dbff1b4e783ef30a1d",
+    "gitSha": "74f918af5282a5f4e1f36fdd9cb8da7d7eea572c",
+    "bytes": 328248
+  },
+  "assets/species/rod-flugsvamp.webp": {
+    "sha256": "2ae6f7d424aabdd9615fc6bbfa15dddf66742702f13f15b82f14d3cb5dc935f8",
+    "gitSha": "b12a1ffec87affe6bd6fe23c0205364239fe69af",
+    "bytes": 342564
+  },
+  "assets/species/rodgul-taggsvamp.webp": {
+    "sha256": "15bd9b5dce6fb514c95d87ea19233bf40b635b353b4c1ce834bf3017c1da6ce8",
+    "gitSha": "798670bfeeabe2b15ec718f96c6b93f0b83475b3",
+    "bytes": 254772
+  },
+  "assets/species/rodgul-trumpetsvamp.webp": {
+    "sha256": "dae8627b5b7ffdd121f81bbdfb28281783da57660aaa8796ea0ba3ec63d96111",
+    "gitSha": "c28b2e45b35ba916e402441771af7e91c3fd6525",
+    "bytes": 240372
+  },
+  "assets/species/sammetssopp.webp": {
+    "sha256": "d899a6b302d08194060e3971535f1cf5993fedc6071103836dc5d495e863a916",
+    "gitSha": "1997e34516af037fdc7ae1c477c7d0dae17a0790",
+    "bytes": 264656
+  },
+  "assets/species/sandsopp.webp": {
+    "sha256": "d596efd4eb2db40a4fcd043e43e8642ca36cb3efbc5d7993c104819d056bf2b0",
+    "gitSha": "23ba5f5b1410aa62c1f50fae02ad9e1ba2f930e5",
+    "bytes": 379790
+  },
+  "assets/species/sillkremla.webp": {
+    "sha256": "1fb63a49630db225f79bfd86dd0c3223a8538409e975701c00dac7c4e91c420d",
+    "gitSha": "436b14f8ea3286172d074bda34402d15c58e492e",
+    "bytes": 38882
+  },
+  "assets/species/skogschampinjon.webp": {
+    "sha256": "ce12b2eef8429e2d8c6c11ddc7d26b83c056250ce6977383279538f7986ff0b1",
+    "gitSha": "a4dbaa1607d4b71db88a0a6e1b058b68de36d4d9",
+    "bytes": 150990
+  },
+  "assets/species/skogsriska.webp": {
+    "sha256": "c48cb230bb3c744cbc8ed7af705d7cb0d7f9da08ba6433ce403eef801b05c48a",
+    "gitSha": "98dee3661ad5fa7c90ba1771d934e8e90ab1f057",
+    "bytes": 136756
+  },
+  "assets/species/smorsopp.webp": {
+    "sha256": "a7fb88c438d5528c7688462a9addcaa0f398c41f018feaef9ca775bae0e9ae4c",
+    "gitSha": "77f44be37789daef8ee72805436fd93504f8f190",
+    "bytes": 149698
+  },
+  "assets/species/snobollschampinjon.webp": {
+    "sha256": "c3e06b2d80e54a0b5d9c92ebb3ef8f73720369cd93909e8342ac5ef0999dae1e",
+    "gitSha": "c25f28e7050a784f3be88863cf025528d00c4af4",
+    "bytes": 241096
+  },
+  "assets/species/stensopp.webp": {
+    "sha256": "f058a8a90eda589c1cef438ba6dfe905b66dd03bf2c412a87dd6721ff361069d",
+    "gitSha": "aa8df18e1b13945eea44e851b55f49f4855c783c",
+    "bytes": 365106
+  },
+  "assets/species/stolt-fjallskivling.webp": {
+    "sha256": "a96da0ee29651b4b58c2d3f05f1d551afd080881260e946d47f7911685980afe",
+    "gitSha": "66ac3d878c090a67db98cce2f4fe7b1efcf35159",
+    "bytes": 450116
+  },
+  "assets/species/storkremla.webp": {
+    "sha256": "51ae64c89ec02ef11126855aa6da74e7516c40b8ccaf6d934ff696267ff25dc1",
+    "gitSha": "b05733f7d70e5eb3ba0bef00a827e28c5fd68410",
+    "bytes": 292464
+  },
+  "assets/species/svart-trumpetsvamp.webp": {
+    "sha256": "73eda28d0feb523799ff72451c40477d064fbf2949d3f2e416e10c4f7aff5f3b",
+    "gitSha": "f16c117856be90ca7962e1b14493cb1fc79dd28b",
+    "bytes": 263268
+  },
+  "assets/species/tegelkremla.webp": {
+    "sha256": "d82e122bddfacf04164cd8231db6e1dc98b612d3507059a685ee8954bcdbe065",
+    "gitSha": "a5110536056c1d7cf014949cd898404b517b3e10",
+    "bytes": 97818
+  },
+  "assets/species/tegelrod-bjorksopp.webp": {
+    "sha256": "8e7115d87d272f7095289d1d24f96066655ee4bef87cc05e789065562d995b9f",
+    "gitSha": "41525ec885da0bbe19a6a5ae92c96c475274b6e1",
+    "bytes": 357686
+  },
+  "assets/species/toppig-giftspindling.webp": {
+    "sha256": "b651731c8a091ef40b42d8752b2fb5614ddfd22dcc3c41ebe20db8dff83328ef",
+    "gitSha": "b9bb15067e9b147f39c93c57399a348311cb167d",
+    "bytes": 167070
+  },
+  "assets/species/toppmurkla.webp": {
+    "sha256": "f99d0b1143fd00019f403a02039cb5f359295ceb95634b1107c738793db78292",
+    "gitSha": "920dd9f5016848b8474072b4d0c98757933dfe16",
+    "bytes": 159890
+  },
+  "assets/species/trattkantarell.webp": {
+    "sha256": "eeef944511f772e61c7e3f5ae6fe6564aba243c911e20774231eca33fe871cd9",
+    "gitSha": "df06ef2a15242dda785f05ddaa6d073d49311035",
+    "bytes": 529526
+  },
+  "assets/species/vinkremla.webp": {
+    "sha256": "3342f2135a313be73e48da9e73446880c7a3701bac75b24f1bccef1118ad8281",
+    "gitSha": "625cd1e66b7f48fc7bcf26439d02f08195b4abf8",
+    "bytes": 230282
+  },
+  "assets/species/vit-flugsvamp.webp": {
+    "sha256": "03eb14287156506326a97d21e3d57d9a085dc7988220aee68ef2110a52330ab7",
+    "gitSha": "927b87b1cb9f9beb3523c9eabe0bd39d3ae65b6c",
+    "bytes": 326998
+  },
+  "tests/fixtures/before-film-pedagogy-hashes.json": {
+    "sha256": "fb2dd0eb6111e9db253d51c5d398b331ec20bb72e322960209f522d8234f4956",
+    "gitSha": "dc8924f2deac23313e27d7d0691505f9e3868652",
+    "bytes": 27202
+  },
+  "tests/fixtures/before-film-revision.json": {
+    "sha256": "eda4237ad12366c82f90c0333bd85847ad3308b3141657231176021c03f4294b",
+    "gitSha": "2f92fc83102d5d93d78a6342802181e62f9929df",
+    "bytes": 258138
+  },
+  "tests/fixtures/before-powerpoint-hashes.json": {
+    "sha256": "994272090f55f5cd2db227dcc76c53f008b75bf02907a34782d832b6c5e7a757",
+    "gitSha": "5b8f8d1c87e2a874f55fdc8f560cd7812db99c40",
+    "bytes": 19540
+  },
+  "tests/helpers/atlas.cjs": {
+    "sha256": "4841a3bb15708845516811afde1bee3adac883bc761e4fa963914791ef235f2f",
+    "gitSha": "f8aef55c42e8251c580058e747f079a39f44816b",
+    "bytes": 2426
+  }
+}

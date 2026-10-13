@@ -1,0 +1,292 @@
+{
+  "reviewedOn": "2026-10-14",
+  "reviewer": "independent second_photos_b agent; no authoring changes to advanced questions",
+  "status": "pass",
+  "pass": true,
+  "reviewedFile": "work/additions-2026-10-14/advanced-content.json",
+  "reviewedFileSha256": "2c72ebac5eb15429d2ebd5624440ba9d9e03feb66e1114c80697044ff252889e",
+  "courseFile": "outputs/github-pages/Svampatlas/content/course.json",
+  "courseFileSha256": "362f276cd8e46b5521330ebf7b41b2ad981191e32108169a242038dd1b124f5d",
+  "scope": "Independent complete read of all 28 questions, full model answers, key points, criteria, analysis, limits and source notes, compared with every cited fact in the existing source-reviewed course dataset. No project files edited.",
+  "questionCount": 28,
+  "totalFactReferences": 294,
+  "uniqueReferencedFacts": 237,
+  "missingFactIds": [],
+  "missingSectionIds": [],
+  "factIdsOutsideLinkedSections": [],
+  "findings": [],
+  "checks": {
+    "advancedDepth": "pass: every question requires application, comparison, counterfactual/causal reasoning, evidence evaluation or a developed ethical analysis; none is a simple fact-recall question relabeled as advanced.",
+    "fullAnswers": "pass: complete coherent answers of 202–229 words; their checkpoints supplement the prose rather than substitute for it.",
+    "sourceAlignment": "pass: all cited facts are present and aligned with the linked source sections; pedagogical scenarios and deductions are identified as such.",
+    "newUnsupportedContent": "none found: no new examination domain, drug receptor/psilocin mechanism, unsupported experimental result, invented significance estimate or contemporary medical/legal claim.",
+    "fungalCycles": "pass: plasmogamy is distinct from karyogamy, n + n is distinct from 2n, meiosis and the typical basidial ordering are correct and source-bound; general book chronology is not imposed on every fungal group.",
+    "slimeMolds": "pass: plasmodial slime molds are placed in Amoebozoa rather than Fungi; amoeboid/flagellate forms are alternatives, syngamy produces a diploid zygote, mitotic nuclear division produces the multinucleate diploid plasmodium, and meiosis restores haploid spores in the illustrated sexual model.",
+    "historicalClassification": "pass: algsvampar is treated as a historical catch-all, Aphanomyces astaci as an oomycete outside Fungi, Rhizopus as a true fungal example and yeast/mold as growth habits, with no invented exact identity for unnamed source images.",
+    "filmSubstanceAndCondition": "pass: MDMA/PTSD, psilocybin/depression and cancer-associated depression/death anxiety remain separate; MDMA risks/resources are not reassigned to psilocybin.",
+    "filmStatistics": "pass: two-thirds refers to the film’s MDMA two-month endpoint; 30/60 refers to reported shares of participants with improvement, not individual symptom percent reduction; arithmetic is explicitly approximate and no unsupported exact control numbers are added.",
+    "filmMechanismAndEvidence": "pass: 7200 connections are treated as the film’s equal-total redistributed diagrams; MRI and metaphors do not prove permanent cure or exclude placebo; acute experience does not establish diagnosis or long-term outcome.",
+    "filmRiskAndEthics": "pass: three suicide attempts are unresolved safety signals, not established causal events or a calculated rate; consent, fairness, support and resource priorities are explicitly normative or proposed assessments.",
+    "historical2022Context": "pass: film questions retain 2022 source framing and do not assert present approvals, law, clinical practice or fulfilled forecasts.",
+    "gradingClaim": "A-nivå is a pedagogical quality objective; this content review does not certify a teacher’s grade."
+  },
+  "questionReviews": [
+    {
+      "questionId": "advanced-hyfernas-form-och-funktion",
+      "status": "pass",
+      "depthObservation": "Applies surface-to-volume, extracellular digestion and transport to a controlled hypothetical morphology comparison; distinguishes functional explanation from quantitative proof.",
+      "answerWordCount": 203,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-osynligt-mycel-och-haxring",
+      "status": "pass",
+      "depthObservation": "Evaluates competing explanations for a fairy-ring observation using hidden mycelium, tip growth, translocation and environmental triggers; limits inference about identity and survival.",
+      "answerWordCount": 216,
+      "factReferences": 8,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-rotkontakt-nytta-eller-skada",
+      "status": "pass",
+      "depthObservation": "Compares mutualism and parasitism in two root-contact cases using resource flow and consequences rather than contact alone; avoids diagnosis from symptoms.",
+      "answerWordCount": 208,
+      "factReferences": 10,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-tre-naringsvagar-i-skogen",
+      "status": "pass",
+      "depthObservation": "Synthesizes extracellular nutrition across dead wood, parasitic roots and nematode capture; analyzes ecological consequences and perspective.",
+      "answerWordCount": 209,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-lav-och-mykorrhiza-pa-ny-mark",
+      "status": "pass",
+      "depthObservation": "Compares partners and resource exchange in lichens and mycorrhiza and connects lichen structure to weathering and soil formation without a fixed succession forecast.",
+      "answerWordCount": 217,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-enzym-gen-och-industriprocess",
+      "status": "pass",
+      "depthObservation": "Traces gene, producing cell and enzyme roles in a biotechnology application and separates plausible process benefit from an unsupported whole-process environmental guarantee.",
+      "answerWordCount": 211,
+      "factReferences": 7,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-sporer-och-misslyckad-etablering",
+      "status": "pass",
+      "depthObservation": "Analyzes establishment conditions, tests the death inference and distinguishes the formation process of sexual versus asexual spores; proposes a controlled follow-up.",
+      "answerWordCount": 224,
+      "factReferences": 10,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-tva-karnor-ar-inte-diploid",
+      "status": "pass",
+      "depthObservation": "Distinguishes hyphal union from delayed karyogamy, n + n from 2n and broad textbook model from specific basidial cycle.",
+      "answerWordCount": 211,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-livstrad-och-taxonomisk-hierarki",
+      "status": "pass",
+      "depthObservation": "Compares phylogenetic branching with rank hierarchy, diagnoses cell-number/category confusion and handles historical kingdom models with explicit limits.",
+      "answerWordCount": 202,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-svamplik-massa-och-naringsupptag",
+      "status": "pass",
+      "depthObservation": "Contrasts plasmodial organization and phagocytosis with hyphae and extracellular digestion; analyzes which observations support classification versus exact species identity.",
+      "answerWordCount": 208,
+      "factReferences": 13,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-felsok-slemsvampens-livscykel",
+      "status": "pass",
+      "depthObservation": "Repairs multiple causal and notation errors in slime-mold life-cycle arrows and compares diploid plasmodial nuclei with a dikaryotic fungal mycelium.",
+      "answerWordCount": 207,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-historisk-grupp-ar-inte-slaktskap",
+      "status": "pass",
+      "depthObservation": "Separates historical catch-all classification, modern relationship, ecological role and visible growth habit using crayfish plague and bread mold.",
+      "answerWordCount": 211,
+      "factReferences": 10,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-mikroskopi-och-sporbarande-yta",
+      "status": "pass",
+      "depthObservation": "Weights microscopic sporulation evidence against a top-view macro photograph; compares functional surface area without equating asci and basidia.",
+      "answerWordCount": 204,
+      "factReferences": 10,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-artfoto-och-anatomiska-ledtradar",
+      "status": "pass",
+      "depthObservation": "Corrects anatomical and photographic inference errors, specifies complementary views and separates learning evidence from safe identity or edibility.",
+      "answerWordCount": 223,
+      "factReferences": 11,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-parasit-ar-inte-en-sporgrupp",
+      "status": "pass",
+      "depthObservation": "Analyzes overlapping taxonomic and ecological dimensions with multiple source examples; explains why visible fruiting bodies do not locate all nutrition.",
+      "answerWordCount": 210,
+      "factReferences": 11,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-jast-och-mogel-i-livsmedelsforsok",
+      "status": "pass",
+      "depthObservation": "Explains fermentation and cold-slowed mold with different mechanisms; distinguishes observed inhibition from loss of viability and proposes a controlled retest.",
+      "answerWordCount": 210,
+      "factReferences": 9,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-mykorrhiza-rotbild-och-resurspilar",
+      "status": "pass",
+      "depthObservation": "Corrects resource arrows and ectomycorrhizal versus arbuscular contact; distinguishes growth outcome from proof of every mechanistic resource transfer.",
+      "answerWordCount": 213,
+      "factReferences": 9,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-avbruten-karnfusion-i-basidiemodell",
+      "status": "pass",
+      "depthObservation": "Traces a counterfactual block of karyogamy through the typical basidial cycle; explicitly limits extrapolation to real mutant biology.",
+      "answerWordCount": 209,
+      "factReferences": 11,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-granska-sammanslagen-medicinrubrik",
+      "status": "pass",
+      "depthObservation": "Decomposes a misleading medical headline by substance, condition, study group, treatment package, endpoint and follow-up; separates cancer-related mental distress from cancer treatment.",
+      "answerWordCount": 217,
+      "factReferences": 13,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-mdma-fran-mekanism-till-uppfoljning",
+      "status": "pass",
+      "depthObservation": "Connects the film’s proposed MDMA mechanism to trauma processing and necessary longitudinal outcomes; includes support withdrawal, selection and generalizability.",
+      "answerWordCount": 222,
+      "factReferences": 12,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-natverksbild-och-beviskedja",
+      "status": "pass",
+      "depthObservation": "Checks successive inferential jumps from 7200-line network representation through metaphor and mechanism to permanent cure and placebo exclusion.",
+      "answerWordCount": 217,
+      "factReferences": 9,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-ta-bort-stodet-ur-forsoket",
+      "status": "pass",
+      "depthObservation": "Uses shared-component control logic to challenge unsupported removal of therapeutic support and weighs ethical protection against cost without assigning a measured support effect.",
+      "answerWordCount": 229,
+      "factReferences": 6,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-upplevelse-ar-inte-samma-sak-som-utfall",
+      "status": "pass",
+      "depthObservation": "Separates acute phenomenology, diagnosis and later clinical outcome; assigns both qualitative value and limited generalizability to patient narratives.",
+      "answerWordCount": 222,
+      "factReferences": 8,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-fran-procentgraf-till-saklig-slutsats",
+      "status": "pass",
+      "depthObservation": "Interprets group proportions, approximate percentage-point difference and ratio without inventing patient-level symptom reduction, permanent cure, significance or exact uncertainty.",
+      "answerWordCount": 215,
+      "factReferences": 11,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-hallucination-som-biverkan-och-hypotes",
+      "status": "pass",
+      "depthObservation": "Frames an open research question about the acute experience’s role; distinguishes co-occurrence, causal necessity, ethical desirability and demonstrated feasibility.",
+      "answerWordCount": 217,
+      "factReferences": 11,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-marknadslofte-och-sakerhetssignal",
+      "status": "pass",
+      "depthObservation": "Evaluates economic and causal fallacies; treats suicide attempts as serious unresolved signals without alleging fraud, causation or an exact risk rate.",
+      "answerWordCount": 211,
+      "factReferences": 9,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-begransade-vardresurser-och-patientbehov",
+      "status": "pass",
+      "depthObservation": "Weighs patient need, benefit, therapist resources, selection and uncertainty using explicitly identified normative principles rather than a unique ethical answer.",
+      "answerWordCount": 226,
+      "factReferences": 10,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    },
+    {
+      "questionId": "advanced-tradition-forbud-och-vetenskapligt-stod",
+      "status": "pass",
+      "depthObservation": "Analyzes three historical/enthusiasm arguments without allowing tradition, prohibition or current interest to substitute for controlled evidence.",
+      "answerWordCount": 219,
+      "factReferences": 14,
+      "sourceAlignment": "All cited fact IDs exist within the linked sections; answer claims are supported or expressly framed as a pedagogical inference, hypothesis, method proposal or normative assessment.",
+      "criteriaAlignment": "Key points, criteria and argumentation analysis match the question and complete answer."
+    }
+  ],
+  "limits": [
+    "This review verifies fidelity and reasoning against the existing source-reviewed course facts and source notes. It is not a new full retranscription of the documentary, textbook photographs or all 39 PowerPoint pages.",
+    "This is a content audit; UI navigation, answer hiding, local progress, backups, accessibility and deployment are outside this review."
+  ],
+  "suggestedCorrections": []
+}

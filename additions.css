@@ -1,0 +1,17 @@
+/* Additive study tools; existing layout and styles are retained. */
+.check-status{white-space:normal;line-height:1.5}
+.check-status.status-green{background:#dff3e5;color:#17542b}
+.check-status.status-yellow{background:#fff0c2;color:#6b4c00}
+.check-status.status-red{background:#fde3df;color:#8b291e}
+.check-status.status-gray{background:#e9edef;color:#39464b}
+[data-theme=dark] .check-status.status-green{background:#173f2b;color:#b4f0c6}
+[data-theme=dark] .check-status.status-yellow{background:#493b16;color:#ffe39b}
+[data-theme=dark] .check-status.status-red{background:#482820;color:#ffc6bc}
+[data-theme=dark] .check-status.status-gray{background:#303b40;color:#d9e1e4}
+.photo-zoom{width:100%;padding:0;border:0;background:none;cursor:zoom-in}
+.photo-zoom img{width:100%;height:360px;object-fit:contain;background:var(--surface);border-radius:10px}
+#check-answer{width:100%;max-width:100%;box-sizing:border-box}
+.addition-entry{margin-top:20px}
+@media(max-width:600px){.photo-zoom img{height:280px}.check-status{font-size:.76rem}}
+
+.photo-credit{overflow-wrap:anywhere}

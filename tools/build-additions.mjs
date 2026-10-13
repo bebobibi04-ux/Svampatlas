@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {createRequire} from 'node:module';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),require=createRequire(import.meta.url);
+const data=JSON.parse(fs.readFileSync(path.join(root,'content/course.json'),'utf8')),extra=JSON.parse(fs.readFileSync(path.join(root,'content/study-additions.json'),'utf8')),K=require('../js/additions-core.js');
+const cat=K.catalog(data,extra);
+fs.writeFileSync(path.join(root,'js/additions-data.js'),'window.STUDY_ADDITIONS='+JSON.stringify(extra)+';\n');
+fs.writeFileSync(path.join(root,'content/final-check-coverage.json'),JSON.stringify({revision:K.revision,questionCount:cat.items.length,unitCount:cat.units.length,topics:cat.topics,units:cat.units.map(u=>({...u,itemIds:cat.items.filter(q=>q.unitIds.includes(u.id)).map(q=>q.id)})),items:cat.items.map(q=>({id:q.id,kind:q.kind,question:q.question,unitIds:q.unitIds,sectionIds:q.sectionIds,topicId:q.topicId,priority:q.priority}))},null,2)+'\n');
+console.log(JSON.stringify({questions:extra.questions.length,photos:extra.photos.length,checkQuestions:cat.items.length,checkUnits:cat.units.length}));

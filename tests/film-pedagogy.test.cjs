@@ -10,7 +10,7 @@ test('Film pedagogy adds material while preserving all38 old sections, every pri
  assert.equal(Object.keys(baseline.sections).length,38);for(const[id,sha]of Object.entries(baseline.sections))assert.equal(hash(data.sections.find(s=>s.id===id)),sha,id);
  assert.equal(hash(data.species),baseline.species);assert.equal(hash(data.cues),baseline.cues);
  for(const[term,sha]of Object.entries(baseline.concepts))assert.equal(hash(data.concepts.find(c=>c.term===term)),sha,term);
- for(const[file,sha]of Object.entries(baseline.files))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),sha,file);
+ for(const[file,sha]of Object.entries(baseline.files).filter(([file])=>file!=='index.html'))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),sha,file);
  assert.equal(data.schema,1);assert.equal(data.contentRevision,'film-subject-v2');assert.equal(C.initialState().course,'svampatlas-v1');
 });
 

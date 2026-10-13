@@ -91,3 +91,12 @@ Se `docs/GITHUB-PAGES-PUBLICERING.md` för kontrollen av den publicerade webbpla
 Filmens studieplats finns på `#filmstudier`. Alla tio originalfrågor på `#filmfragor` har utvecklade svar. `#resonemang` ger åtta egna resonemangsövningar, två fullständiga diskussionsmodeller, argumentationsanalys och bedömningsstöd. Svar börjar dolda; egen skrivtext och självskattning kan sparas och säkerhetskopieras. Filmen kan väljas separat i provläget.
 
 Tillägget innehåller tre filmavsnitt, 18 kort, 16 quizfrågor och 20 recallfrågor. Alla tidigare 38 avsnitt, 54 arter, övningssvar och originalbilder är bevarade. 36 tester passerade, och verklig export/import av både äldre och nya backupdata är verifierad. Se [slutrapporten](docs/FILM-PEDAGOGIK-SLUTRAPPORT.md) och [källgranskningen](docs/FILM-PEDAGOGIK-KALLGRANSKNING.json).
+
+
+## Tillägg 14 oktober 2026
+
+[A-nivå | Fördjupning & resonemang](https://bebobibi04-ux.github.io/Svampatlas/#aniva) tillför 28 källförankrade modeller över hela provområdet. [Slutchecken](https://bebobibi04-ux.github.io/Svampatlas/#slutcheck) har 46 uppgifter i snabbcheck och 452 i fullständig kontroll, med spårbar täckning, tydlig självbedömning och repetitionsplan. Alla 54 arter har två olika autentiska fotografier och bildvariation i träningen.
+
+Alla tidigare kursdata och originalbilder är bevarade. Nya data byggs vid behov med `node tools/build-additions.mjs`. Kontroll: `node --test tests/*.test.cjs`.
+
+[Fullständig slutrapport och verifieringsgränser](docs/TRE-TILLAGG-SLUTRAPPORT.md) · [Nya bildkällor och individuella licenser](content/extra-image-sources.json). Blodchampinjonens andra foto har CC BY-NC 4.0; dess kommersiella återanvändning ingår inte.

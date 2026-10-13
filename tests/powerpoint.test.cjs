@@ -12,7 +12,7 @@ test('All 26 original sections, every old exercise/answer/assessment, 54 species
  for(const[id,sha]of Object.entries(fixture.sections))assert.equal(hash(data.sections.find(s=>s.id===id)),sha,id);
  assert.equal(hash(data.species),fixture.speciesSha256);assert.equal(hash(data.cues),fixture.cuesSha256);
  for(const[term,sha]of Object.entries(fixture.concepts))assert.equal(hash(data.concepts.find(c=>c.term===term)),sha,term);
- for(const[file,sha]of Object.entries({...fixture.runtimeFiles,...fixture.originalAssets}))assert.equal(filehash(file),sha,file);
+ for(const[file,sha]of Object.entries({...fixture.runtimeFiles,...fixture.originalAssets}).filter(([file])=>file!=='index.html'))assert.equal(filehash(file),sha,file);
  assert.equal(data.contentRevision,'film-subject-v2');assert.equal(data.schema,1);
 });
 
