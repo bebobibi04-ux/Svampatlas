@@ -29,7 +29,7 @@ test('Global search includes advanced questions in its real result count and nev
 });
 
 test('The full checklist covers every fact, concept, prior recall, process, advanced model and each separate photo while retaining 54 species',()=>{
- assert.equal(cat.units.filter(u=>u.kind==='fact').length,335);assert.equal(cat.units.filter(u=>u.kind==='concept').length,130);assert.equal(cat.units.filter(u=>['teacher','recall'].includes(u.kind)).length,97);assert.equal(cat.units.filter(u=>u.kind==='process').length,7);assert.equal(cat.units.filter(u=>u.kind==='advanced').length,43);
+ assert.equal(cat.units.filter(u=>u.kind==='fact').length,335);assert.equal(cat.units.filter(u=>u.kind==='concept').length,130);assert.equal(cat.units.filter(u=>['teacher','recall'].includes(u.kind)).length,97);assert.equal(cat.units.filter(u=>u.kind==='process').length,7);assert.equal(cat.units.filter(u=>u.kind==='advanced').length,43+extra.examVariants.questions.length);
  const full=K.choose(cat,'full',C),units=new Set(full.flatMap(q=>q.unitIds));assert.equal(full.length,cat.items.length);assert.equal(new Set(full.map(q=>q.id)).size,full.length);for(const u of cat.units)assert(units.has(u.id),u.id);
  const arts=full.filter(q=>q.kind==='art');assert.equal(new Set(arts.map(q=>q.speciesId)).size,54);for(const s of data.species){const ps=K.photos(s,extra);assert(ps.length>=2||extra.missingPhotos.some(x=>x.speciesId===s.id));assert.equal(arts.filter(q=>q.speciesId===s.id).length,ps.length)}
  assert.equal(full.filter(q=>q.teacherNumber).length,10);assert(cat.topics.every(t=>cat.units.some(u=>u.topicId===t.id)));
@@ -41,10 +41,10 @@ test('Quickcheck samples all areas and all teacher prompts while explicitly leav
  const answers=Object.fromEntries(selected.filter(q=>q.kind==='self').map(q=>[q.id,checked(q,'Min förklaring','know')]));const r=K.report(cat,run(selected,answers));assert(r.gray.length>0);assert(r.topics.some(t=>t.status==='gray'));assert.equal(r.objective.total,0);assert.equal(r.self.rated,Object.keys(answers).length);
 });
 
-test('A complete check only becomes green with evidence for all 720 points, and two photographs still count as one species',()=>{
+test('A complete check only becomes green with evidence for all existing and added points, and two photographs still count as one species',()=>{
  assert.equal(extra.photos.length,54);assert.equal(extra.missingPhotos.length,0);assert(data.species.every(s=>K.photos(s,extra).length===2));
  const full=K.choose(cat,'full',C),answers={};for(const q of full){const value=q.kind==='self'?'Ett självbedömt testsvar':q.kind==='art'?data.species.find(s=>s.id===q.speciesId).name:q.kind==='process'?q.steps.map((_,i)=>i):q.original.type==='order'?q.original.items:q.original.correct;answers[q.id]=checked(q,value,q.kind==='self'?'know':null)}
- const r=K.report(cat,run(full,answers));assert.equal(r.total,720);assert.equal(r.tested,720);assert.equal(r.gray.length,0);assert.equal(r.red.length,0);assert.equal(r.status,'green');assert(r.topics.every(t=>t.status==='green'));assert.equal(r.uniqueSpecies,54);assert.equal(full.filter(q=>q.kind==='art').length,108);
+ const r=K.report(cat,run(full,answers));assert.equal(r.total,720+extra.examVariants.questions.length);assert.equal(r.tested,r.total);assert.equal(r.gray.length,0);assert.equal(r.red.length,0);assert.equal(r.status,'green');assert(r.topics.every(t=>t.status==='green'));assert.equal(r.uniqueSpecies,54);assert.equal(full.filter(q=>q.kind==='art').length,108);
  const objective=full.find(q=>q.kind==='objective'&&q.unitIds.some(id=>full.some(s=>s.kind==='self'&&s.unitIds.includes(id))));answers[objective.id]={...answers[objective.id],correct:false,at:1};for(const q of full.filter(s=>s.kind==='self'&&s.unitIds.some(id=>objective.unitIds.includes(id))))answers[q.id].at=999;const weaker=K.report(cat,run(full,answers));assert(weaker.red.length>0);assert.equal(weaker.topics.find(t=>t.id===objective.topicId).status,'red');
 });
 
