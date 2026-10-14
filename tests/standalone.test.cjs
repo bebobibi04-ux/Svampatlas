@@ -4,7 +4,7 @@ const root=path.resolve(__dirname,'..'),html=fs.readFileSync(path.join(root,'ind
 test('The standalone shell loads only bundled relative scripts and styles, including under a repository subpath',()=>{
  const resources=[...html.matchAll(/<(?:script|link)\b[^>]*(?:src|href)="([^"]+)"/g)].map(x=>x[1]).filter(x=>!x.startsWith('data:'));
  assert.equal(resources.length,10);
- for(const resource of resources){assert(!/^\/|^[a-z]+:/i.test(resource),resource);assert(fs.statSync(path.join(root,resource)).isFile());assert.equal(new URL(resource,'https://example.org/Svampatlas/').pathname,'/Svampatlas/'+resource)}
+ for(const resource of resources){assert(!/^\/|^[a-z]+:/i.test(resource),resource);assert(fs.statSync(path.join(root,resource.split('?')[0])).isFile());assert.equal(new URL(resource,'https://example.org/Svampatlas/').pathname,'/Svampatlas/'+resource.split('?')[0])}
  assert(!/<base\b/i.test(html));assert(fs.existsSync(path.join(root,'.nojekyll')));
 });
 
