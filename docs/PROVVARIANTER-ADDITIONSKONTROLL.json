@@ -22,7 +22,7 @@
     },
     "index.html": {
       "before": "e88c6d4932f39e406485f101f7c14484b66df29efb0fb7e94698c018742f802c",
-      "after": "3d859914a92b32b90972c3d41636cace81640bfce7393ba52bf8572a33b50517"
+      "after": "439bfdc6670181b0c4f5a7106c1133e0ba354042fc2b1fe15cecbb71edbf0ad3"
     },
     "js/additions-core.js": {
       "before": "93e78d43b8f18e96a99da006b17d78dd5291d59767205906a34dfdf1fc8b7863",
@@ -34,7 +34,7 @@
     },
     "js/additions.js": {
       "before": "e248f49292f402c1984d1cd74c46e08275f28be18cecf71b076c557fed509d3d",
-      "after": "7be182618551620a63a04a2356a511daa3c8e9e8f0135370df8df4801a6504f8"
+      "after": "e74b4b162b259853c4d0c529d6d198f3d6f1bba8f2ed3729ae1fdc756fb16687"
     },
     "js/app.js": {
       "before": "11c5cabacd7a13558362f5d9a01410b98979f1a4eb1d92e6be96cffd0c5d37f1",
