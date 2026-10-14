@@ -18,8 +18,8 @@
 <path d="M590 317 L520 317" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="40" y="260" width="480" height="115" rx="16" fill="#fff2dc" stroke="#9abfa5" stroke-width="2"/>
 <text x="58" y="292" font-size="22" font-weight="bold">4. Mitos → plasmodium · 2n</text>
-<text x="58" y="322" font-size="19">Kärnorna delas i en gemensam cellmassa.</text>
-<text x="58" y="345" font-size="19">Många diploida kärnor; inget svampmycel.</text>
+<text x="58" y="322" font-size="19">Pilen Mitos leder från zygot till plasmodium.</text>
+<text x="58" y="345" font-size="19">Intern delningsmekanism förklaras inte utförligt.</text>
 <path d="M280 375 L280 420" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="40" y="420" width="480" height="115" rx="16" fill="#fff2dc" stroke="#9abfa5" stroke-width="2"/>
 <text x="58" y="452" font-size="22" font-weight="bold">5. Näringsupptag och tillväxt · 2n</text>
@@ -27,7 +27,7 @@
 <path d="M520 477 L590 477" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="590" y="420" width="480" height="115" rx="16" fill="#fff2dc" stroke="#9abfa5" stroke-width="2"/>
 <text x="608" y="452" font-size="22" font-weight="bold">6. Moget plasmodium · 2n</text>
-<text x="608" y="482" font-size="19">Vid rätt signaler utvecklas sporbildande kroppar.</text>
+<text x="608" y="482" font-size="19">Sida 9 kopplar övergången till näringsbrist.</text>
 <path d="M830 535 L830 580" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="590" y="580" width="480" height="115" rx="16" fill="#e2f0e5" stroke="#9abfa5" stroke-width="2"/>
 <text x="608" y="612" font-size="22" font-weight="bold">7. Sporangier och meios · 2n → n</text>
@@ -38,6 +38,6 @@
 <text x="58" y="612" font-size="22" font-weight="bold">8. Nya sporer sprids · n</text>
 <text x="58" y="642" font-size="19">Den haploida fasen börjar på nytt.</text>
 <path d="M40 637 H17 V157 H40" stroke="#2d614a" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-<text x="35" y="743" font-size="17">Källrättelse: diploid är 2n. Plasmodiet utvecklas från zygoten genom kärndelningar.</text>
+<text x="35" y="743" font-size="17">Källrättelse: diploid är 2n. Figuren visar Mitos från zygoten till plasmodium.</text>
 <text x="35" y="772" font-size="17">Åter till nya sporer. Förklaring och villkor finns i teoriavsnittets stegverktyg.</text>
 </g></svg>

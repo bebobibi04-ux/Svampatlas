@@ -100,3 +100,8 @@ Tillägget innehåller tre filmavsnitt, 18 kort, 16 quizfrågor och 20 recallfr�
 Alla tidigare kursdata och originalbilder är bevarade. Nya data byggs vid behov med `node tools/build-additions.mjs`. Kontroll: `node --test tests/*.test.cjs`.
 
 [Fullständig slutrapport och verifieringsgränser](docs/TRE-TILLAGG-SLUTRAPPORT.md) · [Nya bildkällor och individuella licenser](content/extra-image-sources.json). Blodchampinjonens andra foto har CC BY-NC 4.0; dess kommersiella återanvändning ingår inte.
+
+
+## Provfrågor och källgranskning – 2026-10-14
+
+Ny sektion `#provfragor`: fem rapporterade frågor och tio övningsfrågor med utvecklade, källbundna svar. Alla 43 fördjupningsmodeller är kopplade till samma träning och backup. Fakta begränsas till boken, undervisningens PowerPoint och tillgängligt filminnehåll. Se [slutrapporten](docs/PROVFRAGOR-KALLOR-SLUTRAPPORT.md) och [granskningsloggen](docs/STRIKT-KALLGRANSKNING.json).

@@ -46,8 +46,8 @@ test('New biological open responses stay hidden until submission and use manual 
  assert(draft().items.every(q=>q.assessment.kind==='biological'));assert(!S.examView().includes('Källuppgifter och förtydliganden att använda'));
  const q=draft().items[0],text='Plasmogami och karyogami måste skiljas åt. <script>unsafe</script>';S.input({id:'exam-open-answer',value:text});assert.equal(draft().answers[0],text);await S.actions['exam-submit']();
  assert.equal(A.state.attempts[0].total,0);assert.equal(Object.keys(A.state.reviews).length,0);assert(S.examView().includes(C.escape(text)));assert(S.examView().includes('Bedömningsstöd'));assert(!S.examView().includes('<script>unsafe</script>'));
- S.actions['exam-self-rate']({dataset:{index:'0',rating:'unsure'}});assert.equal(A.state.reviews[q.id].revision,1);assert.equal(A.state.attempts[0].answers[0].correct,null);assert.equal(A.state.attempts[0].total,0);
- for(const s of ppt)for(const q of s.recall.filter(q=>q.type==='open')){assert(q.assessment.criteria.length>=5);assert(q.assessment.facts.length);assert(q.assessment.examples.length);assert(q.answer);assert(q.checkpoints.length);for(const f of q.assessment.facts){assert(f.pages.every(p=>p>=1&&p<=39));assert.equal(f.origin,allFacts.get(f.factId).origin);if(f.origin==='clarification')assert(A.views.assessment(q).includes('Biologiskt förtydligande till s.'))}}
+ S.actions['exam-self-rate']({dataset:{index:'0',rating:'unsure'}});assert.equal(A.state.reviews[q.id].revision,q.revision||1);assert.equal(A.state.attempts[0].answers[0].correct,null);assert.equal(A.state.attempts[0].total,0);
+ for(const s of ppt)for(const q of s.recall.filter(q=>q.type==='open')){assert(q.assessment.criteria.length>=5);assert(q.assessment.facts.length);assert(q.assessment.examples.length);assert(q.answer);assert(q.checkpoints.length);for(const f of q.assessment.facts){assert(f.pages.every(p=>p>=1&&p<=39));assert.equal(f.origin,allFacts.get(f.factId).origin);if(f.origin==='clarification')assert(A.views.assessment(q).includes('Tolkning av källan på s.'))}}
 });
 
 test('Existing backups, progress, exam history and unfinished exams survive the additive content update',()=>{
@@ -77,7 +77,7 @@ test('All bundled figures and hashes use case-exact relative file paths and gene
 test('Critical mechanisms retain exact phase/structure distinctions and teacher-source corrections',()=>{
  const section=id=>data.sections.find(s=>s.id===id),body=id=>JSON.stringify(section(id));
  assert.match(body('ppt-slemsvampar-livscykel'),/zyg[oö]t/i);assert.match(body('ppt-slemsvampar-livscykel'),/2n/);assert.match(body('ppt-slemsvampar-livscykel'),/meios/i);assert.match(body('ppt-slemsvampar-livscykel'),/mitos/i);
- assert.match(body('ppt-basidie-livscykel'),/plasmogami/i);assert.match(body('ppt-basidie-livscykel'),/karyogami/i);assert.match(body('ppt-basidie-livscykel'),/n \+ n|n\+n/);
- assert.match(body('ppt-jast-mogel'),/etanol/i);assert.match(body('ppt-jast-mogel'),/koldioxid/i);assert.match(body('ppt-svampgrupper'),/oomycet/i);assert.match(body('ppt-basidiesvampar'),/åsar/i);assert.match(body('ppt-sporsackssvampar'),/inuti/i);
+ assert.match(body('ppt-basidie-livscykel'),/plasmogami/i);assert.match(body('ppt-basidie-livscykel'),/kärnsammanslagning|kärnorna.*fören|kärn.*smält/i);assert.match(body('ppt-basidie-livscykel'),/n \+ n|n\+n/);
+ assert.match(body('ppt-jast-mogel'),/etanol/i);assert.match(body('ppt-jast-mogel'),/koldioxid/i);assert.match(body('ppt-svampgrupper'),/algsvampar/i);assert.doesNotMatch(body('ppt-svampgrupper'),/stramenopil|Aphanomyces astaci/i);assert.match(body('ppt-basidiesvampar'),/åsar/i);assert.match(body('ppt-sporsackssvampar'),/inuti/i);
  const asci=section('ppt-sporsackssvampar').quiz.find(q=>q.options?.some(o=>/inuti.*sporsäck|inuti.*ascus/i.test(o)));assert(asci);assert.match(asci.options[asci.correct],/inuti/i);
 });
