@@ -2988,6 +2988,10 @@
       "before": "5dbb29b00446a61994cb6cd223b7c04bf0aae6083c5d8f4096ecb509bd290788",
       "after": "03115e9e220ddee6878b413008a86c7858c1118448fdfa5af25143013be9e709"
     },
+    "index.html": {
+      "before": "47f84bc6e417235ac4bf2cb16582fadb50dc4a11109e4c3eb4e38f953bbdddd4",
+      "after": "e88c6d4932f39e406485f101f7c14484b66df29efb0fb7e94698c018742f802c"
+    },
     "js/additions-data.js": {
       "before": "005e3a83f6b5cac40a93165de91985416bba3b2279b27fe7f89599248e76aa4b",
       "after": "4094c0c30fb1041d60cefe25a215405012a1cfc7f10e8c03e29ddc7767bf65c7"
@@ -3008,6 +3012,10 @@
       "before": "6553d6e3ccf324d52f0e14e3fb0b7a5c24cbe36e0bd9eca5b7de0fe28006c4dd",
       "after": "40ac978ad8a92811711bc95e819ed1bc8e941cd1e40966b0cb7f69cf9ba6a378"
     },
+    "tests/additions.test.cjs": {
+      "before": "14dd45ce81d3bf64ae9717d5bf12fc2af80e5d32d67b7e429b39230261d56d68",
+      "after": "27b0ea938d6dc76ecf2c88f2cddc95c50cc53c2d7fac6b1941d7c7e988bbdf4f"
+    },
     "tests/exam-bank.test.cjs": {
       "before": "83cd170d6f379f939ecb22fad9bd35e97c4353647eaec9726923ab35c3ab2733",
       "after": "a84f1e96f91bed13ae79e6b49b45ecf69c61601a52dbde8807eac88c41d06135"
@@ -3019,6 +3027,10 @@
     "tests/powerpoint.test.cjs": {
       "before": "f607a9eaa709f331f3a8f39bfe81cf69afc531d26ecd1af62e169db077572cfa",
       "after": "6453bd2e612ec887937e89647dab0e6519d6958e806f4f0afb2ab37fde4c9b25"
+    },
+    "tests/standalone.test.cjs": {
+      "before": "8e7272fc7ffb73dcc59396f958466075046105c106e9e56d7b30b8b52c63fcf2",
+      "after": "1b5642927d745b5a9581b4ad907257913a7f3e078b5b3e9f8da3e59458755a23"
     },
     "tests/study.test.cjs": {
       "before": "89f6ecb2278e89c17c8fc69347b51d142cda899c4da0496042918440f206dc86",
