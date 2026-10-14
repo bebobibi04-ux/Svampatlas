@@ -36,6 +36,8 @@ Ingen serverfunktion, ChatGPT-inloggning, OpenAI-tjänst eller extern resursladd
 
 ## Källgranskning och bildlicenser
 
+Den globala sökningen inkluderar de nya A-nivåfrågorna i samma träfflista och träffantal som äldre innehåll. Inga-träffar-meddelandet visas inte när en ny fråga matchar.
+
 De 28 nya modellerna har självgranskats och därefter granskats separat mot 294 hänvisningar till 237 befintliga faktaposter. Den separata granskningen gav PASS utan korrigeringskrävande fynd. n + n och 2n, slemsvampscykeln, äldre klassifikationer, MDMA/PTSD kontra psilocybin/depression, 30/60-grafiken och kausalitetsgränserna för riskhändelser kontrollerades särskilt. Se [källgranskningen](TILLAGG-KALLGRANSKNING.json) och [källnoteringarna](TILLAGG-KALLNOTERINGAR.md). Framtids- och vårdresonemang gäller dokumentärens kunskapsläge 2022, inte ett nytt besked om dagens godkännanden.
 
 [Extra bildkällor](../content/extra-image-sources.json) redovisar samtliga 54 nya fotografier med identifieringsunderlag, lokal sökväg, hashvärde, dimensioner, fotograf, licens, attribution och ändringar. Källidentifiering är inte en ny taxonomisk analys från fotot: exempelvis toppmurkla följer kursens redan källnamngivna Morchella conica-begrepp. De ursprungliga artbeskrivningarna och namnvarianterna ändras inte.
@@ -44,7 +46,7 @@ Blodchampinjonens andra foto kommer från forskningsgranskad iNaturalist-observa
 
 ## Genomförd kontroll
 
-48 automatiska tester passerade med 0 fel. De omfattar alla tidigare regressionstester och nya kontroller av innehållsbevarande, original-HTML, fullständig täckning, grå status i snabbcheck, konservativ sammanvägning av motstridiga resultat, full täckning innan grönt, 108 bilder kontra 54 arter, dolt facit, egen skrivtext, repetitionsprioritering, exakt rättning, backupvalidering, fotoskiften och beständiga fotoval i prov. Alla 54 nya bilders lokala filer, hashvärden, identitetskällor och licensmetadata kontrollerades. De opaka quizkopiorna av originalen har exakt samma filinnehåll som originalbilderna.
+49 automatiska tester passerade med 0 fel. De omfattar alla tidigare regressionstester och nya kontroller av innehållsbevarande, original-HTML, fullständig täckning, grå status i snabbcheck, konservativ sammanvägning av motstridiga resultat, full täckning innan grönt, 108 bilder kontra 54 arter, dolt facit, egen skrivtext, repetitionsprioritering, exakt rättning, backupvalidering, fotoskiften och beständiga fotoval i prov. Alla 54 nya bilders lokala filer, hashvärden, identitetskällor och licensmetadata kontrollerades. De opaka quizkopiorna av originalen har exakt samma filinnehåll som originalbilderna.
 
 Verklig lokal webbläsarkontroll genomfördes under projektsökvägen /Svampatlas/: A-nivåmodell dold/visad, sparad egen text efter omladdning, Osäker och filtret Tidigare svåra; snabbcheck med 46 uppgifter; egen text, manuell bedömning, sparat pass och rapport; personlig repetitionsplan och en riktad omkontroll med ett självbedömt svar; fullständig slutcheck med 452 uppgifter och 108 navigerbara artbilder; avsiktligt felaktigt artnamn med korrekt facit och 1/54 testade arter; ordningsfråga med ändrade steg och korrekt rättning.
 

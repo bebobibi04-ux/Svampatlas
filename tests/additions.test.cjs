@@ -22,6 +22,11 @@ test('Twenty-eight new source-linked analysis models cover the entire course wit
  for(const q of extra.questions){assert(!oldQuestions.has(q.question),q.id);assert(q.answer.split(/\s+/).length>=140,q.id);assert(q.answer.includes('\n\n'),q.id);assert(q.criteria.length>=4);assert(q.analysis.length>=3);assert(q.keyPoints.length>=3);assert(q.sourceNote.length>60);assert(q.sectionIds.every(id=>sections.has(id)));assert(q.factIds.length>=2&&q.factIds.every(id=>facts.has(id)));assert(extra.topics.some(t=>t.id===q.topicId))}
 });
 
+test('Global search includes advanced questions in its real result count and never says no matches beside a valid advanced hit',()=>{
+ const{A}=extension(),query='kompakt kropp',q=extra.questions.find(q=>q.question.includes(query));assert(q);const html=A.views.search(query);assert(html.includes('#aniva/'+q.id));assert(!html.includes('Inga träffar.'));const count=Number(html.match(/<p class="meta">(\d+) träffar/)[1]);assert(count>=1);
+ const old=A.views.search('heterotrof');assert(old.includes('#studera/naringsstrategi'));assert(old.includes('Flashcard'));assert(old.includes('Active recall'));
+});
+
 test('The full checklist covers every fact, concept, prior recall, process, advanced model and each separate photo while retaining 54 species',()=>{
  assert.equal(cat.units.filter(u=>u.kind==='fact').length,335);assert.equal(cat.units.filter(u=>u.kind==='concept').length,130);assert.equal(cat.units.filter(u=>['teacher','recall'].includes(u.kind)).length,97);assert.equal(cat.units.filter(u=>u.kind==='process').length,7);assert.equal(cat.units.filter(u=>u.kind==='advanced').length,28);
  const full=K.choose(cat,'full',C),units=new Set(full.flatMap(q=>q.unitIds));assert.equal(full.length,cat.items.length);assert.equal(new Set(full.map(q=>q.id)).size,full.length);for(const u of cat.units)assert(units.has(u.id),u.id);
