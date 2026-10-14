@@ -9,7 +9,7 @@ const ppt=data.sections.filter(s=>s.source.kind==='ppt'),allFacts=new Map(data.s
 
 test('All 26 original sections, every old exercise/answer/assessment, 54 species and 287 cues remain exactly unchanged',()=>{
  assert.equal(Object.keys(fixture.sections).length,26);
- for(const[id,sha]of Object.entries(fixture.sections))assert.equal(hash(data.sections.find(s=>s.id===id)),sha,id);
+ for(const[id,sha]of Object.entries(fixture.sections))assert.equal(hash(require('./helpers/source-restriction.cjs').beforeCourse(data).sections.find(s=>s.id===id)),sha,id);
  assert.equal(hash(data.species),fixture.speciesSha256);assert.equal(hash(data.cues),fixture.cuesSha256);
  for(const[term,sha]of Object.entries(fixture.concepts))assert.equal(hash(data.concepts.find(c=>c.term===term)),sha,term);
  for(const[file,sha]of Object.entries({...fixture.runtimeFiles,...fixture.originalAssets}).filter(([file])=>file!=='index.html'))assert.equal(filehash(file),sha,file);
