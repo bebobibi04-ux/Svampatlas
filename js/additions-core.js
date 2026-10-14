@@ -2,6 +2,7 @@
  'use strict';
  const revision='additions-2026-10-14';
  const safeId=s=>String(s).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+ function advancedQuestions(extra){return [...(extra.questions||[]),...(extra.examVariants?.questions||[])]}
  function photos(species,extra){return [{id:species.id+'-original',image:species.image,quizImage:extra.originalQuizImages?.[species.id],imageSource:species.imageSource||species.sourceUrl,author:species.author,license:species.license,license_url:species.license_url,attribution:species.attribution,scientificName:species.identity_name,verificationNote:'Det tidigare granskade originalfotot.'},...(extra.photos||[]).filter(p=>p.speciesId===species.id)]}
  function catalog(data,extra){
   const topics=[...(extra.topics||[]),{id:'artkunskap',title:'Artkunskap · alla 54 arter',sectionIds:[]}],topicFor=id=>topics.find(t=>t.sectionIds.includes(id))?.id||'ovrigt';
@@ -15,7 +16,7 @@
   for(const c of data.concepts){const id=c.controlId||'concept:'+safeId(c.term);units.push({id,title:c.term,topicId:topicFor(c.sectionIds[0]),sectionIds:c.sectionIds,kind:'concept'});add({id,kind:'self',question:'Förklara begreppet '+c.term+' med egna ord.',answer:c.definition,criteria:['Definitionens betydelse återges korrekt.','Begreppet skiljs från närliggande begrepp.'],sectionIds:c.sectionIds,topicId:topicFor(c.sectionIds[0]),unitIds:[id],priority:2})}
   for(const s of data.sections)for(const c of s.cards){const missing=(c.factIds||[]).filter(f=>factMap.has(f)&&!covered.has('fact:'+f));if(missing.length)add({id:'card:'+c.id,entityId:c.id,kind:'self',question:c.question,answer:c.answer,criteria:['Alla delar av det källbaserade svaret återges utan stöd.'],sectionIds:[s.id],topicId:topicFor(s.id),unitIds:missing.map(f=>'fact:'+f),source:c.source||s.source,priority:1})}
   for(const f of factMap.values())if(!covered.has('fact:'+f.id)){const supplement=(extra.coverageQuestions||[]).find(q=>q.factId===f.id);if(!supplement)throw Error('Slutchecken saknar en källbaserad fråga för '+f.id);add({id:'fact:'+f.id,kind:'self',question:supplement.question,answer:f.text,criteria:['Återge uppgiften i sin källkontext; dra ingen generell slutsats från ett enskilt exempel.'],sectionIds:[f.sectionId],topicId:topicFor(f.sectionId),unitIds:['fact:'+f.id],source:f.source,priority:1})}
-  for(const q of extra.questions||[]){const id='advanced:'+q.id;units.push({id,title:q.question,topicId:q.topicId,sectionIds:q.sectionIds,kind:'advanced'});add({id,entityId:q.id,kind:'self',advanced:true,original:q,question:q.question,answer:q.answer,criteria:q.criteria,sectionIds:q.sectionIds,topicId:q.topicId,unitIds:[id,...q.factIds.map(f=>'fact:'+f)],priority:3})}
+  for(const q of advancedQuestions(extra)){const id='advanced:'+q.id;units.push({id,title:q.question,topicId:q.topicId,sectionIds:q.sectionIds,kind:'advanced'});add({id,entityId:q.id,kind:'self',advanced:true,original:q,question:q.question,answer:q.answer,criteria:q.criteria,sectionIds:q.sectionIds,topicId:q.topicId,unitIds:[id,...q.factIds.map(f=>'fact:'+f)],priority:3})}
   for(const s of data.sections){const q=s.quiz.find(q=>q.type==='order')||s.quiz.find(q=>q.type==='multi')||s.quiz[0];if(q)add({id:'objective:'+q.id,entityId:q.id,kind:'objective',original:q,question:q.question,answer:q.explanation,sectionIds:[s.id],topicId:topicFor(s.id),unitIds:(q.factIds||[]).map(f=>'fact:'+f),source:q.source||s.source,priority:2})}
   for(const p of data.species)for(const photo of photos(p,extra)){const id='photo:'+photo.id;units.push({id,title:p.name+' · fotografi '+(photos(p,extra).findIndex(x=>x.id===photo.id)+1),topicId:'artkunskap',sectionIds:[],kind:'photo',speciesId:p.id,photoId:photo.id});add({id,entityId:p.id,kind:'art',speciesId:p.id,photoId:photo.id,question:'Vad heter svampen?',topicId:'artkunskap',sectionIds:[],unitIds:[id],priority:3})}
   const ids=new Set(units.map(u=>u.id));for(const item of items)for(const id of item.unitIds)if(!ids.has(id))throw Error('Okänd kontrollpunkt '+id);
@@ -56,5 +57,5 @@
    return{id:r.id.slice(0,100),mode:['quick','full','targeted'].includes(r.mode)?r.mode:'quick',order,index:Number.isInteger(r.index)?Math.max(0,Math.min(r.index,order.length-1)):0,answers,started:Number.isFinite(r.started)?r.started:0,finished:Number.isFinite(r.finished)?r.finished:null,submitted:r.submitted===true};};
   out.checks.active=cleanRun(raw.checks?.active);if(Array.isArray(raw.checks?.history))out.checks.history=raw.checks.history.slice(-12).map(cleanRun).filter(Boolean);return out;
  }
- return{revision,safeId,photos,catalog,choose,grade,report,sanitize};
+ return{revision,safeId,advancedQuestions,photos,catalog,choose,grade,report,sanitize};
 });

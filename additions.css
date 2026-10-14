@@ -23,3 +23,23 @@
 .assessment details{margin:1rem 0}
 .assessment dd{margin:0 0 1rem 0}
 .exam-question,.assessment{min-width:0;overflow-wrap:anywhere}
+
+/* Question families remain inside the existing exam bank. */
+.original-question-list{display:grid;gap:18px}
+.original-question>.pill{font-weight:700}
+.variant-family{border-top:1px solid var(--line,#dbe2df);padding-top:18px;margin-top:20px}
+.variant-family>summary{font-size:1.08rem;font-weight:700;line-height:1.7;cursor:pointer}
+.variant-subgroup{border:1px solid var(--line,#dbe2df);border-radius:12px;margin-top:14px;padding:14px 16px;background:var(--surface)}
+.variant-subgroup>summary{font-weight:650;cursor:pointer;line-height:1.6}
+.variant-subgroup>summary .meta{margin-left:.5rem}
+.variant-question-list{list-style:none;margin:10px 0 0;padding:0}
+.variant-question-list li{display:grid;gap:5px;padding:13px 0;border-bottom:1px solid var(--line,#dbe2df)}
+.variant-question-list li:last-child{border-bottom:0}
+.variant-question-list a{font-weight:600;line-height:1.6}
+.comparison-picker{margin:20px 0;padding:18px;background:var(--bg);border-radius:12px}
+.comparison-picker .field{min-width:0;flex:1 1 200px}
+.comparison-picker select{width:100%;max-width:100%}
+.variant-coverage,.variant-context{min-width:0;overflow-wrap:anywhere}
+.variant-coverage>summary{font-weight:700;cursor:pointer}
+.variant-coverage table td{vertical-align:top}
+@media(max-width:600px){.variant-subgroup{padding:12px}.variant-family>summary .pill{display:inline-block;margin:.4rem 0}.comparison-picker{padding:12px}.variant-coverage table{min-width:480px}}
