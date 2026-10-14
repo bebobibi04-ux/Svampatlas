@@ -29,7 +29,7 @@ test('Source corrections are precisely logged, preserve identities and all origi
  const audit=JSON.parse(fs.readFileSync(path.join(root,'docs/STRIKT-KALLGRANSKNING.json'),'utf8'));assert.equal(audit.allowedSources.length,3);assert(audit.changes.length>0);assert(audit.originalMedia.length>=100);
  for(const s of data.sections)for(const note of s.sourceNotes||[])assert(!(note.links||[]).some(l=>/^https?:/.test(l.url)),s.id);
  for(const m of audit.originalMedia)assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,m.path))).digest('hex'),m.sha256,m.path);
- const current={course:data,additions:extra};for(const c of audit.changes){assert(c.reason&&c.evidence,c.path.join('.'));let v=current[c.file];for(const k of c.path)v=v[k];assert.deepEqual(v,c.after,c.path.join('.'))}
+ const undo=require('./helpers/source-restriction.cjs').beforePresentation,current={course:undo(data,'course'),additions:undo(extra,'additions')};for(const c of audit.changes){assert(c.reason&&c.evidence,c.path.join('.'));let v=current[c.file];for(const k of c.path)v=v[k];assert.deepEqual(v,c.after,c.path.join('.'))}
  const canonical=x=>Array.isArray(x)?x.map(canonical):x&&typeof x==='object'?Object.fromEntries(Object.keys(x).sort().map(k=>[k,canonical(x[k])])):x;
  const before=require('./helpers/source-restriction.cjs').beforeCourse(data);assert.equal(crypto.createHash('sha256').update(JSON.stringify(canonical(before))).digest('hex'),audit.beforeCourseCanonicalSha256,'No unlogged course changes');
 });

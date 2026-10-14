@@ -7297,7 +7297,7 @@
             "film-kommersiellt-fact-6",
             "film-metodkritik-fact-1"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Ett större försök kan ge ett bredare underlag än ett litet, men antalet deltagare avgör inte ensamt om psilocybin bör införas i vården. Det brittiska jämförelseförsöket var litet, medan Compass Pathways studie omfattade över tvåhundra patienter och beskrevs som stöd för tidigare fynd. Det gör resultaten värda att undersöka vidare. Fler deltagare ersätter däremot inte en trovärdig jämförelse eller en noggrann säkerhetsbedömning.\n\nEtt centralt metodproblem är att den tydliga psykedeliska påverkan kan avslöja vem som fått substansen. Då kan gruppernas förväntningar påverka resultatet trots att försöket är avsett att vara blindat. Ett större deltagarantal löser inte automatiskt det problemet. Jag vill därför veta vilka utfall som har mätts, vilka patienter som har deltagit och hur länge förbättringen har följts.\n\nSäkerheten behöver bedömas samtidigt. I den större studien rapporterades misstankar om allvarliga biverkningar och tre självmordsförsök som skulle utredas vidare. Händelserna är skäl till noggrann granskning, men visar inte ensamma att psilocybin var orsaken. Att bortse från dem vore lika fel som att behandla orsakssambandet som redan fastställt.\n\nMin slutsats är att större försök kan stärka underlaget för ett beslut, men att beslutet måste bygga på både nytta, metod och risker. Ett lovande resultat kan motivera fortsatt prövning. Bred användning kräver dessutom tillräcklig kunskap om varaktighet, lämpliga patientgrupper och säkerhet.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -7347,11 +7347,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: En studie med över 200 deltagare beskrivs som stöd för tidigare fynd. Tolkning: Mer underlag är värdefullt. Egen bedömning: Jag skulle väga även metod och säkerhet innan ett införande, inte kräva att storlek ensam avgör allt."
+                "text": "Jag ser en studie med över tvåhundra patienter som ett viktigt steg vidare från ett litet försök. Ett bredare underlag kan göra det lättare att bedöma om tidigare lovande resultat återkommer. Därför tycker jag att den större studien talar för fortsatt utveckling av psilocybinbehandling.\n\nJag skulle ändå inte låta deltagarantalet avgöra införandet. Tydlig påverkan kan avslöja försöksgruppen även i en större studie, och misstänkta allvarliga biverkningar behöver utredas. De tre rapporterade självmordsförsöken får inte ignoreras, men visar inte i sig att substansen var orsaken. Min positiva inställning är därför villkorad: behandlingen kan bli motiverad om trovärdiga jämförelser visar nytta och riskerna kan bedömas och hanteras."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Samma större studie innehåller misstänkta biverkningar. Tolkning: Deltagarantal visar inte i sig att behandlingen är säker. Egen bedömning: Jag vill se riskutredning och trovärdiga jämförelser innan bred användning."
+                "text": "Jag skulle avvakta ett brett införande även om försöket omfattade över tvåhundra patienter. Antalet deltagare säger inte i sig om jämförelsen fungerar eller hur säker behandlingen är. Om den märkbara påverkan avslöjar gruppen kan förväntningarna fortfarande påverka resultaten.\n\nDe misstänkta allvarliga biverkningarna och de tre självmordsförsöken gör säkerhetsfrågan särskilt viktig. Orsaken är inte fastställd, så jag ser dem som händelser att utreda, inte som bevis för att psilocybin orsakat dem. Jag medger samtidigt att fler deltagare kan stärka underlaget och att lovande resultat bör följas upp. Min slutsats är därför fortsatt forskning, men ingen bred användning förrän jämförelser, varaktighet och säkerhet ger ett tillräckligt trovärdigt beslutsunderlag."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -7367,7 +7367,8 @@
             "00:39:19",
             "00:39:33"
           ],
-          "sectionId": "film-psilocybin-resultat"
+          "sectionId": "film-psilocybin-resultat",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -7697,7 +7698,7 @@
             "film-kommersiellt-fact-6",
             "film-ki-psilocybin-fact-4"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Jag skulle prioritera tre frågor tillsammans: hur stor den specifika behandlingsnyttan är, hur länge den varar och vilka risker som finns. Det lilla brittiska depressionsförsöket gav lovande resultat, men en behandling behöver bedömas efter mer än en tidig förbättring. Det är också viktigt att veta vilka patienter resultatet gäller och om behandlingsupplägget kan genomföras med tillräckligt stöd.\n\nFörst vill jag ha trovärdiga jämförelser. Psilocybin ger en tydlig påverkan som kan avslöja försöksgruppen och därmed påverka förväntningarna. Därför är det osäkert hur mycket av resultatet som beror på substansen och hur mycket som hänger samman med placebo eller andra delar av behandlingen. Det innebär inte att all förbättring är placebo, men att en enkel förklaring blir för säker.\n\nSäkerhetsfrågan är minst lika viktig. I en större studie nämndes misstankar om allvarliga biverkningar och tre självmordsförsök som skulle undersökas vidare. Jag vill att sådana händelser granskas och att patienterna följs över tid. Ett tidssamband är inte i sig bevis för substansorsak, men osäkerhet är heller inget bevis för att behandlingen är ofarlig.\n\nDessutom behöver den psykedeliska upplevelsens roll klarläggas. KI-forskarna undersökte om upplevelsen behövs för en möjlig antidepressiv effekt. Om nyttan skulle kunna skiljas från den akuta påverkan kan behandlingsvillkoren förändras, men det är ännu en öppen fråga. Min slutsats är att effekt och säkerhet inte bör ställas mot varandra: båda krävs för att avgöra om och för vilka patienter behandlingen kan vara rimlig.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -7753,11 +7754,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: Filmens litet försök ger lovande symtomresultat men blindningen kan avslöjas. Tolkning: Effekt och metod bör undersökas tillsammans. Egen bedömning: Jag skulle prioritera jämförande studier och varaktighet, och samtidigt kräva säker uppföljning."
+                "text": "Jag skulle främst prioritera trovärdiga jämförelser och längre uppföljning. De lovande symtomresultaten i det lilla depressionsförsöket gör det viktigt att undersöka om förbättringen håller i sig och hur stor del som kan kopplas till själva substansen. Den märkbara påverkan kan avslöja försöksgruppen, så fler deltagare räcker inte om förväntningarnas bidrag förblir oklart.\n\nDet betyder inte att säkerheten kan vänta. De allvarliga händelserna måste följas upp parallellt, och rätt patienturval och stöd behöver bedömas. Jag vill också veta om den akuta psykedeliska upplevelsen behövs för nyttan. Min prioritering är alltså att utveckla bättre kunskap om effekt och varaktighet utan att ge avkall på riskgranskningen."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Tre självmordsförsök i en större studie skulle utredas. Tolkning: En säkerhetssignal måste tas på allvar utan att orsaken förutsätts. Egen bedömning: Jag skulle först prioritera risker, patienturval och stöd, men även kräva trovärdiga effektmått."
+                "text": "Jag skulle börja med säkerhet, patienturval och stöd. Tre rapporterade självmordsförsök i en större studie är allvarliga signaler även om orsaken inte är fastställd. Innan behandlingen sprids behöver man förstå när negativa händelser inträffar och om vissa patienter kan vara särskilt utsatta.\n\nMotargumentet är att alltför lång väntan kan fördröja hjälp. Därför bör säkerhetsgranskningen kombineras med fortsatt forskning om effekt. Lovande resultat från ett litet försök räcker dock inte om blindningen kan avslöjas och förväntningarnas bidrag är oklart. Min slutsats är att bättre riskkunskap ska prioriteras, samtidigt som trovärdiga jämförelser och längre uppföljning avgör om den möjliga nyttan motiverar behandlingen."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -7774,7 +7775,8 @@
             "00:39:33",
             "00:49:11"
           ],
-          "sectionId": "film-metodkritik"
+          "sectionId": "film-metodkritik",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -8128,7 +8130,7 @@
             "film-kommersiellt-fact-5",
             "film-kommersiellt-fact-6"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Kommersiella intressen kan både bidra till utveckling av psilocybinbehandling och skapa problem som behöver granskas. Företag försökte utveckla egna psykedeliska molekyler för att kunna ta patent. Det kan ge drivkrafter att undersöka nya behandlingar och genomföra större försök. Ett uttalat mål var också att behandlingen skulle bli tillgänglig genom vårdsystemet eller försäkringar. Om det verkligen uppnås skulle det kunna göra behandlingen möjlig för fler än dem som själva kan betala.\n\nSamtidigt måste ekonomiska förhoppningar skiljas från visad patientnytta. Marknadsbedömare förutspådde 2022 en årlig omsättning på hundra miljarder kronor efter fem år. En sådan prognos säger något om förväntad marknad, men bevisar varken klinisk effekt, säkerhet eller att omsättningen faktiskt uppnås. Patentintresse gör inte heller en behandling verksam eller en studie trovärdig i sig.\n\nSäkerhetsuppgifter får därför inte hamna i skymundan när förhoppningarna är stora. Misstankar om allvarliga biverkningar i Compass-studien behöver bedömas efter händelserna och undersökningens kvalitet. Ekonomiska intressen är ett skäl till kritisk granskning, men inte ett bevis för att all forskning från ett företag är felaktig.\n\nMin slutsats är att kommersiell utveckling kan vara en möjlighet om patientnytta, negativa resultat och faktisk tillgång granskas lika noggrant som de ekonomiska utsikterna. Jag skulle bedöma framgång efter om en tillräckligt säker och verksam behandling når patienter, inte efter hur stor marknad någon förutspår.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -8176,11 +8178,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: Företag utvecklar molekyler och uttrycker mål om vårdtillgång. Tolkning: Det kan bidra till utveckling. Egen bedömning: Jag ser en möjlighet om nytta, risker och tillgänglighet granskas, men tar inte en prognos som bevis."
+                "text": "Jag ser möjligheter i företagens intresse, eftersom utveckling av egna molekyler och större försök kan föra forskningen framåt. Målet att nå patienter genom vårdsystem eller försäkringar är också värdefullt om det blir verklighet. Tillgänglighet bör dock bedömas efter vilka patienter som faktiskt kan få hjälp, inte enbart efter en uttalad ambition.\n\nEn stor marknadsprognos är inget effektbevis, och misstänkta allvarliga biverkningar måste undersökas oavsett förväntad vinst. Min slutsats är därför villkorat positiv: kommersiella drivkrafter kan bidra till utveckling om resultaten granskas öppet, riskerna tas på allvar och ekonomisk framgång inte får ersätta patientnytta som mått på framsteg."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Filmen visar både marknadsprognoser och allvarliga säkerhetssignaler. Tolkning: Ekonomiskt intresse och patientnytta kan behöva bedömas var för sig. Egen bedömning: Jag vill prioritera kritisk granskning och faktisk tillgång; kommersiellt engagemang gör inte automatiskt all forskning felaktig."
+                "text": "Jag skulle vara försiktig med att låta stora marknadsförväntningar styra utvecklingen. En prognos om hundra miljarder kronor i årlig omsättning är en förhoppning om en framtida marknad, inte ett bevis för nytta. När företag vill ta patent blir det särskilt viktigt att fråga hur positiva och negativa resultat redovisas.\n\nMisstankarna om allvarliga biverkningar visar varför säkerheten måste få lika stort utrymme som möjligheterna. Samtidigt innebär vinstintresse inte automatiskt att forskningen är felaktig. Företag kan bidra med utveckling och försök. Jag vill därför prioritera oberoende kritisk granskning av resultat och faktisk tillgång till vård, samtidigt som jag accepterar kommersiellt engagemang när det kan förenas med patienternas intressen."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -8195,7 +8197,8 @@
             "00:39:19",
             "00:39:52"
           ],
-          "sectionId": "film-kommersiellt"
+          "sectionId": "film-kommersiellt",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -8821,7 +8824,7 @@
             "film-metodkritik-fact-1",
             "film-metodkritik-fact-2"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Behandlingens utformning påverkar bedömningen eftersom resultaten gäller hela det undersökta upplägget, inte bara substansen. I det brittiska försöket hade båda grupperna terapeuter under två sessioner samt samtal före och efter. Därför ändrar man behandlingen om stödet tas bort, och samma effekt eller säkerhet kan då inte förutsättas.\n\nÄven miljön kan spela roll för upplevelsen. Rummets utseende och ljud påverkar ruset, och musik används som stöd utan att i sig skapa sessionens innehåll. En deltagare beskriver insatsen som krävande medicin och terapi snarare än något hon gör för nöjes skull. Det gör det rimligt att se stöd och miljö som viktiga när starka upplevelser ska hanteras. Samtidigt är en intensiv eller meningsfull upplevelse inte ensam bevis för en klinisk förbättring efteråt.\n\nDet finns också ett metodproblem. Om den tydliga påverkan avslöjar försöksgruppen kan förväntningar bidra till resultatet. Då blir det svårt att avgöra hur mycket som beror på substansen, stödet, miljön och förväntningarna. Det betyder inte att allt är placebo eller att stödet är verkningslöst, utan att varje dels bidrag inte har skilts ut.\n\nJag skulle därför bedöma möjliga fördelar och risker för det kompletta behandlingsupplägget. Ett motargument är att omfattande stöd kräver resurser, men resursåtgång bevisar inte att insatsen kan förenklas utan konsekvenser. Min slutsats är att positiva försöksresultat kan motivera fortsatt prövning av helheten, medan överföring till en behandling utan stöd kräver egna belägg.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -8875,11 +8878,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: Terapeuter och samtal ingår i försöket, och miljö samt musik påverkar upplevelsen. Tolkning: Hela insatsen behöver bedömas. Egen bedömning: Jag ser stöd som ett viktigt villkor men skulle inte påstå att källan visar exakt hur mycket det bidrar."
+                "text": "Jag ser stöd och en genomtänkt miljö som viktiga villkor för att behandlingen ska bedömas rättvist. Terapeuter och samtal före och efter ingick i försöket. Rum och musik kan dessutom påverka upplevelsen, som en deltagare beskrev som krävande medicin och terapi. Det gör det rimligt att personal kan behövas för att hjälpa personen genom det som uppstår.\n\nJag skulle ändå inte hävda att varje stödinsats har en bestämd uppmätt effekt. Substans, sammanhang och förväntningar förekommer tillsammans, och ett starkt rus är inget bevis för senare förbättring. Min slutsats är att hela insatsen bör undersökas och bevaras när resultaten bedöms, samtidigt som dess olika delar behöver klarläggas bättre."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Den tydliga substanspåverkan kan avslöja försöksgruppen. Tolkning: Det blir svårt att isolera varje komponents bidrag. Egen bedömning: Jag vill ha bättre kunskap om hela upplägget innan resultat överförs till en enklare behandling."
+                "text": "Jag vill ha bättre kunskap innan resultaten överförs till ett enklare behandlingsupplägg. När både terapeuter, samtal och en särskild miljö ingår går det inte att anta att enbart substansen ger samma nytta. Att den tydliga påverkan dessutom kan avslöja försöksgruppen försvårar bedömningen av förväntningarnas bidrag.\n\nEtt motargument är att stödet kan hjälpa deltagaren genom en krävande upplevelse, vilket talar för att det är en viktig del av insatsen. Men det visar inte exakt hur stor effekt varje del har. Jag skulle därför avvakta förenklingar och kräva jämförelser som undersöker både nytta och risk när upplägget ändras. Resursbesparing är relevant, men räcker inte för att anta oförändrad säkerhet."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -8896,7 +8899,8 @@
             "00:45:00",
             "00:47:24"
           ],
-          "sectionId": "film-miljo-cancer"
+          "sectionId": "film-miljo-cancer",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -9206,7 +9210,7 @@
             "film-psilocybin-steve-fact-5",
             "film-psilocybin-steve-fact-6"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Jag skulle skilja mellan upplevelsens möjliga betydelse för förbättringen och den belastning den kan innebära för patienten. En stark psykedelisk upplevelse kan tänkas bidra till att erfarenheter bearbetas, men det är en hypotes som behöver prövas. KI-forskarna undersökte just om upplevelsen behövs för en möjlig antidepressiv effekt. Att frågan undersöks visar att sambandet inte är avgjort.\n\nSteves beskrivningar visar varför båda sidor behöver tas på allvar. Under en session upplevde han förändrade färger och ljud som att befinna sig i ett kalejdoskop. En annan session var mörk och innebar en konfrontation med tidigare undanträngda erfarenheter. Det kan ge en bild av hur upplevelsen kan bli personligt betydelsefull, men en enskild berättelse bevisar inte att just den akuta påverkan orsakade en senare förbättring.\n\nUr vårdens perspektiv kan samma akuta påverkan betraktas som en biverkan. Om en lika god behandlingseffekt kunde uppnås med mindre belastning skulle det vara värdefullt. Motargumentet är att man kanske samtidigt skulle ta bort något som bidrar till nyttan. Det går därför varken att förutsätta att hallucinationerna måste behållas eller att de säkert kan tas bort utan konsekvenser.\n\nMin slutsats är att både nytta och belastning behöver följas när sambandet undersöks. Jag skulle inte avfärda upplevelsen på förhand, men heller inte göra starka patientberättelser till bevis för att den är nödvändig. Patientens mående efter behandlingen måste väga tyngre än hur intensiv sessionen var.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -9252,11 +9256,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: Upplevelsens nödvändighet undersöks och en patient beskriver bearbetning under en svår session. Tolkning: Upplevelsen kan ha betydelse men detta är inte avgjort. Egen bedömning: Jag skulle inte avfärda den innan sambandet prövats, men stöd och riskbedömning behövs."
+                "text": "Jag skulle inte avfärda den psykedeliska upplevelsen innan dess möjliga betydelse har prövats. En svår session kan upplevas som bearbetning av sådant som tidigare tryckts undan. Därför kan det finnas ett samband mellan upplevelsen och den möjliga nyttan som är värt att undersöka.\n\nSamtidigt visar en patientberättelse inte att upplevelsen är den nödvändiga orsaken till förbättring. Den akuta påverkan kan vara belastande och betraktas som en biverkan ur vårdens perspektiv. Min slutsats är därför att upplevelsen bör undersökas tillsammans med stöd, senare mående och risker. Jag är öppen för att den kan ha betydelse, men skulle kräva mer än att en session beskrivs som stark eller meningsfull."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Hallucinationer beskrivs även som biverkan ur ett vårdperspektiv. Tolkning: Mindre belastning vore värdefullt om nyttan kan finnas ändå. Egen bedömning: Jag skulle prioritera forskning om effekt utan akut påverkan, utan att anta att det redan fungerar."
+                "text": "Jag skulle prioritera forskning om huruvida möjlig antidepressiv nytta kan uppnås med mindre akut påverkan. Förändrade sinnesintryck och mörka upplevelser kan vara krävande, så minskad belastning vore värdefull om förbättringen kunde behållas.\n\nDet starkaste motargumentet är att själva upplevelsen kanske bidrar till bearbetning och förbättring. Steves berättelse ger en anledning att ta den möjligheten på allvar. Därför vill jag inte säga att upplevelsen redan har visats vara onödig. Min ståndpunkt är ett forskningsval: jämför senare mående och risker när den akuta påverkan skiljer sig åt. Först då kan man bättre väga en eventuell terapeutisk funktion mot patientens belastning."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -9271,7 +9275,8 @@
             "00:49:11",
             "00:49:36"
           ],
-          "sectionId": "film-ki-psilocybin"
+          "sectionId": "film-ki-psilocybin",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -9628,7 +9633,7 @@
             "film-svensk-mdma-fact-5",
             "film-kommersiellt-fact-4"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "En möjlig fördel är att psilocybin och MDMA kan ge fler behandlingsverktyg för olika patientgrupper. De måste dock bedömas var för sig. I det lilla brittiska depressionsförsöket redovisades minskade symtom hos nästan 30 procent i gruppen med antidepressiv medicin och 60 procent i psilocybingruppen. Båda grupperna förbättrades, och psilocybingruppen hade även större välbefinnande. Det är lovande, men procenttalen gäller deltagarna i just detta försök och är inget allmänt löfte om bot.\n\nMDMA-resultatet gäller i stället PTSD. Två tredjedelar i MDMA-terapigruppen hade inte längre PTSD efter två månader. Det är ett annat tillstånd, en annan substans och ett annat utfall än minskade depressionssymtom. Därför går resultaten inte att slå samman till en gemensam effekt för psykedelisk behandling.\n\nRisker och genomförande kan samtidigt begränsa möjligheterna. Akuta upplevelser kan vara krävande, och tre självmordsförsök rapporterades i anslutning till en psilocybinstudie. De måste utredas, men visar inte i sig att substansen orsakade dem. Omfattande terapeutiskt stöd kan också kräva stora resurser. MAPS uppskattning om fyrtio timmar med två terapeuter gäller MDMA-behandling och får inte användas som ett fastställt bemanningskrav för psilocybin.\n\nMin bedömning är att möjliga varaktiga förbättringar och ökat välbefinnande kan vara mycket värdefulla, särskilt när tidigare insatser inte hjälpt. Samtidigt räcker lovande resultat inte om riskerna är otillräckligt kända eller vården inte kan genomföra behandlingen väl. Jag skulle därför väga nytta, risk och resurser för varje substans och patientgrupp innan jag tog ställning till bred användning.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -9689,11 +9694,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: Dokumentären beskriver depressionsförsök med psilocybin och PTSD-försök med MDMA. Tolkning: Fler verktyg kan hjälpa olika patientgrupper. Egen bedömning: Jag ser möjligheter om insatserna prövas separat och stöd samt uppföljning finns."
+                "text": "Jag ser möjligheter i att olika substanser undersöks för olika problem. Psilocybinförsöket gav lovande resultat vid depression och större välbefinnande, medan två tredjedelar i MDMA-terapigruppen inte längre hade PTSD efter två månader. Om resultaten håller kan fler verktyg bli värdefulla för patienter som behöver bättre hjälp.\n\nMin positiva inställning kräver ändå att behandlingarna prövas separat. Depressionssymtom och PTSD är olika utfall, så siffrorna får inte slås ihop. De tre självmordsförsöken i psilocybinspåret behöver utredas, och stöd samt uppföljning måste ingå i bedömningen. MDMA:s stora uppskattade tidsåtgång visar också att genomförbarhet spelar roll. Möjligheten till hjälp är därför ett skäl för noggrann utveckling, inte ett löfte om enkel eller riskfri vård."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Säkerhetssignaler nämns och MDMA-upplägget uppskattas kräva stor terapeutisk tid. Tolkning: En metod kan vara lovande men svår att erbjuda. Egen bedömning: Jag skulle väga patientnytta mot risker och resurser innan ett brett införande, utan att tillskriva psilocybin MDMA:s tidsuppgift."
+                "text": "Jag skulle vara försiktig med ett brett införande, eftersom en lovande behandling också måste vara tillräckligt säker och möjlig att genomföra. Tre rapporterade självmordsförsök i en psilocybinstudie är allvarliga signaler som behöver undersökas, även om substansorsaken inte är fastställd. MDMA-terapin uppskattades dessutom kräva fyrtio timmar med två terapeuter, vilket kan begränsa hur många patienter vården kan hjälpa.\n\nMotargumentet är att resultaten kan vara betydelsefulla: psilocybinförsöket visade symtomförbättring och MDMA-försöket ett lovande PTSD-utfall. Jag vill därför inte avvisa fortsatt forskning. Min slutsats är att nytta behöver vägas mot risker och resurser för varje behandlingsform. Tidsuppgiften för MDMA avgör inte vad psilocybinbehandling skulle kräva."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -9711,7 +9716,8 @@
             "00:51:50",
             "00:51:59"
           ],
-          "sectionId": "film-svensk-mdma"
+          "sectionId": "film-svensk-mdma",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -10424,7 +10430,7 @@
             "film-ki-psilocybin-fact-4",
             "film-ki-psilocybin-fact-5"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Jag anser att psilocybin kan vara ett möjligt medicinskt verktyg, men att användning måste bero på om nyttan är tillräckligt väl visad och riskerna kan hanteras. I det lilla brittiska depressionsförsöket redovisades minskade symtom hos nästan 30 procent i gruppen med antidepressiv medicin och 60 procent i psilocybingruppen. Skillnaden gör behandlingen värd att undersöka vidare, särskilt när befintlig vård inte hjälper tillräckligt. Procenttalen gäller dock detta försök och innebär inte att motsvarande andel av alla patienter blir botade.\n\nEn invändning är att den tydliga påverkan kan avslöja försöksgruppen. Förväntningar kan då bidra till resultatet, och det är osäkert hur stor del som specifikt beror på substansen. Det visar inte att allt är placebo, men begränsar hur säkert skillnaden kan förklaras. Försökets lilla storlek gör också att jag vill se ett bredare underlag innan användningen blir allmän.\n\nSäkerheten är avgörande. I en större studie fanns misstankar om allvarliga biverkningar och tre självmordsförsök som skulle utredas. Det är allvarliga händelser, men ett tidssamband fastställer inte att psilocybin orsakade dem. Den akuta psykedeliska upplevelsen kan också vara krävande. Om den behövs för en möjlig antidepressiv effekt är en öppen fråga som undersöktes vid KI.\n\nMin slutsats är därför ett villkorat ja till fortsatt noggrant kontrollerad medicinsk utveckling. Jag skulle kräva tydligare kunskap om specifik effekt, varaktighet, lämpliga patienter och stöd innan bred användning. Om bättre försök visar liten nytta eller svårhanterliga risker skulle jag väga om min ståndpunkt. Patientens behov av hjälp motiverar forskning, men ersätter inte kraven på säkerhet och trovärdiga resultat.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -10494,11 +10500,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: Filmen redovisar minskade depressionssymtom hos 60 procent i psilocybingruppen i ett litet försök och samtidigt metodproblem. Tolkning: Detta motiverar fortsatt prövning, men ger ingen garanti. Egen bedömning: Jag är positiv till noga kontrollerad användning om effekt, säkerhet och stöd kan säkerställas; bred användning behöver starkare underlag."
+                "text": "Jag är villkorat positiv till psilocybin som möjlig behandling. Att 60 procent i psilocybingruppen hade minskade depressionssymtom jämfört med nästan 30 procent i jämförelsegruppen är ett skäl att ta möjligheten på allvar. För den som inte får tillräcklig hjälp kan ett nytt verktyg vara värdefullt.\n\nSamtidigt var försöket litet och den märkbara påverkan kan avslöja försöksgruppen. Jag kan därför inte anta att hela skillnaden beror på substansen. De allvarliga säkerhetssignalerna behöver också utredas utan att orsaken förutsätts. Min slutsats är stöd för noggrant kontrollerad utveckling om effekt, säkerhet och stöd kan bedömas tillräckligt väl. Ett brett införande behöver starkare underlag än de tidiga lovande resultaten."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Blindningen kan brytas och en större studie innehåller allvarliga säkerhetssignaler. Tolkning: Nytta och risk är ännu svåra att väga för alla patienter. Egen bedömning: Jag vill avvakta bred användning tills säkrare resultat finns, samtidigt som fortsatt forskning bör kunna undersöka de lovande fynden."
+                "text": "Jag vill avvakta bred användning eftersom nytta och risk ännu är svåra att väga. Om den tydliga påverkan avslöjar vem som fått psilocybin blir det osäkert hur mycket förväntningarna bidrar. Tre rapporterade självmordsförsök i en större studie behöver dessutom utredas. De är inte bevis för substansorsak, men de kan inte heller ignoreras.\n\nDet finns ett starkt motargument: det lilla jämförelseförsöket gav lovande depressionsresultat, och patienter kan behöva fler alternativ. Därför stöder jag fortsatt forskning. Jag skulle ändra min avvaktande hållning om större, trovärdiga jämförelser och längre uppföljningar visade tydlig nytta med hanterbara risker och ett fungerande stöd. För mig innebär försiktighet att förbättra beslutsunderlaget, inte att på förhand avvisa möjligheten."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -10518,7 +10524,8 @@
             "00:49:11",
             "00:49:36"
           ],
-          "sectionId": "film-osakerhet-framtid"
+          "sectionId": "film-osakerhet-framtid",
+          "answerPresentation": true
         },
         {
           "id": "film-osakerhet-framtid-reasoning-framtid",
@@ -10536,7 +10543,7 @@
             "film-osakerhet-framtid-fact-3",
             "film-osakerhet-framtid-fact-5"
           ],
-          "answer": "Det finns inget enda åsiktssvar. Använd bedömningsstödet för att kontrollera hur väl ditt resonemang är underbyggt.",
+          "answer": "Jag tror att psilocybin kan få en större roll i sjukvården, men jag kan inte säkert säga hur snabbt det skulle ske. År 2022 pågick en liten studie vid KI och företag utvecklade egna psykedeliska molekyler för patent. Ett företagsmål var tillgång genom vårdsystemet eller försäkringar. Tillsammans med behovet av nya behandlingsverktyg ger detta skäl att tro att utvecklingen kan fortsätta.\n\nDet mest intressanta är möjligheten till långvarig förbättring efter en begränsad behandling. Men den möjligheten diskuterades under förutsättningen att de preliminära fynden stämmer. Det är alltså en möjlighet som behöver prövas, inte en säker framtida effekt. Om den psykedeliska upplevelsen behövs för eventuell antidepressiv nytta är också en öppen fråga. Svaret kan påverka hur behandlingen behöver utformas.\n\nEtt motargument mot snabb spridning är att lovande resultat och starkt intresse inte räcker för att införa vård. Säkerhet, lämpligt stöd, utbildning, finansiering och faktisk tillgång behöver fungera. En forskares förutsägelse om att psykedelisk terapi kan bli en stöttepelare inom psykiatrin är inte ett beslut och garanterar inte att förhoppningen infrias.\n\nMin slutsats är därför villkorad. Om senare studier bekräftar nytta och hanterbara risker, och vården kan ordna genomförbara upplägg, kan användningen öka. För att bedöma den närmaste framtiden skulle jag behöva aktuella studieresultat, myndighetsbeslut och uppgifter om vårdens resurser och verkliga tillgång. Forskningsbilden 2022 räcker inte för en säker prognos om utvecklingens takt.",
           "checkpoints": [
             "Tydlig ståndpunkt",
             "Relevanta källuppgifter med rätt räckvidd",
@@ -10601,11 +10608,11 @@
             "examples": [
               {
                 "label": "Möjligt villkorat positivt resonemang",
-                "text": "Källuppgift: År 2022 pågår forskning och förhoppningar om framtida vårdanvändning uttrycks. Tolkning: Det kan öka sannolikheten för utveckling. Egen bedömning: Jag tror att användningen kan öka om resultaten håller och vården kan ordna säkra upplägg, men jag behöver aktuella studier och beslut för att bedöma takten."
+                "text": "Jag tror att användningen kan öka om resultaten håller i fortsatt prövning. År 2022 fanns både KI-forskning och företag som utvecklade egna molekyler, och det fanns förhoppningar om tillgång genom vård eller försäkringar. Behovet av fler behandlingsverktyg kan också bidra till att utvecklingen fortsätter.\n\nSamtidigt är forskningsintresse inte samma sak som införd behandling. Preliminära fynd måste bekräftas, risker bedömas och stöd, utbildning och finansiering ordnas. Frågan om den akuta upplevelsen behövs är dessutom öppen. Min positiva prognos gäller därför en möjlighet, inte en viss tidpunkt. Jag skulle behöva senare studieresultat och beslut för att säga något säkrare om hur snabbt användningen kan öka."
               },
               {
                 "label": "Möjligt avvaktande resonemang",
-                "text": "Källuppgift: Filmen betonar preliminära fynd och oklara mekanismer. Tolkning: Intresse betyder inte snabb vanlig användning. Egen bedömning: Jag är osäker på en snabb ökning; filmen från 2022 räcker inte för att avgöra vad som sker de närmaste åren idag."
+                "text": "Jag är osäker på om psilocybinbehandling blir vanlig snabbt. Forskningsbilden 2022 var tidig, och möjlig långvarig effekt diskuterades under villkoret att de preliminära fynden stämmer. Att företag investerar och en forskare förutspår en stor framtida roll visar förhoppningar, inte att vården redan kan erbjuda en säker och verksam behandling.\n\nMotargumentet är att pågående studier och behovet av nya verktyg kan driva utvecklingen framåt. Därför utesluter jag inte ökad användning. Jag vill dock se senare resultat, riskbedömningar och beslut samt veta om stöd, utbildning och finansiering kan ordnas. Min slutsats är att framtida användning är möjlig, men att en snabb ökning inte kan förutsättas utifrån den tidiga forskningsbilden."
               }
             ],
             "note": "Båda exemplen är möjliga argumentationer. Du bedömer stöd, nyansering och slutsatsens räckvidd – inte om du tycker ja eller nej."
@@ -10624,7 +10631,8 @@
             "00:54:14",
             "00:58:23"
           ],
-          "sectionId": "film-osakerhet-framtid"
+          "sectionId": "film-osakerhet-framtid",
+          "answerPresentation": true
         }
       ],
       "quiz": [
@@ -11674,7 +11682,7 @@
         {
           "id": "ppt-systematik-r04",
           "question": "En elev säger: Encelliga organismer är bakterier, och slemsvampar är svampar eftersom de ser ut som svampar. Bemöt resonemanget med cellbiologi, systematik och hur vetenskapliga klassifikationer används.",
-          "answer": "Skilj cellantal från celltyp och källans gruppbeskrivning från namnlikhet. En eukaryot kan enligt sida 3 bestå av en eller flera celler, och sida 31 ger encellig jäst som exempel. Slemsvampar kallas svampliknande på sida 6 men inga riktiga svampar på sida 8. Det räcker för att bemöta elevens två påståenden utan att tillföra nya gruppplaceringar.",
+          "answer": "Elevens resonemang blandar ihop cellantal med celltyp och liknande utseende med grupptillhörighet. Encelligt beskriver bara att organismen består av en enda cell. Eukaryota organismer har en avgränsad cellkärna och kan vara en- eller flercelliga. Jäst är exempelvis en encellig svamp och därmed en eukaryot. Att något är encelligt räcker alltså inte för slutsatsen att det är en bakterie.\n\nI en klassisk indelning skiljs domänerna bakterier, arkéer och eukaryoter. Bland eukaryoterna räknas protister, svampar, växter och djur som riken. Protister var i äldre systematik ett samlingsbegrepp för mestadels encelliga organismer med cellkärna, med traditionella djurliknande, växtliknande och svampliknande grupper. En sådan indelning behöver läsas som en klassisk modell, inte som en slutgiltig beskrivning av släktskap.\n\nSlemsvampar är svampliknande organismer men inga riktiga svampar. Likheten i namnet eller utseendet är därför inget tillräckligt argument för att de tillhör svampriket. Slutsatsen är att cellbyggnad, cellantal och grupptillhörighet måste bedömas var för sig. Då kan jäst vara encellig utan att vara bakterie, och en slemsvamp likna en svamp utan att vara en egentlig svamp.",
           "checkpoints": [
             "Cellantal är inte celltyp",
             "Avgränsad cellkärna",
@@ -11781,11 +11789,15 @@
             "examples": [
               {
                 "label": "Exempel på utvecklat biologiskt resonemang",
-                "text": "Encelligt säger hur många celler en organism består av. Om cellen har en avgränsad cellkärna är den eukaryot, så en encellig organism behöver inte vara en bakterie. Presentationens protister visar just denna möjlighet. Slemsvampar kallas svampliknande i en traditionell indelning, men den liknelsen är inte ett bevis för att de tillhör svampriket. På samma sätt behöver äldre samlingsbegrepp skiljas från dagens fylogeni. Slutsatsen är att celltyp, organisation och släktskap måste bedömas var för sig; likhet räcker inte som modern klassifikation."
+                "text": "Elevens resonemang blandar ihop cellantal med celltyp och liknande utseende med grupptillhörighet. Encelligt beskriver bara att organismen består av en enda cell. Eukaryota organismer har en avgränsad cellkärna och kan vara en- eller flercelliga. Jäst är exempelvis en encellig svamp och därmed en eukaryot. Att något är encelligt räcker alltså inte för slutsatsen att det är en bakterie.\n\nI en klassisk indelning skiljs domänerna bakterier, arkéer och eukaryoter. Bland eukaryoterna räknas protister, svampar, växter och djur som riken. Protister var i äldre systematik ett samlingsbegrepp för mestadels encelliga organismer med cellkärna, med traditionella djurliknande, växtliknande och svampliknande grupper. En sådan indelning behöver läsas som en klassisk modell, inte som en slutgiltig beskrivning av släktskap.\n\nSlemsvampar är svampliknande organismer men inga riktiga svampar. Likheten i namnet eller utseendet är därför inget tillräckligt argument för att de tillhör svampriket. Slutsatsen är att cellbyggnad, cellantal och grupptillhörighet måste bedömas var för sig. Då kan jäst vara encellig utan att vara bakterie, och en slemsvamp likna en svamp utan att vara en egentlig svamp."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalen innehåller ingen fullständig senare klassificering. Inga nya gruppplaceringar tillförs."
+          ]
         }
       ],
       "relatedSections": [
@@ -12526,7 +12538,7 @@
         {
           "id": "ppt-slemsvampar-r03",
           "question": "En okänd organism på ruttnande ved är gul, rör sig och innesluter födopartiklar. Resonera om vilka observationer som talar för en plasmodiebildande slemsvamp jämfört med ett svampmycel, och vad som fortfarande inte kan avgöras.",
-          "answer": "Använd näringsupptag, rörelse och cellorganisation som argument. Gemensam vedmiljö och gul färg kan vara förenliga med lärarens exempel men ger inte säker artbestämning. Föreslå observationer som skiljer cellmassa som kallas supercell/plasmoid från hyfnätverk och skilj rimlig gruppbedömning från säker modern taxonomi.",
+          "answer": "Rörelsen och inneslutningen av födopartiklar talar för ett plasmodiebildande slemsvampsstadium. Ett plasmodium, även kallat plasmoid eller supercell, är ett näringsupptagande stadium som kan leva i förna och multnande material. Födan innesluts och bryts sedan ner inne i cellen. Ungefär en millimeter per timme är en angiven rörelseuppgift för exemplet, men ska inte tolkas som en exakt hastighet för alla slemsvampar i alla miljöer.\n\nEtt egentligt svampmycel är i stället ett nätverk av hyfer. Svampen avger enzymer som bryter ner stora molekyler utanför organismen och tar därefter upp de små molekylerna. För att pröva gruppbedömningen skulle jag därför undersöka om kroppen är en rörlig cellmassa eller ett hyfnätverk och om födan innesluts före nedbrytningen eller bryts ner utanför kroppen före upptaget.\n\nGul färg och ruttnande ved räcker inte för ett säkert artnamn. Trollsmör kan se ut som en gul, oregelbunden och kornig massa, medan vargmjölk kan ha rosa–orange rundade strukturer i klungor på ved. Olika slemsvampsbilder visar också gula skaftade kulor och större gula massor. Dessa formskillnader visar varför en enda färguppgift inte avgör art eller exakt stadium.\n\nObservationerna ger alltså rimligt stöd för ett slemsvampsstadium jämfört med ett svampmycel, främst genom rörelse, kroppsform och näringsprocess. De ger däremot ingen säker artbestämning. Slemsvampar är svampliknande organismer men ska inte för den skull räknas som egentliga svampar.",
           "checkpoints": [
             "Mekanism för näringsupptag",
             "Rörelse skild från hyftillväxt",
@@ -12664,11 +12676,15 @@
             "examples": [
               {
                 "label": "Exempel på utvecklat biologiskt resonemang",
-                "text": "Inneslutning av föda och rörelse stämmer med presentationens slemsvampsexempel. Ett nätverk av hyfer och yttre enzymnedbrytning stämmer i stället med bokens egentliga svampar. Jag jämför därför processerna och de beskrivna kroppsformerna. Gul färg och ruttnande ved liknar några bilder, men räcker inte för att ge ett säkert artnamn eller en exakt fas. Någon ytterligare modern gruppplacering eller detaljerad intern kärnorganisation behövs inte för denna slutsats."
+                "text": "Rörelsen och inneslutningen av födopartiklar talar för ett plasmodiebildande slemsvampsstadium. Ett plasmodium, även kallat plasmoid eller supercell, är ett näringsupptagande stadium som kan leva i förna och multnande material. Födan innesluts och bryts sedan ner inne i cellen. Ungefär en millimeter per timme är en angiven rörelseuppgift för exemplet, men ska inte tolkas som en exakt hastighet för alla slemsvampar i alla miljöer.\n\nEtt egentligt svampmycel är i stället ett nätverk av hyfer. Svampen avger enzymer som bryter ner stora molekyler utanför organismen och tar därefter upp de små molekylerna. För att pröva gruppbedömningen skulle jag därför undersöka om kroppen är en rörlig cellmassa eller ett hyfnätverk och om födan innesluts före nedbrytningen eller bryts ner utanför kroppen före upptaget.\n\nGul färg och ruttnande ved räcker inte för ett säkert artnamn. Trollsmör kan se ut som en gul, oregelbunden och kornig massa, medan vargmjölk kan ha rosa–orange rundade strukturer i klungor på ved. Olika slemsvampsbilder visar också gula skaftade kulor och större gula massor. Dessa formskillnader visar varför en enda färguppgift inte avgör art eller exakt stadium.\n\nObservationerna ger alltså rimligt stöd för ett slemsvampsstadium jämfört med ett svampmycel, främst genom rörelse, kroppsform och näringsprocess. De ger däremot ingen säker artbestämning. Slemsvampar är svampliknande organismer men ska inte för den skull räknas som egentliga svampar."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalen ger ingen ytterligare modern gruppplacering eller detaljerad intern kärnorganisation. De namnlösa bilderna anger inte exakt art eller livsstadium."
+          ]
         }
       ],
       "relatedSections": [
@@ -13567,7 +13583,7 @@
         {
           "id": "ppt-slemsvampar-livscykel-r04",
           "question": "Anta att den avbildade utvecklingen till plasmodium fungerar men att meiossteget tas bort ur diagrammet. Analysera vilken övergång som då saknas och vad diagrammet inte låter dig avgöra.",
-          "answer": "Figuren visar syngami till zygot 2n, mitospil till plasmodium och meios vid återgången till haploida sporer. Om meiossteget tas bort saknas just den avbildade återgången till haploid fas. Det är en logisk följd av modellen. Figuren beskriver inte experimentutfall, onormala sporers livskraft eller alternativa förökningsvägar.",
+          "answer": "Om meiossteget tas bort saknas den avbildade återgången från diploid fas till nya haploida sporer. Cykeln börjar annars med haploida sporer, n, som kan bidra till överlevnad och spridning. När en spor gror kan den ge en haploid amöboid cell eller flagellatcell. Vid syngami förenas två kompatibla haploida celler och bildar en diploid zygot, 2n.\n\nFrån zygoten går en mitospil vidare till det näringsupptagande plasmodiet. I tankeexperimentet fungerar denna utveckling fortfarande. Näringsbrist kan utlösa fruktkroppsstadiet, och diagrammet fortsätter genom ett ungt till ett moget sporangium, den sporbildande strukturen som i exemplet bärs upp av ett skaft. Meios är sedan den markerade övergång som återför cykeln till haploida sporer.\n\nDet är därför just denna förändring av kromosomuppsättningen som inte längre kan följas om meiosen stryks. Att plasmodiet utvecklas innebär inte att den sexuella cykeln också kan slutas på det vanliga sättet. Diploid ska här skrivas 2n, i överensstämmelse med zygoten, och inte n.\n\nSlutsatsen är begränsad till hur den givna modellen hänger ihop. Den visar vilket steg som saknas men avgör inte om organismen skulle överleva, om eventuella onormala sporer vore livskraftiga eller om en alternativ förökningsväg skulle fungera. Sådana resultat går inte att läsa ut enbart genom att ta bort en pil ur cykeln.",
           "checkpoints": [
             "Följ figurens haploida och diploida bakgrund",
             "Ange vilken pil som tas bort",
@@ -13689,11 +13705,15 @@
             "examples": [
               {
                 "label": "Exempel på utvecklat biologiskt resonemang",
-                "text": "Diagrammet placerar sporer och amöb-/flagellatceller i haploid fas. Syngami leder till zygot 2n, en pil Mitos går vidare till plasmodium och meios märker återgången till sporer. Om meiossteget tas bort saknas den avbildade övergången tillbaka till haploid fas. Det är min logiska slutsats ur diagrammets ordning, inte ett rapporterat experiment. Uppgiften säger att plasmodiet fortfarande kan växa; det är ett givet villkor i tankeexperimentet. Figuren kan inte avgöra överlevnad, onormala sporers funktion eller alternativa förökningsvägar."
+                "text": "Om meiossteget tas bort saknas den avbildade återgången från diploid fas till nya haploida sporer. Cykeln börjar annars med haploida sporer, n, som kan bidra till överlevnad och spridning. När en spor gror kan den ge en haploid amöboid cell eller flagellatcell. Vid syngami förenas två kompatibla haploida celler och bildar en diploid zygot, 2n.\n\nFrån zygoten går en mitospil vidare till det näringsupptagande plasmodiet. I tankeexperimentet fungerar denna utveckling fortfarande. Näringsbrist kan utlösa fruktkroppsstadiet, och diagrammet fortsätter genom ett ungt till ett moget sporangium, den sporbildande strukturen som i exemplet bärs upp av ett skaft. Meios är sedan den markerade övergång som återför cykeln till haploida sporer.\n\nDet är därför just denna förändring av kromosomuppsättningen som inte längre kan följas om meiosen stryks. Att plasmodiet utvecklas innebär inte att den sexuella cykeln också kan slutas på det vanliga sättet. Diploid ska här skrivas 2n, i överensstämmelse med zygoten, och inte n.\n\nSlutsatsen är begränsad till hur den givna modellen hänger ihop. Den visar vilket steg som saknas men avgör inte om organismen skulle överleva, om eventuella onormala sporer vore livskraftiga eller om en alternativ förökningsväg skulle fungera. Sådana resultat går inte att läsa ut enbart genom att ta bort en pil ur cykeln."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalet specificerar inte interna kärndelningar och celluppdelning mellan zygot och plasmodium. Legendens Diploid (n) är en intern felmärkning. Tankeexperimentet är inte ett rapporterat försök."
+          ]
         }
       ],
       "relatedSections": [
@@ -14229,7 +14249,7 @@
         {
           "id": "ppt-svampgrupper-r02",
           "question": "En elev säger: 'Brödmögel och kräftpest är algsvampar, alltså är båda samma sorts riktiga svamp.' Granska resonemanget.",
-          "answer": "Eleven återger presentationens gruppnamn men tillför två påståenden som källan inte visar. Sida 16 anger kräftpest i anslutning till vattenliv och parasitism samt mögel på bröd. Den ger varken vetenskapliga artnamn eller en fullständig jämförelse med någon senare indelning. Att två exempel står under samma rubrik innebär inte att bilden identifierar dem som samma art. Jag kan därför redovisa kursordet och de två exemplen, men lämnar en mer detaljerad grupp- och artbedömning öppen. Parasitism beskriver dessutom näringsrelationen: på andra sidor finns parasitexempel bland sporsäckssvampar och tickor, så relationen och gruppnamnet besvarar olika frågor.",
+          "answer": "Resonemanget drar en mer detaljerad slutsats än den äldre gruppbeteckningen ger stöd för. Algsvampar är ett av tre klassiska gruppnamn tillsammans med sporsäckssvampar och basidiesvampar. Att kräftpest och mögel på bröd står under samma rubrik visar hur exemplen har ordnats i denna modell. Det visar däremot inte i sig att de är samma art eller fastställer deras närmare släktskap.\n\nKräftpestexemplet kopplas till vattenliv och parasitism, medan brödmögelfotot visar mögel på bröd. Ett sådant fotografi kan inte ge allt brödmögel samma artnamn. Man behöver alltså skilja den breda gruppbeteckningen från en säker artbestämning, och hålla en historisk indelning isär från en mer detaljerad nutida bedömning.\n\nParasitism beskriver dessutom en näringsrelation: en organism tar näring från en levande värd som skadas. Det är en annan indelningsgrund än sporbildningsgrupp eller släktskap. Parasitexempel finns bland både sporsäckssvampar och tickor, vilket visar att levnadssätt och gruppnamn kan beskriva olika egenskaper hos samma organism.\n\nEleven kan därför återge den äldre benämningen men inte använda den som bevis för att de två exemplen är samma sorts egentliga svamp i varje mer detaljerad betydelse. Den säkra slutsatsen gäller exemplens placering i den klassiska indelningen; en exakt art- och släktskapsbedömning måste lämnas öppen.",
           "checkpoints": [
             "Återger källans exempel",
             "Förklarar historiskt samlingsnamn",
@@ -14316,11 +14336,15 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Eleven återger presentationens gruppnamn men tillför två påståenden som källan inte visar. Sida 16 anger kräftpest i anslutning till vattenliv och parasitism samt mögel på bröd. Den ger varken vetenskapliga artnamn eller en fullständig jämförelse med någon senare indelning. Att två exempel står under samma rubrik innebär inte att bilden identifierar dem som samma art. Jag kan därför redovisa kursordet och de två exemplen, men lämnar en mer detaljerad grupp- och artbedömning öppen. Parasitism beskriver dessutom näringsrelationen: på andra sidor finns parasitexempel bland sporsäckssvampar och tickor, så relationen och gruppnamnet besvarar olika frågor."
+                "text": "Resonemanget drar en mer detaljerad slutsats än den äldre gruppbeteckningen ger stöd för. Algsvampar är ett av tre klassiska gruppnamn tillsammans med sporsäckssvampar och basidiesvampar. Att kräftpest och mögel på bröd står under samma rubrik visar hur exemplen har ordnats i denna modell. Det visar däremot inte i sig att de är samma art eller fastställer deras närmare släktskap.\n\nKräftpestexemplet kopplas till vattenliv och parasitism, medan brödmögelfotot visar mögel på bröd. Ett sådant fotografi kan inte ge allt brödmögel samma artnamn. Man behöver alltså skilja den breda gruppbeteckningen från en säker artbestämning, och hålla en historisk indelning isär från en mer detaljerad nutida bedömning.\n\nParasitism beskriver dessutom en näringsrelation: en organism tar näring från en levande värd som skadas. Det är en annan indelningsgrund än sporbildningsgrupp eller släktskap. Parasitexempel finns bland både sporsäckssvampar och tickor, vilket visar att levnadssätt och gruppnamn kan beskriva olika egenskaper hos samma organism.\n\nEleven kan därför återge den äldre benämningen men inte använda den som bevis för att de två exemplen är samma sorts egentliga svamp i varje mer detaljerad betydelse. Den säkra slutsatsen gäller exemplens placering i den klassiska indelningen; en exakt art- och släktskapsbedömning måste lämnas öppen."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalet anger inga vetenskapliga artnamn för kräftpestorganismen eller brödmöglet och innehåller ingen fullständig senare taxonomisk jämförelse."
+          ]
         }
       ],
       "relatedSections": [
@@ -15378,7 +15402,7 @@
         {
           "id": "ppt-basidiesvampar-r03",
           "question": "En elev sorterar bilder efter skivor, rör, taggar och buksvamp och drar slutsatser om sporbildning, släktskap och ätlighet. Granska slutsatserna och kantarellbildens rubrik.",
-          "answer": "Former kan förklara var stor sporbildande yta får plats: skivor, rörväggar och taggar kan bära basidier med utvändiga sporer. Buksvamp har först innesluten utveckling, men senare form varierar som hos röksvamp och stinksvamp. Sida 22 säger Skivling och kantarell; förgrenade veck syns, men en närmare definition av åsar kontra äkta lameller saknas. Formnamnen avgör inte ensamma nära släktskap eller ätlighet. Det gemensamma sporbildningsdraget här är basidiet. Makrofoton visar ytor, inte själva basidierna eller enskilda sporer. Stensoppfotot visar dessutom inte rörlagret tydligt.",
+          "answer": "Skivor, rör och taggar kan användas för att jämföra hur en fruktkropp ger plats åt många basidier. Basidien är en mikroskopisk sporbildande cell där sporer utvecklas på utskott utanpå cellen. Skivornas bladlika strukturer kallas lameller, och hos rörsvampar finns basidier på rörväggarna medan öppningarna syns som porer. Taggsvampar har i stället taggar under hatten; blek taggsvamp är ett exempel.\n\nBuksvamp beskriver en annan form av sporutveckling, där sporerna åtminstone i början utvecklas inuti en sluten fruktkropp. Hos röksvampar kan moget sporpulver ryka ut genom en öppning i toppen. Stinksvampsfotot visar en ljus fot och mörk topp, men den synliga slutformen visar inte ensam hela den tidigare utvecklingen. Formerna kan alltså ge information om sporbildande ytor och utveckling utan att fungera som en fullständig släktskapsindelning.\n\nKantarellbilden har rubriken Skivling, men de synliga strukturerna är förgrenade och veckliknande. Rubriken får därför inte ersätta en noggrann beskrivning av undersidan. På samma sätt kan ett stensoppsfoto med hatt och fot inte användas som en direkt observation av rörlagret om undersidan inte syns tydligt.\n\nFotografier visar de större ytorna, inte automatiskt basidierna eller enskilda sporer. För den jämförelsen behövs en förstoring. Formgrupperna avgör inte heller ensamma hur nära organismerna är släkt eller om en art är ätlig. Slutsatsen är att varje bild måste bedömas på rätt nivå: synlig form, mikroskopisk sporbildning och artens egenskaper är skilda frågor.",
           "checkpoints": [
             "Form kopplas till sporbildande yta",
             "Makrostruktur skiljs från mikroskopisk cell",
@@ -15541,11 +15565,15 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Former kan förklara var stor sporbildande yta får plats: skivor, rörväggar och taggar kan bära basidier med utvändiga sporer. Buksvamp har först innesluten utveckling, men senare form varierar som hos röksvamp och stinksvamp. Sida 22 säger Skivling och kantarell; förgrenade veck syns, men en närmare definition av åsar kontra äkta lameller saknas. Formnamnen avgör inte ensamma nära släktskap eller ätlighet. Det gemensamma sporbildningsdraget här är basidiet. Makrofoton visar ytor, inte själva basidierna eller enskilda sporer. Stensoppfotot visar dessutom inte rörlagret tydligt."
+                "text": "Skivor, rör och taggar kan användas för att jämföra hur en fruktkropp ger plats åt många basidier. Basidien är en mikroskopisk sporbildande cell där sporer utvecklas på utskott utanpå cellen. Skivornas bladlika strukturer kallas lameller, och hos rörsvampar finns basidier på rörväggarna medan öppningarna syns som porer. Taggsvampar har i stället taggar under hatten; blek taggsvamp är ett exempel.\n\nBuksvamp beskriver en annan form av sporutveckling, där sporerna åtminstone i början utvecklas inuti en sluten fruktkropp. Hos röksvampar kan moget sporpulver ryka ut genom en öppning i toppen. Stinksvampsfotot visar en ljus fot och mörk topp, men den synliga slutformen visar inte ensam hela den tidigare utvecklingen. Formerna kan alltså ge information om sporbildande ytor och utveckling utan att fungera som en fullständig släktskapsindelning.\n\nKantarellbilden har rubriken Skivling, men de synliga strukturerna är förgrenade och veckliknande. Rubriken får därför inte ersätta en noggrann beskrivning av undersidan. På samma sätt kan ett stensoppsfoto med hatt och fot inte användas som en direkt observation av rörlagret om undersidan inte syns tydligt.\n\nFotografier visar de större ytorna, inte automatiskt basidierna eller enskilda sporer. För den jämförelsen behövs en förstoring. Formgrupperna avgör inte heller ensamma hur nära organismerna är släkt eller om en art är ätlig. Slutsatsen är att varje bild måste bedömas på rätt nivå: synlig form, mikroskopisk sporbildning och artens egenskaper är skilda frågor."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalen ger ingen närmare definition av åsar kontra äkta lameller och ingen fullständig släktskapsindelning av de avbildade formgrupperna. Stinksvampsfotot beskriver inte föregående utveckling."
+          ]
         }
       ],
       "relatedSections": [
@@ -16084,7 +16112,7 @@
         {
           "id": "ppt-sporsackssvampar-r02",
           "question": "En elev säger att alla kulor och gropar i bild 26 är sporsäckar. Granska det och jämför med bild 27 och basidiesvampar.",
-          "answer": "En sporsäck är den lilla säcklika struktur där sporerna är ritade inuti på sida 27. Den ska skiljas från hela skålsvampen eller en gropig hatt på sida 26. Förstoringslinjen på sida 27 visar skillnaden mellan fruktkropp och de små sporbildande strukturerna. Mittenbildens rosa kulor i collaget ser annorlunda ut, men källan ger inte grund för en säker alternativ artbestämning. Basidiesvamparnas sporer sitter i stället utanpå basidiet på utskott enligt sidorna 20 och 39. Fruktmögelfotot saknar motsvarande förstoring och fastställer inte reproduktionsstadiet. Slutsatsen är att text, fotografi och märkt förstoring ger olika slags information.",
+          "answer": "Elevens påstående blandar ihop hela synliga strukturer med de små cellstrukturer där sporer bildas. En sporsäck är en liten säcklik struktur med sporer inuti. Den är därför inte samma sak som en hel skålsvamp, en gropig hatt eller varje rundad struktur som syns i ett fotografi. I skålsvampsbilden kopplas den inre ytan med en förstoringslinje till de små sporsäckarna, så att skillnaden mellan fruktkropp och sporbildande struktur blir tydlig.\n\nMurklefotografiernas gropiga eller veckade hattar och ljusa fötter är stora kroppsdelar, inte avbildningar av enskilda mikroskopiska sporsäckar. Collagets rosa, rundade mittstrukturer räcker inte heller för en säker alternativ artbestämning. Att flera bilder står under samma rubrik gör inte varje synlig kula eller grop till samma anatomiska struktur.\n\nJämförelsen med basidiesvampar ska göras på cellnivå. Hos sporsäckssvampar bildas sporer inuti sporsäckar, medan basidiesvamparnas sporer sitter på utskott utanpå basidiet. Där finns en verklig skillnad i sporernas placering. Fruktmögelfotot saknar däremot en motsvarande förstoring och fastställer därför inte vilket reproduktionsstadium som syns.\n\nSlutsatsen är att en märkt förstoring kan visa något som ett vanligt fotografi inte visar. Man måste följa bildens skala och förbindelsen mellan den synliga kroppen och de små strukturerna, i stället för att tolka alla liknande former som sporsäckar.",
           "checkpoints": [
             "Definierar mikroskopisk sporsäck",
             "Sporer i sporsäckar inuti",
@@ -16187,11 +16215,15 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "En sporsäck är den lilla säcklika struktur där sporerna är ritade inuti på sida 27. Den ska skiljas från hela skålsvampen eller en gropig hatt på sida 26. Förstoringslinjen på sida 27 visar skillnaden mellan fruktkropp och de små sporbildande strukturerna. Mittenbildens rosa kulor i collaget ser annorlunda ut, men källan ger inte grund för en säker alternativ artbestämning. Basidiesvamparnas sporer sitter i stället utanpå basidiet på utskott enligt sidorna 20 och 39. Fruktmögelfotot saknar motsvarande förstoring och fastställer inte reproduktionsstadiet. Slutsatsen är att text, fotografi och märkt förstoring ger olika slags information."
+                "text": "Elevens påstående blandar ihop hela synliga strukturer med de små cellstrukturer där sporer bildas. En sporsäck är en liten säcklik struktur med sporer inuti. Den är därför inte samma sak som en hel skålsvamp, en gropig hatt eller varje rundad struktur som syns i ett fotografi. I skålsvampsbilden kopplas den inre ytan med en förstoringslinje till de små sporsäckarna, så att skillnaden mellan fruktkropp och sporbildande struktur blir tydlig.\n\nMurklefotografiernas gropiga eller veckade hattar och ljusa fötter är stora kroppsdelar, inte avbildningar av enskilda mikroskopiska sporsäckar. Collagets rosa, rundade mittstrukturer räcker inte heller för en säker alternativ artbestämning. Att flera bilder står under samma rubrik gör inte varje synlig kula eller grop till samma anatomiska struktur.\n\nJämförelsen med basidiesvampar ska göras på cellnivå. Hos sporsäckssvampar bildas sporer inuti sporsäckar, medan basidiesvamparnas sporer sitter på utskott utanpå basidiet. Där finns en verklig skillnad i sporernas placering. Fruktmögelfotot saknar däremot en motsvarande förstoring och fastställer därför inte vilket reproduktionsstadium som syns.\n\nSlutsatsen är att en märkt förstoring kan visa något som ett vanligt fotografi inte visar. Man måste följa bildens skala och förbindelsen mellan den synliga kroppen och de små strukturerna, i stället för att tolka alla liknande former som sporsäckar."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalets mittbild ger ingen säker alternativ artbestämning, och fruktmögelfotot fastställer inget reproduktionsstadium."
+          ]
         }
       ],
       "relatedSections": [
@@ -16754,7 +16786,7 @@
         {
           "id": "ppt-parasitism-r03",
           "question": "En elev säger: 'Fruktmögel och brödmögel ser lika ut, så båda är alltid parasiter. En talltickbild bevisar också att alla tickor är parasiter.' Utveckla ett biologiskt motargument.",
-          "answer": "Utseende avgör inte näringsrelation. Parasitism innebär näringsuttag från en levande värd som skadas; näring ur redan dött material hör till nedbrytning. Källans fruktmögel är ett parasitexempel, men dött bröd blir inte en levande värd av mögeltillväxt. Bild 36 säger flera tickor, inte alla. Tallticka–tall i bildtexten ger ett exempel men kan inte avgöra varje tickas levnadssätt, och fotoetiketten är dessutom osäker. Fotsvamp och nagelsvamp visar andra värdar. Parasit måste också skiljas från basidiesvamp och sporsäckssvamp: ekologisk relation respektive sporbildningsgrupp.",
+          "answer": "Liknande utseende är inte tillräckligt för att avgöra om en svamp är parasit. Parasitism innebär att svampens mycel tar näring från en levande värd som skadas. Näring från redan dött material är i stället nedbrytning. Bröd blir alltså inte en levande värd för att mögel växer på det. Man behöver känna till näringsrelationen, inte bara se att något ser mögligt ut.\n\nFruktmögel är ett parasitexempel som också hör till sporsäckssvamparna. Det visar att ett ekologiskt begrepp och ett gruppnamn kan användas samtidigt. Basidiesvamp och sporsäckssvamp handlar om grupp och sporbildning, medan parasit beskriver förhållandet till värden. Att två mögelformer liknar varandra bevisar därför inte att de alltid har samma levnadssätt.\n\nTallticka på tall ger på motsvarande sätt ett exempel på parasitism hos träd. Ett enda sådant exempel kan inte göra alla tickor till parasiter. Uppgiften att flera tickor är trädparasiter behöver hållas isär från påståendet att samtliga är det, och ett foto kan inte ensamt avgöra varje tickas näringsrelation. Fotsvamp och nagelsvamp visar dessutom parasitism kopplad till människor och därmed andra värdar än träden.\n\nDet biologiska motargumentet är därför att elevens slutsatser bygger på för breda generaliseringar. För att bedöma parasitism måste man undersöka om näringen tas från en levande organism och om värden skadas. Ett liknande växtsätt eller en enda avbildad art ersätter inte dessa uppgifter.",
           "checkpoints": [
             "Levande värd",
             "Näringsuttag och skada",
@@ -16886,10 +16918,14 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Utseende avgör inte näringsrelation. Parasitism innebär näringsuttag från en levande värd som skadas; näring ur redan dött material hör till nedbrytning. Källans fruktmögel är ett parasitexempel, men dött bröd blir inte en levande värd av mögeltillväxt. Bild 36 säger flera tickor, inte alla. Tallticka–tall i bildtexten ger ett exempel men kan inte avgöra varje tickas levnadssätt, och fotoetiketten är dessutom osäker. Fotsvamp och nagelsvamp visar andra värdar. Parasit måste också skiljas från basidiesvamp och sporsäckssvamp: ekologisk relation respektive sporbildningsgrupp."
+                "text": "Liknande utseende är inte tillräckligt för att avgöra om en svamp är parasit. Parasitism innebär att svampens mycel tar näring från en levande värd som skadas. Näring från redan dött material är i stället nedbrytning. Bröd blir alltså inte en levande värd för att mögel växer på det. Man behöver känna till näringsrelationen, inte bara se att något ser mögligt ut.\n\nFruktmögel är ett parasitexempel som också hör till sporsäckssvamparna. Det visar att ett ekologiskt begrepp och ett gruppnamn kan användas samtidigt. Basidiesvamp och sporsäckssvamp handlar om grupp och sporbildning, medan parasit beskriver förhållandet till värden. Att två mögelformer liknar varandra bevisar därför inte att de alltid har samma levnadssätt.\n\nTallticka på tall ger på motsvarande sätt ett exempel på parasitism hos träd. Ett enda sådant exempel kan inte göra alla tickor till parasiter. Uppgiften att flera tickor är trädparasiter behöver hållas isär från påståendet att samtliga är det, och ett foto kan inte ensamt avgöra varje tickas näringsrelation. Fotsvamp och nagelsvamp visar dessutom parasitism kopplad till människor och därmed andra värdar än träden.\n\nDet biologiska motargumentet är därför att elevens slutsatser bygger på för breda generaliseringar. För att bedöma parasitism måste man undersöka om näringen tas från en levande organism och om värden skadas. Ett liknande växtsätt eller en enda avbildad art ersätter inte dessa uppgifter."
               }
             ]
-          }
+          },
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Tallticka används enligt originalets bildtext, vars artetikett tidigare noterats som osäker. Fotot har inte artbestämts på nytt och får inte generaliseras till samtliga tickor."
+          ]
         }
       ],
       "relatedSections": [
@@ -17311,7 +17347,7 @@
         {
           "id": "ppt-jast-mogel-r02",
           "question": "Två elever diskuterar en jästdeg. Den ena säger att etanolen höjer degen och att jäst aldrig kan använda syre. Bedöm båda påståendena genom att koppla produkter, processer och organismens förmågor.",
-          "answer": "Vid jäsningen spjälkar jäst socker och bildar etanol och koldioxid utan att syre används i processen. Enligt sida 27 är det koldioxidgasen som får degen att svälla. Påståendet om etanolen kan därför rättas direkt med källtexten. Det andra påståendet, att jäst aldrig kan använda syre, går längre än den beskrivna processen. Materialet redovisar inte bakjästens hela ämnesomsättning. Jag drar därför ingen sådan generell slutsats, utan skiljer det belagda jäsningsförloppet från frågan om organismens övriga förmågor. Volymökningen är förenlig med gasbildning men ger inget exakt mått på mängden etanol.",
+          "answer": "Vid jäsningen spjälkar jäst socker utan att syre används i själva processen. Produkterna är etanol och koldioxid, och det är koldioxidgasen som får degen att svälla. Påståendet att etanolen höjer degen blandar därför ihop två produkter med olika betydelse för den observerade volymökningen. Den svällande degen är förenlig med gasbildning, men ger inget exakt mått på hur mycket etanol som har bildats.\n\nPåståendet att jäst aldrig kan använda syre är en annan och betydligt mer omfattande slutsats. Att en viss process sker utan syre visar hur den processen fungerar. Det beskriver inte automatiskt alla processer som organismen kan utföra under andra förhållanden. Därför räcker jäsningsförloppet inte som bevis för ordet aldrig.\n\nDet behövs alltså en tydlig skillnad mellan processen och organismens samlade förmågor. Här går det att förklara degens svällning med socker, jäsning och koldioxid utan att dra någon generell slutsats om jästens hela ämnesomsättning. Båda elevernas påståenden behöver därmed granskas, men av olika skäl: det första pekar ut fel produkt som förklaring, medan det andra går längre än vad den observerade processen visar.",
           "checkpoints": [
             "Identifiera båda felaktiga påståendena",
             "Ange socker och båda jäsningsprodukterna",
@@ -17388,11 +17424,15 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Vid jäsningen spjälkar jäst socker och bildar etanol och koldioxid utan att syre används i processen. Enligt sida 27 är det koldioxidgasen som får degen att svälla. Påståendet om etanolen kan därför rättas direkt med källtexten. Det andra påståendet, att jäst aldrig kan använda syre, går längre än den beskrivna processen. Materialet redovisar inte bakjästens hela ämnesomsättning. Jag drar därför ingen sådan generell slutsats, utan skiljer det belagda jäsningsförloppet från frågan om organismens övriga förmågor. Volymökningen är förenlig med gasbildning men ger inget exakt mått på mängden etanol."
+                "text": "Vid jäsningen spjälkar jäst socker utan att syre används i själva processen. Produkterna är etanol och koldioxid, och det är koldioxidgasen som får degen att svälla. Påståendet att etanolen höjer degen blandar därför ihop två produkter med olika betydelse för den observerade volymökningen. Den svällande degen är förenlig med gasbildning, men ger inget exakt mått på hur mycket etanol som har bildats.\n\nPåståendet att jäst aldrig kan använda syre är en annan och betydligt mer omfattande slutsats. Att en viss process sker utan syre visar hur den processen fungerar. Det beskriver inte automatiskt alla processer som organismen kan utföra under andra förhållanden. Därför räcker jäsningsförloppet inte som bevis för ordet aldrig.\n\nDet behövs alltså en tydlig skillnad mellan processen och organismens samlade förmågor. Här går det att förklara degens svällning med socker, jäsning och koldioxid utan att dra någon generell slutsats om jästens hela ämnesomsättning. Båda elevernas påståenden behöver därmed granskas, men av olika skäl: det första pekar ut fel produkt som förklaring, medan det andra går längre än vad den observerade processen visar."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalet redovisar inte bakjästens hela ämnesomsättning eller alla jästformers taxonomi. Ingen ny beskrivning av jästens aeroba ämnesomsättning har lagts till. Den tidigare faktarutans jämförelse med fullständig aerob nedbrytning används inte för att utöka svaret."
+          ]
         }
       ],
       "sourceNotes": [
@@ -18160,7 +18200,7 @@
         {
           "id": "ppt-anatomi-r03",
           "question": "En elev kallar hela den synliga svampen för ett mycel och tror att fotens enda funktion är att ta upp vatten från marken. Förklara varför detta missar viktiga samband och koppla anatomin till näringsupptag och förökning.",
-          "answer": "Den synliga hattsvampen är en fruktkropp som består av hyfer och växer från mycelet. Mycel är nätverket av hyfer i underlaget. Boken beskriver hur det ger stor kontaktyta för upptag efter yttre enzymnedbrytning. Fruktkroppen kopplas i stället till sporbildning: sidorna 20 och 28 visar undersidans strukturer, basidier och sporer på utskott. Figurerna märker också ut hatt, fot, ring och strumpa. Dessa lägen kan redovisas, men originalet förklarar inte ringens och strumpans ursprung eller undersöker fotens höjd som spridningsmekanism. Den anatomiska beskrivningen ska därför knytas till det exempel och de etiketter som faktiskt finns i källan.",
+          "answer": "Den synliga hattsvampen är en fruktkropp, inte hela mycelet. Fruktkroppen består av hyfer och växer ut från ett mycel, som är nätverket av hyfer i underlaget. Hatt och fot är delar av den typiska fruktkroppen, medan mycelet kan finnas där svampen tar upp sin näring. Att bara benämna den synliga kroppen mycel missar därför både organisationen och sambandet mellan de synliga och mindre synliga delarna.\n\nHyfnätverket ger stor kontaktyta mot underlaget. Svampen avger enzymer som bryter ner stora molekyler utanför organismen och tar sedan upp små molekyler. Näringsupptaget behöver alltså kopplas till mycelets kontakt med underlaget, inte beskrivas som fotens enda funktion. Foten bär hatten, och hattens undersida är i stället kopplad till sporbildningen.\n\nPå skivor, i rör eller på taggar kan många basidier få plats. Basidien är en liten, klubbformad cell med sporer på utskott utanpå. Skivorna kan också kallas lameller. Här behöver man skilja den stora hatten, dess undersida, den enskilda basidien och sporerna åt; det är olika anatomiska nivåer.\n\nÄven ring och strumpa har bestämda lägen i hattsvampsmodellen. Ringen sitter på foten och förekommer ibland, medan strumpan finns vid fotbasen. Ett sådant schema ska inte göras till en beskrivning av alla svampars former. Slutsatsen är att anatomin blir begriplig när varje del kopplas till rätt sammanhang: mycelets kontakt med underlaget för näring och fruktkroppens sporbildande strukturer för förökning.",
           "checkpoints": [
             "Skilj organism, fruktkropp och mycel",
             "Förklara hyfernas koppling till näringsupptag",
@@ -18266,7 +18306,7 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Den synliga hattsvampen är en fruktkropp som består av hyfer och växer från mycelet. Mycel är nätverket av hyfer i underlaget. Boken beskriver hur det ger stor kontaktyta för upptag efter yttre enzymnedbrytning. Fruktkroppen kopplas i stället till sporbildning: sidorna 20 och 28 visar undersidans strukturer, basidier och sporer på utskott. Figurerna märker också ut hatt, fot, ring och strumpa. Dessa lägen kan redovisas, men originalet förklarar inte ringens och strumpans ursprung eller undersöker fotens höjd som spridningsmekanism. Den anatomiska beskrivningen ska därför knytas till det exempel och de etiketter som faktiskt finns i källan."
+                "text": "Den synliga hattsvampen är en fruktkropp, inte hela mycelet. Fruktkroppen består av hyfer och växer ut från ett mycel, som är nätverket av hyfer i underlaget. Hatt och fot är delar av den typiska fruktkroppen, medan mycelet kan finnas där svampen tar upp sin näring. Att bara benämna den synliga kroppen mycel missar därför både organisationen och sambandet mellan de synliga och mindre synliga delarna.\n\nHyfnätverket ger stor kontaktyta mot underlaget. Svampen avger enzymer som bryter ner stora molekyler utanför organismen och tar sedan upp små molekyler. Näringsupptaget behöver alltså kopplas till mycelets kontakt med underlaget, inte beskrivas som fotens enda funktion. Foten bär hatten, och hattens undersida är i stället kopplad till sporbildningen.\n\nPå skivor, i rör eller på taggar kan många basidier få plats. Basidien är en liten, klubbformad cell med sporer på utskott utanpå. Skivorna kan också kallas lameller. Här behöver man skilja den stora hatten, dess undersida, den enskilda basidien och sporerna åt; det är olika anatomiska nivåer.\n\nÄven ring och strumpa har bestämda lägen i hattsvampsmodellen. Ringen sitter på foten och förekommer ibland, medan strumpan finns vid fotbasen. Ett sådant schema ska inte göras till en beskrivning av alla svampars former. Slutsatsen är att anatomin blir begriplig när varje del kopplas till rätt sammanhang: mycelets kontakt med underlaget för näring och fruktkroppens sporbildande strukturer för förökning."
               }
             ]
           },
@@ -18276,7 +18316,11 @@
             "caption": "Anatomiska nivåer · modell efter Svampar.pdf s. 28–30."
           },
           "visual": true,
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalen förklarar inte ringens och strumpans ursprung eller undersöker fotens höjd som sporspridningsmekanism. Hymenium är en bildetikett som inte definieras utförligt; ingen ny definition har lagts till."
+          ]
         }
       ],
       "sourceNotes": [
@@ -18770,7 +18814,7 @@
         {
           "id": "ppt-mykorrhiza-r02",
           "question": "Två annars jämförbara plantor växer i näringsfattig jord. Den ena har fungerande mykorrhiza, den andra saknar kontakten. Resonera om en möjlig tillväxtskillnad, vad båda parterna får och varför man inte kan lova en fördel i alla miljöer.",
-          "answer": "Hyfernas stora kontaktyta kan hjälpa mykorrhizaplantan att få vatten och mineralämnen som begränsar växtens tillväxt. Växten ger samtidigt svampen kolhydrater från fotosyntesen: svampen är heterotrof och får en organisk resurs, medan växten kan få bättre markförsörjning. Det förklarar den tillväxtfördel presentationen och boken beskriver och varför relationen kan vara mutualism. En skillnad mellan plantorna skulle vara förenlig med mekanismen, men ensam inte bevisa att all tillväxtskillnad orsakas av mykorrhizan; andra förhållanden måste vara jämförbara. Resursbegränsning, partner och miljö påverkar nyttan, så en generell garanti följer inte av exemplet. Anatomiskt är en hyfmantel runt roten skild från en modell med hyfer inne i rotceller; båda behöver bedömas genom utbytet och effekten på partnern.",
+          "answer": "Plantan med fungerande mykorrhiza kan få en tillväxtfördel om kontakten hjälper den att få resurser som begränsar tillväxten. Mykorrhiza betyder svamprot och innebär kontakt mellan svampens mycel och växtens rötter. Det stora hyfnätverket ger markkontakt som kan hjälpa växten att ta upp vatten och mineralämnen eller lösta närsalter. I näringsfattig jord ger detta en möjlig förklaring till bättre tillväxt.\n\nUtbytet går också åt andra hållet. Växten ger svampen kolhydrater som har bildats genom fotosyntesen. Svampen är fortfarande heterotrof: den får en organisk resurs från växten i stället för att själv bilda den genom fotosyntes. Växten kan samtidigt få bättre tillgång till resurser från marken. När båda parterna gynnas är relationen mutualism.\n\nEn större planta är förenlig med denna förklaring, men visar inte ensam att hela tillväxtskillnaden beror på mykorrhizan. Övriga förhållanden måste vara jämförbara för att orsaken ska kunna bedömas. Vilka resurser som begränsar tillväxten och hur kontakten fungerar under de aktuella förhållandena behöver också tas med i bedömningen. Därför följer ingen garanti om lika stor fördel i varje miljö.\n\nÄven kontakten med roten kan beskrivas på olika sätt: en mantel av hyfer runt roten är inte samma anatomiska bild som hyfer inne i rotceller. Dessa beskrivningar ska hållas isär, medan nyttan bedöms genom resursutbytet och dess effekt på parterna. Slutsatsen är alltså en möjlig, biologiskt förklarad tillväxtfördel under jämförbara förhållanden, inte ett löfte om att mykorrhiza alltid ger samma resultat.",
           "checkpoints": [
             "Förklara markkontaktens mekanism",
             "Koppla vatten/mineraler till tillväxtförutsättningar",
@@ -18867,11 +18911,15 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Hyfernas stora kontaktyta kan hjälpa mykorrhizaplantan att få vatten och mineralämnen som begränsar växtens tillväxt. Växten ger samtidigt svampen kolhydrater från fotosyntesen: svampen är heterotrof och får en organisk resurs, medan växten kan få bättre markförsörjning. Det förklarar den tillväxtfördel presentationen och boken beskriver och varför relationen kan vara mutualism. En skillnad mellan plantorna skulle vara förenlig med mekanismen, men ensam inte bevisa att all tillväxtskillnad orsakas av mykorrhizan; andra förhållanden måste vara jämförbara. Resursbegränsning, partner och miljö påverkar nyttan, så en generell garanti följer inte av exemplet. Anatomiskt är en hyfmantel runt roten skild från en modell med hyfer inne i rotceller; båda behöver bedömas genom utbytet och effekten på partnern."
+                "text": "Plantan med fungerande mykorrhiza kan få en tillväxtfördel om kontakten hjälper den att få resurser som begränsar tillväxten. Mykorrhiza betyder svamprot och innebär kontakt mellan svampens mycel och växtens rötter. Det stora hyfnätverket ger markkontakt som kan hjälpa växten att ta upp vatten och mineralämnen eller lösta närsalter. I näringsfattig jord ger detta en möjlig förklaring till bättre tillväxt.\n\nUtbytet går också åt andra hållet. Växten ger svampen kolhydrater som har bildats genom fotosyntesen. Svampen är fortfarande heterotrof: den får en organisk resurs från växten i stället för att själv bilda den genom fotosyntes. Växten kan samtidigt få bättre tillgång till resurser från marken. När båda parterna gynnas är relationen mutualism.\n\nEn större planta är förenlig med denna förklaring, men visar inte ensam att hela tillväxtskillnaden beror på mykorrhizan. Övriga förhållanden måste vara jämförbara för att orsaken ska kunna bedömas. Vilka resurser som begränsar tillväxten och hur kontakten fungerar under de aktuella förhållandena behöver också tas med i bedömningen. Därför följer ingen garanti om lika stor fördel i varje miljö.\n\nÄven kontakten med roten kan beskrivas på olika sätt: en mantel av hyfer runt roten är inte samma anatomiska bild som hyfer inne i rotceller. Dessa beskrivningar ska hållas isär, medan nyttan bedöms genom resursutbytet och dess effekt på parterna. Slutsatsen är alltså en möjlig, biologiskt förklarad tillväxtfördel under jämförbara förhållanden, inte ett löfte om att mykorrhiza alltid ger samma resultat."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalen ger ingen exakt storlek på tillväxtfördelen och ingen fullständig typindelning som förklarar skillnaden mellan hyfmantel och hyfer i rotceller."
+          ]
         }
       ],
       "sourceNotes": [
@@ -19397,7 +19445,7 @@
         {
           "id": "ppt-tillvaxt-nedbrytning-r02",
           "question": "Två likadana brödbitar förvaras olika: en i en varm, fuktig miljö och en kallare och torrare. Förutsäg en möjlig skillnad i mögeltillväxt, förklara mekanismen och ange vad försöket behöver kontrollera för att stödja slutsatsen.",
-          "answer": "Om övriga förhållanden är jämförbara är snabbare mögeltillväxt på den varma, fuktiga brödbiten förenlig med presentationens villkor. Tillräcklig fukt, lämplig temperatur och organiskt material kan låta sporer gro och hyfer bilda mycel. Möglet tar näring från det döda organiska materialet genom yttre enzymnedbrytning och upptag av små molekyler; brödet ger inte svampen kloroplaster. Kallare och torrare förhållanden kan bromsa tillväxten, men frånvaro av synligt mögel visar inte att alla sporer dött. För en stark orsaksbedömning behöver exempelvis brödets mängd, exponering för sporer, tid och andra förvaringsförhållanden vara jämförbara. Eftersom både temperatur och fukt ändras samtidigt kan skillnaden inte ensam tilldelas exakt en av dem; man kan jämföra en faktor i taget. Källan anger inte någon exakt tillväxthastighet.",
+          "answer": "Om övriga förhållanden är jämförbara kan den varma, fuktiga brödbiten få snabbare mögeltillväxt än den kallare och torrare. Fukt, lämplig temperatur och organiskt material kan ge sporer gynnsamma groningsvillkor. När sporerna gror utvecklas hyfer som bildar ett mycel. Kalla och torra förhållanden kan i stället bromsa tillväxten, vilket gör skillnaden mellan brödbitarna biologiskt rimlig.\n\nBrödet fungerar som organiskt underlag för näringsupptaget. Mögelsvampen avger enzymer som bryter ner större molekyler utanför kroppen och tar sedan upp små molekyler. Näringen kommer alltså från det döda materialet, inte från fotosyntes; att växa på bröd ger inte svampen kloroplaster. Därför behöver både miljövillkoren och tillgången till organiskt material ingå i förklaringen.\n\nFrånvaro av synligt mögel på det kallare provet bevisar däremot inte att alla sporer har dött. Långsam eller ännu osynlig tillväxt och förlorad groningsförmåga är olika saker. Man måste undvika att dra den starkare slutsatsen enbart från den svagare observationen.\n\nFör att bedöma orsaken behöver brödets mängd, exponeringen för sporer, observationstiden och andra förvaringsförhållanden vara jämförbara. Eftersom både temperatur och fukt ändras samtidigt visar försöket inte exakt vilken av dem som orsakar hur stor del av skillnaden. Jag skulle därför också jämföra en faktor i taget. Slutsatsen kan då bli att vissa förhållanden bromsar tillväxten, medan en exakt tillväxthastighet eller effekten av varje enskild faktor kräver en mer avgränsad jämförelse.",
           "checkpoints": [
             "Förutsäg skillnad villkorat",
             "Koppla fukt/temperatur till groning och tillväxt",
@@ -19486,11 +19534,15 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Om övriga förhållanden är jämförbara är snabbare mögeltillväxt på den varma, fuktiga brödbiten förenlig med presentationens villkor. Tillräcklig fukt, lämplig temperatur och organiskt material kan låta sporer gro och hyfer bilda mycel. Möglet tar näring från det döda organiska materialet genom yttre enzymnedbrytning och upptag av små molekyler; brödet ger inte svampen kloroplaster. Kallare och torrare förhållanden kan bromsa tillväxten, men frånvaro av synligt mögel visar inte att alla sporer dött. För en stark orsaksbedömning behöver exempelvis brödets mängd, exponering för sporer, tid och andra förvaringsförhållanden vara jämförbara. Eftersom både temperatur och fukt ändras samtidigt kan skillnaden inte ensam tilldelas exakt en av dem; man kan jämföra en faktor i taget. Källan anger inte någon exakt tillväxthastighet."
+                "text": "Om övriga förhållanden är jämförbara kan den varma, fuktiga brödbiten få snabbare mögeltillväxt än den kallare och torrare. Fukt, lämplig temperatur och organiskt material kan ge sporer gynnsamma groningsvillkor. När sporerna gror utvecklas hyfer som bildar ett mycel. Kalla och torra förhållanden kan i stället bromsa tillväxten, vilket gör skillnaden mellan brödbitarna biologiskt rimlig.\n\nBrödet fungerar som organiskt underlag för näringsupptaget. Mögelsvampen avger enzymer som bryter ner större molekyler utanför kroppen och tar sedan upp små molekyler. Näringen kommer alltså från det döda materialet, inte från fotosyntes; att växa på bröd ger inte svampen kloroplaster. Därför behöver både miljövillkoren och tillgången till organiskt material ingå i förklaringen.\n\nFrånvaro av synligt mögel på det kallare provet bevisar däremot inte att alla sporer har dött. Långsam eller ännu osynlig tillväxt och förlorad groningsförmåga är olika saker. Man måste undvika att dra den starkare slutsatsen enbart från den svagare observationen.\n\nFör att bedöma orsaken behöver brödets mängd, exponeringen för sporer, observationstiden och andra förvaringsförhållanden vara jämförbara. Eftersom både temperatur och fukt ändras samtidigt visar försöket inte exakt vilken av dem som orsakar hur stor del av skillnaden. Jag skulle därför också jämföra en faktor i taget. Slutsatsen kan då bli att vissa förhållanden bromsar tillväxten, medan en exakt tillväxthastighet eller effekten av varje enskild faktor kräver en mer avgränsad jämförelse."
               }
             ]
           },
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Originalet anger inga exakta temperaturgränser eller tillväxthastigheter. Kontrollerade jämförelser är ett metodresonemang, inte ett nytt rapporterat resultat."
+          ]
         }
       ],
       "sourceNotes": [
@@ -20334,7 +20386,7 @@
         {
           "id": "ppt-basidie-livscykel-r03",
           "question": "En elev säger: ”Efter att två mycel förenats är hela svampen diploid. När hatten växer sker meios i alla hyfer så att sporer kan bildas.” Analysera felen med basidiemodellen och förklara hur stor fruktkropp, tvåkärnighet och sexuella kärnsteg hänger ihop.",
-          "answer": "Eleven likställer plasmogami med kärnsammanslagning och blandar sedan ihop tillväxt med meios. Vid plasmogami förenas kompatibla mycels cellinnehåll, men de haploida kärnorna hålls åtskilda. Sekundärt mycel och mycket av fruktkroppsvävnaden är i den typiska modellen n + n, inte en enda 2n-kärna. Mycelet kan växa och ge en stor fruktkropp utan att varje hyf genomgår meios. Figuren visar tillväxten före basidiets senare kärnsteg. De sexuella övergångarna är lokaliserade till basidier: kärnsammanslagning ger den avbildade diploida kärnövergången, följd av meios till haploida kärnor som hamnar i externa basidiesporer. Därmed återkopplas cykeln till nya primära mycel. Kroppens storlek eller antalet kärnor är inte ensamt ett mått på ploiditet. Förklaringen gäller den typiska avbildade basidiesvampcykeln; andra svampgrupper kan ha andra livscykler.",
+          "answer": "Eleven blandar först ihop plasmogami med kärnsammanslagning och därefter fruktkroppens tillväxt med meios. Vid plasmogami förenas kompatibla primära mycels cellinnehåll, men de haploida kärnorna kan fortfarande vara åtskilda. Det sekundära mycelet och mycket av fruktkroppens vävnad kan i den beskrivna modellen anges som n + n. Det är två separata kärnor med enkel kromosomuppsättning vardera, inte en enda diploid kärna med 2n.\n\nDet sekundära mycelet kan växa och utveckla unga fruktkroppsstadier och en mogen fruktkropp. Denna tillväxt behöver hållas isär från de senare sexuella kärnstegen. Att svampen får en stor hatt visar inte i sig att alla kärnor har förenats eller att meios pågår i alla hyfer. Kroppens storlek och kärnornas organisation är olika egenskaper.\n\nI basidierna följer i stället kärnsammanslagningen, där två haploida kärnor förenas till en diploid kärna, 2n. Därefter sker meios, som i exemplet ger fyra haploida kärnor. Sporer utvecklas på utskott utanpå basidiet och kan släppas till omgivningen. När de hamnar gynnsamt kan nya primära mycel bildas, så att cykeln fortsätter.\n\nSlutsatsen är att mycelförening, tillväxt, kärnsammanslagning och meios inte är utbytbara steg. De förklarar olika övergångar i samma livscykel. Modellen gäller den beskrivna basidiesvampcykeln och ska inte göras till en exakt regel för alla svampgruppers kärnantal, sporantal eller utveckling.",
           "checkpoints": [
             "Identifiera skillnaden mellan plasmogami och kärnsammanslagning",
             "Förklara n+n kontra en 2n-kärna",
@@ -20457,7 +20509,7 @@
             "examples": [
               {
                 "label": "Exempel på välutvecklat svar",
-                "text": "Eleven likställer plasmogami med kärnsammanslagning och blandar sedan ihop tillväxt med meios. Vid plasmogami förenas kompatibla mycels cellinnehåll, men de haploida kärnorna hålls åtskilda. Sekundärt mycel och mycket av fruktkroppsvävnaden är i den typiska modellen n + n, inte en enda 2n-kärna. Mycelet kan växa och ge en stor fruktkropp utan att varje hyf genomgår meios. Figuren visar tillväxten före basidiets senare kärnsteg. De sexuella övergångarna är lokaliserade till basidier: kärnsammanslagning ger den avbildade diploida kärnövergången, följd av meios till haploida kärnor som hamnar i externa basidiesporer. Därmed återkopplas cykeln till nya primära mycel. Kroppens storlek eller antalet kärnor är inte ensamt ett mått på ploiditet. Förklaringen gäller den typiska avbildade basidiesvampcykeln; andra svampgrupper kan ha andra livscykler."
+                "text": "Eleven blandar först ihop plasmogami med kärnsammanslagning och därefter fruktkroppens tillväxt med meios. Vid plasmogami förenas kompatibla primära mycels cellinnehåll, men de haploida kärnorna kan fortfarande vara åtskilda. Det sekundära mycelet och mycket av fruktkroppens vävnad kan i den beskrivna modellen anges som n + n. Det är två separata kärnor med enkel kromosomuppsättning vardera, inte en enda diploid kärna med 2n.\n\nDet sekundära mycelet kan växa och utveckla unga fruktkroppsstadier och en mogen fruktkropp. Denna tillväxt behöver hållas isär från de senare sexuella kärnstegen. Att svampen får en stor hatt visar inte i sig att alla kärnor har förenats eller att meios pågår i alla hyfer. Kroppens storlek och kärnornas organisation är olika egenskaper.\n\nI basidierna följer i stället kärnsammanslagningen, där två haploida kärnor förenas till en diploid kärna, 2n. Därefter sker meios, som i exemplet ger fyra haploida kärnor. Sporer utvecklas på utskott utanpå basidiet och kan släppas till omgivningen. När de hamnar gynnsamt kan nya primära mycel bildas, så att cykeln fortsätter.\n\nSlutsatsen är att mycelförening, tillväxt, kärnsammanslagning och meios inte är utbytbara steg. De förklarar olika övergångar i samma livscykel. Modellen gäller den beskrivna basidiesvampcykeln och ska inte göras till en exakt regel för alla svampgruppers kärnantal, sporantal eller utveckling."
               }
             ]
           },
@@ -20467,7 +20519,11 @@
             "caption": "Förklarande modell efter Svampar.pdf s. 35, 37 och 39."
           },
           "visual": true,
-          "sourceCorrected": true
+          "sourceCorrected": true,
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Förklaringen gäller den avbildade basidiemodellen. Originalen ger inte generella antal eller exakta tidsgränser för samtliga svampgrupper."
+          ]
         }
       ],
       "sourceNotes": [
@@ -21317,7 +21373,7 @@
           "teacherNumber": 1,
           "teacherOriginal": true,
           "question": "Vad är psilocybin?",
-          "answer": "Psilocybin är en psykedelisk substans som finns i vissa svampar, de som filmen kallar magiska svampar. Det är alltså ett ämne i svampen, inte namnet på själva svampen. Programmet beskriver ämnet som hallucinogent och narkotikaklassat vid filmens tidpunkt 2022. Under påverkan kan sinnesupplevelser, tankar och känslor förändras kraftigt; ett patientexempel beskriver intensivt förändrade färger och ljud.\n\nForskarna undersöker om psilocybin tillsammans med terapeutiskt stöd kan hjälpa vid framför allt depression. Filmens hjärnförklaring är att aktiviteten minskar i vissa kontrollcentrum och att andra delar av hjärnan kommunicerar friare. Det skulle kunna göra invanda tankemönster mindre låsta, vilket illustreras med en snökula som skakas om. Det är en förklaringsmodell som knyts till hjärnavbildning, inte ett bevis för exakt hur varje patients depression förändras. Definitionen av ämnet, den förändrade upplevelsen och frågan om behandlingsnytta behöver därför hållas isär.",
+          "answer": "Psilocybin är en psykedelisk, hallucinogen substans som finns i vissa svampar, ofta kallade magiska svampar. Det är ett ämne i svampen och inte namnet på själva svampen. Vid dokumentärens tidpunkt 2022 beskrivs ämnet som narkotikaklassat. Under påverkan kan sinnesupplevelser, tankar och känslor förändras kraftigt. En patient beskriver till exempel intensivt förändrade färger och ljud.\n\nPsilocybin undersöks tillsammans med terapeutiskt stöd som en möjlig behandling framför allt vid depression. En möjlig förklaring är att aktiviteten minskar i vissa kontrollcentrum och att andra delar av hjärnan kommunicerar friare. Invanda tankemönster skulle då kunna bli mindre låsta. Liknelsen med en snökula som skakas om gör denna förändring lättare att föreställa sig.\n\nHjärnförklaringen är en modell som knyts till hjärnavbildning. Den bevisar inte exakt hur varje patients depression förändras. Därför behöver ämnets egenskaper, den akuta upplevelsen och den eventuella behandlingsnyttan hållas isär: att ett ämne förändrar upplevelsen betyder inte i sig att det ger en varaktig förbättring.",
           "factIds": [
             "film-psilocybin-steve-fact-1",
             "film-psilocybin-steve-fact-3",
@@ -21411,14 +21467,15 @@
             "uncertainties": [
               "Inga specifika receptorfakta eller kemiska omvandlingssteg har verifierats i materialet."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-02",
           "teacherNumber": 2,
           "teacherOriginal": true,
           "question": "Vilka sjukdomar eller besvär hoppas forskarna kunna behandla?",
-          "answer": "I psilocybinspåret undersöks främst depression. Filmen beskriver ett brittiskt försök där psilocybin jämförs med antidepressiv medicin och en liten svensk depressionsstudie som pågår vid Karolinska institutet 2022. Ett annat forskningsområde är depression och dödsångest hos cancerpatienter. Målet där är att minska psykiskt lidande; filmen säger inte att psilocybin behandlar eller botar själva cancersjukdomen.\n\nDokumentären tar också upp PTSD, posttraumatiskt stressyndrom, men dess centrala PTSD-försök använder MDMA tillsammans med terapi. MDMA är en annan substans än psilocybin. Även den planerade svenska studien för personer som utsatts för sexuella övergrepp gäller MDMA. Det vore därför missvisande att svara enbart PTSD på en fråga om vad psilocybin undersöks för.\n\nFlera andra besvär nämns hos patienter i filmen, men att ett besvär förekommer hos en patient betyder inte att filmen visar en särskild psilocybinbehandling för det. En säker sammanfattning är därför psilocybin vid depression och psykiskt lidande med dödsångest hos cancerpatienter, samt MDMA vid PTSD som ett separat forskningsspår.",
+          "answer": "Psilocybin undersöks främst som möjlig behandling vid depression. I ett brittiskt försök jämförs psilocybin med antidepressiv medicin, och vid Karolinska institutet pågår en liten depressionsstudie under 2022. Ett annat forskningsområde är depression och dödsångest hos cancerpatienter. Där är målet att minska psykiskt lidande, inte att behandla eller bota själva cancersjukdomen.\n\nPTSD, posttraumatiskt stressyndrom, är ett separat forskningsspår. De centrala PTSD-försöken använder MDMA tillsammans med terapi. Även den planerade svenska studien för personer som utsatts för sexuella övergrepp gäller MDMA. Psilocybin och MDMA är olika substanser, och deras undersökta användningsområden måste därför hållas isär.\n\nAtt en patient samtidigt har flera besvär betyder inte att varje besvär undersöks som ett eget behandlingsområde. Man behöver skilja mellan patientens hela livssituation och det tillstånd som en viss studie faktiskt prövar behandlingen mot. De viktigaste sambanden är alltså psilocybin vid depression och psykiskt lidande med dödsångest hos cancerpatienter, samt MDMA vid PTSD. Att svara enbart PTSD skulle blanda samman de två behandlingsspåren.",
           "factIds": [
             "film-introduktion-fact-2",
             "film-psilocybin-steve-fact-3",
@@ -21493,14 +21550,15 @@
             "uncertainties": [
               "Filmen ger inte resultat eller allmänt godkännande för alla nämnda besvär."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-03",
           "teacherNumber": 3,
           "teacherOriginal": true,
           "question": "Hur beskriver patienterna sina upplevelser av behandlingen?",
-          "answer": "Patienterna beskriver starkt förändrade sinnesupplevelser och känslor. I ett depressionsfall upplevs färger, ljud och dimensioner intensivt, som att vara inne i ett kalejdoskop. Personen berättar också om att en föreställning om det egna jaget eller egot föll samman. Vid en annan session blev upplevelsen mörk och krävande, med erfarenheter som personen behövde ta itu med, innan den övergick i starka känslor av kärlek. I ett annat patientexempel kallas upplevelsen krävande medicin och terapi, snarare än något personen gör enbart för njutning.\n\nDet är alltså inte korrekt att sammanfatta upplevelserna som att alla bara blir lyckliga eller får ett behagligt rus. En och samma person kan ha olika upplevelser vid olika sessioner. De kan vara meningsfulla och samtidigt svåra.\n\nDet är också viktigt att skilja den hallucinogena upplevelsen från att diagnostisera patienterna med psykos. Filmen nämner psykos som en risk vid osäkra självförsök, men patienternas berättelser om förändrad perception bevisar inte i sig att de hade en psykos. Berättelserna visar hur enskilda personer upplevde behandlingen. De kan bidra till förståelsen av möjliga effekter, men visar inte hur vanlig, varaktig eller säker en förbättring är i en större patientgrupp.",
+          "answer": "Patienterna beskriver starkt förändrade sinnesupplevelser och känslor. Steve, som har levt med depression, upplever färger, ljud och dimensioner intensivt, som att vara inne i ett kalejdoskop. Han beskriver också att föreställningen om det egna jaget eller egot faller samman. Vid en annan session blir upplevelsen mörk och krävande, med erfarenheter som han behöver ta itu med, innan den övergår i starka känslor av kärlek. En annan patient beskriver behandlingen som krävande medicin och terapi snarare än något som görs enbart för njutning.\n\nUpplevelserna kan alltså vara meningsfulla och samtidigt svåra. Samma person kan reagera olika vid olika sessioner, och ett behagligt rus är inte detsamma som behandlingsnytta. Det vore därför missvisande att sammanfatta behandlingen som att alla bara blir lyckliga.\n\nFörändrad perception ska inte heller automatiskt likställas med psykos. Psykos nämns som en risk vid osäkra självförsök, men en berättelse om förändrade färger eller självupplevelser räcker inte för att fastställa en sådan diagnos. Patientberättelserna hjälper oss att förstå enskilda erfarenheter. De kan däremot inte ensamma avgöra hur vanlig, varaktig eller säker en förbättring är i en större patientgrupp.",
           "factIds": [
             "film-psilocybin-steve-fact-5",
             "film-psilocybin-steve-fact-6",
@@ -21585,14 +21643,15 @@
             "uncertainties": [
               "Varje patients upplevelse kan inte förutsägas från exemplen."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-04",
           "teacherNumber": 4,
           "teacherOriginal": true,
           "question": "Vilka positiva effekter nämns i filmen?",
-          "answer": "Filmen beskriver minskade depressionssymtom och förbättrat välbefinnande efter psilocybin tillsammans med terapeutiskt stöd. I det lilla brittiska jämförelseförsöket uppges nästan 30 procent i gruppen med antidepressiv medicin ha minskade depressionssymtom, jämfört med 60 procent i psilocybingruppen. Grafiken visar 30 respektive 60 procent. Uppgifterna avser andelar av deltagarna med den förbättring som filmen redovisar, inte att allas symtom minskade med 30 eller 60 procent och inte att motsvarande andel av alla människor med depression blir permanent botad.\n\nEn forskarintervju beskriver också starkare och snabbare antidepressiv effekt, större välbefinnande och bättre kontakt med sig själv och andra. Ett patientfall beskrivs som inte längre deprimerat drygt två år senare, och personen berättar om större motståndskraft. Det är en individuell långtidsberättelse, inte hela gruppens långtidsresultat. Hos cancerpatienter är minskad depression och dödsångest möjliga positiva effekter som undersöks.\n\nDokumentären rapporterar dessutom att två tredjedelar i en MDMA-terapigrupp efter två månader inte längre hade PTSD. Det gäller en annan substans, ett annat tillstånd och en annan studie och ska inte tillskrivas psilocybin.\n\nFörändrad hjärnaktivitet är ett forskningsfynd, men inte i sig samma sak som positiv klinisk effekt. För att kalla något behandlingsnytta behöver man också undersöka hur patienternas symtom, funktion och välbefinnande förändras.",
+          "answer": "Minskade depressionssymtom och förbättrat välbefinnande är centrala positiva effekter som rapporteras efter psilocybin tillsammans med terapeutiskt stöd. I det lilla brittiska jämförelseförsöket hade nästan 30 procent i gruppen med antidepressiv medicin minskade depressionssymtom, jämfört med 60 procent i psilocybingruppen. Grafiken avrundar andelarna till 30 respektive 60 procent. Andelarna gäller deltagare med den redovisade förbättringen. De betyder varken att varje persons symtom minskade med dessa procenttal eller att motsvarande andel av alla människor med depression blir permanent botad.\n\nEn forskare beskriver en starkare och snabbare antidepressiv effekt, större välbefinnande och bättre kontakt med sig själv och andra. Steve beskrivs som inte längre deprimerad drygt två år efter behandlingen och berättar om större motståndskraft. Hans förlopp ger ett exempel på möjlig varaktig förbättring, men är ingen långtidsuppföljning av hela gruppen. Minskad depression och dödsångest hos cancerpatienter undersöks också som möjliga positiva effekter.\n\nI MDMA-försöket uppges två tredjedelar i terapigruppen inte längre ha PTSD efter två månader. Det resultatet gäller en annan substans, ett annat tillstånd och en annan studie och ska därför hållas isär från psilocybinresultaten.\n\nFörändrad hjärnaktivitet kan bidra till att förstå en möjlig verkan, men är inte ensam ett mått på behandlingsnytta. En sådan bedömning behöver också omfatta patienternas symtom, funktion och välbefinnande.",
           "factIds": [
             "film-psilocybin-resultat-fact-1",
             "film-psilocybin-resultat-fact-2",
@@ -21696,14 +21755,15 @@
             "uncertainties": [
               "Fullständig statistik för varje mått finns inte i filmen."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-05",
           "teacherNumber": 5,
           "teacherOriginal": true,
           "question": "Vilka risker eller nackdelar tas upp?",
-          "answer": "Riskerna behöver delas upp i kategorier. En akut psilocybinupplevelse kan vara mörk och känslomässigt krävande, som ett patientexempel visar. Den hallucinogena påverkan förändrar hur personen upplever situationen och beskrivs också som en biverkan ur sjukvårdens perspektiv. Det betyder inte att varje stark upplevelse är en medicinsk komplikation, men den kan belasta patienten och kräva stöd.\n\nI den större psilocybinstudien nämns misstankar om allvarliga biverkningar och tre självmordsförsök som skulle undersökas vidare. Det är allvarliga säkerhetssignaler. Filmen visar däremot inte att psilocybin bevisligen orsakade försöken. Att orsaken är osäker gör inte händelserna oviktiga, och det är lika fel att kalla dem bevis för riskfrihet som att göra dem till ett fastslaget orsakssamband.\n\nFilmen uttrycker också oro för att människor som mår dåligt försöker själva utan professionellt stöd och nämner psykos som en möjlig risk. Den ger ingen exakt riskandel. Övervakad behandling med urval och stöd ska inte likställas med okontrollerad användning.\n\nVissa andra riskuppgifter gäller MDMA: långvarigt bruk kopplas till hjärtsjukdom, depression, ångest och minnesproblem. En MDMA-patient fick självmordstankar efter ett alltför snabbt terapiavslut. Uppgiften om att en forskare inte bedömer ämnet som beroendeframkallande avser också MDMA. Dessa uppgifter ska inte utan stöd flyttas över till psilocybin.\n\nTill nackdelarna hör dessutom osäkerhet om effektens varaktighet, svårigheter med blindning och behov av personal och uppföljning. Kunskapsluckor är skäl till försiktighet, men ska inte beskrivas som om varje tänkbar skada redan är dokumenterad.",
+          "answer": "En akut psilocybinupplevelse kan bli mörk och känslomässigt krävande. Den hallucinogena påverkan förändrar hur personen upplever situationen och kan vara en belastning som kräver stöd. Samtidigt är inte varje stark eller svår upplevelse automatiskt en medicinsk komplikation. Man behöver skilja upplevelsens intensitet från hur behandlingen påverkar hälsan.\n\nI den större psilocybinstudien rapporteras misstankar om allvarliga biverkningar och tre självmordsförsök som behöver undersökas vidare. Händelserna är allvarliga säkerhetssignaler, men orsaken är inte fastställd. Att de inträffar i samband med en studie bevisar inte att psilocybin har orsakat dem. Osäkerheten gör inte heller händelserna oviktiga eller behandlingen riskfri.\n\nOsäkra självförsök utan professionellt stöd väcker också oro, och psykos nämns som en möjlig risk. Övervakad behandling med urval och stöd kan därför inte likställas med okontrollerad användning. Någon exakt riskandel kan inte anges här.\n\nAndra riskuppgifter gäller MDMA. Långvarigt bruk kopplas till hjärtsjukdom, depression, ångest och minnesproblem. En MDMA-patient får dessutom självmordstankar efter ett alltför snabbt terapiavslut. Forskarbedömningen att ämnet inte verkar beroendeframkallande gäller också MDMA. Dessa uppgifter kan inte automatiskt överföras till psilocybin eller användas som en allmän säkerhetsgaranti.\n\nTill nackdelarna hör även osäker varaktighet, svårigheter att bevara blindningen och behovet av personal och uppföljning. Riskbedömningen behöver alltså omfatta både substansen, patientens tillstånd och hela behandlingsförloppet. Samtidigt ska kunskapsluckor skiljas från skador som faktiskt har dokumenterats.",
           "factIds": [
             "film-psilocybin-steve-fact-5",
             "film-ki-psilocybin-fact-5",
@@ -21815,14 +21875,15 @@
               "Självmordsförsökens orsaker fastslås inte.",
               "Exakta riskandelar och generella beroendeegenskaper för psilocybin kan inte hämtas här."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-06",
           "teacherNumber": 6,
           "teacherOriginal": true,
           "question": "Varför ges behandlingen tillsammans med utbildad personal?",
-          "answer": "Utbildad personal behövs eftersom behandlingen innebär mer än att ge en substans. I det brittiska psilocybinförsöket fanns terapeuter vid deltagarnas sida under två sessioner, och samtal hölls före och efter. Den psykedeliska upplevelsen kan förändra sinnesintryck, tankar och känslor kraftigt och ibland bli mörk eller krävande. En rimlig slutsats är att personalen behöver kunna stödja patienten genom sådana reaktioner och hjälpa till med fortsatt bearbetning.\n\nMiljön spelar också roll. Filmen beskriver att rummets utseende och ljuden, bland annat musik, kan påverka upplevelsen. Personalens närvaro och ett genomtänkt sammanhang är därför delar av den behandling som faktiskt undersöks. Man kan inte anta att ett självförsök utan samma stöd ger samma resultat.\n\nUppföljning behöver också tas på allvar. I MDMA-spåret skildras allvarliga svårigheter efter ett alltför snabbt terapiavslut. Det är ett exempel från en annan substans, men visar varför en krävande behandling behöver bedömas som ett förlopp före, under och efter sessionerna. Filmen uttrycker dessutom oro för egna försök utan professionellt stöd.\n\nSkälet är alltså inte enbart att någon ska kontrollera intaget för att förhindra missbruk. Det handlar om stöd, hantering av svåra upplevelser, lämpligt sammanhang och uppföljning. Närvaro av personal är samtidigt ingen garanti för att riskerna försvinner.",
+          "answer": "Behandlingen innebär mer än att ge en substans. I det brittiska psilocybinförsöket finns terapeuter vid deltagarnas sida under två sessioner, med samtal före och efter. Eftersom upplevelsen kan förändra sinnesintryck, tankar och känslor kraftigt och ibland bli mörk eller krävande är stöd genom reaktionerna och hjälp med fortsatt bearbetning motiverade.\n\nÄven omgivningen har betydelse. Rummets utseende och ljud, bland annat musik, kan påverka upplevelsen. Personalen och det genomtänkta sammanhanget är därför delar av den undersökta behandlingen. Om stödet tas bort ändras upplägget, och då kan man inte anta att ett självförsök ger samma resultat.\n\nUppföljningen behöver tas på lika stort allvar som själva sessionen. I MDMA-spåret får en patient allvarliga svårigheter efter ett alltför snabbt terapiavslut. Det är ett individuellt förlopp med en annan substans och bevisar inget exakt krav för psilocybinbehandling. Däremot talar det för att en krävande behandling behöver bedömas som ett förlopp före, under och efter sessionerna. Oron för egna försök utan professionellt stöd stärker betydelsen av att ta sammanhanget på allvar.\n\nPersonalens uppgift kan därför inte reduceras till att kontrollera intaget för att förhindra missbruk. Stöd, hantering av svåra upplevelser, lämplig miljö och uppföljning behöver vägas in. Närvaro av utbildad personal är samtidigt ingen garanti för att alla risker försvinner.",
           "factIds": [
             "film-psilocybin-forsok-fact-4",
             "film-miljo-cancer-fact-1",
@@ -21908,14 +21969,15 @@
               "Filmen anger inte alla yrkesutbildningar eller säkerhetsprotokoll.",
               "Stödets exakta bidrag till effekt och säkerhet isoleras inte."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-07",
           "teacherNumber": 7,
           "teacherOriginal": true,
           "question": "Vilka bevis använder forskarna för att visa att behandlingen fungerar?",
-          "answer": "Det viktigaste kliniska belägget som filmen redovisar är jämförelseförsök. I det brittiska depressionsförsöket ingick nästan sextio personer. Den ena gruppen fick escitalopram dagligen under sex veckor och den andra två stora doser psilocybin. Båda fick terapeutiskt stöd. Filmen uppger minskade depressionssymtom hos nästan 30 procent i läkemedelsgruppen och 60 procent i psilocybingruppen. En jämförelse är mer informativ än enbart positiva berättelser, eftersom man då kan undersöka om gruppernas utfall skiljer sig åt.\n\nForskarna använder även magnetkamera för att studera förändrad hjärnaktivitet och kommunikation. Förändringar som finns kvar flera veckor efter behandlingen nämns som argument emot att allt skulle vara placebo. Hjärnavbildning kan stödja att biologiska förändringar sker, men avgör inte ensam om de orsakar symtomförbättring, hur stor behandlingsnyttan är eller om den är säker.\n\nFilmen nämner dessutom en större psilocybinstudie med över tvåhundra patienter samt personliga uppföljningar. Det större försöket kan ge mer underlag, men har också säkerhetssignaler. Ett förbättrat patientfall efter två år visar individuell varaktighet, inte hela gruppens långtidsresultat.\n\nBeläggen behöver därför vägas tillsammans med begränsningarna. Det brittiska försöket var litet och avsett att vara dubbelblint, men påverkan kunde avslöja gruppen. Då blir förväntningarnas bidrag svårt att skilja från substansens specifika effekt. Ett vetenskapligt svar bör därför tala om belägg för en lovande behandling och fortsatt osäkerhet, inte om ett enda bevis som slutgiltigt avgör allt.",
+          "answer": "Jämförelseförsök ger ett starkare kliniskt underlag än enstaka positiva berättelser. I det brittiska depressionsförsöket ingår nästan sextio personer. En grupp får escitalopram dagligen under sex veckor och den andra två stora doser psilocybin. Båda får terapeutiskt stöd. Minskade depressionssymtom rapporteras hos nästan 30 procent i läkemedelsgruppen och 60 procent i psilocybingruppen. Genom jämförelsen kan man undersöka om behandlingsuppläggen ger olika utfall i den studerade gruppen.\n\nMagnetkamera används också för att undersöka hjärnaktivitet och kommunikation. Förändringar som finns kvar flera veckor efter behandlingen framförs som ett argument mot att förbättringen enbart skulle vara placebo. Hjärnavbildningen kan stödja att biologiska förändringar sker, men avgör inte ensam om förändringarna orsakar symtomförbättring, hur stor nyttan är eller om behandlingen är säker.\n\nEn större psilocybinstudie med över tvåhundra patienter ger mer underlag men innehåller också säkerhetssignaler. Personliga uppföljningar tillför ytterligare information. Att en patient fortfarande är förbättrad efter två år visar däremot individuell varaktighet och kan inte användas som hela gruppens långtidsresultat.\n\nDet brittiska försöket är litet och avsett att vara dubbelblint, men den märkbara påverkan kan avslöja försöksgruppen. Därmed blir det svårt att skilja förväntningarnas bidrag från substansens specifika effekt. Den samlade slutsatsen är därför att det finns belägg för en lovande behandling samtidigt som frågor om orsak, varaktighet och säkerhet återstår. Ett enskilt fynd avgör inte alla dessa frågor.",
           "factIds": [
             "film-psilocybin-forsok-fact-1",
             "film-psilocybin-forsok-fact-2",
@@ -22066,14 +22128,15 @@
               "Fördelningen mellan substans, stöd och förväntningar är omdiskuterad.",
               "Allmän långtidsnytta kan inte fastställas här."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-08",
           "teacherNumber": 8,
           "teacherOriginal": true,
           "question": "Vilka argument framförs av personer som är skeptiska?",
-          "answer": "En central invändning är att den tydliga psykedeliska påverkan kan avslöja om deltagaren fått aktiv substans eller placebo. Försöket kan då vara dubbelblint enligt planen men fungera sämre som blind jämförelse i praktiken. Om deltagaren tror sig ha fått den behandling som ska hjälpa kan förväntningarna påverka utfallet. Kritikern säger därför att man inte vet hur mycket av resultaten som är placebo. Det är något annat än att all förbättring har bevisats vara placebo.\n\nFilmen markerar också att resultat är preliminära och att det brittiska försöket var litet. Enskilda långvariga förbättringar kan inte användas för att lova samma effekt åt alla. Säkerhetssignaler och osäkerhet om vilka patienter som kan skadas talar för noggrannare prövning.\n\nFrån vårdens perspektiv lyfts den hallucinogena effekten som en belastning eller biverkan. Det är ännu en öppen fråga om denna upplevelse behövs för behandlingsnyttan eller om den skulle kunna undvikas. Kommersiella framtidslöften och stark entusiasm ger också anledning att fråga om slutsatserna blir större än beläggen; det är en källkritisk tolkning, inte ett bevis för att företagens studier är fel.\n\nEtt genomarbetat skeptiskt argument beskriver alltså ett konkret metodproblem eller en risk och förklarar hur det begränsar slutsatsen. Det räcker inte att bara säga att allt är önsketänkande.",
+          "answer": "Ett centralt skeptiskt argument är att den tydliga psykedeliska påverkan kan avslöja vem som har fått aktiv substans. Ett försök kan alltså vara planerat som dubbelblint men fungera sämre som blind jämförelse i praktiken. Om deltagaren tror sig ha fått den behandling som ska hjälpa kan förväntningarna påverka utfallet. Då blir det svårt att avgöra hur mycket av förbättringen som beror på placebo och hur mycket som är substansens specifika bidrag. Det betyder inte att all förbättring har bevisats vara placebo.\n\nDet brittiska försöket är dessutom litet och resultaten preliminära. Enskilda långvariga förbättringar räcker inte för att lova samma effekt åt alla patienter. Säkerhetssignaler och osäkerhet om vilka patienter som kan skadas talar också för noggrannare prövning innan långtgående slutsatser dras.\n\nDen hallucinogena upplevelsen kan vara en belastning eller biverkan ur vårdens perspektiv. Om upplevelsen behövs för behandlingsnyttan eller kan undvikas är fortfarande en öppen fråga. Det finns därför en möjlig avvägning mellan önskan att minska den krävande påverkan och risken att samtidigt förändra den eventuella nyttan.\n\nStark entusiasm och kommersiella framtidslöften kan också göra att förväntningarna blir större än beläggen. Det är ett skäl att granska argumenten kritiskt, men bevisar inte att företagens studier är fel. En välgrundad skeptisk slutsats pekar därför på konkreta metodproblem och risker och förklarar hur de begränsar vad man kan lova, i stället för att avfärda allt som önsketänkande.",
           "factIds": [
             "film-metodkritik-fact-1",
             "film-metodkritik-fact-2",
@@ -22182,14 +22245,15 @@
               "Filmen kvantifierar inte förväntningarnas bidrag.",
               "Den avgör inte om hallucinationer kan undvikas med bibehållen nytta."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-lararfragor-recall-09",
           "teacherNumber": 9,
           "teacherOriginal": true,
           "question": "Något i filmen som förvånade dig?",
-          "answer": "Ett möjligt elevsvar är: Det som förvånade mig var att samma tydliga påverkan som får behandlingen att verka biologiskt intressant också kan göra forskningen svårare att tolka. Filmen beskriver ett dubbelblint försök, där forskare och deltagare skulle vara ovetande om gruppen. Samtidigt berättar en deltagare att det efter ungefär trettio minuter blev tydligt att han fått psilocybin.\n\nJag hade först tänkt att en mycket stark upplevelse automatiskt var ett starkt bevis för behandlingseffekt. Men den kan också avslöja försöksgruppen och därmed förstärka förväntningarna. För mig visar det att det inte räcker att observera att något händer: man behöver undersöka vad som orsakar förbättringen och jämföra med en relevant kontroll.\n\nDet gjorde mig mer försiktig med att använda positiva patientberättelser som bevis för att alla kommer att bli hjälpta. Berättelserna är värdefulla för att förstå upplevelsen, men behöver kompletteras med studier som undersöker effekt, varaktighet och säkerhet. Det här är ett exempel på personlig reflektion; en annan elev kan ha blivit förvånad över något helt annat och ändå ge ett välgrundat svar.",
+          "answer": "Det som förvånade mig var att samma tydliga påverkan som får behandlingen att verka biologiskt intressant också kan göra forskningen svårare att tolka. Filmen beskriver ett dubbelblint försök, där forskare och deltagare skulle vara ovetande om gruppen. Samtidigt berättar en deltagare att det efter ungefär trettio minuter blev tydligt att han fått psilocybin.\n\nJag hade först tänkt att en mycket stark upplevelse automatiskt var ett starkt bevis för behandlingseffekt. Men den kan också avslöja försöksgruppen och därmed förstärka förväntningarna. För mig visar det att det inte räcker att observera att något händer: man behöver undersöka vad som orsakar förbättringen och jämföra med en relevant kontroll.\n\nDet gjorde mig mer försiktig med att använda positiva patientberättelser som bevis för att alla kommer att bli hjälpta. Berättelserna är värdefulla för att förstå upplevelsen, men behöver kompletteras med studier som undersöker effekt, varaktighet och säkerhet. Det jag framför allt lärde mig var att en stark och övertygande upplevelse inte automatiskt ger en säker förklaring till en senare förbättring.",
           "factIds": [
             "film-psilocybin-forsok-fact-5",
             "film-psilocybin-forsok-fact-8",
@@ -22270,14 +22334,18 @@
             "uncertainties": [
               "Personlig överraskning har inget enda facit."
             ]
-          }
+          },
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Svaret är ett exempel på personlig reflektion; användarens egna känslor eller erfarenheter påstås inte vara kända."
+          ]
         },
         {
           "id": "film-lararfragor-recall-10",
           "teacherNumber": 10,
           "teacherOriginal": true,
           "question": "Tror du att psilocybin kommer att användas som läkemedel i framtiden? Varför eller varför inte?",
-          "answer": "Utifrån filmens uppgifter tror jag att psilocybin kan få en framtida roll i sjukvården, men bara för avgränsade användningar där nyttan kan visas och riskerna hanteras. Min bedömning bygger på att filmen redovisar en större andel med minskade depressionssymtom i psilocybingruppen än i jämförelsegruppen, förbättrat välbefinnande och forskning på flera platser. Det finns också ett behov av nya alternativ för människor som inte blivit tillräckligt hjälpta.\n\nDetta är ändå ingen garanti. Försöket var litet och blindningen kan brytas när påverkan är tydlig. Då är det svårt att veta hur mycket av förbättringen som beror på substansen, förväntningar och terapeutiskt stöd. Säkerhetssignalerna med självmordsförsök måste undersökas, och individuella förbättringar efter två år ersätter inte längre gruppuppföljningar.\n\nJag skulle därför vilja se större och bättre kontrollerade studier, tydligare kunskap om lämpliga patientgrupper och ett fungerande upplägg med stöd och uppföljning innan en bred användning. Att ta bort hallucinationerna kan vara önskvärt ur vårdens perspektiv, men filmen visar inte att det går utan att förlora den möjliga nyttan. Det är en forskningsfråga, inte ett bevisat krav för all framtida användning.\n\nMin slutsats är alltså ett villkorat ja: framtida användning är möjlig, men den bör bero på vad fortsatta studier visar. Detta är en egen framtidsbedömning utifrån en film från 2022. Filmen kan inte ensam säga hur godkännanden eller vårdpraxis ser ut i dag.",
+          "answer": "Jag tror att psilocybin kan få en framtida roll i sjukvården, men bara för avgränsade användningar där nyttan kan visas och riskerna hanteras. I det lilla brittiska jämförelseförsöket hade en större andel minskade depressionssymtom i psilocybingruppen än i jämförelsegruppen. Förbättrat välbefinnande och forskning på flera platser ger också skäl till fortsatt intresse. Det finns också ett behov av nya alternativ för människor som inte blivit tillräckligt hjälpta.\n\nDetta är ändå ingen garanti. Försöket var litet och blindningen kan brytas när påverkan är tydlig. Då är det svårt att veta hur mycket av förbättringen som beror på substansen, förväntningar och terapeutiskt stöd. Säkerhetssignalerna med självmordsförsök måste undersökas, och individuella förbättringar efter två år ersätter inte längre gruppuppföljningar.\n\nJag skulle därför vilja se större och bättre kontrollerade studier, tydligare kunskap om lämpliga patientgrupper och ett fungerande upplägg med stöd och uppföljning innan en bred användning. Att ta bort hallucinationerna kan vara önskvärt ur vårdens perspektiv, men det är inte klarlagt att det går utan att förlora den möjliga nyttan. Det är en forskningsfråga, inte ett bevisat krav för all framtida användning.\n\nMin slutsats är alltså ett villkorat ja: framtida användning är möjlig, men den bör bero på vad fortsatta studier visar. Om nya resultat visar mindre nytta eller större risker behöver bedömningen ändras. Jag kan därför se en möjlig framtida roll utan att ge ett säkert besked om när eller hur allmänt behandlingen kan användas.",
           "factIds": [
             "film-psilocybin-resultat-fact-1",
             "film-psilocybin-resultat-fact-2",
@@ -22424,7 +22492,11 @@
               "Dagens godkännande- och vårdläge har inte kontrollerats.",
               "Filmen avgör inte framtida användningar."
             ]
-          }
+          },
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Framtidsbedömningen utgår från forskningsbilden 2022; aktuella godkännanden och vårdpraxis är inte kontrollerade."
+          ]
         }
       ],
       "concepts": [],
@@ -22636,7 +22708,7 @@
         {
           "id": "film-resonemang-recall-diskussionsuppgift",
           "question": "Bör psykedeliska substanser som psilocybin få användas inom sjukvården för att behandla psykisk ohälsa, eller är riskerna för stora? Motivera ditt ställningstagande med argument från filmen.",
-          "answer": "Jag anser att psilocybin bör kunna användas medicinskt under tydliga villkor, eftersom möjliga förbättringar vid svår psykisk ohälsa motiverar att behandlingen tas på allvar. Det betyder inte att alla ska erbjudas den eller att filmen ensam ger tillräckligt underlag för bred standardvård. Min ståndpunkt är att en möjlig behandling ska bedömas genom sin nytta och sina risker, med kontrollerad användning, lämpligt patienturval och fortsatt prövning.\n\nEtt argument för är depressionsförsöket där filmen uppger minskade symtom hos nästan 30 procent i gruppen med antidepressiv medicin och 60 procent i psilocybingruppen. Båda grupperna fick terapeutiskt stöd. Skillnaden är ett skäl att undersöka insatsen vidare, särskilt när människor fortfarande lider trots tidigare behandling. Filmen nämner också större välbefinnande och bättre kontakt med andra. Sådan nytta kan vara betydelsefull även utanför ett enskilt symtommått. Samtidigt avser procenttalen deltagarna i ett litet försök, inte en garanti för alla med depression.\n\nBiologiskt beskriver filmen förändrad hjärnaktivitet och friare kommunikation mellan hjärndelar. Det ger en möjlig förklaring till att invanda tankemönster kan förändras, men visar inte i sig att just dessa förändringar orsakar minskade symtom. Jag vill därför väga hjärnavbildningen tillsammans med kliniska resultat. En invändning är att tydlig påverkan kan avslöja försöksgruppen och påverka förväntningarna. Det gör den substansspecifika effekten mer osäker. Det är dock inte bevis för att all förbättring är placebo; det är ett skäl att kräva bättre undersökningar.\n\nRiskerna behöver också tas på allvar. Patienter beskriver mörka och krävande upplevelser, och i en större psilocybinstudie rapporteras tre självmordsförsök som skulle undersökas vidare. Filmen fastslår inte att ämnet orsakade dessa händelser, men de får inte bortförklaras. Professionellt stöd och uppföljning behövs, och det går inte att överföra försöksresultaten till eget bruk hemma. Filmen uttrycker just oro för sådana självförsök.\n\nEtiskt tycker jag att patientens möjlighet att få hjälp måste vägas mot rätten att slippa utsättas för otillräckligt kända risker. Ett informerat samtycke skulle därför behöva omfatta både förhoppningarna och osäkerheterna. Den som mår mycket dåligt kan hoppas starkt på en ny metod, vilket gör vårdens tydlighet och ansvar särskilt viktigt. Tillgången bör bedömas efter medicinskt behov och säkerhet, inte efter vem som kan köpa sig en upplevelse. Stödinsatsen kräver också resurser, vilket behöver ingå i bedömningen av en rättvis och genomförbar vård.\n\nMin slutsats är därför ett villkorat ja. Ett försiktigt utvecklat medicinskt användningsområde kan vara etiskt motiverat när nyttan och säkerheten har tillräckligt stöd och patienten får ett genomtänkt behandlingsförlopp. Om de villkoren inte kan uppfyllas bör användningen stanna i kontrollerad forskning. Försiktighet bör skydda patienten, men inte automatiskt stoppa forskning på en möjlighet som skulle kunna minska stort lidande.",
+          "answer": "Jag anser att psilocybin bör kunna användas medicinskt under tydliga villkor, eftersom möjliga förbättringar vid svår psykisk ohälsa motiverar att behandlingen tas på allvar. Det innebär inte att alla bör erbjudas den eller att de tidiga resultaten räcker för bred standardvård. Min ståndpunkt är att en möjlig behandling ska bedömas genom sin nytta och sina risker, med kontrollerad användning, lämpligt patienturval och fortsatt prövning.\n\nEtt argument för är det brittiska depressionsförsöket med minskade symtom hos nästan 30 procent i gruppen med antidepressiv medicin och 60 procent i psilocybingruppen. Båda grupperna fick terapeutiskt stöd. Skillnaden är ett skäl att undersöka insatsen vidare, särskilt när människor fortfarande lider trots tidigare behandling. Större välbefinnande och bättre kontakt med andra redovisades också. Sådan nytta kan vara betydelsefull även utanför ett enskilt symtommått. Samtidigt avser procenttalen deltagarna i ett litet försök, inte en garanti för alla med depression.\n\nFörändrad hjärnaktivitet och friare kommunikation mellan hjärndelar ger ett möjligt biologiskt perspektiv på resultaten. Det ger en möjlig förklaring till att invanda tankemönster kan förändras, men visar inte i sig att just dessa förändringar orsakar minskade symtom. Jag vill därför väga hjärnavbildningen tillsammans med kliniska resultat. En invändning är att tydlig påverkan kan avslöja försöksgruppen och påverka förväntningarna. Det gör den substansspecifika effekten mer osäker. Det är dock inte bevis för att all förbättring är placebo; det är ett skäl att kräva bättre undersökningar.\n\nRiskerna behöver också tas på allvar. Patienter beskriver mörka och krävande upplevelser, och i en större psilocybinstudie rapporteras tre självmordsförsök som skulle undersökas vidare. Att dessa händelser rapporterades i anslutning till studien fastställer inte att ämnet orsakade dem, men de får inte bortförklaras. Professionellt stöd och uppföljning behövs, och det går inte att överföra försöksresultaten till eget bruk hemma. Patienten befinner sig då i ett annat sammanhang än under det kontrollerade försöket, vilket behöver tas på allvar i riskbedömningen.\n\nEtiskt tycker jag att patientens möjlighet att få hjälp måste vägas mot rätten att slippa utsättas för otillräckligt kända risker. Ett informerat samtycke skulle därför behöva omfatta både förhoppningarna och osäkerheterna. Den som mår mycket dåligt kan hoppas starkt på en ny metod, vilket gör vårdens tydlighet och ansvar särskilt viktigt. Tillgången bör bedömas efter medicinskt behov och säkerhet, inte efter vem som kan köpa sig en upplevelse. Stödinsatsen kräver också resurser, vilket behöver ingå i bedömningen av en rättvis och genomförbar vård.\n\nMin slutsats är därför ett villkorat ja. Ett försiktigt utvecklat medicinskt användningsområde kan vara etiskt motiverat när nyttan och säkerheten har tillräckligt stöd och patienten får ett genomtänkt behandlingsförlopp. Om de villkoren inte kan uppfyllas bör användningen stanna i kontrollerad forskning. Försiktighet bör skydda patienten, men inte automatiskt stoppa forskning på en möjlighet som skulle kunna minska stort lidande.",
           "factIds": [
             "film-psilocybin-resultat-fact-1",
             "film-psilocybin-resultat-fact-2",
@@ -22807,7 +22879,7 @@
             "examples": [
               {
                 "label": "Alternativ slutsats: avvakta bredare införande",
-                "text": "Jag tycker att psilocybin inte bör införas som bred behandling i sjukvården enbart på grundval av de belägg som filmen visar. Däremot bör välkontrollerad forskning fortsätta. Min försiktiga ståndpunkt handlar inte om att ämnet saknar möjlig nytta, utan om att en behandling som ska erbjudas utsatta patienter behöver ett tillräckligt säkert underlag om effekt, varaktighet och risker.\n\nDet starkaste motargumentet mot min ståndpunkt är att det brittiska försöket visar en större andel med minskade depressionssymtom i psilocybingruppen: filmen uppger 60 procent jämfört med nästan 30 procent med antidepressiv medicin. Även förbättrat välbefinnande nämns. För en person som inte blivit hjälpt kan detta vara mycket viktigt. Att vänta på mer kunskap innebär också att människor kan fortsätta lida. Jag ser därför fortsatt forskning som ett ansvar, inte som något man bör avvisa.\n\nProblemet är att försöket var litet och att den tydliga påverkan kan avslöja vem som fått substansen. Det gör det svårare att skilja dess bidrag från förväntningar och terapeutiskt stöd. Hjärnavbildning visar biologiska förändringar, men avgör inte ensam om de orsakar förbättringen eller hur stor den blir. En psilocybinpatient som inte längre är deprimerad efter två år är ett värdefullt exempel, men visar inte hela gruppens långtidsutfall. Jag behöver därför mer underlag innan jag anser att resultaten kan motivera bred vårdanvändning.\n\nSäkerheten ger ytterligare skäl att avvakta. Filmen beskriver krävande upplevelser och misstankar om allvarliga biverkningar i en större studie, där tre självmordsförsök skulle undersökas vidare. Att händelserna inträffade visar en säkerhetssignal, men inte att psilocybin var den fastslagna orsaken. Osäkerhet är alltså varken bevis för en viss skada eller bevis för riskfrihet. Det behöver undersökas vilka patienter som har nytta, vilka som kan löpa särskilda risker och vilket stöd som krävs efteråt.\n\nEtiskt anser jag att svårt lidande ökar både behovet av nya alternativ och vårdens ansvar att skydda patienten. Ett samtycke kan inte ersätta en rimlig säkerhetsbedömning, och informationen får inte domineras av löften om en revolution. Patienter måste kunna förstå vad som är visat och vad som ännu är osäkert. Jag vill också att vården bedömer om den kan ordna det terapeutiska stöd och den uppföljning som ingår i försöken. En otillräckligt bemannad insats kan inte antas motsvara den behandling som gav de lovande resultaten.\n\nMin slutsats är att nyttan ännu inte kan väga över osäkerheterna för en bred introduktion utifrån just filmens underlag. Jag skulle ändra mig om större, metodiskt starkare studier och längre uppföljningar visade en tydlig och rimligt säker nytta för avgränsade patientgrupper. Att tills vidare avgränsa användningen till forskning kan därför vara en försiktighetsåtgärd som kombinerar patientsäkerhet med möjligheten att utveckla en bättre behandling.",
+                "text": "Jag tycker att psilocybin inte bör införas som bred behandling i sjukvården enbart på grundval av de tidiga försöksresultaten. Däremot bör välkontrollerad forskning fortsätta. Min försiktiga ståndpunkt handlar inte om att ämnet saknar möjlig nytta, utan om att en behandling som ska erbjudas utsatta patienter behöver ett tillräckligt säkert underlag om effekt, varaktighet och risker.\n\nDet starkaste motargumentet mot min ståndpunkt är att det brittiska försöket visar en större andel med minskade depressionssymtom i psilocybingruppen: 60 procent jämfört med nästan 30 procent med antidepressiv medicin. Även förbättrat välbefinnande nämns. För en person som inte blivit hjälpt kan detta vara mycket viktigt. Att vänta på mer kunskap innebär också att människor kan fortsätta lida. Jag ser därför fortsatt forskning som ett ansvar, inte som något man bör avvisa.\n\nProblemet är att försöket var litet och att den tydliga påverkan kan avslöja vem som fått substansen. Det gör det svårare att skilja dess bidrag från förväntningar och terapeutiskt stöd. Hjärnavbildning visar biologiska förändringar, men avgör inte ensam om de orsakar förbättringen eller hur stor den blir. En psilocybinpatient som inte längre är deprimerad efter två år är ett värdefullt exempel, men visar inte hela gruppens långtidsutfall. Jag behöver därför mer underlag innan jag anser att resultaten kan motivera bred vårdanvändning.\n\nSäkerheten ger ytterligare skäl att avvakta. Krävande upplevelser förekom, och i en större studie fanns misstankar om allvarliga biverkningar där tre självmordsförsök skulle undersökas vidare. Att händelserna inträffade visar en säkerhetssignal, men inte att psilocybin var den fastslagna orsaken. Osäkerhet är alltså varken bevis för en viss skada eller bevis för riskfrihet. Det behöver undersökas vilka patienter som har nytta, vilka som kan löpa särskilda risker och vilket stöd som krävs efteråt.\n\nEtiskt anser jag att svårt lidande ökar både behovet av nya alternativ och vårdens ansvar att skydda patienten. Ett samtycke kan inte ersätta en rimlig säkerhetsbedömning, och informationen får inte domineras av löften om en revolution. Patienter måste kunna förstå vad som är visat och vad som ännu är osäkert. Jag vill också att vården bedömer om den kan ordna det terapeutiska stöd och den uppföljning som ingår i försöken. En otillräckligt bemannad insats kan inte antas motsvara den behandling som gav de lovande resultaten.\n\nMin slutsats är att nyttan ännu inte kan väga över osäkerheterna för en bred introduktion på grundval av dessa tidiga resultat. Jag skulle ändra mig om större, metodiskt starkare studier och längre uppföljningar visade en tydlig och rimligt säker nytta för avgränsade patientgrupper. Att tills vidare avgränsa användningen till forskning kan därför vara en försiktighetsåtgärd som kombinerar patientsäkerhet med möjligheten att utveckla en bättre behandling.",
                 "analysis": [
                   {
                     "label": "Tes",
@@ -22836,12 +22908,13 @@
                 ]
               }
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-personal-miljo",
           "question": "Varför är utbildad personal och behandlingsmiljö viktiga när psilocybin undersöks som behandling?",
-          "answer": "Jag bedömer att personal och miljö behöver ses som delar av behandlingen, inte bara som praktiska detaljer runt en tablett. I dokumentärens brittiska depressionsförsök får båda grupperna terapeuter vid två sessioner och samtal före och efter. Filmen visar också att rum och ljud påverkar den psykedeliska upplevelsen. Det är betydelsefullt eftersom förändrad perception och starka känslor kan göra en situation både givande och svår att hantera. En patient beskriver en mörk session där tidigare undanträngda erfarenheter kommer fram. Det är en individuell erfarenhet, men den gör stödbehovet begripligt.\n\nEn rimlig tolkning är att förberedelse kan ge patienten en realistisk förståelse av vad som väntar, medan närvarande personal kan hjälpa personen genom en krävande upplevelse och upptäcka behov av ytterligare hjälp. Efterföljande samtal kan ge utrymme att bearbeta erfarenheten. Dessa funktioner är en förklaring utifrån filmens upplägg; materialet visar inte hur stor effekt varje del har separat eller exakt vilket säkerhetsprotokoll alla kliniker använder.\n\nInvändningen att bemanning kostar resurser är relevant, men det följer inte att stödet bör tas bort. Om stöd ingår i den undersökta behandlingen kan resultatet inte utan vidare överföras till användning ensam hemma. Filmen varnar uttryckligen för sådana självförsök. Min slutsats är därför att eventuell användning behöver bedömas som en helhet med urval, stöd och uppföljning. Att personal finns är samtidigt ingen garanti mot alla negativa händelser.",
+          "answer": "Jag bedömer att personal och miljö behöver ses som delar av behandlingen, inte bara som praktiska detaljer runt en tablett. I det brittiska depressionsförsöket fick båda grupperna terapeuter vid två sessioner och samtal före och efter. Rum och ljud kan också påverka den psykedeliska upplevelsen. Det är betydelsefullt eftersom förändrad perception och starka känslor kan göra en situation både givande och svår att hantera. En patient beskriver en mörk session där tidigare undanträngda erfarenheter kommer fram. Det är en individuell erfarenhet, men den gör stödbehovet begripligt.\n\nEn rimlig tolkning är att förberedelse kan ge patienten en realistisk förståelse av vad som väntar, medan närvarande personal kan hjälpa personen genom en krävande upplevelse och upptäcka behov av ytterligare hjälp. Efterföljande samtal kan ge utrymme att bearbeta erfarenheten. Försöksupplägget skiljer däremot inte ut varje insats, så det går inte att ange hur stor effekt varje del har separat eller dra slutsatsen att ett visst säkerhetsprotokoll gäller överallt.\n\nInvändningen att bemanning kostar resurser är relevant, men det följer inte att stödet bör tas bort. Om stöd ingår i den undersökta behandlingen kan resultatet inte utan vidare överföras till användning ensam hemma. Självförsök saknar det stöd som ingick i den undersökta behandlingen. Min slutsats är därför att eventuell användning behöver bedömas som en helhet med urval, stöd och uppföljning. Att personal finns är samtidigt ingen garanti mot alla negativa händelser.",
           "factIds": [
             "film-psilocybin-forsok-fact-4",
             "film-miljo-cancer-fact-1",
@@ -22928,12 +23001,13 @@
               "Filmen mäter inte personalens, musikens och substansens bidrag var för sig.",
               "Exakta doser eller generella kliniska säkerhetsprotokoll ska inte konstrueras utifrån detta material."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-patientberattelser",
           "question": "Vad kan positiva patientberättelser säga om en behandling, och varför räcker de inte för att visa att psilocybin fungerar generellt?",
-          "answer": "Patientberättelser är värdefulla eftersom de visar hur en förändring kan upplevas i vardagen. I filmen beskriver en deltagare förändrade sinnesintryck under sessionerna och större motståndskraft efteråt. Programmet uppger också att han inte längre var deprimerad drygt två år efter behandlingen. Det är ett konkret exempel på möjlig patientnytta och möjlig varaktighet för just den personen.\n\nBerättelsen besvarar däremot inte vad som skulle ha hänt utan behandlingen. Förbättringen kan ha ett samband med substansen, men även terapi, förväntningar och andra förändringar kan bidra. En dokumentärs urval av personer behöver inte heller representera alla som behandlats. Därför är skillnaden mellan att en person förbättras efter behandling och att behandlingen orsakar förbättringen avgörande. Att ifrågasätta bevisvärdet innebär inte att förneka personens upplevelse.\n\nEn jämförelse mellan grupper är starkare för att undersöka effekt. Dokumentären beskriver ett försök med nästan sextio personer där psilocybin jämförs med antidepressiva läkemedel och båda grupperna får stöd. Men också en sådan studie behöver bedömas utifrån storlek, jämförelsevillkor och blindning; den starka psykedeliska effekten kan avslöja vem som fått vad. Patientberättelser och studier bidrar alltså med olika slags kunskap.\n\nMin slutsats är att berättelserna motiverar frågor om effekt och livskvalitet, medan påståenden om generell behandlingseffekt behöver bygga på kontrollerade undersökningar och uppföljning. Ett enskilt långtidsfall ska inte förvandlas till ett löfte om långvarig förbättring för alla.",
+          "answer": "Patientberättelser är värdefulla eftersom de visar hur en förändring kan upplevas i vardagen. Steve beskriver förändrade sinnesintryck under sessionerna och större motståndskraft efteråt. Drygt två år efter behandlingen beskrivs han inte längre som deprimerad. Det är ett konkret exempel på möjlig patientnytta och möjlig varaktighet för just den personen.\n\nBerättelsen besvarar däremot inte vad som skulle ha hänt utan behandlingen. Förbättringen kan ha ett samband med substansen, men även terapi, förväntningar och andra förändringar kan bidra. En dokumentärs urval av personer behöver inte heller representera alla som behandlats. Därför är skillnaden mellan att en person förbättras efter behandling och att behandlingen orsakar förbättringen avgörande. Att ifrågasätta bevisvärdet innebär inte att förneka personens upplevelse.\n\nEn jämförelse mellan grupper är starkare för att undersöka effekt. I det brittiska försöket jämfördes psilocybin med antidepressiva läkemedel hos nästan sextio personer, och båda grupperna fick stöd. Men också en sådan studie behöver bedömas utifrån storlek, jämförelsevillkor och blindning; den starka psykedeliska effekten kan avslöja vem som fått vad. Patientberättelser och studier bidrar alltså med olika slags kunskap.\n\nMin slutsats är att berättelserna motiverar frågor om effekt och livskvalitet, medan påståenden om generell behandlingseffekt behöver bygga på kontrollerade undersökningar och uppföljning. Ett enskilt långtidsfall ska inte förvandlas till ett löfte om långvarig förbättring för alla.",
           "factIds": [
             "film-psilocybin-steve-fact-4",
             "film-psilocybin-steve-fact-6",
@@ -23026,12 +23100,13 @@
               "Dokumentärens urval av patientberättelser anger inte hur representativa de är.",
               "Materialet visar inte alla tänkbara bidrag till en enskild patients förbättring."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-studier-siffror",
           "question": "Hur kan man värdera dokumentärens behandlingsresultat och hjärnbilder utan att överdriva vad de bevisar?",
-          "answer": "Jag skulle först fråga vilken substans, patientgrupp och förändring varje resultat gäller. I det brittiska depressionsförsöket ingår nästan sextio personer. Dokumentären uppger minskade depressionssymtom hos en andel på nästan trettio procent i gruppen med antidepressiva läkemedel och sextio procent i psilocybingruppen. Det är ett lovande jämförande resultat i filmens framställning. Det är inte ett löfte om att sextio procent av alla framtida patienter blir botade. Filmen återger studien i begränsad form och markerar att den är liten.\n\nMDMA-resultatet är ett annat resultat: två tredjedelar i MDMA-terapigruppen uppges inte längre ha PTSD efter två månader. Det kan stödja intresset för MDMA vid PTSD, men det får inte användas som effektmått för psilocybin vid depression. Skillnader i substans, tillstånd och hur förbättring mäts gör den åtskillnaden nödvändig.\n\nMagnetkameraundersökningar ger ytterligare en typ av information. Filmen beskriver minskad aktivitet i vissa kontrollområden och förändrad kommunikation mellan hjärnans delar. Det kan bidra till hypoteser om hur tankemönster påverkas. En förändrad hjärnbild bevisar dock inte ensam att ett depressionssymtom har förbättrats eller att en bestämd förändring orsakar förbättringen. Förklaringen om en omskakad snökula är dessutom en liknelse, inte ett separat mätresultat.\n\nMin slutsats är att symptomen, patientupplevelserna och hjärnmätningarna behöver läsas tillsammans men hållas isär. För ett starkare effektpåstående vill jag se jämförbara grupper, fungerande blindning, tydliga utfall och längre uppföljning. Det är vetenskapliga bedömningsprinciper, inte ytterligare resultat som dokumentären redan har bevisat.",
+          "answer": "Jag skulle först fråga vilken substans, patientgrupp och förändring varje resultat gäller. I det brittiska depressionsförsöket ingår nästan sextio personer. I jämförelsen redovisades minskade depressionssymtom hos nästan trettio procent i gruppen med antidepressiva läkemedel och sextio procent i psilocybingruppen. Det är ett lovande jämförande resultat. Det är inte ett löfte om att sextio procent av alla framtida patienter blir botade. Försöket var litet och de redovisade uppgifterna ger ingen fullständig bild av osäkerheten.\n\nMDMA-resultatet är ett annat resultat: två tredjedelar i MDMA-terapigruppen uppges inte längre ha PTSD efter två månader. Det kan stödja intresset för MDMA vid PTSD, men det får inte användas som effektmått för psilocybin vid depression. Skillnader i substans, tillstånd och hur förbättring mäts gör den åtskillnaden nödvändig.\n\nMagnetkameraundersökningar ger ytterligare en typ av information. Minskad aktivitet i vissa kontrollområden och förändrad kommunikation mellan hjärnans delar ger en möjlig mekanismförklaring. Det kan bidra till hypoteser om hur tankemönster påverkas. En förändrad hjärnbild bevisar dock inte ensam att ett depressionssymtom har förbättrats eller att en bestämd förändring orsakar förbättringen. Förklaringen om en omskakad snökula är dessutom en liknelse, inte ett separat mätresultat.\n\nMin slutsats är att symptomen, patientupplevelserna och hjärnmätningarna behöver läsas tillsammans men hållas isär. För ett starkare effektpåstående vill jag se jämförbara grupper, fungerande blindning, tydliga utfall och längre uppföljning. Då blir det lättare att bedöma både hur stark förbättringen är och vad som faktiskt orsakar den.",
           "factIds": [
             "film-psilocybin-forsok-fact-1",
             "film-psilocybin-resultat-fact-1",
@@ -23148,12 +23223,13 @@
               "Dokumentären är en återgivning av studierna; den ger inte en komplett forskningsartikel eller alla statistiska analyser.",
               "Detta material bevisar inte en exakt orsakskedja från en hjärnförändring till en viss klinisk förbättring."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-riskkategorier",
           "question": "Hur skiljer du dokumenterade händelser, möjliga risker och kunskapsluckor när du bedömer psykedelisk behandling?",
-          "answer": "En riskbedömning blir mer användbar om olika slags uppgifter hålls isär. Först finns akuta negativa upplevelser: en psilocybindeltagare beskriver en mörk, krävande session, och en KI-forskare ser den akuta psykedeliska effekten som en möjlig biverkan ur vårdens perspektiv. Det betyder att behandlingen kan vara psykiskt påfrestande. Det visar däremot inte hur ofta alla patienter får en viss komplikation.\n\nSedan finns allvarliga händelser som behöver utredas. Filmen nämner tre självmordsförsök i anslutning till en psilocybinstudie. Det är en säkerhetssignal som inte får ignoreras. Men en händelse efter behandling visar inte ensam att substansen orsakade den. Det behövs information om bakomliggande tillstånd, tidssamband och jämförelsegrupp. Att orsaken är osäker är alltså ett skäl att undersöka vidare, inte ett skäl att kalla händelsen vare sig bevisad läkemedelseffekt eller irrelevant.\n\nAndra uppgifter har en mer avgränsad räckvidd. Hjärtproblem, depression, ångest och minnesproblem kopplas i filmen till långvarigt MDMA-bruk; de ska inte automatiskt tillskrivas psilocybin. Oro för psykos vid självförsök utan professionellt stöd framförs i studiosamtalet, men det anges ingen generell riskfrekvens. Urvalet i MDMA-studien utesluter psykossjukdom och missbruk; det är inte ett bevis för ett identiskt urval i alla psilocybinstudier.\n\nMin slutsats är att försiktighet behöver motiveras med rätt sorts belägg. Okända långtidseffekter är kunskapsluckor, inte bevisad riskfrihet. Samtidigt är en farhåga inte en säkerställd komplikation. Vårdens ansvar är att bedöma urval, följa negativa händelser och väga nyttan mot riskerna utan att blanda ihop substanser och användningssätt.",
+          "answer": "En riskbedömning blir mer användbar om olika slags uppgifter hålls isär. Först finns akuta negativa upplevelser: en psilocybindeltagare beskriver en mörk, krävande session, och en KI-forskare ser den akuta psykedeliska effekten som en möjlig biverkan ur vårdens perspektiv. Det betyder att behandlingen kan vara psykiskt påfrestande. Det visar däremot inte hur ofta alla patienter får en viss komplikation.\n\nSedan finns allvarliga händelser som behöver utredas. I anslutning till en större psilocybinstudie rapporterades tre självmordsförsök. Det är en säkerhetssignal som inte får ignoreras. Men en händelse efter behandling visar inte ensam att substansen orsakade den. Det behövs information om bakomliggande tillstånd, tidssamband och jämförelsegrupp. Att orsaken är osäker är alltså ett skäl att undersöka vidare, inte ett skäl att kalla händelsen vare sig bevisad läkemedelseffekt eller irrelevant.\n\nAndra uppgifter har en mer avgränsad räckvidd. Uppgifterna om hjärtproblem, depression, ångest och minnesproblem gäller långvarigt MDMA-bruk. De innebär inte att samma riskbild är fastställd för psilocybin. Oro för psykos vid självförsök utan professionellt stöd framförs i studiosamtalet, men det anges ingen generell riskfrekvens. Urvalet i MDMA-studien utesluter psykossjukdom och missbruk; det är inte ett bevis för ett identiskt urval i alla psilocybinstudier.\n\nMin slutsats är att försiktighet behöver motiveras med rätt sorts belägg. Okända långtidseffekter är kunskapsluckor, inte bevisad riskfrihet. Samtidigt är en farhåga inte en säkerställd komplikation. Vårdens ansvar är att bedöma urval, följa negativa händelser och väga nyttan mot riskerna utan att blanda ihop substanser och användningssätt.",
           "factIds": [
             "film-psilocybin-steve-fact-5",
             "film-ki-psilocybin-fact-5",
@@ -23252,12 +23328,13 @@
               "Materialet räcker inte för att beräkna generell riskfrekvens eller fastställa orsaken till de nämnda allvarliga händelserna.",
               "Inga generella beroendeegenskaper för psilocybin härleds från intervjuuppgiften om MDMA."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-etik-tillgang",
           "question": "Vilka etiska krav bör ställas på en möjlig psilocybinbehandling, och hur kan patientnytta vägas mot säkerhet och rättvis tillgång?",
-          "answer": "Min utgångspunkt är att både utebliven hjälp och skadlig behandling kan få allvarliga konsekvenser. Filmen visar patienter som inte fått tillräcklig hjälp av tidigare behandling och rapporterar lovande försök med psilocybin vid depression. Det ger ett etiskt skäl att undersöka nya möjligheter. Samtidigt får patientens lidande inte användas som skäl att överdriva hur säker en ännu osäker metod är.\n\nInformerat samtycke är därför en central etisk princip i mitt resonemang. Patienten behöver kunna förstå möjliga fördelar, akuta upplevelser, osäkerheter och tänkbara alternativ innan ett frivilligt beslut kan fattas. Detta är en etisk slutsats jag drar; dokumentären visar inte en fullständig samtyckesprocedur. Sårbarhet behöver vägas in, eftersom starka förhoppningar kan göra det svårt att skilja ett forskningsförsök från ett löfte om att bli frisk.\n\nSjukvården har också ansvar för stöd och uppföljning. Terapeuter ingår i det brittiska försöket, och filmen tar upp allvarliga händelser som ska utredas. En rimlig etisk bedömning är därför att beslut inte bör lämnas åt en patient ensam utan kvalificerad genomgång av nytta och risk. Det betyder inte att personal kan garantera säkerhet eller att patientens egen vilja saknar betydelse.\n\nTillgång är en annan fråga. Filmen visar intressen kring patent och kommersiell utveckling, och den tar upp stora bemanningsbehov i MDMA-terapi. Det ger anledning att fråga hur en eventuell verksam behandling kan erbjudas efter medicinskt behov och rimliga resurser. De nämnda fyrtio timmarna gäller MDMA, inte ett fastställt krav för psilocybin. Min slutsats är att nytta, säkerhet, frivillighet och rättvis prioritering behöver bedömas tillsammans. Ingen av principerna ensam avgör frågan.",
+          "answer": "Min utgångspunkt är att både utebliven hjälp och skadlig behandling kan få allvarliga konsekvenser. Patienter har inte alltid fått tillräcklig hjälp av tidigare behandling, och det brittiska försöket med psilocybin vid depression gav lovande resultat. Det ger ett etiskt skäl att undersöka nya möjligheter. Samtidigt får patientens lidande inte användas som skäl att överdriva hur säker en ännu osäker metod är.\n\nInformerat samtycke är därför en central etisk princip i mitt resonemang. Patienten behöver kunna förstå möjliga fördelar, akuta upplevelser, osäkerheter och tänkbara alternativ innan ett frivilligt beslut kan fattas. För mig är det ett villkor för att patientens självbestämmande ska respekteras. Sårbarhet behöver vägas in, eftersom starka förhoppningar kan göra det svårt att skilja ett forskningsförsök från ett löfte om att bli frisk.\n\nSjukvården har också ansvar för stöd och uppföljning. Terapeuter ingick i det brittiska försöket, och allvarliga händelser rapporterade i en större studie behövde utredas. En rimlig etisk bedömning är därför att beslut inte bör lämnas åt en patient ensam utan kvalificerad genomgång av nytta och risk. Det betyder inte att personal kan garantera säkerhet eller att patientens egen vilja saknar betydelse.\n\nTillgång är en annan fråga. Patentintresse och kommersiell utveckling behöver vägas mot faktisk patientnytta. Resursfrågan blir också tydlig i den uppskattade stora bemanningen för MDMA-terapi. Det ger anledning att fråga hur en eventuell verksam behandling kan erbjudas efter medicinskt behov och rimliga resurser. De nämnda fyrtio timmarna gäller MDMA, inte ett fastställt krav för psilocybin. Min slutsats är att nytta, säkerhet, frivillighet och rättvis prioritering behöver bedömas tillsammans. Ingen av principerna ensam avgör frågan.",
           "factIds": [
             "film-psilocybin-steve-fact-2",
             "film-psilocybin-forsok-fact-4",
@@ -23362,12 +23439,13 @@
               "Dokumentären anger inte hur framtida patienturval, finansiering eller samtyckesrutiner kommer att utformas.",
               "Ingen aktuell regel om godkännande eller tillgång härleds från programmet från 2022."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-placebo-orsak",
           "question": "Hur kan placebo och svårigheter med blindning påverka slutsatserna om psilocybin, utan att man behöver hävda att allt är placebo?",
-          "answer": "Dokumentären beskriver det brittiska depressionsförsöket som dubbelblint: deltagare och forskare ska inte veta vilken grupp en person tillhör. Poängen med blindning är att förväntningar och bemötande inte systematiskt ska skilja grupperna åt. Men en tydlig psykedelisk upplevelse kan göra att en deltagare förstår vilken behandling som gavs. Filmen ger ett sådant exempel när påverkan blir uppenbar efter ungefär trettio minuter.\n\nDet skapar ett problem för orsaksbedömningen. Om den som känner substansens effekt samtidigt förväntar sig en stor förbättring, kan ett bättre resultat innehålla både substanspåverkan och förväntansbidrag. Båda gruppernas terapeutiska stöd är också en del av försöket. En observerad förbättring efter behandlingspaketet är därför inte automatiskt ett mått på tablettens isolerade effekt. Det är en vetenskaplig tolkning av försöksvillkoren.\n\nKritiken i filmen är att man ännu inte vet hur mycket som beror på placebo. Det är inte samma sak som att allt har visats vara placebo. Ett motargument är att hjärnförändringar nämns flera veckor efter terapin. De kan vara relevanta att undersöka, men en biologisk förändring löser inte ensam frågan om vilken del som orsakat den kliniska förbättringen.\n\nJag bedömer därför att båda de säkra ytterligheterna är för långtgående: filmen visar varken att all nytta kommer från substansen ensam eller att all nytta är placebo. Starkare slutsatser kräver jämförelser och uppföljning som kan hantera förväntningar och det gemensamma stödet. Osäkerheten försvagar precisionen i effektpåståendet, men gör inte forskningsfrågan meningslös.",
+          "answer": "Det brittiska depressionsförsöket var avsett att vara dubbelblint: deltagare och forskare ska inte veta vilken grupp en person tillhör. Poängen med blindning är att förväntningar och bemötande inte systematiskt ska skilja grupperna åt. Men en tydlig psykedelisk upplevelse kan göra att en deltagare förstår vilken behandling som gavs. Steve märkte exempelvis en tydlig påverkan efter ungefär trettio minuter.\n\nDet skapar ett problem för orsaksbedömningen. Om den som känner substansens effekt samtidigt förväntar sig en stor förbättring, kan ett bättre resultat innehålla både substanspåverkan och förväntansbidrag. Båda gruppernas terapeutiska stöd är också en del av försöket. En observerad förbättring efter behandlingspaketet är därför inte automatiskt ett mått på tablettens isolerade effekt. För att avgöra substansens specifika bidrag behöver dessa möjliga förklaringar kunna skiljas åt.\n\nEn central invändning är därför att det är osäkert hur mycket av förbättringen som beror på placebo. Det är inte samma sak som att allt har visats vara placebo. Ett motargument är att hjärnförändringar nämns flera veckor efter terapin. De kan vara relevanta att undersöka, men en biologisk förändring löser inte ensam frågan om vilken del som orsakat den kliniska förbättringen.\n\nJag bedömer därför att båda de säkra ytterligheterna är för långtgående: jämförelsen fastställer varken att all nytta kommer från substansen ensam eller att all nytta är placebo. Starkare slutsatser kräver jämförelser och uppföljning som kan hantera förväntningar och det gemensamma stödet. Osäkerheten försvagar precisionen i effektpåståendet, men gör inte forskningsfrågan meningslös.",
           "factIds": [
             "film-psilocybin-forsok-fact-5",
             "film-psilocybin-forsok-fact-8",
@@ -23466,12 +23544,13 @@
               "Dokumentären ger ingen säker andel av förbättringen som kan tillskrivas placebo, substans respektive terapi.",
               "Det hypotetiska 90–100-procentsresonemanget i filmen är ingen redovisad försöksandel och används inte som resultat."
             ]
-          }
+          },
+          "answerPresentation": true
         },
         {
           "id": "film-resonemang-recall-framtid-villkor",
           "question": "Vad behöver klarläggas innan lovande psilocybinresultat kan ligga till grund för bredare användning inom sjukvården?",
-          "answer": "Jag bedömer att framtida användning är möjlig men att möjligheten måste vara villkorad av vad fortsatt forskning visar. Dokumentären ger skäl till intresse: den rapporterar symptomförbättring i en liten depressionsjämförelse och beskriver fortsatt forskning, bland annat vid KI. Det är ett argument för att undersöka behandlingen vidare. Det är inte ett besked om dagens godkännande eller om att ett brett införande redan är motiverat.\n\nEtt första krav är bättre kunskap om nytta och vilka patienter resultaten gäller. Små försök och utvalda personer ger begränsat underlag för att säga hur andra patientgrupper påverkas. Effekten behöver också skiljas från förväntningar och terapeutiskt stöd. Ett andra krav är säkerhet och varaktighet: negativa händelser måste utredas, och längre uppföljning behövs för att förstå både nytta och eventuella komplikationer över tid. Det enskilda långtidsfallet i filmen räcker inte för ett generellt löfte.\n\nEn tredje fråga gäller hur behandlingen skulle genomföras. Personal, förberedelse, sessioner och efterföljande samtal kan ställa krav på vården. KI-delen frågar dessutom om eventuell antidepressiv effekt kan uppnås utan den akuta psykedeliska upplevelsen. Filmen har inget färdigt svar. Om upplevelsen behövs påverkar det vilka former av stöd som kan krävas; om den kan skiljas från nyttan skulle behandlingsvillkoren kunna förändras. Det är två möjliga framtidsscenarier, inte visade resultat.\n\nMin slutsats är därför att en välgrundad prognos anger villkor i stället för ett säkert årtal. Om större undersökningar visar en tillräckligt varaktig nytta med hanterbara risker och ett genomförbart vårdupplägg stärks argumenten för användning. Om nyttan är liten eller riskerna svåra att hantera stärks skälen att begränsa metoden. Båda möjligheterna behöver finnas kvar i bedömningen.",
+          "answer": "Jag bedömer att framtida användning är möjlig men att möjligheten måste vara villkorad av vad fortsatt forskning visar. Symtomförbättring i det lilla brittiska depressionsförsöket och fortsatt forskning vid bland annat KI ger skäl till intresse. Det är ett argument för att undersöka behandlingen vidare. Det innebär däremot inte att ett brett införande redan är motiverat.\n\nEtt första krav är bättre kunskap om nytta och vilka patienter resultaten gäller. Små försök och utvalda personer ger begränsat underlag för att säga hur andra patientgrupper påverkas. Effekten behöver också skiljas från förväntningar och terapeutiskt stöd. Ett andra krav är säkerhet och varaktighet: negativa händelser måste utredas, och längre uppföljning behövs för att förstå både nytta och eventuella komplikationer över tid. Att Steve inte längre var deprimerad drygt två år efter behandlingen räcker inte för ett generellt löfte om gruppens långtidsutfall.\n\nEn tredje fråga gäller hur behandlingen skulle genomföras. Personal, förberedelse, sessioner och efterföljande samtal kan ställa krav på vården. Vid KI undersöktes dessutom om eventuell antidepressiv effekt kan uppnås utan den akuta psykedeliska upplevelsen. Den frågan är fortfarande öppen i den forskningsbild som bedöms här. Om upplevelsen behövs påverkar det vilka former av stöd som kan krävas; om den kan skiljas från nyttan skulle behandlingsvillkoren kunna förändras. Det är två möjliga framtidsscenarier, inte visade resultat.\n\nMin slutsats är därför att en välgrundad prognos anger villkor i stället för ett säkert årtal. Om större undersökningar visar en tillräckligt varaktig nytta med hanterbara risker och ett genomförbart vårdupplägg stärks argumenten för användning. Om nyttan är liten eller riskerna svåra att hantera stärks skälen att begränsa metoden. Båda möjligheterna behöver finnas kvar i bedömningen.",
           "factIds": [
             "film-psilocybin-resultat-fact-1",
             "film-psilocybin-resultat-fact-2",
@@ -23588,7 +23667,11 @@
               "Detta svar är en framtidsbedömning utifrån dokumentären, ingen uppdatering av dagens forsknings- eller rättsläge.",
               "Filmen fastställer inte hur ett framtida vårdupplägg skulle se ut."
             ]
-          }
+          },
+          "answerPresentation": true,
+          "answerSourceNotes": [
+            "Svaret bedömer dokumentärens forskningsbild 2022 och uppdaterar inte dagens godkännande- eller vårdläge."
+          ]
         }
       ],
       "concepts": [
