@@ -1,6 +1,7 @@
 const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),crypto=require('node:crypto');
 const{context,data,root,C}=require('./helpers/atlas.cjs'),K=require('../js/additions-core.js');
 const extra=JSON.parse(fs.readFileSync(path.join(root,'content/study-additions.json'),'utf8')),cat=K.catalog(data,extra),byId=new Map(cat.items.map(q=>[q.id,q]));
+const{beforeFileHash}=require('./helpers/source-restriction.cjs');
 const canonical=x=>JSON.parse(JSON.stringify(x));
 function extension(){const old=context(),{A}=old,sandbox={window:{AtlasAdditionsCore:K,STUDY_ADDITIONS:extra},crypto:{randomUUID:()=>String(Date.now())+'-'+Math.random()},location:{hash:'#aniva'}};vm.createContext(sandbox);vm.runInContext(fs.readFileSync(path.join(root,'js/additions.js'),'utf8'),sandbox);for(const q of extra.questions)A.entities.set(q.id,{...q,kind:'advanced',revision:1});A.extensions=sandbox.window.AtlasExtensions(A);A.extensions.restore();A.sessions=old.S;return{...old,E:A.extensions,sandbox}}
 function run(items,answers={}){return{id:'run-test',mode:'targeted',order:items.map(q=>q.id),answers,index:0,started:1,submitted:false}}
@@ -9,14 +10,14 @@ function checked(q,value,rating,at=1){return{selected:value,checked:true,skipped
 test('Every previous content byte, old photo, source and core style is preserved; shell adds only three scripts, one style and two navigation links',()=>{
  const baseline=JSON.parse(fs.readFileSync(path.join(root,'tests/fixtures/before-additions-files.json'),'utf8'));
  const changed=new Set(['README.md','index.html','js/app.js','js/views.js','js/sessions.js','tests/standalone.test.cjs','tests/film-pedagogy.test.cjs','tests/powerpoint.test.cjs']);
- for(const[file,record]of Object.entries(baseline))if(!changed.has(file))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),record.sha256,file);
+ for(const[file,record]of Object.entries(baseline))if(!changed.has(file))assert.equal(beforeFileHash(file),record.sha256,file);
  const oldReadme=baseline['README.md'];assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'README.md')).subarray(0,oldReadme.bytes)).digest('hex'),oldReadme.sha256);
- let html=fs.readFileSync(path.join(root,'index.html'),'utf8');html=html.replace('<link rel="stylesheet" href="additions.css">','').replace(/<script defer src="js\/additions(?:-core|-data)?\.js"><\/script>/g,'').replace('<a href="#aniva" data-nav="aniva">A-nivå | Fördjupning</a><a href="#slutcheck" data-nav="slutcheck">Slutcheck inför provet</a>','');assert.equal(html,fs.readFileSync(path.join(root,'tests/fixtures/before-additions-index.html'),'utf8'));
+ let html=fs.readFileSync(path.join(root,'index.html'),'utf8').replace('<a href="#provfragor" data-nav="provfragor">Provfrågor – A-nivå &amp; fördjupning</a>','');html=html.replace('<link rel="stylesheet" href="additions.css">','').replace(/<script defer src="js\/additions(?:-core|-data)?\.js"><\/script>/g,'').replace('<a href="#aniva" data-nav="aniva">A-nivå | Fördjupning</a><a href="#slutcheck" data-nav="slutcheck">Slutcheck inför provet</a>','');assert.equal(html,fs.readFileSync(path.join(root,'tests/fixtures/before-additions-index.html'),'utf8'));
  const generated={window:{}};vm.createContext(generated);vm.runInContext(fs.readFileSync(path.join(root,'js/additions-data.js'),'utf8'),generated);assert.deepEqual(canonical(generated.window.STUDY_ADDITIONS),extra);
 });
 
-test('Twenty-eight new source-linked analysis models cover the entire course without changing or duplicating old questions',()=>{
- assert.equal(extra.questions.length,28);assert.equal(new Set(extra.questions.map(q=>q.id)).size,28);
+test('Twenty-eight prior and fifteen additional source-linked models cover the entire course without changing or duplicating old questions',()=>{
+ assert.equal(extra.questions.length,43);assert.equal(new Set(extra.questions.map(q=>q.id)).size,43);
  const sections=new Set(data.sections.map(s=>s.id)),facts=new Set(data.sections.flatMap(s=>s.facts.map(f=>f.id))),oldQuestions=new Set(data.sections.flatMap(s=>[...s.cards,...s.recall,...s.quiz].map(q=>q.question)));
  assert.deepEqual(extra.topics.flatMap(t=>t.sectionIds).sort(),[...sections].sort());
  for(const q of extra.questions){assert(!oldQuestions.has(q.question),q.id);assert(q.answer.split(/\s+/).length>=140,q.id);assert(q.answer.includes('\n\n'),q.id);assert(q.criteria.length>=4);assert(q.analysis.length>=3);assert(q.keyPoints.length>=3);assert(q.sourceNote.length>60);assert(q.sectionIds.every(id=>sections.has(id)));assert(q.factIds.length>=2&&q.factIds.every(id=>facts.has(id)));assert(extra.topics.some(t=>t.id===q.topicId))}
@@ -28,7 +29,7 @@ test('Global search includes advanced questions in its real result count and nev
 });
 
 test('The full checklist covers every fact, concept, prior recall, process, advanced model and each separate photo while retaining 54 species',()=>{
- assert.equal(cat.units.filter(u=>u.kind==='fact').length,335);assert.equal(cat.units.filter(u=>u.kind==='concept').length,130);assert.equal(cat.units.filter(u=>['teacher','recall'].includes(u.kind)).length,97);assert.equal(cat.units.filter(u=>u.kind==='process').length,7);assert.equal(cat.units.filter(u=>u.kind==='advanced').length,28);
+ assert.equal(cat.units.filter(u=>u.kind==='fact').length,335);assert.equal(cat.units.filter(u=>u.kind==='concept').length,130);assert.equal(cat.units.filter(u=>['teacher','recall'].includes(u.kind)).length,97);assert.equal(cat.units.filter(u=>u.kind==='process').length,7);assert.equal(cat.units.filter(u=>u.kind==='advanced').length,43);
  const full=K.choose(cat,'full',C),units=new Set(full.flatMap(q=>q.unitIds));assert.equal(full.length,cat.items.length);assert.equal(new Set(full.map(q=>q.id)).size,full.length);for(const u of cat.units)assert(units.has(u.id),u.id);
  const arts=full.filter(q=>q.kind==='art');assert.equal(new Set(arts.map(q=>q.speciesId)).size,54);for(const s of data.species){const ps=K.photos(s,extra);assert(ps.length>=2||extra.missingPhotos.some(x=>x.speciesId===s.id));assert.equal(arts.filter(q=>q.speciesId===s.id).length,ps.length)}
  assert.equal(full.filter(q=>q.teacherNumber).length,10);assert(cat.topics.every(t=>cat.units.some(u=>u.topicId===t.id)));
@@ -40,10 +41,10 @@ test('Quickcheck samples all areas and all teacher prompts while explicitly leav
  const answers=Object.fromEntries(selected.filter(q=>q.kind==='self').map(q=>[q.id,checked(q,'Min förklaring','know')]));const r=K.report(cat,run(selected,answers));assert(r.gray.length>0);assert(r.topics.some(t=>t.status==='gray'));assert.equal(r.objective.total,0);assert.equal(r.self.rated,Object.keys(answers).length);
 });
 
-test('A complete check only becomes green with evidence for all 705 points, and two photographs still count as one species',()=>{
+test('A complete check only becomes green with evidence for all 720 points, and two photographs still count as one species',()=>{
  assert.equal(extra.photos.length,54);assert.equal(extra.missingPhotos.length,0);assert(data.species.every(s=>K.photos(s,extra).length===2));
  const full=K.choose(cat,'full',C),answers={};for(const q of full){const value=q.kind==='self'?'Ett självbedömt testsvar':q.kind==='art'?data.species.find(s=>s.id===q.speciesId).name:q.kind==='process'?q.steps.map((_,i)=>i):q.original.type==='order'?q.original.items:q.original.correct;answers[q.id]=checked(q,value,q.kind==='self'?'know':null)}
- const r=K.report(cat,run(full,answers));assert.equal(r.total,705);assert.equal(r.tested,705);assert.equal(r.gray.length,0);assert.equal(r.red.length,0);assert.equal(r.status,'green');assert(r.topics.every(t=>t.status==='green'));assert.equal(r.uniqueSpecies,54);assert.equal(full.filter(q=>q.kind==='art').length,108);
+ const r=K.report(cat,run(full,answers));assert.equal(r.total,720);assert.equal(r.tested,720);assert.equal(r.gray.length,0);assert.equal(r.red.length,0);assert.equal(r.status,'green');assert(r.topics.every(t=>t.status==='green'));assert.equal(r.uniqueSpecies,54);assert.equal(full.filter(q=>q.kind==='art').length,108);
  const objective=full.find(q=>q.kind==='objective'&&q.unitIds.some(id=>full.some(s=>s.kind==='self'&&s.unitIds.includes(id))));answers[objective.id]={...answers[objective.id],correct:false,at:1};for(const q of full.filter(s=>s.kind==='self'&&s.unitIds.some(id=>objective.unitIds.includes(id))))answers[q.id].at=999;const weaker=K.report(cat,run(full,answers));assert(weaker.red.length>0);assert.equal(weaker.topics.find(t=>t.id===objective.topicId).status,'red');
 });
 

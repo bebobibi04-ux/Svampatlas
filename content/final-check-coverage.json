@@ -1,7 +1,7 @@
 {
   "revision": "additions-2026-10-14",
-  "questionCount": 452,
-  "unitCount": 705,
+  "questionCount": 467,
+  "unitCount": 720,
   "topics": [
     {
       "id": "struktur-naring",
@@ -135,7 +135,11 @@
         "recall:naringsstrategi-r1",
         "recall:naringsstrategi-r2",
         "advanced:advanced-hyfernas-form-och-funktion",
-        "advanced:advanced-tre-naringsvagar-i-skogen"
+        "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-lav-samarbete-jordbildning",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -147,7 +151,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:naringsstrategi-r2"
+        "recall:naringsstrategi-r2",
+        "advanced:reported-jamfor-svampar-djur-vaxter"
       ]
     },
     {
@@ -168,6 +173,11 @@
         "advanced:advanced-tre-naringsvagar-i-skogen",
         "advanced:advanced-enzym-gen-och-industriprocess",
         "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-svampnytta-gen-enzym",
+        "advanced:practice-naring-form-fruktkropp",
         "objective:naringsstrategi-ordna"
       ]
     },
@@ -182,6 +192,8 @@
       "itemIds": [
         "recall:naringsstrategi-r1",
         "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-naring-form-fruktkropp",
         "objective:naringsstrategi-ordna"
       ]
     },
@@ -197,6 +209,10 @@
         "recall:naringsstrategi-r1",
         "advanced:advanced-hyfernas-form-och-funktion",
         "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-naring-form-fruktkropp",
         "objective:naringsstrategi-ordna"
       ]
     },
@@ -217,6 +233,10 @@
         "advanced:advanced-hyfernas-form-och-funktion",
         "advanced:advanced-tre-naringsvagar-i-skogen",
         "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-naring-form-fruktkropp",
         "objective:naringsstrategi-ordna"
       ]
     },
@@ -231,7 +251,9 @@
       "itemIds": [
         "recall:cellbyggnad-r1",
         "advanced:advanced-hyfernas-form-och-funktion",
-        "advanced:advanced-livstrad-och-taxonomisk-hierarki"
+        "advanced:advanced-livstrad-och-taxonomisk-hierarki",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp"
       ]
     },
     {
@@ -244,6 +266,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:cellbyggnad-r1",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:cellbyggnad-q1"
       ]
     },
@@ -260,6 +284,9 @@
         "advanced:advanced-hyfernas-form-och-funktion",
         "advanced:advanced-jast-och-mogel-i-livsmedelsforsok",
         "advanced:advanced-mykorrhiza-rotbild-och-resurspilar",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-lav-samarbete-jordbildning",
         "objective:cellbyggnad-q1",
         "objective:ekosystem-flera"
       ]
@@ -275,6 +302,7 @@
       "itemIds": [
         "recall:cellbyggnad-r1",
         "recall:cellbyggnad-r2",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
         "objective:cellbyggnad-q1"
       ]
     },
@@ -289,7 +317,9 @@
       "itemIds": [
         "recall:cellbyggnad-r1",
         "recall:cellbyggnad-r2",
-        "advanced:advanced-hyfernas-form-och-funktion"
+        "advanced:advanced-hyfernas-form-och-funktion",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp"
       ]
     },
     {
@@ -338,7 +368,8 @@
       "kind": "fact",
       "itemIds": [
         "card:hyfer-mycel-c01",
-        "advanced:advanced-livstrad-och-taxonomisk-hierarki"
+        "advanced:advanced-livstrad-och-taxonomisk-hierarki",
+        "advanced:reported-jamfor-svampar-djur-vaxter"
       ]
     },
     {
@@ -350,7 +381,9 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:hyfer-mycel-r1"
+        "recall:hyfer-mycel-r1",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -363,7 +396,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:hyfer-mycel-r1",
-        "advanced:advanced-hyfernas-form-och-funktion"
+        "advanced:advanced-hyfernas-form-och-funktion",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -376,7 +411,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:hyfer-mycel-r1",
-        "advanced:advanced-hyfernas-form-och-funktion"
+        "advanced:advanced-hyfernas-form-och-funktion",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -393,6 +430,9 @@
         "advanced:advanced-hyfernas-form-och-funktion",
         "advanced:advanced-osynligt-mycel-och-haxring",
         "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp",
         "objective:hyfer-mycel-q1"
       ]
     },
@@ -443,7 +483,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:hyfer-mycel-r2",
-        "advanced:advanced-hyfernas-form-och-funktion"
+        "advanced:advanced-hyfernas-form-och-funktion",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -457,7 +498,11 @@
       "itemIds": [
         "recall:hyfer-mycel-r2",
         "recall:ppt-anatomi-r03",
-        "advanced:advanced-hyfernas-form-och-funktion"
+        "advanced:advanced-hyfernas-form-och-funktion",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -469,7 +514,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:hyfer-mycel-r2"
+        "recall:hyfer-mycel-r2",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -483,6 +529,8 @@
       "itemIds": [
         "recall:fruktkroppar-tillvaxt-r1",
         "advanced:advanced-osynligt-mycel-och-haxring",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp",
         "objective:fruktkroppar-tillvaxt-q1"
       ]
     },
@@ -509,7 +557,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:fruktkroppar-tillvaxt-r1",
-        "recall:ppt-anatomi-r01"
+        "recall:ppt-anatomi-r01",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -522,7 +571,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:fruktkroppar-tillvaxt-r1",
-        "advanced:advanced-osynligt-mycel-och-haxring"
+        "advanced:advanced-osynligt-mycel-och-haxring",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -535,7 +585,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:fruktkroppar-tillvaxt-r1",
-        "advanced:advanced-osynligt-mycel-och-haxring"
+        "advanced:advanced-osynligt-mycel-och-haxring",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -548,7 +600,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:fruktkroppar-tillvaxt-r1",
-        "advanced:advanced-osynligt-mycel-och-haxring"
+        "advanced:advanced-osynligt-mycel-och-haxring",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -560,7 +614,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "card:fruktkroppar-tillvaxt-c06"
+        "card:fruktkroppar-tillvaxt-c06",
+        "advanced:practice-naring-form-fruktkropp"
       ]
     },
     {
@@ -611,7 +666,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:mykorrhiza-parasitism-r2"
+        "recall:mykorrhiza-parasitism-r2",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -654,6 +710,9 @@
         "advanced:advanced-rotkontakt-nytta-eller-skada",
         "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
         "advanced:advanced-mykorrhiza-rotbild-och-resurspilar",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:reported-om-svampar-forsvann",
         "objective:mykorrhiza-parasitism-q1",
         "objective:ekosystem-flera"
       ]
@@ -669,7 +728,8 @@
       "itemIds": [
         "recall:mykorrhiza-parasitism-r1",
         "advanced:advanced-rotkontakt-nytta-eller-skada",
-        "advanced:advanced-mykorrhiza-rotbild-och-resurspilar"
+        "advanced:advanced-mykorrhiza-rotbild-och-resurspilar",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -697,7 +757,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:mykorrhiza-parasitism-r1"
+        "recall:mykorrhiza-parasitism-r1",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -711,7 +772,8 @@
       "itemIds": [
         "recall:mykorrhiza-parasitism-r1",
         "recall:ppt-mykorrhiza-r02",
-        "advanced:advanced-mykorrhiza-rotbild-och-resurspilar"
+        "advanced:advanced-mykorrhiza-rotbild-och-resurspilar",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -724,7 +786,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:mykorrhiza-parasitism-r1",
-        "advanced:advanced-rotkontakt-nytta-eller-skada"
+        "advanced:advanced-rotkontakt-nytta-eller-skada",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -750,7 +813,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:ekosystem-r1",
-        "recall:ppt-mykorrhiza-r02"
+        "recall:ppt-mykorrhiza-r02",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -788,6 +852,7 @@
       "itemIds": [
         "recall:ekosystem-r1",
         "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
         "objective:ekosystem-flera"
       ]
     },
@@ -801,7 +866,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:ekosystem-r1",
-        "advanced:advanced-tre-naringsvagar-i-skogen"
+        "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -815,7 +881,8 @@
       "itemIds": [
         "recall:ekosystem-r1",
         "advanced:advanced-rotkontakt-nytta-eller-skada",
-        "advanced:advanced-tre-naringsvagar-i-skogen"
+        "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
@@ -854,6 +921,8 @@
       "itemIds": [
         "recall:ekosystem-r1",
         "advanced:advanced-tre-naringsvagar-i-skogen",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-om-svampar-forsvann",
         "objective:ekosystem-flera"
       ]
     },
@@ -931,6 +1000,8 @@
       "itemIds": [
         "recall:lavar-r1",
         "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-lav-samarbete-jordbildning",
         "objective:lavar-q1"
       ]
     },
@@ -944,7 +1015,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r1",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -957,7 +1029,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r1",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -970,7 +1043,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r1",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -983,7 +1057,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r1",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -996,7 +1072,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r1",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -1009,7 +1087,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r2",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -1022,7 +1101,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r2",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -1035,7 +1116,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r2",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -1048,7 +1131,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:lavar-r2",
-        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark"
+        "advanced:advanced-lav-och-mykorrhiza-pa-ny-mark",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-lav-samarbete-jordbildning"
       ]
     },
     {
@@ -1075,6 +1160,8 @@
         "recall:manniskans-tjanst-r1",
         "recall:ppt-jast-mogel-r01",
         "advanced:advanced-jast-och-mogel-i-livsmedelsforsok",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-svampnytta-gen-enzym",
         "objective:manniskans-tjanst-q1"
       ]
     },
@@ -1087,7 +1174,9 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:manniskans-tjanst-r1"
+        "recall:manniskans-tjanst-r1",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1099,7 +1188,9 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:manniskans-tjanst-r1"
+        "recall:manniskans-tjanst-r1",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1111,7 +1202,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:manniskans-tjanst-r1"
+        "recall:manniskans-tjanst-r1",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1123,7 +1215,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:manniskans-tjanst-r1"
+        "recall:manniskans-tjanst-r1",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1135,7 +1228,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:manniskans-tjanst-r1"
+        "recall:manniskans-tjanst-r1",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1148,7 +1242,9 @@
       "kind": "fact",
       "itemIds": [
         "card:manniskans-tjanst-c06",
-        "advanced:advanced-enzym-gen-och-industriprocess"
+        "advanced:advanced-enzym-gen-och-industriprocess",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1161,7 +1257,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:manniskans-tjanst-r2",
-        "advanced:advanced-enzym-gen-och-industriprocess"
+        "advanced:advanced-enzym-gen-och-industriprocess",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1174,7 +1271,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:manniskans-tjanst-r2",
-        "advanced:advanced-enzym-gen-och-industriprocess"
+        "advanced:advanced-enzym-gen-och-industriprocess",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1187,7 +1285,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:manniskans-tjanst-r2",
-        "advanced:advanced-enzym-gen-och-industriprocess"
+        "advanced:advanced-enzym-gen-och-industriprocess",
+        "advanced:reported-om-svampar-forsvann",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1200,7 +1300,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:manniskans-tjanst-r2",
-        "advanced:advanced-enzym-gen-och-industriprocess"
+        "advanced:advanced-enzym-gen-och-industriprocess",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1213,7 +1314,8 @@
       "kind": "fact",
       "itemIds": [
         "card:manniskans-tjanst-c10",
-        "advanced:advanced-enzym-gen-och-industriprocess"
+        "advanced:advanced-enzym-gen-och-industriprocess",
+        "advanced:practice-svampnytta-gen-enzym"
       ]
     },
     {
@@ -1309,6 +1411,7 @@
       "itemIds": [
         "recall:asexuell-forokning-r2",
         "advanced:advanced-sporer-och-misslyckad-etablering",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:asexuell-forokning-ordna",
         "objective:ppt-tillvaxt-nedbrytning-q03"
       ]
@@ -1324,6 +1427,7 @@
       "itemIds": [
         "recall:asexuell-forokning-r2",
         "advanced:advanced-sporer-och-misslyckad-etablering",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:asexuell-forokning-ordna"
       ]
     },
@@ -1338,6 +1442,7 @@
       "itemIds": [
         "recall:asexuell-forokning-r2",
         "advanced:advanced-sporer-och-misslyckad-etablering",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:asexuell-forokning-ordna",
         "objective:ppt-tillvaxt-nedbrytning-q03"
       ]
@@ -1391,7 +1496,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:sexuell-forokning-r1",
-        "advanced:advanced-tva-karnor-ar-inte-diploid"
+        "advanced:advanced-tva-karnor-ar-inte-diploid",
+        "advanced:reported-beratta-om-en-svamp"
       ]
     },
     {
@@ -1420,6 +1526,7 @@
         "recall:sexuell-forokning-r1",
         "recall:sexuell-forokning-r2",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:sexuell-forokning-ordna"
       ]
     },
@@ -1435,6 +1542,7 @@
         "recall:sexuell-forokning-r1",
         "recall:sexuell-forokning-r2",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:sexuell-forokning-ordna"
       ]
     },
@@ -1463,6 +1571,7 @@
         "recall:sexuell-forokning-r1",
         "recall:sexuell-forokning-r2",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:sexuell-forokning-ordna"
       ]
     },
@@ -1479,6 +1588,7 @@
         "recall:sexuell-forokning-r2",
         "advanced:advanced-sporer-och-misslyckad-etablering",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:sexuell-forokning-ordna"
       ]
     },
@@ -1495,6 +1605,7 @@
         "recall:sexuell-forokning-r2",
         "advanced:advanced-sporer-och-misslyckad-etablering",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
+        "advanced:reported-beratta-om-en-svamp",
         "objective:sexuell-forokning-ordna"
       ]
     },
@@ -1566,6 +1677,7 @@
         "recall:film-introduktion-recall-1",
         "recall:film-lararfragor-recall-02",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
+        "advanced:reported-film-handling-framtid",
         "objective:film-introduktion-quiz-1"
       ]
     },
@@ -1579,7 +1691,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:film-introduktion-recall-1",
-        "advanced:advanced-granska-sammanslagen-medicinrubrik"
+        "advanced:advanced-granska-sammanslagen-medicinrubrik",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -1606,6 +1719,8 @@
       "itemIds": [
         "recall:film-ptsd-ron-recall-1",
         "advanced:advanced-begransade-vardresurser-och-patientbehov",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-ptsd-ron-quiz-1"
       ]
     },
@@ -1715,6 +1830,7 @@
         "recall:film-metodkritik-recall-1",
         "recall:film-osakerhet-framtid-recall-1",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
+        "advanced:reported-film-handling-framtid",
         "objective:film-mdma-studie-quiz-1"
       ]
     },
@@ -1731,6 +1847,7 @@
         "recall:film-metodkritik-recall-1",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
         "advanced:advanced-mdma-fran-mekanism-till-uppfoljning",
+        "advanced:reported-film-handling-framtid",
         "objective:film-mdma-studie-quiz-1"
       ]
     },
@@ -1751,6 +1868,7 @@
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
         "advanced:advanced-mdma-fran-mekanism-till-uppfoljning",
         "advanced:advanced-begransade-vardresurser-och-patientbehov",
+        "advanced:reported-film-handling-framtid",
         "objective:film-osakerhet-framtid-quiz-1"
       ]
     },
@@ -1868,7 +1986,9 @@
         "recall:film-mdma-mekanism-risk-recall-1",
         "recall:film-lararfragor-recall-05",
         "recall:film-lararfragor-recall-06",
-        "advanced:advanced-mdma-fran-mekanism-till-uppfoljning"
+        "advanced:advanced-mdma-fran-mekanism-till-uppfoljning",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-stod-substans"
       ]
     },
     {
@@ -1883,7 +2003,8 @@
         "recall:film-mdma-mekanism-risk-recall-1",
         "recall:film-behandling-evidens-recall-02",
         "recall:film-lararfragor-recall-05",
-        "recall:film-resonemang-recall-riskkategorier"
+        "recall:film-resonemang-recall-riskkategorier",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -1896,7 +2017,8 @@
       "kind": "fact",
       "itemIds": [
         "card:film-mdma-mekanism-risk-card-5",
-        "advanced:advanced-mdma-fran-mekanism-till-uppfoljning"
+        "advanced:advanced-mdma-fran-mekanism-till-uppfoljning",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -1946,6 +2068,7 @@
       "itemIds": [
         "recall:film-introduktion-recall-1",
         "recall:film-lararfragor-recall-01",
+        "advanced:reported-film-handling-framtid",
         "objective:film-psilocybin-steve-quiz-1",
         "objective:film-lararfragor-quiz-01"
       ]
@@ -1997,7 +2120,9 @@
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
         "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
-        "advanced:advanced-hallucination-som-biverkan-och-hypotes"
+        "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -2020,7 +2145,10 @@
         "recall:film-resonemang-recall-riskkategorier",
         "advanced:advanced-ta-bort-stodet-ur-forsoket",
         "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
-        "advanced:advanced-hallucination-som-biverkan-och-hypotes"
+        "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-stod-substans"
       ]
     },
     {
@@ -2037,7 +2165,9 @@
         "recall:film-lararfragor-recall-01",
         "recall:film-lararfragor-recall-03",
         "recall:film-resonemang-recall-patientberattelser",
-        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall"
+        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -2051,7 +2181,8 @@
       "itemIds": [
         "recall:film-lararfragor-recall-04",
         "recall:film-resonemang-recall-patientberattelser",
-        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall"
+        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -2069,7 +2200,9 @@
         "recall:film-resonemang-recall-patientberattelser",
         "recall:film-resonemang-recall-studier-siffror",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
-        "advanced:advanced-fran-procentgraf-till-saklig-slutsats"
+        "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -2084,6 +2217,8 @@
         "recall:film-psilocybin-forsok-recall-1",
         "recall:film-behandling-evidens-recall-01",
         "recall:film-lararfragor-recall-07",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
         "objective:film-psilocybin-forsok-quiz-1"
       ]
     },
@@ -2098,7 +2233,9 @@
       "itemIds": [
         "recall:film-psilocybin-forsok-recall-1",
         "recall:film-behandling-evidens-recall-01",
-        "recall:film-lararfragor-recall-07"
+        "recall:film-lararfragor-recall-07",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -2124,7 +2261,10 @@
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
         "advanced:advanced-ta-bort-stodet-ur-forsoket",
-        "advanced:advanced-fran-procentgraf-till-saklig-slutsats"
+        "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-stod-substans"
       ]
     },
     {
@@ -2139,7 +2279,8 @@
         "recall:film-psilocybin-forsok-recall-1",
         "recall:film-lararfragor-recall-09",
         "recall:film-resonemang-recall-placebo-orsak",
-        "advanced:advanced-fran-procentgraf-till-saklig-slutsats"
+        "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -2213,7 +2354,9 @@
         "recall:film-lararfragor-recall-07",
         "recall:film-resonemang-recall-diskussionsuppgift",
         "recall:film-resonemang-recall-studier-siffror",
-        "advanced:advanced-natverksbild-och-beviskedja"
+        "advanced:advanced-natverksbild-och-beviskedja",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -2229,7 +2372,8 @@
         "recall:film-lararfragor-recall-01",
         "recall:film-resonemang-recall-diskussionsuppgift",
         "recall:film-resonemang-recall-studier-siffror",
-        "advanced:advanced-natverksbild-och-beviskedja"
+        "advanced:advanced-natverksbild-och-beviskedja",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -2246,7 +2390,8 @@
         "recall:film-lararfragor-recall-07",
         "recall:film-resonemang-recall-diskussionsuppgift",
         "recall:film-resonemang-recall-studier-siffror",
-        "advanced:advanced-natverksbild-och-beviskedja"
+        "advanced:advanced-natverksbild-och-beviskedja",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -2262,6 +2407,7 @@
         "recall:film-lararfragor-recall-01",
         "recall:film-resonemang-recall-studier-siffror",
         "advanced:advanced-natverksbild-och-beviskedja",
+        "advanced:reported-film-handling-framtid",
         "objective:film-psilocybin-hjarna-quiz-1"
       ]
     },
@@ -2310,6 +2456,9 @@
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
         "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-psilocybin-resultat-quiz-1"
       ]
     },
@@ -2335,6 +2484,9 @@
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-granska-sammanslagen-medicinrubrik",
         "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-psilocybin-resultat-quiz-1",
         "objective:film-osakerhet-framtid-quiz-1",
         "objective:film-resonemang-quiz-01"
@@ -2362,6 +2514,9 @@
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-natverksbild-och-beviskedja",
         "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-resonemang-quiz-01"
       ]
     },
@@ -2425,6 +2580,9 @@
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-natverksbild-och-beviskedja",
         "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-metodkritik-quiz-1",
         "objective:film-osakerhet-framtid-quiz-1",
         "objective:film-behandling-evidens-quiz-01"
@@ -2455,6 +2613,9 @@
         "advanced:advanced-natverksbild-och-beviskedja",
         "advanced:advanced-fran-procentgraf-till-saklig-slutsats",
         "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-behandling-evidens-quiz-01"
       ]
     },
@@ -2499,6 +2660,7 @@
         "recall:film-kommersiellt-reasoning-intressen",
         "recall:film-lararfragor-recall-08",
         "advanced:advanced-marknadslofte-och-sakerhetssignal",
+        "advanced:reported-film-handling-framtid",
         "objective:film-kommersiellt-quiz-1"
       ]
     },
@@ -2516,7 +2678,9 @@
         "recall:film-osakerhet-framtid-reasoning-framtid",
         "recall:film-lararfragor-recall-08",
         "recall:film-resonemang-recall-etik-tillgang",
-        "advanced:advanced-marknadslofte-och-sakerhetssignal"
+        "advanced:advanced-marknadslofte-och-sakerhetssignal",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-etiskt-beslut"
       ]
     },
     {
@@ -2557,6 +2721,8 @@
         "recall:film-resonemang-recall-etik-tillgang",
         "recall:film-resonemang-recall-framtid-villkor",
         "advanced:advanced-marknadslofte-och-sakerhetssignal",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-osakerhet-framtid-quiz-1"
       ]
     },
@@ -2573,7 +2739,8 @@
         "recall:film-kommersiellt-reasoning-intressen",
         "recall:film-osakerhet-framtid-reasoning-framtid",
         "recall:film-resonemang-recall-etik-tillgang",
-        "advanced:advanced-marknadslofte-och-sakerhetssignal"
+        "advanced:advanced-marknadslofte-och-sakerhetssignal",
+        "advanced:practice-film-etiskt-beslut"
       ]
     },
     {
@@ -2592,7 +2759,8 @@
         "recall:film-osakerhet-framtid-reasoning-vard",
         "recall:film-lararfragor-recall-05",
         "recall:film-resonemang-recall-riskkategorier",
-        "advanced:advanced-marknadslofte-och-sakerhetssignal"
+        "advanced:advanced-marknadslofte-och-sakerhetssignal",
+        "advanced:practice-film-etiskt-beslut"
       ]
     },
     {
@@ -2690,7 +2858,8 @@
         "recall:film-lararfragor-recall-06",
         "recall:film-resonemang-recall-personal-miljo",
         "advanced:advanced-ta-bort-stodet-ur-forsoket",
-        "advanced:advanced-hallucination-som-biverkan-och-hypotes"
+        "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:practice-film-stod-substans"
       ]
     },
     {
@@ -2708,6 +2877,7 @@
         "recall:film-resonemang-recall-personal-miljo",
         "advanced:advanced-ta-bort-stodet-ur-forsoket",
         "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:practice-film-stod-substans",
         "objective:film-miljo-cancer-quiz-1"
       ]
     },
@@ -2737,7 +2907,8 @@
         "recall:film-miljo-cancer-recall-1",
         "recall:film-lararfragor-recall-02",
         "recall:film-lararfragor-recall-04",
-        "advanced:advanced-granska-sammanslagen-medicinrubrik"
+        "advanced:advanced-granska-sammanslagen-medicinrubrik",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -2822,7 +2993,8 @@
         "recall:film-lararfragor-recall-08",
         "recall:film-lararfragor-recall-10",
         "recall:film-resonemang-recall-framtid-villkor",
-        "advanced:advanced-hallucination-som-biverkan-och-hypotes"
+        "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -2842,7 +3014,8 @@
         "recall:film-lararfragor-recall-10",
         "recall:film-resonemang-recall-riskkategorier",
         "recall:film-resonemang-recall-framtid-villkor",
-        "advanced:advanced-hallucination-som-biverkan-och-hypotes"
+        "advanced:advanced-hallucination-som-biverkan-och-hypotes",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -2901,7 +3074,9 @@
         "recall:film-osakerhet-framtid-recall-1",
         "recall:film-resonemang-recall-etik-tillgang",
         "advanced:advanced-ta-bort-stodet-ur-forsoket",
-        "advanced:advanced-begransade-vardresurser-och-patientbehov"
+        "advanced:advanced-begransade-vardresurser-och-patientbehov",
+        "advanced:practice-film-stod-substans",
+        "advanced:practice-film-etiskt-beslut"
       ]
     },
     {
@@ -3055,6 +3230,8 @@
         "advanced:advanced-marknadslofte-och-sakerhetssignal",
         "advanced:advanced-begransade-vardresurser-och-patientbehov",
         "advanced:advanced-tradition-forbud-och-vetenskapligt-stod",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-etiskt-beslut",
         "objective:film-osakerhet-framtid-quiz-1"
       ]
     },
@@ -3075,7 +3252,9 @@
         "recall:film-resonemang-recall-diskussionsuppgift",
         "recall:film-resonemang-recall-personal-miljo",
         "recall:film-resonemang-recall-riskkategorier",
-        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall"
+        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-stod-substans"
       ]
     },
     {
@@ -3091,6 +3270,7 @@
         "recall:film-osakerhet-framtid-reasoning-framtid",
         "advanced:advanced-marknadslofte-och-sakerhetssignal",
         "advanced:advanced-tradition-forbud-och-vetenskapligt-stod",
+        "advanced:reported-film-handling-framtid",
         "objective:film-osakerhet-framtid-quiz-1"
       ]
     },
@@ -3157,7 +3337,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:ppt-systematik-r01",
-        "advanced:advanced-livstrad-och-taxonomisk-hierarki"
+        "advanced:advanced-livstrad-och-taxonomisk-hierarki",
+        "advanced:reported-jamfor-svampar-djur-vaxter"
       ]
     },
     {
@@ -3219,7 +3400,8 @@
       "itemIds": [
         "recall:ppt-systematik-r03",
         "recall:ppt-systematik-r04",
-        "advanced:advanced-livstrad-och-taxonomisk-hierarki"
+        "advanced:advanced-livstrad-och-taxonomisk-hierarki",
+        "advanced:exam-practice-systematik"
       ]
     },
     {
@@ -3233,12 +3415,13 @@
       "itemIds": [
         "recall:ppt-systematik-r03",
         "recall:ppt-systematik-r04",
-        "advanced:advanced-livstrad-och-taxonomisk-hierarki"
+        "advanced:advanced-livstrad-och-taxonomisk-hierarki",
+        "advanced:exam-practice-systematik"
       ]
     },
     {
       "id": "fact:ppt-systematik-f10",
-      "title": "Cellkärnans kärnhölje ska skiljas från cellens yttre cellmembran; kärnhöljet har en inre och en yttre membranstruktur.",
+      "title": "Sida 3 anger att eukaryoter har arvsmassan i en avgränsad cellkärna. Membranens antal och detaljerade struktur beskrivs inte i underlaget.",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-systematik"
@@ -3259,7 +3442,10 @@
       "itemIds": [
         "recall:ppt-systematik-r02",
         "recall:ppt-systematik-r04",
-        "advanced:advanced-livstrad-och-taxonomisk-hierarki"
+        "advanced:advanced-livstrad-och-taxonomisk-hierarki",
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:exam-practice-systematik"
       ]
     },
     {
@@ -3287,6 +3473,7 @@
         "recall:ppt-systematik-r02",
         "advanced:advanced-livstrad-och-taxonomisk-hierarki",
         "advanced:advanced-historisk-grupp-ar-inte-slaktskap",
+        "advanced:exam-practice-systematik",
         "objective:ppt-systematik-q06"
       ]
     },
@@ -3333,7 +3520,7 @@
     },
     {
       "id": "fact:ppt-systematik-f17",
-      "title": "Lärarens äldre domän-/rikesschema och detaljerade träd ska skiljas från modern fylogeni; protister är inget enda naturligt modernt släktskapsrike och mikrosporidiers äldre placering i bilden är inte en aktuell slutlig placering.",
+      "title": "Sida 4 benämner modellen klassisk systematik och sida 6 beskriver protister i äldre systematik. Materialet ger inga nya taxonomiska placeringar att komplettera modellen med.",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-systematik"
@@ -3358,12 +3545,13 @@
         "recall:ppt-slemsvampar-r02",
         "recall:ppt-slemsvampar-r03",
         "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:exam-reported-slemsvampar",
         "objective:ppt-slemsvampar-q01"
       ]
     },
     {
       "id": "fact:ppt-slemsvampar-f02",
-      "title": "De plasmodiebildande slemsvampar som behandlas här placeras i modern klassifikation inom Amoebozoa, skilt från egentliga Fungi.",
+      "title": "Slemsvampar beskrivs som svampliknande i presentationens traditionella protistindelning; någon ytterligare modern gruppplacering anges inte.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar"
@@ -3387,12 +3575,13 @@
       "itemIds": [
         "recall:ppt-slemsvampar-r01",
         "recall:ppt-slemsvampar-r03",
-        "advanced:advanced-svamplik-massa-och-naringsupptag"
+        "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:exam-reported-slemsvampar"
       ]
     },
     {
       "id": "fact:ppt-slemsvampar-f04",
-      "title": "Presentationens plasmoid/supercell avser ett plasmodium: en gemensam cellmassa med många kärnor, inte ett svampmycel av hyfer.",
+      "title": "Presentationens plasmoid/supercell och diagrammets plasmodium är det näringsupptagande stadiet. Mycel definieras däremot som ett nätverk av svamphyfer.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar"
@@ -3415,12 +3604,13 @@
       "itemIds": [
         "recall:ppt-slemsvampar-r01",
         "recall:ppt-slemsvampar-r03",
-        "advanced:advanced-svamplik-massa-och-naringsupptag"
+        "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:exam-reported-slemsvampar"
       ]
     },
     {
       "id": "fact:ppt-slemsvampar-f06",
-      "title": "Inneslutning av partiklar kallas fagocytos; detta skiljer sig från egentliga svampars yttre enzymatiska nedbrytning och upptag av små molekyler.",
+      "title": "Slemsvampsexemplet innesluter föda och löser upp den; bokens egentliga svampar bryter ner material utanför organismen med enzymer före upptaget.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar"
@@ -3443,7 +3633,8 @@
       "itemIds": [
         "recall:ppt-slemsvampar-r01",
         "recall:ppt-slemsvampar-r03",
-        "advanced:advanced-svamplik-massa-och-naringsupptag"
+        "advanced:advanced-svamplik-massa-och-naringsupptag",
+        "advanced:exam-reported-slemsvampar"
       ]
     },
     {
@@ -3455,7 +3646,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:ppt-slemsvampar-r01"
+        "recall:ppt-slemsvampar-r01",
+        "advanced:exam-reported-slemsvampar"
       ]
     },
     {
@@ -3521,6 +3713,7 @@
       "kind": "fact",
       "itemIds": [
         "recall:ppt-slemsvampar-livscykel-r01",
+        "advanced:exam-reported-slemsvampar",
         "objective:ppt-slemsvampar-livscykel-q01"
       ]
     },
@@ -3589,7 +3782,7 @@
     },
     {
       "id": "fact:ppt-slemsvampar-livscykel-f06",
-      "title": "Zygoten utvecklas genom mitotiska kärndelningar utan celluppdelning till ett flerkärnigt plasmodium, vars kärnor är diploida i den avbildade sexuella cykeln.",
+      "title": "Sida 11 visar pilen Mitos från zygot till näringsupptagande plasmodium. Den specificerar inte hur interna kärndelningar och celluppdelning går till.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar-livscykel"
@@ -3679,7 +3872,7 @@
     },
     {
       "id": "fact:ppt-slemsvampar-livscykel-f12",
-      "title": "Texten på sida 8 om att flera zygoter förenas ska inte användas som huvudmekanism; diagrammet och den typiska sexuella plasmodieutvecklingen går från en zygot via mitos.",
+      "title": "Sida 8 säger att zygoter förenas med andra zygoter, medan sida 11 har pilen Mitos från en zygot till plasmodium. Här följs figurens märkta ordning och motsägelsen anges öppet.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar-livscykel"
@@ -3692,7 +3885,7 @@
     },
     {
       "id": "fact:ppt-slemsvampar-livscykel-f13",
-      "title": "Slemsvampsdiagrammets zygot och flerkärniga plasmodium skiljer sig från egentliga svampars mycel-/hyfcykel och deras skede med ännu åtskilda haploida kärnor.",
+      "title": "Slemsvampsdiagrammet visar zygot och plasmodium. Bokens svampcykel visar hyfer/mycel och ett skede med ännu åtskilda haploida kärnor. Dessa mellanformer ska skiljas åt.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar-livscykel"
@@ -3712,7 +3905,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:ppt-svampgrupper-r01"
+        "recall:ppt-svampgrupper-r01",
+        "advanced:exam-reported-slemsvampar"
       ]
     },
     {
@@ -3738,12 +3932,13 @@
       "kind": "fact",
       "itemIds": [
         "recall:ppt-svampgrupper-r01",
-        "advanced:advanced-historisk-grupp-ar-inte-slaktskap"
+        "advanced:advanced-historisk-grupp-ar-inte-slaktskap",
+        "advanced:exam-practice-systematik"
       ]
     },
     {
       "id": "fact:ppt-svampgrupper-f04",
-      "title": "Algsvampar är en historisk samlingsgrupp, inte en enda modern släktskapsgrupp eller en fullständig lista över Fungi.",
+      "title": "Algsvampar är ett av presentationens tre gruppnamn. Materialet här innehåller ingen fullständig alternativ klassificering.",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-svampgrupper"
@@ -3770,7 +3965,7 @@
     },
     {
       "id": "fact:ppt-svampgrupper-f06",
-      "title": "Kräftpest anges som exempel; organismen Aphanomyces astaci är en oomycet som i modern systematik placeras utanför Fungi.",
+      "title": "Kräftpest anges som exempel under Algsvampar på sida 16; något vetenskapligt artnamn eller ytterligare taxonomisk placering anges inte.",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-svampgrupper"
@@ -3783,7 +3978,7 @@
     },
     {
       "id": "fact:ppt-svampgrupper-f07",
-      "title": "Brödmögel anges som algsvamp, men olika verkliga svampar kan bilda mögel på bröd och fotot fastställer ingen säker art.",
+      "title": "Mögel på bröd anges som algsvamp på sida 16, men fotot har inget artnamn.",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-svampgrupper"
@@ -3796,7 +3991,7 @@
     },
     {
       "id": "fact:ppt-svampgrupper-f08",
-      "title": "Rhizopus är ett klassiskt brödmögelexempel inom de egentliga svamparna, till skillnad från kräftpestorganismen som är en oomycet.",
+      "title": "Sida 16 har två exempel under Algsvampar: kräftpest i samband med vattenliv/parasitism och mögel på bröd. Något närmare släktskap mellan exemplen redovisas inte.",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-svampgrupper"
@@ -3816,7 +4011,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "card:ppt-basidiesvampar-c03"
+        "card:ppt-basidiesvampar-c03",
+        "advanced:reported-beratta-om-en-svamp"
       ]
     },
     {
@@ -3832,12 +4028,13 @@
         "recall:ppt-basidiesvampar-r03",
         "advanced:advanced-mikroskopi-och-sporbarande-yta",
         "advanced:advanced-parasit-ar-inte-en-sporgrupp",
+        "advanced:exam-practice-fruktkropp-spor",
         "objective:ppt-basidiesvampar-q01"
       ]
     },
     {
       "id": "fact:ppt-basidiesvampar-f03",
-      "title": "Presentationens mogna basidie har fyra skaft med varsin spor; fyra är vanligt men inte universellt.",
+      "title": "Sida 20 beskriver en mogen basidie med fyra skaft som bär varsin spor. Materialet anger inget mer allmänt variationsmönster.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-basidiesvampar"
@@ -3857,7 +4054,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "card:ppt-basidiesvampar-c04"
+        "card:ppt-basidiesvampar-c04",
+        "advanced:reported-beratta-om-en-svamp"
       ]
     },
     {
@@ -3871,7 +4069,9 @@
       "itemIds": [
         "recall:ppt-basidiesvampar-r01",
         "recall:ppt-basidiesvampar-r03",
-        "advanced:advanced-mikroskopi-och-sporbarande-yta"
+        "advanced:advanced-mikroskopi-och-sporbarande-yta",
+        "advanced:reported-beratta-om-en-svamp",
+        "advanced:exam-practice-fruktkropp-spor"
       ]
     },
     {
@@ -3918,7 +4118,7 @@
     },
     {
       "id": "fact:ppt-basidiesvampar-f09",
-      "title": "Kantarell har nedlöpande åsar/veck, inte äkta lameller; bild 22:s rubrik Skivling är missvisande.",
+      "title": "Sida 22 har rubriken Skivling och bildtexten kantarell; fotot visar förgrenade veckliknande strukturer. Någon definition av äkta lameller kontra åsar ges inte.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-basidiesvampar"
@@ -3987,7 +4187,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:ppt-basidiesvampar-r03",
-        "advanced:advanced-mikroskopi-och-sporbarande-yta"
+        "advanced:advanced-mikroskopi-och-sporbarande-yta",
+        "advanced:exam-practice-fruktkropp-spor"
       ]
     },
     {
@@ -4018,7 +4219,7 @@
     },
     {
       "id": "fact:ppt-basidiesvampar-f17",
-      "title": "Stinksvamp visas som buksvamp; det mogna fotot har vit fot och mörk slemmig spormassa efter innesluten utveckling.",
+      "title": "Sida 24 namnger stinksvamp under rubriken Buksvamp; fotot visar ljus fot och mörk topp utan att beskriva föregående utveckling.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-basidiesvampar"
@@ -4031,7 +4232,7 @@
     },
     {
       "id": "fact:ppt-basidiesvampar-f18",
-      "title": "Buksvamp är en traditionell formgrupp, inte en enda naturlig släktskapsgrupp.",
+      "title": "Buksvampar beskrivs på sida 20 genom sluten fruktkropp under sporutvecklingen. En fullständig släktskapsindelning av dessa exempel anges inte.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-basidiesvampar"
@@ -4057,7 +4258,7 @@
     },
     {
       "id": "fact:ppt-sporsackssvampar-f01",
-      "title": "Sporsäckssvampars sexuella sporer utvecklas inuti säcklika celler som kallas sporsäckar eller asci.",
+      "title": "Sporer bildas inuti sporsäckar enligt sidorna 25 och 27.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -4068,6 +4269,7 @@
         "recall:ppt-sporsackssvampar-r02",
         "advanced:advanced-mikroskopi-och-sporbarande-yta",
         "advanced:advanced-parasit-ar-inte-en-sporgrupp",
+        "advanced:exam-practice-fruktkropp-spor",
         "objective:ppt-sporsackssvampar-q01"
       ]
     },
@@ -4085,7 +4287,7 @@
     },
     {
       "id": "fact:ppt-sporsackssvampar-f03",
-      "title": "Bild 27 tar upp mikroskopiska jäst- och mögelsvampar, men alla jäst- och mögelformer är inte automatiskt Ascomycota.",
+      "title": "Sida 27 räknar upp mikroskopiska jäst- och mögelsvampar som exempel bland sporsäckssvampar. Någon fullständig indelning av alla jäst- och mögelformer anges inte.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -4120,7 +4322,8 @@
       "itemIds": [
         "recall:ppt-sporsackssvampar-r01",
         "recall:ppt-sporsackssvampar-r02",
-        "advanced:advanced-mikroskopi-och-sporbarande-yta"
+        "advanced:advanced-mikroskopi-och-sporbarande-yta",
+        "advanced:exam-practice-fruktkropp-spor"
       ]
     },
     {
@@ -4150,7 +4353,7 @@
     },
     {
       "id": "fact:ppt-sporsackssvampar-f08",
-      "title": "Sporsäckssvampar kan också bilda asexuella sporer; ett vanligt mögelfoto visar inte säkert att sexuella sporsäckar syns.",
+      "title": "Mögelfotot på sida 25 saknar förstoring av sporsäckar och fastställer inte vilket reproduktionsstadium som syns.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -4162,7 +4365,7 @@
     },
     {
       "id": "fact:ppt-sporsackssvampar-f09",
-      "title": "Askosporer utvecklas inuti en ascus, medan basidiosporer utvecklas utanpå ett basidium.",
+      "title": "Sporer inuti sporsäckar på sida 27 kan jämföras med sporer på utskott utanpå basidiet på sidorna 20 och 39.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -4312,7 +4515,8 @@
       "itemIds": [
         "recall:ppt-parasitism-r03",
         "advanced:advanced-historisk-grupp-ar-inte-slaktskap",
-        "advanced:advanced-parasit-ar-inte-en-sporgrupp"
+        "advanced:advanced-parasit-ar-inte-en-sporgrupp",
+        "advanced:exam-practice-systematik"
       ]
     },
     {
@@ -4385,7 +4589,7 @@
     },
     {
       "id": "fact:ppt-jast-mogel-f06",
-      "title": "Jäsning utan syreanvändning i processen innebär inte att jäst saknar cellandning; jäst och mögel är växtsätt och inte universella taxonomiska grupper.",
+      "title": "Sida 27 beskriver jäsningens produkter och syreoberoende. Bakjästens övriga ämnesomsättning och alla jästformers taxonomi redovisas inte.",
       "topicId": "manniska-bioteknik",
       "sectionIds": [
         "ppt-jast-mogel"
@@ -4408,12 +4612,13 @@
       "itemIds": [
         "recall:ppt-anatomi-r01",
         "recall:ppt-anatomi-r03",
-        "advanced:advanced-artfoto-och-anatomiska-ledtradar"
+        "advanced:advanced-artfoto-och-anatomiska-ledtradar",
+        "advanced:exam-practice-fruktkropp-spor"
       ]
     },
     {
       "id": "fact:ppt-anatomi-f02",
-      "title": "Skivor och lameller är två namn på undersidans skivformade strukturer. Hymenium är den sporproducerande vävnaden på ytan.",
+      "title": "Skivor kallas lameller på sida 20. Hymenium är en etikett vid undersidan på bild 29 men definieras inte utförligt.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-anatomi"
@@ -4428,7 +4633,7 @@
     },
     {
       "id": "fact:ppt-anatomi-f03",
-      "title": "I den avbildade basidiesvampen finns basidier på hymeniet. Basidier är klubbformade celler som bildar sporer på utskott utanför cellen.",
+      "title": "Sida 28 visar en klubbformad cell med sporer på utskott och benämningen basidie. Sidorna 19–20 placerar basidier på skivor, rör eller taggar.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-anatomi"
@@ -4438,7 +4643,8 @@
         "recall:ppt-anatomi-r02",
         "recall:ppt-anatomi-r03",
         "recall:ppt-basidie-livscykel-r01",
-        "advanced:advanced-mikroskopi-och-sporbarande-yta"
+        "advanced:advanced-mikroskopi-och-sporbarande-yta",
+        "advanced:exam-practice-fruktkropp-spor"
       ]
     },
     {
@@ -4483,7 +4689,7 @@
     },
     {
       "id": "fact:ppt-anatomi-f07",
-      "title": "Hatten bär den sporproducerande ytan; foten lyfter den så att sporer kan spridas förbi markens hinder.",
+      "title": "Hatten ligger överst och foten bär den i källfigurerna. Sambandet mellan höjd och faktisk sporspridning undersöks inte i materialet.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-anatomi"
@@ -4496,7 +4702,7 @@
     },
     {
       "id": "fact:ppt-anatomi-f08",
-      "title": "Ring och strumpa är ofta rester av olika höljen kring den unga fruktkroppen: undersidans hölje kan lämna ring, hela kroppens hölje kan lämna strumpa och ibland hattfläckar.",
+      "title": "Ring ritas på foten och strumpa vid fotbasen. Sida 28 anger ring ibland; något ursprung från skyddshöljen förklaras inte.",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-anatomi"
@@ -4547,7 +4753,8 @@
       "itemIds": [
         "recall:ppt-mykorrhiza-r01",
         "recall:ppt-mykorrhiza-r02",
-        "advanced:advanced-mykorrhiza-rotbild-och-resurspilar"
+        "advanced:advanced-mykorrhiza-rotbild-och-resurspilar",
+        "advanced:reported-jamfor-svampar-djur-vaxter"
       ]
     },
     {
@@ -4578,7 +4785,7 @@
     },
     {
       "id": "fact:ppt-mykorrhiza-f06",
-      "title": "Ektomykorrhiza har hyfmantel runt roten och hyfer mellan rotceller; arbuskulär mykorrhiza kan ha hyfer inne i rotceller. Dessa kontaktmodeller får inte likställas.",
+      "title": "Sida 34 beskriver hyfmantel runt roten, medan boken sida 267 beskriver hyfer i rotceller. Källorna namnger inte olika mykorrhizatyper eller förklarar skillnaden fullständigt.",
       "topicId": "ekologiska-relationer",
       "sectionIds": [
         "ppt-mykorrhiza"
@@ -4599,12 +4806,13 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "card:ppt-tillvaxt-nedbrytning-c01"
+        "card:ppt-tillvaxt-nedbrytning-c01",
+        "advanced:reported-om-svampar-forsvann"
       ]
     },
     {
       "id": "fact:ppt-tillvaxt-nedbrytning-f02",
-      "title": "Lärarens saprofyt tar näring från döda växt- och djurdelar. Den moderna termen saprotrof används för denna näringsstrategi.",
+      "title": "Lärarens saprofyt tar näring från döda växt- och djurdelar och beskrivs som nedbrytare.",
       "topicId": "tillvaxt-spridning",
       "sectionIds": [
         "ppt-tillvaxt-nedbrytning"
@@ -4628,6 +4836,7 @@
         "recall:ppt-tillvaxt-nedbrytning-r01",
         "recall:ppt-tillvaxt-nedbrytning-r02",
         "advanced:advanced-jast-och-mogel-i-livsmedelsforsok",
+        "advanced:exam-practice-tillvaxtvillkor",
         "objective:ppt-tillvaxt-nedbrytning-q03"
       ]
     },
@@ -4642,7 +4851,8 @@
       "itemIds": [
         "recall:ppt-tillvaxt-nedbrytning-r01",
         "recall:ppt-tillvaxt-nedbrytning-r02",
-        "advanced:advanced-jast-och-mogel-i-livsmedelsforsok"
+        "advanced:advanced-jast-och-mogel-i-livsmedelsforsok",
+        "advanced:exam-practice-tillvaxtvillkor"
       ]
     },
     {
@@ -4654,7 +4864,8 @@
       ],
       "kind": "fact",
       "itemIds": [
-        "recall:ppt-tillvaxt-nedbrytning-r01"
+        "recall:ppt-tillvaxt-nedbrytning-r01",
+        "advanced:exam-practice-tillvaxtvillkor"
       ]
     },
     {
@@ -4668,7 +4879,8 @@
       "itemIds": [
         "recall:ppt-tillvaxt-nedbrytning-r01",
         "recall:ppt-tillvaxt-nedbrytning-r02",
-        "advanced:advanced-jast-och-mogel-i-livsmedelsforsok"
+        "advanced:advanced-jast-och-mogel-i-livsmedelsforsok",
+        "advanced:exam-practice-tillvaxtvillkor"
       ]
     },
     {
@@ -4694,6 +4906,7 @@
       "itemIds": [
         "recall:ppt-basidie-livscykel-r01",
         "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel",
         "objective:ppt-basidie-livscykel-q05"
       ]
     },
@@ -4711,6 +4924,7 @@
         "recall:ppt-basidie-livscykel-r03",
         "advanced:advanced-felsok-slemsvampens-livscykel",
         "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel",
         "objective:ppt-basidie-livscykel-q05"
       ]
     },
@@ -4726,12 +4940,13 @@
         "recall:ppt-basidie-livscykel-r01",
         "recall:ppt-basidie-livscykel-r03",
         "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel",
         "objective:ppt-basidie-livscykel-q05"
       ]
     },
     {
       "id": "fact:ppt-basidie-livscykel-f05",
-      "title": "Karyogami är kärnfusionen i basidiet: två åtskilda haploida kärnor blir en diploid kärna, 2n. Bildens Fertilization avser detta steg.",
+      "title": "Kärnsammanslagning är kärnfusionen i basidiet: två åtskilda haploida kärnor blir en diploid kärna, 2n. Bildens Fertilization avser detta steg.",
       "topicId": "svampars-livscykler",
       "sectionIds": [
         "ppt-basidie-livscykel"
@@ -4743,6 +4958,7 @@
         "recall:ppt-basidie-livscykel-r03",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
         "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel",
         "objective:ppt-basidie-livscykel-q05"
       ]
     },
@@ -4760,6 +4976,7 @@
         "recall:ppt-basidie-livscykel-r03",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
         "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel",
         "objective:ppt-basidie-livscykel-q05"
       ]
     },
@@ -4776,6 +4993,7 @@
         "recall:ppt-basidie-livscykel-r02",
         "recall:ppt-basidie-livscykel-r03",
         "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel",
         "objective:ppt-basidie-livscykel-q05"
       ]
     },
@@ -4792,12 +5010,13 @@
         "recall:ppt-basidie-livscykel-r03",
         "advanced:advanced-tva-karnor-ar-inte-diploid",
         "advanced:advanced-felsok-slemsvampens-livscykel",
-        "advanced:advanced-avbruten-karnfusion-i-basidiemodell"
+        "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel"
       ]
     },
     {
       "id": "fact:ppt-basidie-livscykel-f09",
-      "title": "Den typiska basidiemodellens ordning är spor n → primärt mycel → plasmogami → sekundärt mycel n + n → fruktkropp/basidier → karyogami 2n → meios → nya basidiesporer n.",
+      "title": "Den typiska basidiemodellens ordning är spor n → primärt mycel → plasmogami → sekundärt mycel n + n → fruktkropp/basidier → kärnsammanslagning 2n → meios → nya basidiesporer n.",
       "topicId": "svampars-livscykler",
       "sectionIds": [
         "ppt-basidie-livscykel"
@@ -4820,12 +5039,13 @@
       "kind": "fact",
       "itemIds": [
         "recall:ppt-basidie-livscykel-r02",
-        "advanced:advanced-avbruten-karnfusion-i-basidiemodell"
+        "advanced:advanced-avbruten-karnfusion-i-basidiemodell",
+        "advanced:exam-practice-basidiecykel"
       ]
     },
     {
       "id": "fact:ppt-basidie-livscykel-f11",
-      "title": "Mitotisk kärndelning under hyftillväxt bevarar kromosomuppsättningen. I den specifika basidiemodellen kommer den tvåkärniga tillväxten före karyogami, som följs av meios i basidiet.",
+      "title": "Sida 39 skiljer tillväxten från sekundärt mycel till fruktkropp från den senare kärnsammanslagningen och meiosen i basidiet.",
       "topicId": "svampars-livscykler",
       "sectionIds": [
         "ppt-basidie-livscykel"
@@ -4846,7 +5066,9 @@
       "kind": "fact",
       "itemIds": [
         "recall:film-lararfragor-recall-03",
-        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall"
+        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
+        "advanced:reported-film-handling-framtid",
+        "advanced:practice-film-patientfall-evidens"
       ]
     },
     {
@@ -4859,7 +5081,8 @@
       "kind": "fact",
       "itemIds": [
         "recall:film-lararfragor-recall-03",
-        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall"
+        "advanced:advanced-upplevelse-ar-inte-samma-sak-som-utfall",
+        "advanced:reported-film-handling-framtid"
       ]
     },
     {
@@ -5572,7 +5795,7 @@
     },
     {
       "id": "recall:ppt-slemsvampar-livscykel-r04",
-      "title": "Anta att ett plasmodium kan växa och få allt fler kärnor genom mitos, men att meiosen vid sporbildningen uteblir. Analysera vilka delar av den avbildade sexuella cykeln som påverkas, hur n/2n-övergångarna hänger ihop och vad diagrammet inte låter dig avgöra.",
+      "title": "Anta att den avbildade utvecklingen till plasmodium fungerar men att meiossteget tas bort ur diagrammet. Analysera vilken övergång som då saknas och vad diagrammet inte låter dig avgöra.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar-livscykel"
@@ -5764,7 +5987,7 @@
     },
     {
       "id": "recall:ppt-anatomi-r02",
-      "title": "Följ en spor tillbaka till platsen där den bildades i en skivling och förklara de fyra nivåerna skiva, hymenium, basidium och spor.",
+      "title": "Följ en spor tillbaka till basidiet och hattens undersida. Vilka nivåer visar bilderna, och vad säger de inte utförligt om etiketten Hymenium?",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-anatomi"
@@ -6196,7 +6419,7 @@
     },
     {
       "id": "concept:ascomycota",
-      "title": "Ascomycota",
+      "title": "sporsäckssvampar",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -6208,7 +6431,7 @@
     },
     {
       "id": "concept:ascus-sporsack",
-      "title": "ascus / sporsäck",
+      "title": "sporsäck",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -6232,7 +6455,7 @@
     },
     {
       "id": "concept:askospor",
-      "title": "askospor",
+      "title": "spor i sporsäck",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-sporsackssvampar"
@@ -6364,7 +6587,7 @@
     },
     {
       "id": "concept:dikaryot-n-n",
-      "title": "dikaryot / n + n",
+      "title": "två åtskilda kärnor / n + n",
       "topicId": "svampars-livscykler",
       "sectionIds": [
         "ppt-basidie-livscykel"
@@ -6436,7 +6659,7 @@
     },
     {
       "id": "concept:ektomykorrhiza",
-      "title": "ektomykorrhiza",
+      "title": "hyfmantel i presentationen",
       "topicId": "ekologiska-relationer",
       "sectionIds": [
         "ppt-mykorrhiza"
@@ -6496,7 +6719,7 @@
     },
     {
       "id": "concept:fagocytos",
-      "title": "fagocytos",
+      "title": "inneslutning av föda",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar"
@@ -6748,7 +6971,7 @@
     },
     {
       "id": "concept:hymenium",
-      "title": "hymenium",
+      "title": "hymenium i källbilden",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-anatomi"
@@ -6796,7 +7019,7 @@
     },
     {
       "id": "concept:karyogami",
-      "title": "karyogami",
+      "title": "kärnsammanslagning",
       "topicId": "svampars-livscykler",
       "sectionIds": [
         "ppt-basidie-livscykel"
@@ -6868,7 +7091,7 @@
     },
     {
       "id": "concept:karnholje",
-      "title": "kärnhölje",
+      "title": "cellkärnans avgränsning",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-systematik"
@@ -7036,7 +7259,7 @@
     },
     {
       "id": "concept:mitos-i-hyftillvaxt",
-      "title": "mitos i hyftillväxt",
+      "title": "tillväxt före kärnsammanslagning",
       "topicId": "svampars-livscykler",
       "sectionIds": [
         "ppt-basidie-livscykel"
@@ -7048,7 +7271,7 @@
     },
     {
       "id": "concept:mitos-i-plasmodieutvecklingen",
-      "title": "mitos i plasmodieutvecklingen",
+      "title": "mitospilen i slemsvampsdiagrammet",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar-livscykel"
@@ -7120,7 +7343,7 @@
     },
     {
       "id": "concept:oomycet",
-      "title": "oomycet",
+      "title": "kräftpest i presentationen",
       "topicId": "systematik-grupper",
       "sectionIds": [
         "ppt-svampgrupper"
@@ -7480,7 +7703,7 @@
     },
     {
       "id": "concept:sterigm",
-      "title": "sterigm",
+      "title": "basidiets utskott",
       "topicId": "fruktkropp-sporbildning",
       "sectionIds": [
         "ppt-basidiesvampar"
@@ -7830,7 +8053,7 @@
     },
     {
       "id": "advanced:advanced-felsok-slemsvampens-livscykel",
-      "title": "En omritad slemsvampscykel visar ”spor n → amöba → flagellat → flera zygoter smälter samman → plasmodium n + n → sporer genom mitos”. Rätta modellen genom att förklara vilka pilar som ska tolkas som alternativ, var kromosomuppsättningen ändras och hur det flerkärniga plasmodiet utvecklas. Jämför kort med ett tvåkärnigt svampmycel.",
+      "title": "En omritad slemsvampscykel visar ”spor n → amöba → flagellat → flera zygoter smälter samman → plasmodium n + n → sporer genom mitos”. Rätta modellen genom att förklara vilka pilar som ska tolkas som alternativ, var kromosomuppsättningen ändras och hur det avbildade plasmodiet utvecklas. Jämför kort med ett tvåkärnigt svampmycel.",
       "topicId": "slemsvampscykeln",
       "sectionIds": [
         "ppt-slemsvampar-livscykel",
@@ -8099,6 +8322,256 @@
       "kind": "advanced",
       "itemIds": [
         "advanced:advanced-tradition-forbud-och-vetenskapligt-stod"
+      ]
+    },
+    {
+      "id": "advanced:reported-jamfor-svampar-djur-vaxter",
+      "title": "Jämför svampar med djur och växter.",
+      "topicId": "struktur-naring",
+      "sectionIds": [
+        "naringsstrategi",
+        "cellbyggnad",
+        "hyfer-mycel",
+        "mykorrhiza-parasitism",
+        "ekosystem",
+        "ppt-systematik",
+        "ppt-mykorrhiza"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:reported-jamfor-svampar-djur-vaxter"
+      ]
+    },
+    {
+      "id": "advanced:reported-beratta-om-en-svamp",
+      "title": "Berätta allting om en svamp.",
+      "topicId": "fruktkropp-sporbildning",
+      "sectionIds": [
+        "cellbyggnad",
+        "naringsstrategi",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt",
+        "sexuell-forokning",
+        "asexuell-forokning",
+        "mykorrhiza-parasitism",
+        "ppt-systematik",
+        "ppt-basidiesvampar",
+        "ppt-basidie-livscykel"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:reported-beratta-om-en-svamp"
+      ]
+    },
+    {
+      "id": "advanced:exam-reported-slemsvampar",
+      "title": "Jämför slemsvampar och vanliga svampar.",
+      "topicId": "slemsvampscykeln",
+      "sectionIds": [
+        "ppt-slemsvampar",
+        "ppt-slemsvampar-livscykel",
+        "ppt-svampgrupper",
+        "ppt-tillvaxt-nedbrytning",
+        "naringsstrategi",
+        "hyfer-mycel",
+        "cellbyggnad",
+        "sexuell-forokning"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:exam-reported-slemsvampar"
+      ]
+    },
+    {
+      "id": "advanced:reported-film-handling-framtid",
+      "title": "Vad hände i filmen och vad tror du kommer hända i framtiden?",
+      "topicId": "film-behandlingsjamforelse",
+      "sectionIds": [
+        "film-introduktion",
+        "film-ptsd-ron",
+        "film-mdma-studie",
+        "film-mdma-mekanism-risk",
+        "film-psilocybin-steve",
+        "film-psilocybin-forsok",
+        "film-psilocybin-hjarna",
+        "film-psilocybin-resultat",
+        "film-metodkritik",
+        "film-kommersiellt",
+        "film-miljo-cancer",
+        "film-ki-psilocybin",
+        "film-osakerhet-framtid",
+        "film-lararfragor"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:reported-film-handling-framtid"
+      ]
+    },
+    {
+      "id": "advanced:reported-om-svampar-forsvann",
+      "title": "Vad skulle hända om svampar försvann?",
+      "topicId": "ekologiska-relationer",
+      "sectionIds": [
+        "naringsstrategi",
+        "hyfer-mycel",
+        "mykorrhiza-parasitism",
+        "ekosystem",
+        "lavar",
+        "manniskans-tjanst",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:reported-om-svampar-forsvann"
+      ]
+    },
+    {
+      "id": "advanced:practice-lav-samarbete-jordbildning",
+      "title": "Förklara hur lavens byggnad gör samarbetet möjligt och hur laven kan förändra en kal klippa till en miljö där andra livsformer lättare etableras. Skilj det materialet beskriver från en säker framtidsprognos.",
+      "topicId": "ekologiska-relationer",
+      "sectionIds": [
+        "lavar",
+        "cellbyggnad",
+        "naringsstrategi"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:practice-lav-samarbete-jordbildning"
+      ]
+    },
+    {
+      "id": "advanced:practice-svampnytta-gen-enzym",
+      "title": "Hur kan samma organismgrupp användas i matproduktion, läkemedel och pappersindustri? Förklara sambandet mellan svampars egenskaper och användningarna, och följ gen–cell–enzym-kedjan i bokens exempel.",
+      "topicId": "manniska-bioteknik",
+      "sectionIds": [
+        "manniskans-tjanst",
+        "naringsstrategi"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:practice-svampnytta-gen-enzym"
+      ]
+    },
+    {
+      "id": "advanced:practice-naring-form-fruktkropp",
+      "title": "Förklara hur svampens näringsupptag, mycelets byggnad och den snabba tillväxten av fruktkroppar hänger ihop. Varför behöver en svamp som plötsligt syns ovan jord inte vara helt nybildad?",
+      "topicId": "struktur-naring",
+      "sectionIds": [
+        "naringsstrategi",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:practice-naring-form-fruktkropp"
+      ]
+    },
+    {
+      "id": "advanced:exam-practice-systematik",
+      "title": "Förklara hur cellbyggnad, cellantal, systematisk nivå och levnadssätt ger olika slags kunskap om en svamp. Använd presentationens hierarki och konkreta exempel.",
+      "topicId": "systematik-grupper",
+      "sectionIds": [
+        "ppt-systematik",
+        "ppt-svampgrupper",
+        "ppt-sporsackssvampar",
+        "ppt-parasitism"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:exam-practice-systematik"
+      ]
+    },
+    {
+      "id": "advanced:exam-practice-fruktkropp-spor",
+      "title": "Hur hänger svampens synliga fruktkropp ihop med de små strukturer där sporer bildas? Jämför basidiesvampar och sporsäckssvampar och bedöm vad olika bilder kan visa.",
+      "topicId": "fruktkropp-sporbildning",
+      "sectionIds": [
+        "ppt-anatomi",
+        "ppt-basidiesvampar",
+        "ppt-sporsackssvampar",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:exam-practice-fruktkropp-spor"
+      ]
+    },
+    {
+      "id": "advanced:exam-practice-basidiecykel",
+      "title": "Förklara den sexuella basidiesvampcykeln från spor till nya sporer. Varför måste mycelförening, tillväxt, kärnsammanslagning och meios hållas isär?",
+      "topicId": "svampars-livscykler",
+      "sectionIds": [
+        "ppt-basidie-livscykel",
+        "sexuell-forokning",
+        "ppt-anatomi"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:exam-practice-basidiecykel"
+      ]
+    },
+    {
+      "id": "advanced:exam-practice-tillvaxtvillkor",
+      "title": "En svamp syns inte alltid som fruktkropp, och mögel växer inte lika snabbt i alla miljöer. Förklara hur spridning, groning, myceltillväxt och fruktkroppsbildning hänger ihop med villkoren och vad ett försök skulle kunna visa.",
+      "topicId": "tillvaxt-spridning",
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning",
+        "hyfer-mycel"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:exam-practice-tillvaxtvillkor"
+      ]
+    },
+    {
+      "id": "advanced:practice-film-patientfall-evidens",
+      "title": "Hur kan Steves patientberättelse, gruppjämförelsen och hjärnavbildningen bidra med olika kunskap om psilocybin? Förklara vilka slutsatser som kan och inte kan dras från varje slags belägg.",
+      "topicId": "film-evidens-mekanismer",
+      "sectionIds": [
+        "film-psilocybin-steve",
+        "film-psilocybin-forsok",
+        "film-psilocybin-resultat",
+        "film-psilocybin-hjarna",
+        "film-metodkritik",
+        "film-lararfragor"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:practice-film-patientfall-evidens"
+      ]
+    },
+    {
+      "id": "advanced:practice-film-stod-substans",
+      "title": "Varför måste psilocybinförsökets stöd före, under och efter sessionerna tas med när man bedömer resultaten? Resonera om vad som förändras om stöd tas bort och vad materialet inte visar om stödets bidrag.",
+      "topicId": "film-risk-etik-vard",
+      "sectionIds": [
+        "film-psilocybin-forsok",
+        "film-psilocybin-steve",
+        "film-miljo-cancer",
+        "film-mdma-mekanism-risk",
+        "film-svensk-mdma",
+        "film-osakerhet-framtid"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:practice-film-stod-substans"
+      ]
+    },
+    {
+      "id": "advanced:practice-film-etiskt-beslut",
+      "title": "Hur skulle du väga patienters behov av nya behandlingar mot osäker effekt, säkerhetssignaler och rättvis tillgång när psykedelisk terapi diskuteras? Utveckla ett eget etiskt ställningstagande med argument och motargument från filmen.",
+      "topicId": "film-risk-etik-vard",
+      "sectionIds": [
+        "film-ptsd-ron",
+        "film-psilocybin-resultat",
+        "film-metodkritik",
+        "film-kommersiellt",
+        "film-svensk-mdma",
+        "film-osakerhet-framtid"
+      ],
+      "kind": "advanced",
+      "itemIds": [
+        "advanced:practice-film-etiskt-beslut"
       ]
     },
     {
@@ -10473,7 +10946,7 @@
     {
       "id": "recall:ppt-slemsvampar-livscykel-r04",
       "kind": "self",
-      "question": "Anta att ett plasmodium kan växa och få allt fler kärnor genom mitos, men att meiosen vid sporbildningen uteblir. Analysera vilka delar av den avbildade sexuella cykeln som påverkas, hur n/2n-övergångarna hänger ihop och vad diagrammet inte låter dig avgöra.",
+      "question": "Anta att den avbildade utvecklingen till plasmodium fungerar men att meiossteget tas bort ur diagrammet. Analysera vilken övergång som då saknas och vad diagrammet inte låter dig avgöra.",
       "unitIds": [
         "recall:ppt-slemsvampar-livscykel-r04",
         "fact:ppt-slemsvampar-livscykel-f02",
@@ -10767,7 +11240,7 @@
     {
       "id": "recall:ppt-anatomi-r02",
       "kind": "self",
-      "question": "Följ en spor tillbaka till platsen där den bildades i en skivling och förklara de fyra nivåerna skiva, hymenium, basidium och spor.",
+      "question": "Följ en spor tillbaka till basidiet och hattens undersida. Vilka nivåer visar bilderna, och vad säger de inte utförligt om etiketten Hymenium?",
       "unitIds": [
         "recall:ppt-anatomi-r02",
         "fact:ppt-anatomi-f02",
@@ -11461,7 +11934,7 @@
     {
       "id": "concept:ascomycota",
       "kind": "self",
-      "question": "Förklara begreppet Ascomycota med egna ord.",
+      "question": "Förklara begreppet sporsäckssvampar med egna ord.",
       "unitIds": [
         "concept:ascomycota"
       ],
@@ -11474,7 +11947,7 @@
     {
       "id": "concept:ascus-sporsack",
       "kind": "self",
-      "question": "Förklara begreppet ascus / sporsäck med egna ord.",
+      "question": "Förklara begreppet sporsäck med egna ord.",
       "unitIds": [
         "concept:ascus-sporsack"
       ],
@@ -11500,7 +11973,7 @@
     {
       "id": "concept:askospor",
       "kind": "self",
-      "question": "Förklara begreppet askospor med egna ord.",
+      "question": "Förklara begreppet spor i sporsäck med egna ord.",
       "unitIds": [
         "concept:askospor"
       ],
@@ -11643,7 +12116,7 @@
     {
       "id": "concept:dikaryot-n-n",
       "kind": "self",
-      "question": "Förklara begreppet dikaryot / n + n med egna ord.",
+      "question": "Förklara begreppet två åtskilda kärnor / n + n med egna ord.",
       "unitIds": [
         "concept:dikaryot-n-n"
       ],
@@ -11721,7 +12194,7 @@
     {
       "id": "concept:ektomykorrhiza",
       "kind": "self",
-      "question": "Förklara begreppet ektomykorrhiza med egna ord.",
+      "question": "Förklara begreppet hyfmantel i presentationen med egna ord.",
       "unitIds": [
         "concept:ektomykorrhiza"
       ],
@@ -11786,7 +12259,7 @@
     {
       "id": "concept:fagocytos",
       "kind": "self",
-      "question": "Förklara begreppet fagocytos med egna ord.",
+      "question": "Förklara begreppet inneslutning av föda med egna ord.",
       "unitIds": [
         "concept:fagocytos"
       ],
@@ -12059,7 +12532,7 @@
     {
       "id": "concept:hymenium",
       "kind": "self",
-      "question": "Förklara begreppet hymenium med egna ord.",
+      "question": "Förklara begreppet hymenium i källbilden med egna ord.",
       "unitIds": [
         "concept:hymenium"
       ],
@@ -12111,7 +12584,7 @@
     {
       "id": "concept:karyogami",
       "kind": "self",
-      "question": "Förklara begreppet karyogami med egna ord.",
+      "question": "Förklara begreppet kärnsammanslagning med egna ord.",
       "unitIds": [
         "concept:karyogami"
       ],
@@ -12189,7 +12662,7 @@
     {
       "id": "concept:karnholje",
       "kind": "self",
-      "question": "Förklara begreppet kärnhölje med egna ord.",
+      "question": "Förklara begreppet cellkärnans avgränsning med egna ord.",
       "unitIds": [
         "concept:karnholje"
       ],
@@ -12371,7 +12844,7 @@
     {
       "id": "concept:mitos-i-hyftillvaxt",
       "kind": "self",
-      "question": "Förklara begreppet mitos i hyftillväxt med egna ord.",
+      "question": "Förklara begreppet tillväxt före kärnsammanslagning med egna ord.",
       "unitIds": [
         "concept:mitos-i-hyftillvaxt"
       ],
@@ -12384,7 +12857,7 @@
     {
       "id": "concept:mitos-i-plasmodieutvecklingen",
       "kind": "self",
-      "question": "Förklara begreppet mitos i plasmodieutvecklingen med egna ord.",
+      "question": "Förklara begreppet mitospilen i slemsvampsdiagrammet med egna ord.",
       "unitIds": [
         "concept:mitos-i-plasmodieutvecklingen"
       ],
@@ -12462,7 +12935,7 @@
     {
       "id": "concept:oomycet",
       "kind": "self",
-      "question": "Förklara begreppet oomycet med egna ord.",
+      "question": "Förklara begreppet kräftpest i presentationen med egna ord.",
       "unitIds": [
         "concept:oomycet"
       ],
@@ -12852,7 +13325,7 @@
     {
       "id": "concept:sterigm",
       "kind": "self",
-      "question": "Förklara begreppet sterigm med egna ord.",
+      "question": "Förklara begreppet basidiets utskott med egna ord.",
       "unitIds": [
         "concept:sterigm"
       ],
@@ -13439,7 +13912,7 @@
     {
       "id": "card:ppt-sporsackssvampar-c04",
       "kind": "self",
-      "question": "Varför avgör inte orden jäst och mögel ensamma svampgrupp?",
+      "question": "Vad säger sida 27 om jäst och mögel, och vilken gräns har uppgiften?",
       "unitIds": [
         "fact:ppt-sporsackssvampar-f03"
       ],
@@ -13873,7 +14346,7 @@
     {
       "id": "advanced:advanced-felsok-slemsvampens-livscykel",
       "kind": "self",
-      "question": "En omritad slemsvampscykel visar ”spor n → amöba → flagellat → flera zygoter smälter samman → plasmodium n + n → sporer genom mitos”. Rätta modellen genom att förklara vilka pilar som ska tolkas som alternativ, var kromosomuppsättningen ändras och hur det flerkärniga plasmodiet utvecklas. Jämför kort med ett tvåkärnigt svampmycel.",
+      "question": "En omritad slemsvampscykel visar ”spor n → amöba → flagellat → flera zygoter smälter samman → plasmodium n + n → sporer genom mitos”. Rätta modellen genom att förklara vilka pilar som ska tolkas som alternativ, var kromosomuppsättningen ändras och hur det avbildade plasmodiet utvecklas. Jämför kort med ett tvåkärnigt svampmycel.",
       "unitIds": [
         "advanced:advanced-felsok-slemsvampens-livscykel",
         "fact:ppt-slemsvampar-livscykel-f02",
@@ -14348,6 +14821,494 @@
       "priority": 3
     },
     {
+      "id": "advanced:reported-jamfor-svampar-djur-vaxter",
+      "kind": "self",
+      "question": "Jämför svampar med djur och växter.",
+      "unitIds": [
+        "advanced:reported-jamfor-svampar-djur-vaxter",
+        "fact:naringsstrategi-f01",
+        "fact:naringsstrategi-f02",
+        "fact:naringsstrategi-f03",
+        "fact:naringsstrategi-f05",
+        "fact:naringsstrategi-f06",
+        "fact:cellbyggnad-f01",
+        "fact:cellbyggnad-f02",
+        "fact:cellbyggnad-f03",
+        "fact:cellbyggnad-f04",
+        "fact:cellbyggnad-f05",
+        "fact:hyfer-mycel-f02",
+        "fact:hyfer-mycel-f06",
+        "fact:hyfer-mycel-f11",
+        "fact:mykorrhiza-parasitism-f06",
+        "fact:ekosystem-f04",
+        "fact:ekosystem-f09",
+        "fact:ppt-systematik-f03",
+        "fact:ppt-systematik-f11",
+        "fact:ppt-mykorrhiza-f03"
+      ],
+      "sectionIds": [
+        "naringsstrategi",
+        "cellbyggnad",
+        "hyfer-mycel",
+        "mykorrhiza-parasitism",
+        "ekosystem",
+        "ppt-systematik",
+        "ppt-mykorrhiza"
+      ],
+      "topicId": "struktur-naring",
+      "priority": 3
+    },
+    {
+      "id": "advanced:reported-beratta-om-en-svamp",
+      "kind": "self",
+      "question": "Berätta allting om en svamp.",
+      "unitIds": [
+        "advanced:reported-beratta-om-en-svamp",
+        "fact:cellbyggnad-f01",
+        "fact:cellbyggnad-f02",
+        "fact:cellbyggnad-f03",
+        "fact:cellbyggnad-f05",
+        "fact:naringsstrategi-f01",
+        "fact:naringsstrategi-f03",
+        "fact:naringsstrategi-f05",
+        "fact:naringsstrategi-f06",
+        "fact:hyfer-mycel-f03",
+        "fact:hyfer-mycel-f04",
+        "fact:hyfer-mycel-f05",
+        "fact:hyfer-mycel-f06",
+        "fact:hyfer-mycel-f11",
+        "fact:fruktkroppar-tillvaxt-f01",
+        "fact:fruktkroppar-tillvaxt-f05",
+        "fact:fruktkroppar-tillvaxt-f06",
+        "fact:sexuell-forokning-f03",
+        "fact:sexuell-forokning-f05",
+        "fact:sexuell-forokning-f06",
+        "fact:sexuell-forokning-f08",
+        "fact:sexuell-forokning-f09",
+        "fact:sexuell-forokning-f10",
+        "fact:asexuell-forokning-f07",
+        "fact:asexuell-forokning-f08",
+        "fact:asexuell-forokning-f09",
+        "fact:mykorrhiza-parasitism-f06",
+        "fact:ppt-systematik-f11",
+        "fact:ppt-basidiesvampar-f01",
+        "fact:ppt-basidiesvampar-f04",
+        "fact:ppt-basidiesvampar-f05"
+      ],
+      "sectionIds": [
+        "cellbyggnad",
+        "naringsstrategi",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt",
+        "sexuell-forokning",
+        "asexuell-forokning",
+        "mykorrhiza-parasitism",
+        "ppt-systematik",
+        "ppt-basidiesvampar",
+        "ppt-basidie-livscykel"
+      ],
+      "topicId": "fruktkropp-sporbildning",
+      "priority": 3
+    },
+    {
+      "id": "advanced:exam-reported-slemsvampar",
+      "kind": "self",
+      "question": "Jämför slemsvampar och vanliga svampar.",
+      "unitIds": [
+        "advanced:exam-reported-slemsvampar",
+        "fact:ppt-slemsvampar-f01",
+        "fact:ppt-slemsvampar-f03",
+        "fact:ppt-slemsvampar-f05",
+        "fact:ppt-slemsvampar-f07",
+        "fact:ppt-slemsvampar-f08",
+        "fact:ppt-svampgrupper-f01",
+        "fact:ppt-slemsvampar-livscykel-f01"
+      ],
+      "sectionIds": [
+        "ppt-slemsvampar",
+        "ppt-slemsvampar-livscykel",
+        "ppt-svampgrupper",
+        "ppt-tillvaxt-nedbrytning",
+        "naringsstrategi",
+        "hyfer-mycel",
+        "cellbyggnad",
+        "sexuell-forokning"
+      ],
+      "topicId": "slemsvampscykeln",
+      "priority": 3
+    },
+    {
+      "id": "advanced:reported-film-handling-framtid",
+      "kind": "self",
+      "question": "Vad hände i filmen och vad tror du kommer hända i framtiden?",
+      "unitIds": [
+        "advanced:reported-film-handling-framtid",
+        "fact:film-introduktion-fact-2",
+        "fact:film-introduktion-fact-3",
+        "fact:film-ptsd-ron-fact-1",
+        "fact:film-mdma-studie-fact-2",
+        "fact:film-mdma-studie-fact-3",
+        "fact:film-mdma-studie-fact-4",
+        "fact:film-mdma-mekanism-risk-fact-3",
+        "fact:film-mdma-mekanism-risk-fact-4",
+        "fact:film-mdma-mekanism-risk-fact-5",
+        "fact:film-psilocybin-steve-fact-1",
+        "fact:film-psilocybin-steve-fact-4",
+        "fact:film-psilocybin-steve-fact-5",
+        "fact:film-psilocybin-steve-fact-6",
+        "fact:film-lararfragor-fact-1",
+        "fact:film-lararfragor-fact-2",
+        "fact:film-psilocybin-forsok-fact-1",
+        "fact:film-psilocybin-forsok-fact-2",
+        "fact:film-psilocybin-forsok-fact-3",
+        "fact:film-psilocybin-forsok-fact-4",
+        "fact:film-psilocybin-forsok-fact-5",
+        "fact:film-psilocybin-hjarna-fact-1",
+        "fact:film-psilocybin-hjarna-fact-2",
+        "fact:film-psilocybin-hjarna-fact-3",
+        "fact:film-psilocybin-hjarna-fact-4",
+        "fact:film-psilocybin-resultat-fact-1",
+        "fact:film-psilocybin-resultat-fact-2",
+        "fact:film-psilocybin-resultat-fact-3",
+        "fact:film-metodkritik-fact-1",
+        "fact:film-metodkritik-fact-2",
+        "fact:film-kommersiellt-fact-1",
+        "fact:film-kommersiellt-fact-2",
+        "fact:film-kommersiellt-fact-4",
+        "fact:film-miljo-cancer-fact-4",
+        "fact:film-ki-psilocybin-fact-4",
+        "fact:film-ki-psilocybin-fact-5",
+        "fact:film-osakerhet-framtid-fact-1",
+        "fact:film-osakerhet-framtid-fact-2",
+        "fact:film-osakerhet-framtid-fact-3"
+      ],
+      "sectionIds": [
+        "film-introduktion",
+        "film-ptsd-ron",
+        "film-mdma-studie",
+        "film-mdma-mekanism-risk",
+        "film-psilocybin-steve",
+        "film-psilocybin-forsok",
+        "film-psilocybin-hjarna",
+        "film-psilocybin-resultat",
+        "film-metodkritik",
+        "film-kommersiellt",
+        "film-miljo-cancer",
+        "film-ki-psilocybin",
+        "film-osakerhet-framtid",
+        "film-lararfragor"
+      ],
+      "topicId": "film-behandlingsjamforelse",
+      "priority": 3
+    },
+    {
+      "id": "advanced:reported-om-svampar-forsvann",
+      "kind": "self",
+      "question": "Vad skulle hända om svampar försvann?",
+      "unitIds": [
+        "advanced:reported-om-svampar-forsvann",
+        "fact:naringsstrategi-f03",
+        "fact:naringsstrategi-f04",
+        "fact:naringsstrategi-f05",
+        "fact:naringsstrategi-f06",
+        "fact:hyfer-mycel-f11",
+        "fact:mykorrhiza-parasitism-f03",
+        "fact:mykorrhiza-parasitism-f06",
+        "fact:mykorrhiza-parasitism-f07",
+        "fact:mykorrhiza-parasitism-f09",
+        "fact:mykorrhiza-parasitism-f10",
+        "fact:mykorrhiza-parasitism-f11",
+        "fact:ekosystem-f01",
+        "fact:ekosystem-f05",
+        "fact:ekosystem-f06",
+        "fact:ekosystem-f09",
+        "fact:lavar-f02",
+        "fact:lavar-f06",
+        "fact:lavar-f07",
+        "fact:lavar-f09",
+        "fact:lavar-f10",
+        "fact:lavar-f11",
+        "fact:manniskans-tjanst-f01",
+        "fact:manniskans-tjanst-f02",
+        "fact:manniskans-tjanst-f03",
+        "fact:manniskans-tjanst-f07",
+        "fact:manniskans-tjanst-f10",
+        "fact:ppt-tillvaxt-nedbrytning-f01"
+      ],
+      "sectionIds": [
+        "naringsstrategi",
+        "hyfer-mycel",
+        "mykorrhiza-parasitism",
+        "ekosystem",
+        "lavar",
+        "manniskans-tjanst",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "topicId": "ekologiska-relationer",
+      "priority": 3
+    },
+    {
+      "id": "advanced:practice-lav-samarbete-jordbildning",
+      "kind": "self",
+      "question": "Förklara hur lavens byggnad gör samarbetet möjligt och hur laven kan förändra en kal klippa till en miljö där andra livsformer lättare etableras. Skilj det materialet beskriver från en säker framtidsprognos.",
+      "unitIds": [
+        "advanced:practice-lav-samarbete-jordbildning",
+        "fact:lavar-f02",
+        "fact:lavar-f03",
+        "fact:lavar-f04",
+        "fact:lavar-f05",
+        "fact:lavar-f06",
+        "fact:lavar-f07",
+        "fact:lavar-f08",
+        "fact:lavar-f09",
+        "fact:lavar-f10",
+        "fact:lavar-f11",
+        "fact:cellbyggnad-f03",
+        "fact:naringsstrategi-f01"
+      ],
+      "sectionIds": [
+        "lavar",
+        "cellbyggnad",
+        "naringsstrategi"
+      ],
+      "topicId": "ekologiska-relationer",
+      "priority": 3
+    },
+    {
+      "id": "advanced:practice-svampnytta-gen-enzym",
+      "kind": "self",
+      "question": "Hur kan samma organismgrupp användas i matproduktion, läkemedel och pappersindustri? Förklara sambandet mellan svampars egenskaper och användningarna, och följ gen–cell–enzym-kedjan i bokens exempel.",
+      "unitIds": [
+        "advanced:practice-svampnytta-gen-enzym",
+        "fact:manniskans-tjanst-f01",
+        "fact:manniskans-tjanst-f02",
+        "fact:manniskans-tjanst-f03",
+        "fact:manniskans-tjanst-f04",
+        "fact:manniskans-tjanst-f05",
+        "fact:manniskans-tjanst-f06",
+        "fact:manniskans-tjanst-f07",
+        "fact:manniskans-tjanst-f08",
+        "fact:manniskans-tjanst-f09",
+        "fact:manniskans-tjanst-f10",
+        "fact:manniskans-tjanst-f11",
+        "fact:manniskans-tjanst-f12",
+        "fact:naringsstrategi-f03"
+      ],
+      "sectionIds": [
+        "manniskans-tjanst",
+        "naringsstrategi"
+      ],
+      "topicId": "manniska-bioteknik",
+      "priority": 3
+    },
+    {
+      "id": "advanced:practice-naring-form-fruktkropp",
+      "kind": "self",
+      "question": "Förklara hur svampens näringsupptag, mycelets byggnad och den snabba tillväxten av fruktkroppar hänger ihop. Varför behöver en svamp som plötsligt syns ovan jord inte vara helt nybildad?",
+      "unitIds": [
+        "advanced:practice-naring-form-fruktkropp",
+        "fact:naringsstrategi-f01",
+        "fact:naringsstrategi-f03",
+        "fact:naringsstrategi-f04",
+        "fact:naringsstrategi-f05",
+        "fact:naringsstrategi-f06",
+        "fact:hyfer-mycel-f03",
+        "fact:hyfer-mycel-f04",
+        "fact:hyfer-mycel-f05",
+        "fact:hyfer-mycel-f06",
+        "fact:hyfer-mycel-f10",
+        "fact:hyfer-mycel-f11",
+        "fact:hyfer-mycel-f12",
+        "fact:fruktkroppar-tillvaxt-f01",
+        "fact:fruktkroppar-tillvaxt-f03",
+        "fact:fruktkroppar-tillvaxt-f04",
+        "fact:fruktkroppar-tillvaxt-f05",
+        "fact:fruktkroppar-tillvaxt-f06",
+        "fact:fruktkroppar-tillvaxt-f07"
+      ],
+      "sectionIds": [
+        "naringsstrategi",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt"
+      ],
+      "topicId": "struktur-naring",
+      "priority": 3
+    },
+    {
+      "id": "advanced:exam-practice-systematik",
+      "kind": "self",
+      "question": "Förklara hur cellbyggnad, cellantal, systematisk nivå och levnadssätt ger olika slags kunskap om en svamp. Använd presentationens hierarki och konkreta exempel.",
+      "unitIds": [
+        "advanced:exam-practice-systematik",
+        "fact:ppt-systematik-f08",
+        "fact:ppt-systematik-f09",
+        "fact:ppt-systematik-f11",
+        "fact:ppt-systematik-f13",
+        "fact:ppt-svampgrupper-f03",
+        "fact:ppt-parasitism-f10"
+      ],
+      "sectionIds": [
+        "ppt-systematik",
+        "ppt-svampgrupper",
+        "ppt-sporsackssvampar",
+        "ppt-parasitism"
+      ],
+      "topicId": "systematik-grupper",
+      "priority": 3
+    },
+    {
+      "id": "advanced:exam-practice-fruktkropp-spor",
+      "kind": "self",
+      "question": "Hur hänger svampens synliga fruktkropp ihop med de små strukturer där sporer bildas? Jämför basidiesvampar och sporsäckssvampar och bedöm vad olika bilder kan visa.",
+      "unitIds": [
+        "advanced:exam-practice-fruktkropp-spor",
+        "fact:ppt-anatomi-f01",
+        "fact:ppt-anatomi-f03",
+        "fact:ppt-basidiesvampar-f02",
+        "fact:ppt-basidiesvampar-f05",
+        "fact:ppt-basidiesvampar-f14",
+        "fact:ppt-sporsackssvampar-f01",
+        "fact:ppt-sporsackssvampar-f05"
+      ],
+      "sectionIds": [
+        "ppt-anatomi",
+        "ppt-basidiesvampar",
+        "ppt-sporsackssvampar",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "topicId": "fruktkropp-sporbildning",
+      "priority": 3
+    },
+    {
+      "id": "advanced:exam-practice-basidiecykel",
+      "kind": "self",
+      "question": "Förklara den sexuella basidiesvampcykeln från spor till nya sporer. Varför måste mycelförening, tillväxt, kärnsammanslagning och meios hållas isär?",
+      "unitIds": [
+        "advanced:exam-practice-basidiecykel",
+        "fact:ppt-basidie-livscykel-f02",
+        "fact:ppt-basidie-livscykel-f03",
+        "fact:ppt-basidie-livscykel-f04",
+        "fact:ppt-basidie-livscykel-f05",
+        "fact:ppt-basidie-livscykel-f06",
+        "fact:ppt-basidie-livscykel-f07",
+        "fact:ppt-basidie-livscykel-f08",
+        "fact:ppt-basidie-livscykel-f10"
+      ],
+      "sectionIds": [
+        "ppt-basidie-livscykel",
+        "sexuell-forokning",
+        "ppt-anatomi"
+      ],
+      "topicId": "svampars-livscykler",
+      "priority": 3
+    },
+    {
+      "id": "advanced:exam-practice-tillvaxtvillkor",
+      "kind": "self",
+      "question": "En svamp syns inte alltid som fruktkropp, och mögel växer inte lika snabbt i alla miljöer. Förklara hur spridning, groning, myceltillväxt och fruktkroppsbildning hänger ihop med villkoren och vad ett försök skulle kunna visa.",
+      "unitIds": [
+        "advanced:exam-practice-tillvaxtvillkor",
+        "fact:ppt-tillvaxt-nedbrytning-f03",
+        "fact:ppt-tillvaxt-nedbrytning-f04",
+        "fact:ppt-tillvaxt-nedbrytning-f05",
+        "fact:ppt-tillvaxt-nedbrytning-f06"
+      ],
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning",
+        "hyfer-mycel"
+      ],
+      "topicId": "tillvaxt-spridning",
+      "priority": 3
+    },
+    {
+      "id": "advanced:practice-film-patientfall-evidens",
+      "kind": "self",
+      "question": "Hur kan Steves patientberättelse, gruppjämförelsen och hjärnavbildningen bidra med olika kunskap om psilocybin? Förklara vilka slutsatser som kan och inte kan dras från varje slags belägg.",
+      "unitIds": [
+        "advanced:practice-film-patientfall-evidens",
+        "fact:film-psilocybin-steve-fact-4",
+        "fact:film-psilocybin-steve-fact-5",
+        "fact:film-psilocybin-steve-fact-6",
+        "fact:film-psilocybin-steve-knowledge-motstandskraft",
+        "fact:film-psilocybin-forsok-fact-1",
+        "fact:film-psilocybin-forsok-fact-2",
+        "fact:film-psilocybin-forsok-fact-3",
+        "fact:film-psilocybin-forsok-fact-4",
+        "fact:film-psilocybin-resultat-fact-1",
+        "fact:film-psilocybin-resultat-fact-2",
+        "fact:film-psilocybin-resultat-fact-3",
+        "fact:film-psilocybin-hjarna-fact-1",
+        "fact:film-metodkritik-fact-1",
+        "fact:film-metodkritik-fact-2",
+        "fact:film-lararfragor-fact-1"
+      ],
+      "sectionIds": [
+        "film-psilocybin-steve",
+        "film-psilocybin-forsok",
+        "film-psilocybin-resultat",
+        "film-psilocybin-hjarna",
+        "film-metodkritik",
+        "film-lararfragor"
+      ],
+      "topicId": "film-evidens-mekanismer",
+      "priority": 3
+    },
+    {
+      "id": "advanced:practice-film-stod-substans",
+      "kind": "self",
+      "question": "Varför måste psilocybinförsökets stöd före, under och efter sessionerna tas med när man bedömer resultaten? Resonera om vad som förändras om stöd tas bort och vad materialet inte visar om stödets bidrag.",
+      "unitIds": [
+        "advanced:practice-film-stod-substans",
+        "fact:film-psilocybin-forsok-fact-4",
+        "fact:film-psilocybin-steve-fact-5",
+        "fact:film-miljo-cancer-fact-1",
+        "fact:film-miljo-cancer-fact-2",
+        "fact:film-mdma-mekanism-risk-fact-3",
+        "fact:film-svensk-mdma-fact-4",
+        "fact:film-osakerhet-framtid-fact-2"
+      ],
+      "sectionIds": [
+        "film-psilocybin-forsok",
+        "film-psilocybin-steve",
+        "film-miljo-cancer",
+        "film-mdma-mekanism-risk",
+        "film-svensk-mdma",
+        "film-osakerhet-framtid"
+      ],
+      "topicId": "film-risk-etik-vard",
+      "priority": 3
+    },
+    {
+      "id": "advanced:practice-film-etiskt-beslut",
+      "kind": "self",
+      "question": "Hur skulle du väga patienters behov av nya behandlingar mot osäker effekt, säkerhetssignaler och rättvis tillgång när psykedelisk terapi diskuteras? Utveckla ett eget etiskt ställningstagande med argument och motargument från filmen.",
+      "unitIds": [
+        "advanced:practice-film-etiskt-beslut",
+        "fact:film-ptsd-ron-fact-1",
+        "fact:film-psilocybin-resultat-fact-1",
+        "fact:film-psilocybin-resultat-fact-2",
+        "fact:film-psilocybin-resultat-fact-3",
+        "fact:film-metodkritik-fact-1",
+        "fact:film-metodkritik-fact-2",
+        "fact:film-kommersiellt-fact-2",
+        "fact:film-kommersiellt-fact-4",
+        "fact:film-kommersiellt-fact-5",
+        "fact:film-kommersiellt-fact-6",
+        "fact:film-svensk-mdma-fact-4",
+        "fact:film-osakerhet-framtid-fact-1"
+      ],
+      "sectionIds": [
+        "film-ptsd-ron",
+        "film-psilocybin-resultat",
+        "film-metodkritik",
+        "film-kommersiellt",
+        "film-svensk-mdma",
+        "film-osakerhet-framtid"
+      ],
+      "topicId": "film-risk-etik-vard",
+      "priority": 3
+    },
+    {
       "id": "objective:naringsstrategi-ordna",
       "kind": "objective",
       "question": "Ordna stegen: följ näringsupptaget.",
@@ -14797,7 +15758,7 @@
     {
       "id": "objective:ppt-sporsackssvampar-q01",
       "kind": "objective",
-      "question": "Var ligger de sexuella askosporerna?",
+      "question": "Var bildas sporsäckssvampars sporer i presentationens förstoring?",
       "unitIds": [
         "fact:ppt-sporsackssvampar-f01",
         "fact:ppt-sporsackssvampar-f09"

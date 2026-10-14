@@ -26,13 +26,13 @@
 <text x="58" y="482" font-size="19">Mycelet kan bilda anlag, ung och mogen kropp.</text>
 <path d="M520 477 L590 477" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="590" y="420" width="480" height="115" rx="16" fill="#fff2dc" stroke="#9abfa5" stroke-width="2"/>
-<text x="608" y="452" font-size="22" font-weight="bold">6. Karyogami i basidiet · 2n</text>
+<text x="608" y="452" font-size="22" font-weight="bold">6. Kärnsammanslagning i basidiet · 2n</text>
 <text x="608" y="482" font-size="19">Kärnorna förenas till en diploid kärna.</text>
 <path d="M830 535 L830 580" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="590" y="580" width="480" height="115" rx="16" fill="#e2f0e5" stroke="#9abfa5" stroke-width="2"/>
 <text x="608" y="612" font-size="22" font-weight="bold">7. Meios i basidiet · 2n → n</text>
-<text x="608" y="642" font-size="19">Den korta diploida fasen följs av meios.</text>
-<text x="608" y="665" font-size="19">Fyra haploida kärnor i det vanliga exemplet.</text>
+<text x="608" y="642" font-size="19">Den avbildade kärnövergången följs av meios.</text>
+<text x="608" y="665" font-size="19">Fyra haploida kärnor i det visade exemplet.</text>
 <path d="M590 637 L520 637" stroke="#2d614a" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="40" y="580" width="480" height="115" rx="16" fill="#e2f0e5" stroke="#9abfa5" stroke-width="2"/>
 <text x="58" y="612" font-size="22" font-weight="bold">8. Utvändiga basidiesporer · n</text>

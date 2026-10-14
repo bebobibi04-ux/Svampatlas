@@ -180,7 +180,7 @@
       "topicId": "tillvaxt-spridning",
       "primarySourceKind": "book",
       "question": "Efter regn växer flera stora fruktkroppar upp längs en ring i en gräsmatta. Veckan därpå syns inga fruktkroppar. En elev hävdar att många nya svampar först uppstod och sedan dog. Granska slutsatsen och ge en sammanhängande alternativ förklaring som förenar mycelets utbredning, transport, tillväxtsätt och miljövillkor.",
-      "answer": "Det synliga antalet fruktkroppar kan inte direkt översättas till antalet självständiga svampindivider. Fruktkropparna växer ut från ett mycel, alltså ett nätverk av hyfer som till stor del kan finnas dolt i marken. En häxring visar enligt boken vanligen ytterkanten av det område som ett enda mycelnätverk sträcker sig genom. Ringens många fruktkroppar behöver därför inte motsvara många nybildade mycel.\n\nHyferna växer i sina ändar. Ett utbrett nätverk kan ta upp näring på många platser och föra den vidare genom kanalerna mellan cellerna. Tillväxten kan koncentreras till några få ställen, där stora fruktkroppar utvecklas snabbt. Att de plötsligt syns efter regn betyder därmed inte att hela svampen har skapats under samma korta tid. Fruktkroppsbildning förutsätter lämplig temperatur och fuktighet; regnet är förenligt med att ett redan befintligt mycel fått gynnsamma villkor.\n\nNär fruktkropparna senare saknas har vi främst en observation av den synliga delen. Vi vet inte därav om mycelet har dött, hur stort det är eller om det kommer att bilda nya fruktkroppar. Den bättre förklaringen är alltså att skilja långvarigt och dolt mycel från tillfällig, koncentrerad fruktkroppstillväxt.\n\nSamtidigt är ringformen inte ensam ett säkert bevis för ett enda genetiskt mycel. Boken säger vanligen, och uppgiften ger inte någon undersökning av det underjordiska nätverket. Slutsatsen bör därför uttryckas som en välgrundad möjlighet med stöd i materialet.",
+      "answer": "Det synliga antalet fruktkroppar kan inte direkt översättas till antalet självständiga svampindivider. Fruktkropparna växer ut från ett mycel, alltså ett nätverk av hyfer som till stor del kan finnas dolt i marken. En häxring visar enligt boken vanligen ytterkanten av det område som ett enda mycelnätverk sträcker sig genom. Ringens många fruktkroppar behöver därför inte motsvara många nybildade mycel.\n\nHyferna växer i sina ändar. Ett utbrett nätverk kan ta upp näring på många platser och föra den vidare genom kanalerna mellan cellerna. Tillväxten kan koncentreras till några få ställen, där stora fruktkroppar utvecklas snabbt. Att de plötsligt syns efter regn betyder därmed inte att hela svampen har skapats under samma korta tid. Fruktkroppsbildning förutsätter lämplig temperatur och fuktighet; regnet är förenligt med att ett redan befintligt mycel fått gynnsamma villkor.\n\nNär fruktkropparna senare saknas har vi främst en observation av den synliga delen. Vi vet inte därav om mycelet har dött, hur stort det är eller om det kommer att bilda nya fruktkroppar. Den bättre förklaringen är alltså att skilja långvarigt och dolt mycel från tillfällig, koncentrerad fruktkroppstillväxt.\n\nSamtidigt är ringformen inte ensam ett säkert bevis för ett enda sammanhängande mycelnätverk. Boken säger vanligen, och uppgiften ger inte någon undersökning av det underjordiska nätverket. Slutsatsen bör därför uttryckas som en välgrundad möjlighet med stöd i materialet.",
       "sectionIds": [
         "fruktkroppar-tillvaxt",
         "hyfer-mycel"
@@ -220,13 +220,14 @@
         },
         {
           "label": "Bevisvärde",
-          "text": "Ringform och frånvaro av fruktkroppar räcker inte för säkra slutsatser om genetisk individ eller överlevnad."
+          "text": "Ringform och frånvaro av fruktkroppar räcker inte för säkra slutsatser om det dolda nätverkets utbredning eller överlevnad."
         }
       ],
       "sourceNote": "Boksidor 266, 267; Boksidor 266. Den aktuella gräsmattan är ett påhittat tillämpningsfall. Förklaringen följer bokens beskrivning av mycel, häxringar och tillväxtvillkor.",
       "uncertainties": [
-        "Ingen faktisk genetisk undersökning av den påhittade ringens mycel finns."
-      ]
+        "Det dolda mycelet i den påhittade ringen har inte undersökts."
+      ],
+      "revision": 2
     },
     {
       "id": "advanced-rotkontakt-nytta-eller-skada",
@@ -507,7 +508,7 @@
       "topicId": "svampars-livscykler",
       "primarySourceKind": "book",
       "question": "En elev skriver: ”När två kompatibla hyfer möts blir varje cell genast diploid. Efter lång tillväxt sker meios, så alla mycel före sporbildningen måste vara diploida.” Analysera vad som blandas ihop. Följ cellkärnorna genom bokens sexuella modell och förklara varför tidpunkten för kärnsammanslagningen spelar roll.",
-      "answer": "Eleven blandar ihop att hyfer eller deras cellinnehåll förenas med att cellkärnorna slås samman. I bokens modell kan kompatibla mycel närma sig varandra med hjälp av parningssignalämnen och receptorer för den andra typens signal. När hyferna förenas kan en cell innehålla en cellkärna från vardera partnern. Kärnorna behöver ändå inte förenas omedelbart.\n\nTvå fortfarande åtskilda haploida kärnor ska därför beskrivas som n + n, inte som en enda diploid kärna med dubbel kromosomuppsättning, 2n. Antalet kärnor och kromosomuppsättningen i en kärna är olika egenskaper. Boken framhåller att väntan före kärnsammanslagningen kan vara mycket lång. Därför är långvarig tillväxt efter hyfförening inte i sig ett bevis för att en diploid kärnfas redan pågår.\n\nFörst när de två kärnorna faktiskt smälter samman uppkommer en diploid kärna. I den fortsatta sexuella modellen sker meios, som åter ger haploida sporer. Sporerna kan sedan spridas och genom tillväxt och delning etablera nya mycel. Den avgörande följden är alltså att kärnsammanslagning och meios förändrar kärnornas kromosomuppsättning vid särskilda steg, medan hyfföreningen inte måste göra det direkt.\n\nMan ska också hålla modellerna isär. Boken beskriver svampars förlopp övergripande, medan PowerPointens basidiemodell preciserar att karyogami följs av meios i basidiet. Det vore fel att ta bokens allmänna tidsbeskrivning som ett påstående att varje svampgrupp har exakt samma diploida tillväxtfas.",
+      "answer": "Eleven blandar ihop att hyfer eller deras cellinnehåll förenas med att cellkärnorna slås samman. I bokens modell kan kompatibla mycel närma sig varandra med hjälp av parningssignalämnen och receptorer för den andra typens signal. När hyferna förenas kan en cell innehålla en cellkärna från vardera partnern. Kärnorna behöver ändå inte förenas omedelbart.\n\nTvå fortfarande åtskilda haploida kärnor ska därför beskrivas som n + n, inte som en enda diploid kärna med dubbel kromosomuppsättning, 2n. Antalet kärnor och kromosomuppsättningen i en kärna är olika egenskaper. Boken framhåller att väntan före kärnsammanslagningen kan vara mycket lång. Därför är långvarig tillväxt efter hyfförening inte i sig ett bevis för att en diploid kärnfas redan pågår.\n\nFörst när de två kärnorna faktiskt smälter samman uppkommer en diploid kärna. I den fortsatta sexuella modellen sker meios, som åter ger haploida sporer. Sporerna kan sedan spridas och genom tillväxt och delning etablera nya mycel. Den avgörande följden är alltså att kärnsammanslagning och meios förändrar kärnornas kromosomuppsättning vid särskilda steg, medan hyfföreningen inte måste göra det direkt.\n\nMan ska också hålla modellerna isär. Boken beskriver svampars förlopp övergripande, medan PowerPointens basidiemodell preciserar att kärnsammanslagning följs av meios i basidiet. Det vore fel att ta bokens allmänna tidsbeskrivning som ett påstående att varje svampgrupp har exakt samma diploida tillväxtfas.",
       "sectionIds": [
         "sexuell-forokning",
         "ppt-basidie-livscykel"
@@ -555,14 +556,15 @@
         }
       ],
       "sourceNote": "Boksidor 269; Lärarens PowerPoint, sidor 35, 37, 39. n + n-notationen och basidiemodellens precisering finns i det befintliga PowerPoint-materialet. Bokens allmänna beskrivning ändras inte.",
-      "uncertainties": []
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-livstrad-och-taxonomisk-hierarki",
       "topicId": "systematik-grupper",
       "primarySourceKind": "ppt",
       "question": "Två affischer visar samma organismer: en visar förgreningar från gemensamma ursprung och en visar nivåerna domän–rike–stam–klass–ordning–familj–släkte–art. En elev läser den första som en ranglista och placerar encellig jäst bland bakterier. Förklara varför båda tolkningarna är fel och hur en äldre rikesskiss ändå kan användas utan att beskrivas som modern slutgiltig systematik.",
-      "answer": "Ett livsträd och en taxonomisk nivåhierarki besvarar olika frågor. Livsträdets förgreningar visar släktskap och gemensamt ursprung. Organismerna är därför inte ordnade som en ranglista från sämst till bäst eller enklast till mest utvecklad. I presentationens träd ligger djur och svampar på närliggande eukaryota grenar. Hierarkin visar i stället hur bredare grupper innehåller snävare: arter hör till släkten, släkten till familjer och så vidare upp till domän.\n\nEncellighet avgör inte domäntillhörigheten. En eukaryot kan vara encellig eller flercellig; avgörande i materialets celljämförelse är bland annat den avgränsade cellkärnan. Jäst är en encellig svamp och blir inte en bakterie för att den huvudsakligen lever som enstaka celler. Man måste alltså skilja mellan organisationsnivå, cellbyggnad och taxonomisk placering.\n\nDen äldre modellen kan användas för att förstå lärarens begrepp, de tre klassiska domänerna och hur rike skiljer sig från stam. Men protister är där en traditionell samlingsindelning som inte motsvarar ett enda naturligt modernt släktskapsrike. Det detaljerade äldre trädets placeringar ska inte heller behandlas som en oföränderlig nutida karta.\n\nEtt välgrundat svar läser därför varje figurs syfte och legend, förklarar vilken modell som används och skiljer historisk undervisningsstruktur från slutsatser om modernt släktskap. Varken ett gruppnamn eller antalet celler får ersätta granskning av de biologiska kännetecknen.",
+      "answer": "Ett livsträd och en hierarki visar olika relationer. På sida 2 går trädets förgreningar från en gemensam bas till bakterier, arkéer och eukaryoter. Djur och svampar står på närliggande eukaryota grenar. På sida 5 visas i stället nivåer inuti större grupper: domän, rike, stam, klass, ordning, familj, släkte och art. Det går därför inte att läsa trädet som samma sorts rangordning som hierarkin.\n\nCellantalet besvarar ytterligare en fråga. Sida 3 säger att eukaryoter kan bestå av en eller flera celler och att arvsmassan finns i en avgränsad cellkärna. Sida 31 nämner jäst som encellig svamp. Jäst blir alltså inte bakterie bara för att organismen är encellig. Det är en slutsats som följer genom att kombinera de två sidorna med svamparnas placering bland eukaryoter.\n\nSida 4 kallar sitt schema klassisk systematik och räknar upp protister, svampar, växter och djur. Sida 6 beskriver protister i äldre systematik och ger traditionella djur-, växt- och svampliknande grupper. Jag kan återge den modellen med tydlig källangivelse. Materialet ger däremot ingen fullständig senare klassificering att ersätta den med.\n\nMin slutsats är att cellantal, cellbyggnad och nivåer i systematiken måste hållas isär. Jag läser både figurens struktur och dess ord, och anger när frågan går längre än originalet. Nya släktskapsplaceringar från andra källor behövs inte för att rätta elevens två konkreta sammanblandningar.",
       "sectionIds": [
         "ppt-systematik",
         "hyfer-mycel",
@@ -594,7 +596,7 @@
         "Korrigerar ranglistetolkningen",
         "Förklarar jästens placering med relevanta cellbegrepp",
         "Använder nivåerna bredare och snävare korrekt",
-        "Skiljer historisk modell från modern fylogeni"
+        "Anger att den klassiska modellen inte kompletteras med saknade senare placeringar"
       ],
       "analysis": [
         {
@@ -610,15 +612,16 @@
           "text": "En undervisningsmodell kan vara användbar samtidigt som dess historiska begränsningar anges."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 2, 3, 4, 5, 6; Boksidor 266. De två affischerna är ett pedagogiskt jämförelsefall. Moderniseringsanmärkningen återger redan granskade avgränsningar i kursmaterialet, ingen ny extern klassifikation.",
-      "uncertainties": []
+      "sourceNote": "PowerPoint s. 2–6 och 31; bok s. 266. Senare klassificering redovisas inte och används inte som fakta.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-svamplik-massa-och-naringsupptag",
       "topicId": "systematik-grupper",
       "primarySourceKind": "ppt",
       "question": "En gul massa på död ved rör sig långsamt och innesluter födopartiklar. Bredvid finns ett förgrenat nätverk som avger enzymer och tar upp små molekyler. Båda kan senare bilda synliga sporbildande strukturer. Analysera varför liknande livsmiljö och sporbildning inte räcker för att placera dem i samma rike. Vilka observationer är mer informativa?",
-      "answer": "Att två organismer finns på död ved visar att de delar livsmiljö, men inte att de har samma cellorganisation eller nära släktskap. Inte heller en sporbildande struktur räcker för detta. Presentationens slemsvampar är svampliknande organismer men inga egentliga svampar. De plasmodiebildande former som behandlas placeras i kursens granskade material inom Amoebozoa, skilt från Fungi.\n\nDen rörliga massans näringsupptag talar för att jämföra den med ett slemsvampsplasmodium. Ett sådant är en sammanhängande cellmassa med många kärnor. Det kan innesluta partiklar och bryta ner dem inne i cellen, alltså genom fagocytos. Det förgrenade nätverket stämmer i stället med svamphyfer och mycel, där organiskt material först bryts ner med enzymer i omgivningen och små molekyler sedan tas upp.\n\nHär är alltså organisation och process mer informativa än färg och växtplats. Ett flerkärnigt plasmodium är inte ett nätverk av hyfceller, även om båda kan breda ut sig över ett underlag. Att båda kan sprida sporer innebär inte att livscyklernas kärnstadier eller uppkomst är identiska.\n\nObservationerna i uppgiften ger en motiverad jämförelse, men den gula färgen ensam identifierar ingen art. Presentationens namngivna trollsmör är ett exempel, medan vissa andra gula fotografier saknar säker artangivelse. Slutsatsen bör därför vara en välunderbyggd skillnad mellan organisations- och näringsstrategier, inte en säker artdiagnos från färg och form.",
+      "answer": "Den gemensamma veden visar en delad livsmiljö, men säger inte att de två organismerna har samma uppbyggnad. Presentationens sida 8 säger uttryckligen att slemsvampar inte är riktiga svampar. På sida 6 kallas de svampliknande i en traditionell protistindelning. Den skillnaden kan därför anges utan att tillföra någon ytterligare modern gruppplacering.\n\nRörelsen och inneslutningen av föda stämmer med sida 9:s beskrivning av plasmoid eller supercell. Diagrammet på sida 11 använder ordet plasmodium för stadiet. Det innesluter föda och löser upp den. Bokens sida 266 beskriver i stället svampar som avger enzymer, bryter ner stora molekyler utanför organismen och sedan tar upp små molekyler. Det förgrenade nätverket kan dessutom jämföras med hyfer och mycel på sida 31.\n\nMin jämförelse är att både upptagets ordning och den beskrivna kroppsformen är informativa. Enzymernas yttre nedbrytning före upptag är ett annat förlopp än att innesluta födan före upplösningen. Samma plats eller senare sporbildning gör därför inte beskrivningarna identiska.\n\nObservationerna räcker ändå inte för ett säkert artnamn. Färgen liknar några fotografier, men sidorna 7 och 10 anger ingen art. Trollsmör namnges på sida 13 och vargmjölk på sida 14. Jag kan jämföra formerna men kan inte därifrån identifiera en okänd gul massa. Originalet ger inte heller en utförlig förklaring av plasmodiets interna kärnorganisation. Ett utvecklat svar anger därför både de belagda skillnaderna och denna gräns.",
       "sectionIds": [
         "ppt-slemsvampar",
         "ppt-slemsvampar-livscykel",
@@ -642,14 +645,14 @@
       ],
       "keyPoints": [
         "Delad livsmiljö är inte samma sak som släktskap",
-        "Plasmodium och mycel har olika organisation",
-        "Fagocytos sker inne i cellen",
+        "Plasmodium och mycel har olika källbeskrivningar",
+        "Inneslutning av föda sker inne i cellen",
         "Svampars yttre nedbrytning föregår upptag",
         "Färg ensam ger ingen säker art"
       ],
       "criteria": [
         "Jämför båda näringsupptagen i rätt ordning",
-        "Förklarar flerkärnigt plasmodium jämfört med hyfnätverk",
+        "Jämför källans supercell/plasmodium med hyfnätverket",
         "Skiljer formmässig likhet från systematik",
         "Använder observationerna med rimlig säkerhet",
         "Undviker att artbestämma en namnlös gul bild"
@@ -661,22 +664,23 @@
         },
         {
           "label": "Begreppslig skillnad",
-          "text": "Många kärnor i en gemensam massa och många hyfer i ett nätverk är olika organisation."
+          "text": "Texten kallar det ena stadiet supercell/plasmodium och definierar det andra som hyfer i ett mycel."
         },
         {
           "label": "Kunskapsgräns",
           "text": "En kategorijämförelse kan vara rimlig utan att en exakt art är identifierad."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 7, 8, 9, 10, 12, 13, 14; Lärarens PowerPoint, sidor 8, 9, 11; Boksidor 266. De två organismerna i observationsfallet är hypotetiska. Ingen namnlös källbild tilldelas en säker art.",
-      "uncertainties": []
+      "sourceNote": "Endast originalets PowerPoint-sidor 7, 8, 9, 10, 11, 12, 13, 14 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-felsok-slemsvampens-livscykel",
       "topicId": "slemsvampscykeln",
       "primarySourceKind": "ppt",
-      "question": "En omritad slemsvampscykel visar ”spor n → amöba → flagellat → flera zygoter smälter samman → plasmodium n + n → sporer genom mitos”. Rätta modellen genom att förklara vilka pilar som ska tolkas som alternativ, var kromosomuppsättningen ändras och hur det flerkärniga plasmodiet utvecklas. Jämför kort med ett tvåkärnigt svampmycel.",
-      "answer": "I den avbildade sexuella slemsvampscykeln är sporen haploid. När den gror ger den en haploid amöboid eller flagellat cell. Dubbelriktade pilar mellan dessa former betyder att de kan växla, inte att varje individ måste gå genom amöba och sedan flagellat i en obligatorisk rak följd. Form och sexuell roll måste också skiljas: gamet beskriver här cellens möjlighet att delta i befruktningen.\n\nTvå kompatibla haploida celler kan förenas genom syngami till en diploid zygot, 2n. Därefter utvecklas ett flerkärnigt plasmodium genom mitotiska kärndelningar utan att cellmassan delas upp i lika många separata celler. Huvudförklaringen är alltså utveckling från en zygot, inte att flera zygoter måste smälta samman. Kärnorna i detta plasmodium är diploida i den sexuella modell som bilden visar.\n\nVid övergång till sporbildning utvecklas sporangier. Näringsbrist anges som utlösare för fruktkroppsstadiet. Meios ger övergången från diploid fas till nya haploida sporer; det är därför fel att ersätta den med enbart mitos. Mitos under plasmodiets tillväxt bevarar däremot kärnornas kromosomuppsättning.\n\nDetta skiljer sig från basidiesvampens sekundära mycel, där två ännu åtskilda haploida kärnor kan förekomma i samma cell, n + n. Flerkärnigt betyder därmed inte automatiskt samma kärntillstånd i olika organismer. Originallegendens felaktiga Diploid (n) ska också korrigeras till 2n, så att ord, pilar och kärnnotation är konsekventa.",
+      "question": "En omritad slemsvampscykel visar ”spor n → amöba → flagellat → flera zygoter smälter samman → plasmodium n + n → sporer genom mitos”. Rätta modellen genom att förklara vilka pilar som ska tolkas som alternativ, var kromosomuppsättningen ändras och hur det avbildade plasmodiet utvecklas. Jämför kort med ett tvåkärnigt svampmycel.",
+      "answer": "På sida 11 ligger sporer och cellformerna före syngami i den haploida bakgrundsfärgen, n. Från groende spor går pilar till amöboid cell eller flagellatcell. Dubbelpilarna mellan dem innebär att figuren visar alternativ och växling, inte ett obligatoriskt rakt förlopp från amöba till flagellat vid varje varv.\n\nSyngami följs av Zygote (2n). Sida 8 beskriver samtidigt hur två könsceller med enkel uppsättning förenas till en zygot. Nästa pil på sida 11 heter Mitos och går från zygoten till näringsupptagande plasmodium. Där uppstår en intern källkonflikt: sida 8 säger att flera zygoter förenas, medan diagrammet visar mitospilen från en zygot. I min återgivning följer jag den märkta figuren och redovisar skillnaden. Materialet förklarar inte den interna delningsmekanismen tillräckligt för att lägga till detaljer om kärndelning utan celluppdelning.\n\nDiagrammet fortsätter med moget plasmodium, ungt och moget sporangium och Meiosis tillbaka till sporer. Sida 9 kopplar fruktkroppsstadiet till näringsbrist. Därför kan elevmodellens mitos vid sista övergången rättas till figurens meios. Legendens Diploid (n) är också inkonsekvent med zygotens 2n; dubbel uppsättning skrivs här 2n, i linje med bokens enkel/dubbel på sida 269.\n\nJämförelsen med svampmycel ska stanna vid vad källorna visar. Boken beskriver hyfer som förenas och två kärnor som kan vara åtskilda före sammanslagningen. Slemsvampsdiagrammet visar i stället cellformer, zygot och plasmodium. De olika mellanformerna får inte ersättas med samma ord bara för att båda cyklerna innehåller sporer.",
       "sectionIds": [
         "ppt-slemsvampar-livscykel",
         "ppt-slemsvampar",
@@ -699,15 +703,15 @@
       "keyPoints": [
         "Amöba och flagellat är alternativa växlande former",
         "Syngami ger zygot 2n",
-        "Mitotiska kärndelningar ger flerkärnigt plasmodium",
+        "Figuren visar Mitos från zygot till plasmodium",
         "Meios återför till sporer n",
-        "Plasmodium 2n-kärnor skiljs från n + n-mycel"
+        "Källans interna motsägelser och detaljgränser anges"
       ],
       "criteria": [
         "Rättar samtliga centrala fel i den omritade cykeln",
         "Förklarar varför dubbelpilarna inte är en rak steglista",
         "Placerar syngami och meios vid rätt övergångar",
-        "Skiljer mitotisk kärndelning från sammanslagning av flera zygoter",
+        "Redovisar skillnaden mellan sida 8:s text och sida 11:s mitospil",
         "Jämför kärntillstånden utan att likställa svamp och slemsvamp"
       ],
       "analysis": [
@@ -717,22 +721,23 @@
         },
         {
           "label": "Kärnnotation",
-          "text": "n, 2n och n + n används som förklaringsverktyg, inte bara etiketter."
+          "text": "n och 2n läses ur figurens bakgrund och zygotetikett; n+n är en jämförelse med bokens åtskilda svampkärnor."
         },
         {
           "label": "Modelljämförelse",
-          "text": "Ordet flerkärnig måste tolkas tillsammans med respektive livscykel."
+          "text": "Ordet enligt diagrammet måste tolkas tillsammans med respektive livscykel."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 8, 9, 11; Lärarens PowerPoint, sidor 7, 8, 9, 10, 12, 13, 14; Lärarens PowerPoint, sidor 35, 37, 39. Den felaktiga elevmodellen är påhittad. Rättelserna följer kursens tidigare granskning av PowerPointens motsägelsefulla text och diagram.",
-      "uncertainties": []
+      "sourceNote": "Endast originalets PowerPoint-sidor 7, 8, 9, 10, 11, 12, 13, 14, 35, 37, 39 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-historisk-grupp-ar-inte-slaktskap",
       "topicId": "systematik-grupper",
       "primarySourceKind": "ppt",
       "question": "På en äldre plansch står kräftpestorganismen och brödmögel under rubriken algsvampar. En elev drar slutsatsen att de hör till en enda modern grupp inom Fungi och att allt mögel på bröd därför är samma art. Granska båda slutsatserna. Förklara hur levnadssätt, synligt växtsätt och släktskapsgrupp behöver hållas isär.",
-      "answer": "Rubriken algsvampar är i presentationen en historisk samlingsgrupp. Den kan användas för att känna igen lärarens äldre indelning, men den motsvarar inte en enda modern släktskapsgrupp. Kräftpestorganismen Aphanomyces astaci är enligt det granskade kursmaterialet en oomycet utanför Fungi. Rhizopus är däremot ett klassiskt brödmögelexempel bland egentliga svampar. Att båda förekommer under samma äldre rubrik bevisar alltså inte ett gemensamt modernt svamprike för just dessa exempel.\n\nDet är också skillnad mellan mögel som synligt växtsätt och art som taxonomisk nivå. Flera verkliga svampar kan växa som mögel på bröd, och presentationens foto fastställer inte en säker art. Ett brödsubstrat är därför ingen artbestämning. Även jäst och mögel behöver behandlas som former eller växtsätt snarare än universella, enhetliga släktskapsgrupper.\n\nLevnadssätt är ytterligare en dimension. Att en organism är vattenlevande eller parasitisk säger något om miljö och ekologisk relation, men räcker inte för att avgöra om den är en oomycet, en sporsäckssvamp eller någon annan grupp. Parasitism kan förekomma i olika grupper.\n\nEn bättre beskrivning anger därför först vilken historisk modell planschen använder och preciserar sedan varje exempel med de uppgifter som faktiskt är säkrade. Det går att lära sig den äldre rubriken inför provet och samtidigt visa varför man inte får göra den till ett obegränsat påstående om modern systematik eller säker artidentitet.",
+      "answer": "Sida 16 har kräftpest och mögel på bröd som exempel under rubriken Algsvampar. Det är det belagda utgångsläget. Sida 15 räknar i sin tur upp algsvampar, sporsäckssvampar och basidiesvampar. Källan ger inte vetenskapliga artnamn på kräftpestorganismen eller brödmöglet och redovisar ingen fullständig senare gruppindelning. Jag kan därför inte fylla den delen av frågan med nya taxonomiska placeringar.\n\nSlutsatsen att allt mögel på bröd är samma art stöds inte av fotografiet. Bilden namnger ingen art, och en rubrik är inte en individuell artbestämning. Det är en slutsats om vad belägget räcker till, inte ett påstående om vilka andra mögelarter som finns.\n\nMiljö och levnadssätt går däremot att jämföra inom underlaget. På sida 16 kopplas vattenliv och parasitism till kräftpest. Det andra exemplet är mögel på bröd. Sida 36 förklarar parasitism som näring från levande organismer som skadas, medan nedbrytare tar näring från döda växt- och djurdelar. Presentationens fruktmögel på sida 25 är samtidigt exempel bland sporsäckssvampar. Det visar hur grupp och näringsrelation kan beskriva olika sidor av en organism.\n\nMitt svar återger alltså lärarens ord och granskar elevens slutsatser var för sig. Samma rubrik räcker inte för ett säkert artnamn, och underlaget räcker inte för att avgöra en mer detaljerad nutida placering. Ett fullständigt svar om just den senare frågan skulle behöva ytterligare material, vilket den strikta källgränsen inte tillåter att jag lägger till.",
       "sectionIds": [
         "ppt-svampgrupper",
         "ppt-systematik",
@@ -753,23 +758,23 @@
         "ppt-parasitism-f10"
       ],
       "keyPoints": [
-        "Algsvampar är en historisk samlingsgrupp",
-        "Kräftpestorganismen placeras utanför Fungi",
-        "Rhizopus är ett verkligt svampexempel",
-        "Brödmögel på foto är inte säker art",
-        "Ekologisk relation och taxonomisk grupp är olika"
+        "Presentationens två exempel anges korrekt",
+        "Ingen vidare gruppplacering tillförs",
+        "Fotot ger inget artnamn",
+        "Levnadssätt och grupp är skilda dimensioner",
+        "Materialets gräns anges öppet"
       ],
       "criteria": [
-        "Förklarar varför den äldre rubriken inte bevisar modernt släktskap",
-        "Jämför de två namngivna exemplen korrekt",
-        "Skiljer växtsätt och substrat från art",
-        "Skiljer parasitism från systematik",
-        "Använder källan utan att påstå att hela äldre indelningen är modern"
+        "Återger lärarens ord med källangivelse",
+        "Prövar båda elevslutsatserna var för sig",
+        "Skiljer vad fotot visar från vad det inte visar",
+        "Jämför näringsrelation och gruppbegrepp",
+        "Anger att senare taxonomi inte besvaras fullständigt av materialet"
       ],
       "analysis": [
         {
           "label": "Klassificering",
-          "text": "En historisk samlingsrubrik kan förena exempel som senare placeras olika."
+          "text": "En gemensam rubrik visar inte mer detaljer än vad underlaget faktiskt redovisar."
         },
         {
           "label": "Generalisering",
@@ -780,17 +785,18 @@
           "text": "Miljö, näringsrelation och släktskap beskriver olika egenskaper hos en organism."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 15, 16; Lärarens PowerPoint, sidor 2, 3, 4, 5, 6; Lärarens PowerPoint, sidor 25, 26, 27; Lärarens PowerPoint, sidor 27; Lärarens PowerPoint, sidor 17, 18, 25, 36. Moderna avgränsningar återger endast dem som redan finns i det granskade materialet. Ingen ny artbestämning görs av brödfotot.",
+      "sourceNote": "Endast originalets PowerPoint-sidor 2, 3, 4, 5, 6, 15, 16, 17, 18, 25, 26, 27, 36 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
       "uncertainties": [
         "Presentationens brödmögelfoto ger ingen säker artbestämning."
-      ]
+      ],
+      "revision": 2
     },
     {
       "id": "advanced-mikroskopi-och-sporbarande-yta",
       "topicId": "fruktkropp-sporbildning",
       "primarySourceKind": "ppt",
       "question": "Två mikroskopiprov av sexuell sporbildning visar A: celler med sporer på utskott utanpå och B: säcklika celler med sporer inuti. Ett tredje prov C visar en vanlig hatt sedd enbart ovanifrån. Jämför vilket stöd proven ger för gruppindelning. Förklara dessutom varför både en skålsvamps insida och en hattsvamps veckade undersida kan vara funktionellt viktiga utan att vara samma sporbildande struktur.",
-      "answer": "Prov A stämmer med ett basidium, där basidiosporer utvecklas utanpå den sporbildande cellen. Prov B stämmer med en ascus eller sporsäck, där askosporer bildas inuti. Skillnaden mellan utanpå och inuti en bestämd mikroskopisk cell ger därför relevant stöd för att skilja basidiesvampar från sporsäckssvampar. Presentationens vanliga fyra basidiosporer är ett typiskt exempel, inte ett krav för varje tänkbar basidiesvamp.\n\nProv C ger svagare information. En hatt ovanifrån visar en fruktkroppsform, men inte var eller hur de sexuella sporerna bildas. Man kan inte av hattformen ensam avgöra om basidier eller asci finns, och ännu mindre bestämma en säker art. Presentationens stensoppsfoto illustrerar att en tydlig hatt och fot inte gör undersidans rörlager synligt.\n\nDen funktionella likheten är att fruktkroppens form kan ge utrymme för sporbildning. Hos skålsvampen kopplar figuren den inre ytan till sporsäckarna. Hos många basidiesvampar ger skivor, rör eller taggar stor yta där många basidier får plats. Man måste ändå skilja ytan som helhet från de mikroskopiska cellerna på den.\n\nSlutsatsen är att struktur och funktion behöver jämföras på rätt nivå. Olika former kan bidra till samma övergripande uppgift, sporproduktion, medan själva sporerna bildas på olika sätt. Ett makrofoto och ett mikroskopiprov besvarar därmed olika delar av frågan och ersätter inte automatiskt varandra.",
+      "answer": "Prov A motsvarar det basidieexempel som sida 20 beskriver: sporer sitter på skaft ytterst på basidiet. Sida 39 visar sporer på utskott utanför samma slags struktur. Prov B motsvarar sporsäckarna på sida 27, där sporerna är ritade inuti. Inuti och utanpå ger därför en källstödd jämförelse mellan sporsäckssvampar och basidiesvampar. Fyra sporer visas i basidieexemplet, men underlaget ger ingen generell sammanställning av andra arters sporantal.\n\nProv C visar däremot bara hattens översida. Det ger inte samma information om sporernas placering. Presentationens stensoppsfoto på sida 21 visar också hatt och fot utan att tydligt visa rören under hatten. Jag kan därför inte använda översidesfotot som om det vore ett märkt mikroskopiprov.\n\nStruktur och funktion kan ändå jämföras på flera nivåer. Sida 20 förklarar att många basidier får plats på skivor, taggar och i rör. Sida 27 har en förstoringslinje från skålsvampens inre yta till sporsäckar. Därmed kopplar båda framställningarna en synlig fruktkroppsdel till små sporbildande strukturer, men själva sporerna placeras olika i förhållande till cellen.\n\nMin slutsats är att en relevant observation måste väljas utifrån frågan. Ett foto kan visa kroppens form medan en märkt förstoring kan visa sporstruktur. Formernas gemensamma uppgift ger inte stöd för att kalla strukturerna identiska. Originalens svenska ord, basidie och sporsäck, räcker för förklaringen; ytterligare specialisttermer behöver inte införas.",
       "sectionIds": [
         "ppt-basidiesvampar",
         "ppt-sporsackssvampar",
@@ -810,7 +816,7 @@
       ],
       "keyPoints": [
         "Basidiosporer bildas utanpå basidiet",
-        "Askosporer bildas inuti ascus",
+        "Sporer i sporsäckar bildas inuti sporsäck",
         "Översidesfoto ger inte samma bevis som mikroskopi",
         "Stor sporbildande yta har funktionell betydelse",
         "Yta, vävnad och sporbildande cell är olika nivåer"
@@ -836,15 +842,16 @@
           "text": "Makroskopisk hatt och mikroskopisk sporbildande cell får inte behandlas som samma observation."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 19, 20, 21, 22, 23, 24; Lärarens PowerPoint, sidor 25, 26, 27; Lärarens PowerPoint, sidor 28, 29, 30, 37, 39. Proven är hypotetiska jämförelser. Svaret använder kursens redan granskade basidie- och ascusbeskrivningar, ingen ny fotoidentifiering.",
-      "uncertainties": []
+      "sourceNote": "Endast originalets PowerPoint-sidor 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 37, 39 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-artfoto-och-anatomiska-ledtradar",
       "topicId": "fruktkropp-sporbildning",
       "primarySourceKind": "ppt",
       "question": "En bildtext säger: ”Hattens vita fjäll är sporer, ring och strumpa är samma sak, och alla gula hattundersidor har lameller.” Utforma en källkritisk rättelse och förklara vilka kompletterande vyer som behövs. Knyt rättelserna till strukturernas läge, ursprung eller funktion och diskutera varför två fotografier kan vara bättre än ett för artkunskap.",
-      "answer": "Hattfjäll är synliga delar på hattens översida och ska inte förväxlas med sporer eller sporbildande yta på undersidan. Ring och strumpa har också olika lägen: ringen sitter på foten hos vissa arter, medan strumpan eller volvan finns vid fotbasen. I materialets anatomiska förklaring är de ofta rester av olika höljen kring den unga fruktkroppen. Att de kan ha ett gemensamt samband med unga höljen gör dem inte till samma struktur.\n\nEn gul färg på undersidan visar inte vilken ytstruktur som finns. Där kan man behöva skilja mellan äkta skivor, rör med synliga porer, taggar och åsar eller veck. Kantarellen är ett viktigt exempel, eftersom dess nedlöpande åsar inte är äkta lameller trots en missvisande rubrik i presentationen. Formen behöver alltså granskas, inte bara färgen eller bildtexten.\n\nEtt foto ovanifrån kan visa hattens färg och fjäll men sakna undersida och fotbas. Kompletterande vyer bör därför visa undersidans struktur, hela foten och basen. Hatten bär den sporproducerande ytan och foten kan lyfta den så att sporer sprids förbi markens hinder, vilket knyter byggnaden till funktion.\n\nTvå olika fotografier kan både ge fler anatomiska ledtrådar och visa variation mellan exemplar. De ger därmed bättre stöd för att lära kännetecken än en enda memorerad bild. Men fler bilder garanterar inte rätt artbestämning eller ätlighet; artuppgiften måste fortfarande vara verifierad och bilderna måste faktiskt visa de relevanta dragen.",
+      "answer": "Figurerna på sidorna 28–30 skiljer hattens fjäll eller fläckar från skivor och sporer på undersidan. Att kalla de vita hattdelarna sporer stämmer därför inte med de märkta bilderna. Ringen och strumpan har också olika lägen: ringen ritas på foten medan strumpan ritas vid basen. Sida 28 anger ring ibland. Materialet visar däremot inte något ursprung från skyddshöljen, så det lägger jag inte till.\n\nEn gul undersida behöver beskrivas utifrån synlig struktur, inte bara färg. Presentationen nämner skivor, rör och taggar. På sida 22 säger bildtexten kantarell och rubriken Skivling, medan veckliknande förgreningar syns. Underlaget ger ingen uttrycklig definition av äkta skivor jämfört med åsar. Därför kan jag beskriva både text och form men inte lägga en ny bestämningsregel till provkraven.\n\nEtt foto ovanifrån kan visa hattens färg och fjäll men dölja undersidan och fotbasen. Min slutsats är att kompletterande vyer av dessa delar skulle ge mer av just den information som källans etiketter visar. Det är ett pedagogiskt resonemang om bildutsnitt, inte en ny biologisk artuppgift. På samma sätt kan två bilder stödja jämförelse av synliga kännetecken utan att garantera ett artnamn.\n\nEtt källbundet svar kopplar därmed rättelsen till strukturernas lägen och anger vad som behöver synas. Det behöver inte förklara fotens höjd med en spridningsmekanism som underlaget inte undersöker. Fler fotografier kan fylla en observationslucka, men någon slutsats om ätlighet ska inte dras från denna anatomiska modell.",
       "sectionIds": [
         "ppt-anatomi",
         "ppt-basidiesvampar"
@@ -865,13 +872,13 @@
       "keyPoints": [
         "Hattfjäll och sporer skiljs åt",
         "Ring på fot och strumpa vid bas är olika",
-        "Åsar är inte äkta lameller",
+        "Kantarellbildens text och synliga form redovisas med begränsning",
         "Olika vyer synliggör olika kännetecken",
         "Bildvariation stödjer inlärning men garanterar inte art eller ätlighet"
       ],
       "criteria": [
-        "Rättar bildtextens tre fel med motiveringar",
-        "Kopplar minst två strukturer till läge, ursprung eller funktion",
+        "Rättar två tydliga fel och avgränsar vad materialet säger om undersidans former",
+        "Kopplar strukturer till deras källbelagda lägen",
         "Anger relevanta kompletterande fotografiska vyer",
         "Förklarar varför färg ensam är otillräckligt",
         "Skiljer bättre bildstöd från säker art- eller ätlighetsbedömning"
@@ -890,17 +897,18 @@
           "text": "Variation mellan fotografier tränar kännetecken snarare än minnet av en enskild bild."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 28, 29, 30, 37, 39; Lärarens PowerPoint, sidor 19, 20, 21, 22, 23, 24. Bildtexten är medvetet felkonstruerad. Resonemanget om fotovyer är en pedagogisk tillämpning av källans anatomi och bildbegränsningar.",
+      "sourceNote": "Endast originalets PowerPoint-sidor 19, 20, 21, 22, 23, 24, 28, 29, 30, 37, 39 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
       "uncertainties": [
         "Fotografier ger inte i sig en garanti för artidentitet eller ätlighet."
-      ]
+      ],
+      "revision": 2
     },
     {
       "id": "advanced-parasit-ar-inte-en-sporgrupp",
       "topicId": "ekologiska-relationer",
       "primarySourceKind": "ppt",
       "question": "En elev vill skapa fyra likvärdiga grupper: ”basidiesvampar, sporsäckssvampar, parasiter och nedbrytare”. Använd tallticka, presentationens fruktmögel och en svamp på redan död ved för att granska indelningen. Förklara varför en yttre fruktkropp inte ensam visar var näringen tas upp eller om värden skadas.",
-      "answer": "Indelningen blandar två olika grunder. Basidiesvampar och sporsäckssvampar skiljs genom hur de sexuella sporerna bildas: utanpå basidier respektive inuti asci. Parasitism och nedbrytning av dött material beskriver däremot näringsrelationer. En organism kan därför samtidigt tillhöra en sporbildningsgrupp och ha ett parasitiskt levnadssätt. Grupperna är inte fyra uteslutande alternativ på samma nivå.\n\nTalltickan anges i presentationen som parasit på tall. Den synliga konsolen är fruktkroppen, medan det näringsupptagande mycelet kan finnas inne i den levande värden. Om svampen tar näring och skadar tallen är relationen parasitisk. Presentationens fruktmögel är ett annat parasitexempel, kopplat till sporsäckssvampar, men bilden ger ingen säker mögelart. Exemplen visar att parasitism inte är begränsad till en enda sporgrupp eller en enda typ av värd.\n\nEn svamp som i stället använder redan död ved har en annan relation till sitt substrat. Den tar inte i just det fallet näring från en levande värd som den skadar. Materialets moderna ord för näring från dött organiskt material är saprotrofi, där läraren även använder saprofyt.\n\nFruktkroppens utseende räcker därför inte för att avgöra hela näringsrelationen. Man behöver också veta om vävnaden var levande, var hyferna finns och om värden skadas. Slutsatsen bör skilja mellan taxonomisk grupp, yttre form och ekologisk funktion, och inte generalisera från vissa parasitiska tickor till alla tickor.",
+      "answer": "Elevens lista blandar gruppnamn med näringsrelationer. Sidorna 20 och 27 beskriver basidier respektive sporsäckar och hur sporerna är placerade. Sida 36 skiljer i stället näring från levande organismer, näring från döda organismer och samarbete med fotoautotrofa organismer. Frågorna handlar alltså om olika egenskaper och behöver inte ge fyra ömsesidigt uteslutande alternativ.\n\nTallticka anges som parasit på tall på sida 18. Sida 20 beskriver hur tickors hyfer kan hämta näring inne i stammen och orsaka röta, medan fruktkroppar syns utanför som skärmar. Den synliga konsolen är därför inte samma sak som hela det näringsupptagande mycelet. Bildtexten används som källa; någon alternativ artbestämning av fotot behövs inte.\n\nFruktmögel anges på sida 25 både som parasitexempel och bland sporsäckssvampar. Det ger ett direkt exempel på hur en gruppbeteckning kan kombineras med ett levnadssätt. Någon säker mögelart framgår inte. En svamp på redan död ved kan däremot diskuteras med sida 36:s nedbrytare, där läraren använder ordet saprofyt. Just denna relation gäller näring från dött material, till skillnad från en levande värd som skadas.\n\nMin slutsats är att ett utvecklat svar måste ange både vilken organism eller grupp materialet talar om och vilken näringsrelation som beskrivs. Ett foto av en fruktkropp visar inte ensamt om vävnaden var levande eller vilken skada som uppstod. Det krävs uppgifter om värden och mycelet, och källans flera eller många tickor får inte göras om till alla.",
       "sectionIds": [
         "ppt-parasitism",
         "ppt-basidiesvampar",
@@ -931,7 +939,7 @@
         "Identifierar klassificeringens grundfel",
         "Använder både tallticka och fruktmögel korrekt",
         "Förklarar skillnaden mellan fruktkropp och mycel",
-        "Motiverar parasitism jämfört med saprotrofi",
+        "Motiverar parasitism jämfört med näring från dött material",
         "Undviker säker mögelart och generalisering till alla tickor"
       ],
       "analysis": [
@@ -948,15 +956,16 @@
           "text": "Relationen kräver uppgifter om värdens tillstånd och skada, inte bara ett foto."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 17, 18, 25, 36; Lärarens PowerPoint, sidor 19, 20, 21, 22, 23, 24; Lärarens PowerPoint, sidor 25, 26, 27; Lärarens PowerPoint, sidor 31, 32, 35, 36, 37, 38. Exemplen följer presentationens säkrade namngivningar. Den hypotetiska döda veden används endast för att pröva begreppsskillnaden.",
-      "uncertainties": []
+      "sourceNote": "Endast originalets PowerPoint-sidor 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 31, 32, 35, 36, 37, 38 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-jast-och-mogel-i-livsmedelsforsok",
       "topicId": "manniska-bioteknik",
       "primarySourceKind": "ppt",
       "question": "I ett försök jäser en deg och sväller. Samtidigt växer mögel långsammare på en kylförvarad brödbit än på en varm och fuktig. En elev säger att gasen visar att jästen fotosyntetiserar och att kylan har dödat alla mögelsporer. Förklara båda resultaten och föreslå hur man skulle skilja bromsad tillväxt från förlorad förmåga att gro.",
-      "answer": "Degens svällning kan förklaras med jästens alkoholjäsning. I den processen spjälkas socker utan att syre används i själva processen, och koldioxid samt etanol bildas. Koldioxidgasen får degen att svälla. Gasbildning är alltså inte bevis för fotosyntes, och jäst är en svamp som saknar kloroplaster. Att en process inte använder syre betyder inte heller att jästen saknar möjlighet till cellandning; materialet skiljer uttryckligen dessa påståenden åt.\n\nMöglets långsammare tillväxt i kyla behöver bedömas som ett annat förlopp. Sporgroning och tillväxt beror på gynnsam temperatur, fukt och organiskt material. Kylförvaring kan bromsa tillväxten och därmed minska mögelrisken, men den garanterar inte att alla sporer dör eller att senare tillväxt blir omöjlig. Den observerade skillnaden räcker därför inte för elevens slutsats om fullständig avdödning.\n\nEtt kompletterande försök skulle föra jämförbara prover till samma gynnsamma groningsförhållanden och sedan följa om tillväxt återkommer. Om den gör det talar det emot att alla sporer förlorat sin förmåga att gro. Om tillväxt uteblir behövs fortfarande tillräcklig observationstid och kontroll av att villkoren verkligen var lämpliga. Förslaget beskriver hur slutsatsen kan prövas, inte vilket resultat man säkert får.\n\nTillsammans visar fallen att svampars ämnesomsättning och tillväxtvillkor behöver förklaras med rätt process. Synlig gas säger inte fotosyntes, och frånvaro av snabb tillväxt säger inte att alla spridningsformer är döda.",
+      "answer": "Sida 27 ger en direkt förklaring av degens svällning. Jäst spjälkar socker utan att syre används i jäsningen. Koldioxid och etanol bildas, och texten säger uttryckligen att koldioxidgasen får degen att svälla. Gasbildningen är därför förenlig med den processen. Sida 31 säger dessutom att svampar saknar kloroplaster. Elevens fotosyntesförklaring stämmer inte med de två källuppgifterna.\n\nMöglets långsammare tillväxt är ett annat förlopp. Sida 35 anger fukt, värme och organiskt material som gynnsamma villkor för sporgroning och nytt mycel. Sida 36 säger att tillväxten går långsamt i torrt och kallt och kopplar kylförvaring till minskad mögelrisk. Den observerade skillnaden stödjer därför att villkoren kan bromsa tillväxt. Den är inte ett belägg för att alla sporer har dött.\n\nMitt metodförslag är att jämförbara prov efteråt får samma gynnsamma förhållanden och att man undersöker om tillväxt återkommer. Om den gör det talar det emot fullständig förlust av groningsförmåga. Om den inte gör det behövs fortfarande kontroll av att observationstid och förhållanden var tillräckliga. Det är ett förslag på hur en slutsats kan prövas, inte ett försök som materialet rapporterar eller ett förutbestämt resultat.\n\nSammantaget bör svaret skilja observation, källuppgift och slutsats. Källan förklarar jäsningens produkter och tillväxtens miljövillkor. Den ger ingen fullständig redovisning av jästens övriga ämnesomsättning, och någon sådan uppgift behöver inte införas för att bemöta elevens två påståenden.",
       "sectionIds": [
         "ppt-jast-mogel",
         "ppt-tillvaxt-nedbrytning",
@@ -983,7 +992,7 @@
       ],
       "criteria": [
         "Förklarar gasens ursprung med korrekt process",
-        "Skiljer syrefri jäsning från att sakna all cellandning",
+        "Avgränsar beskrivningen till källans jäsningsprocess",
         "Kopplar mögeltillväxt till temperatur och fukt",
         "Korrigerar slutsatsen om alla sporers död",
         "Föreslår ett relevant jämförande försök och anger dess begränsning"
@@ -1002,15 +1011,16 @@
           "text": "Likadana groningsförhållanden behövs för att skilja kvarvarande temperaturhinder från möjlig groningsförmåga."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 27; Lärarens PowerPoint, sidor 31, 32, 35, 36, 37, 38; Boksidor 266; Boksidor 268. Försöksförslaget är en pedagogisk tillämpning. Inga tider, temperaturgränser eller livsmedelssäkerhetsråd tillförs.",
-      "uncertainties": []
+      "sourceNote": "Endast originalets PowerPoint-sidor 27, 31, 32, 35, 36, 37, 38 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-mykorrhiza-rotbild-och-resurspilar",
       "topicId": "ekologiska-relationer",
       "primarySourceKind": "ppt",
       "question": "En läroboksfigur visar en hyfmantel runt en rot och pilar mellan svamp och växt. En elev gör alla pilar enkelriktade från växten till svampen och skriver ”alla mykorrhizasvampar går in i rotcellerna”. Beskriv hur figuren bör rättas. Resonera också om varför enbart större rottillväxt inte bevisar hela utbytesmekanismen.",
-      "answer": "Mykorrhiza behöver beskrivas som ett utbyte. Växten är fotoautotrof och kan lämna organiskt socker eller andra kolhydrater som har bildats genom fotosyntes. Svampen får därmed organiskt material trots att den själv saknar fotosyntes. Pilar från svampen till växten bör visa vatten och mineralämnen eller lösta närsalter. Svampens stora hyfnätverk ökar kontakten med marken och kan därigenom förbättra växtens resursupptag. Enkelriktade pilar från växten missar denna centrala motprestation.\n\nFigurens vävnadskontakt måste också preciseras. Ektomykorrhiza har en hyfmantel kring roten och hyfer mellan rotcellerna. Arbuskulär mykorrhiza kan ha hyfer inne i rotceller. Att den ena modellen har kontakt inne i celler innebär därför inte att varje mykorrhiza ska ritas på samma sätt. Man bör namnge vilken kontaktmodell man visar och undvika att låta ett allmänt ord ersätta anatomisk precision.\n\nStörre tillväxt hos en planta är förenligt med en gynnsam relation, men bevisar inte ensam vilka ämnen som har passerat i vilken riktning. För att stödja den föreslagna mekanismen behöver man även undersöka svampkontakt, mineral- och vattenupptag samt växtens bidrag med kolhydrater. Andra skillnader mellan plantorna måste hållas under kontroll i en jämförelse.\n\nDen rättade figuren bör alltså kombinera dubbelriktat resursutbyte med en bestämd kontaktmodell. Då förklaras både varför samarbetet kan gynna båda parter och varför ett enda tillväxtmått inte räcker som bevis för hela processen.",
+      "answer": "Pilarna behöver visa två riktningar. Sidorna 34 och 36 säger att svampen får kolhydrater, i exemplet socker från växtens fotosyntes. Växten får i gengäld hjälp med vatten och mineralämnen eller lösta närsalter genom hyfnätverket. När alla pilar går från växten till svampen saknas alltså den del av utbytet som kan gynna växten.\n\nDen anatomiska beskrivningen behöver läsas lika noggrant. Sida 34 anger att rötterna ofta omges av en mantel av svamphyfer. Boken på sida 267 beskriver i sitt exempel hyfer som tränger in i rotceller. Det är två olika formuleringar i de tillåtna källorna. De namnger inte olika mykorrhizatyper eller ger en fullständig jämförelse mellan dem. Jag kan därför redovisa skillnaden mellan beskrivningarna, men ska inte tillföra en ny typindelning eller göra den ena formuleringen till en universell regel.\n\nMin slutsats om tillväxtmätningen är att större tillväxt är förenlig med den nytta som sida 36 beskriver, men att ett enda mått inte visar exakt vilka ämnen som gått i vilken riktning. En prövning av utbytesförklaringen skulle även behöva undersöka svampkontakten och de påstådda resursflödena under jämförbara förhållanden. Detta är metodresonemang, inte ett nytt rapporterat försöksresultat.\n\nEn rättad bild bör därmed visa källans dubbelriktade utbyte och ange vilken av de tillgängliga anatomiska beskrivningarna den återger. Då blir sambandet mellan kontakten, resurserna och den möjliga tillväxtnyttan begripligt utan att materialets faktaunderlag utökas.",
       "sectionIds": [
         "ppt-mykorrhiza",
         "mykorrhiza-parasitism",
@@ -1031,13 +1041,13 @@
         "Kolhydrater går från växt till svamp",
         "Vatten och mineraler går från svamp till växt",
         "Hyfnätverket ökar markkontakt",
-        "Ektomykorrhiza och arbuskulär kontakt skiljs",
+        "Mantel och cellinträngning är två olika källbeskrivningar",
         "Tillväxtmått ensamt visar inte alla resursflöden"
       ],
       "criteria": [
         "Rättar båda riktningarna i resursutbytet",
         "Kopplar respektive partners bidrag till dess biologi",
-        "Beskriver mantel, mellan celler och inne i celler korrekt",
+        "Återger båda anatomiska beskrivningarna utan tillagd typindelning",
         "Skiljer utfall från mekanism",
         "Anger relevanta kompletterande observationer"
       ],
@@ -1048,22 +1058,23 @@
         },
         {
           "label": "Anatomisk precision",
-          "text": "All mykorrhiza har inte samma placering i förhållande till rotcellerna."
+          "text": "Underlaget ger olika beskrivningar av läget men namnger inte flera mykorrhizatyper."
         },
         {
           "label": "Mekanism och utfall",
           "text": "Förbättrad tillväxt stödjer en möjlig nytta men identifierar inte ensam hela resursvägen."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 33, 34, 36; Boksidor 267; Boksidor 266. Figurrättelsen använder de kontaktmodeller som redan förklaras i kursen. Förslag på kompletterande observationer är metodresonemang, inte nya försöksresultat.",
-      "uncertainties": []
+      "sourceNote": "Endast originalets PowerPoint-sidor 33, 34, 36 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
+      "uncertainties": [],
+      "revision": 2
     },
     {
       "id": "advanced-avbruten-karnfusion-i-basidiemodell",
       "topicId": "svampars-livscykler",
       "primarySourceKind": "ppt",
       "question": "I en hypotetisk basidiesvampscykel fungerar hyftillväxt och plasmogami, men kärnorna förenas aldrig i basidiet. Följ vad modellen då tillåter och vilket steg som inte kan fullföljas på det vanliga sättet. Förklara varför en bild med spor–mycel–fruktkropp inte räcker för att upptäcka felet och varför n + n inte ska skrivas som 2n.",
-      "answer": "Basidiesporer med haploida kärnor kan enligt modellen gro och bilda primära mycel. När kompatibla primära mycel förenar sitt cellinnehåll genom plasmogami uppkommer ett sekundärt mycel med två fortfarande åtskilda haploida kärnor, n + n. Att kärnorna senare inte smälter samman betyder därför inte att de tidigare stegen med hyftillväxt och plasmogami logiskt måste saknas. Uppgiften anger uttryckligen att de fungerar.\n\nDet vanliga följdsteget i basidiet är karyogami: två kärnor förenas till en diploid kärna, 2n. Därefter följer meios, som i den typiska modellen ger fyra haploida kärnor inför basidiosporernas bildning på utskott. Om karyogamin uteblir finns inte den diploida utgångspunkt som modellens vanliga meiossteg förutsätter. Den fullständiga sexuella sporcykeln kan alltså inte bara ritas vidare som om inget hade hänt.\n\nNotationerna spelar roll. n + n beskriver två åtskilda kärnor, medan 2n beskriver dubbel kromosomuppsättning i en kärna. Att summera siffrorna matematiskt döljer skillnaden i biologisk organisation.\n\nEn översiktsbild med spor, mycel och fruktkropp kan visa kroppens utveckling och spridning utan att redovisa dessa kärnövergångar. Presentationens sida 37 är därför inte tillräcklig för denna felsökning; sida 39 tillför plasmogami, karyogami och meios. Slutsatsen gäller modellens normala sexuella förlopp. Den säger inte hur en verklig mutant skulle se ut eller att alla andra sätt att fortplanta sig automatiskt vore omöjliga.",
+      "answer": "Bokens sida 269 beskriver hur förenade hyfer först kan ha en kärna från vardera partnern innan kärnorna slås samman. På sida 39 förenas primära mycel vid pilen Plasmogamy och ger sekundärt mycel. Det kopplas vidare till fruktkroppens utveckling. Uppgiften anger uttryckligen att de tidigare stegen fungerar, så jag behöver inte anta att de saknas bara för att en senare övergång blockeras.\n\nFörstoringen från skivorna visar därefter två färgade kärnor i basidiet, pilen Fertilization där de förenas, och sedan Meiosis. Jämfört med bokens enkel och dubbel uppsättning kan två ännu åtskilda kärnor skrivas n + n och den sammanslagna kärnan 2n. Dessa skrivsätt beskriver olika organisation: två separata kärnor respektive dubbel uppsättning i en kärna.\n\nOm kärnsammanslagningen tas bort saknas den avbildade diploida utgångspunkten före meiosen. Min slutsats är att den normala sexuella följden inte kan fortsätta oförändrad i just denna modell. Det är ett logiskt resonemang om den givna blockeringen. Materialet redovisar inte ett verkligt experiment med en sådan organism, så dess övriga egenskaper eller alternativa möjligheter kan inte beskrivas säkert.\n\nÖversiktsbilden på sida 37 visar sporer, hyfer, mycel och fruktkroppsutveckling, men märker inte kärnsammanslagningen eller meiosen. Den räcker därför inte ensam för att hitta ett fel på kärnnivå. Sida 39 behöver läsas tillsammans med bokens kärnförklaring för att motivera vilket steg som har försvunnit och varför det är avgörande för den avbildade ordningen.",
       "sectionIds": [
         "ppt-basidie-livscykel",
         "sexuell-forokning",
@@ -1085,7 +1096,7 @@
       "keyPoints": [
         "Plasmogami förenar cellinnehåll",
         "Sekundärt mycel kan ha kärnor n + n",
-        "Karyogami ger en kärna 2n",
+        "Kärnsammanslagning ger en kärna 2n",
         "Vanlig meios i modellen följer kärnfusion",
         "Översiktsbild saknar den nödvändiga kärnnivån"
       ],
@@ -1110,10 +1121,11 @@
           "text": "Modellens logiska följd ger inte alla egenskaper hos en verklig organism."
         }
       ],
-      "sourceNote": "Lärarens PowerPoint, sidor 35, 37, 39; Boksidor 269; Lärarens PowerPoint, sidor 28, 29, 30, 37, 39. Blockeringen är ett rent tankeexperiment. Inga verkliga mutationer, odlingsresultat eller alternativa sporbildningsmekanismer påstås.",
+      "sourceNote": "Endast originalets PowerPoint-sidor 28, 29, 30, 35, 37, 39 och de bokhänvisningar som anges i svaret. Fakta hämtas från originalen, inte tidigare externa förtydliganden. Metod- och jämförelseslutsatser markeras i svaret.",
       "uncertainties": [
         "Inga egenskaper hos en verklig organism med denna hypotetiska blockering är undersökta."
-      ]
+      ],
+      "revision": 2
     },
     {
       "id": "advanced-granska-sammanslagen-medicinrubrik",
@@ -1704,6 +1716,2032 @@
       "uncertainties": [
         "Historien och filmens framtidslöften fastställer inte senare medicinska eller juridiska förhållanden."
       ]
+    },
+    {
+      "id": "reported-jamfor-svampar-djur-vaxter",
+      "question": "Jämför svampar med djur och växter.",
+      "answer": "Svampar, djur och växter finns alla på eukaryotgrenen i presentationens livsträd. Presentationens klassiska systematik behandlar dem samtidigt som skilda riken. Att de delar celltyp betyder alltså inte att de är samma organismgrupp. Boken beskriver svampcellen som eukaryot med cellkärna, ER, golgiapparat, lysosomer, mitokondrier och andra membranomslutna organeller. Detta placerar svampens byggnad i ett större sammanhang, men de skickade sidorna innehåller ingen motsvarande fullständig förteckning över djur- och växtcellernas alla delar. [Boken s. 266; PowerPoint bild 2–4.]\n\nEn tydlig likhet mellan svampar och djur är heterotrofin: båda lever av energi som andra livsformer har skapat. Däremot skiljer sig sättet att komma åt näringen. I bokens jämförelse innesluter djur andra organismer och bryter ner dem inne i sig själva. Svampar avger i stället enzymer som bryter ner levande eller dött organiskt material i omgivningen. Små molekyler, exempelvis enkla sockerarter och aminosyror, kan sedan tas upp. En utvecklad jämförelse behöver därför skilja mellan näringens ursprung och platsen för nedbrytningen: samma övergripande beroende av andra livsformer kan förenas med olika strategier. [Boken s. 266.]\n\nSkillnaden mot växtpartnern i mykorrhiza blir särskilt tydlig. Presentationen beskriver växten som fotoautotrof och anger att svampen får socker från växtens fotosyntes. Svampen saknar själv kloroplaster och utför ingen fotosyntes. Svampcellen har också en cellvägg med bland annat kitin; boken anger att väggen skiljer sig från växters cellväggar. En cellvägg är således inte tillräckligt för att kalla en organism växt. Jämförelsen behöver väga samman flera egenskaper. [Boken s. 266–267; PowerPoint bild 36.]\n\nByggnad och näringsstrategi hänger ihop. Många svampar består av tunna, förgrenade hyfer som bildar mycel. Det ger stor kontaktyta mot omgivningen där nedbrytningen och näringsupptaget sker. Jäst visar samtidigt att inte alla svampar har denna kroppsform: dess celler lever huvudsakligen en och en. Ekologiskt kan svampar både bryta ner dött material, parasitera på levande organismer och samarbeta med växter. I mykorrhiza lämnar svampen mineraler och får växtens kolhydrater. Min slutsats är att svampen och växten kan komplettera varandras resurser utan att svampen därmed får egen fotosyntes. [Boken s. 266–268.]\n\nLivsträdet visar djur och svampar på närliggande grenar. Det kan redovisas som vad undervisningsbilden visar, men materialet ger här ingen detaljerad molekylär förklaring till släktskapet. En fullständig jämförelse av cellmembranens kemiska innehåll, djurcellers cellväggsförhållanden och gruppernas energilagring kan inte göras utifrån dessa avsnitt. Jag lägger därför inte till uppgifter om exempelvis särskilda membranämnen eller lagringskolhydrater. Svarets fördjupning ligger i sambanden mellan de egenskaper som faktiskt behandlas, inte i ett utökat faktaunderlag.",
+      "sectionIds": [
+        "naringsstrategi",
+        "cellbyggnad",
+        "hyfer-mycel",
+        "mykorrhiza-parasitism",
+        "ekosystem",
+        "ppt-systematik",
+        "ppt-mykorrhiza"
+      ],
+      "factIds": [
+        "naringsstrategi-f01",
+        "naringsstrategi-f02",
+        "naringsstrategi-f03",
+        "naringsstrategi-f05",
+        "naringsstrategi-f06",
+        "cellbyggnad-f01",
+        "cellbyggnad-f02",
+        "cellbyggnad-f03",
+        "cellbyggnad-f04",
+        "cellbyggnad-f05",
+        "hyfer-mycel-f02",
+        "hyfer-mycel-f06",
+        "hyfer-mycel-f11",
+        "mykorrhiza-parasitism-f06",
+        "ekosystem-f04",
+        "ekosystem-f09",
+        "ppt-systematik-f03",
+        "ppt-systematik-f11",
+        "ppt-mykorrhiza-f03"
+      ],
+      "keyPoints": [
+        "Gemensam eukaryotisk placering, skilda riken i lärarens schema",
+        "Heterotrofi förenar svampar och djur; yttre och inre nedbrytning skiljer dem",
+        "Svampen saknar kloroplaster och fotosyntes; växtpartnern bildar socker genom fotosyntes",
+        "Kitinvägg och hyfnätverk kopplas till svampens byggnad och funktion",
+        "Källluckor om membrankemi, energilagring och detaljerat släktskap anges"
+      ],
+      "criteria": [
+        "Jämför samma egenskap mellan grupperna i stället för tre fristående listor",
+        "Förklarar kedjan enzym–yttre nedbrytning–små molekyler–upptag",
+        "Kopplar mycelets kontaktyta till heterotrof näringsstrategi",
+        "Visar varför enstaka likheter inte innebär samma rike eller egen fotosyntes",
+        "Håller bildens placering och egna slutsatser åtskilda samt redovisar kunskapsgränsen"
+      ],
+      "analysis": [
+        {
+          "label": "Gemensamt och olika",
+          "text": "Börja med eukaryotisk celltyp och jämför därefter näringsstrategi, cellvägg och kroppsbyggnad."
+        },
+        {
+          "label": "Byggnad till funktion",
+          "text": "Tunna förgrenade hyfer ger den kontaktyta som behövs när svampen bryter ner och tar upp ämnen ur omgivningen."
+        },
+        {
+          "label": "Resursutbyte",
+          "text": "Att svampen får fotosyntesprodukter genom samarbete är en annan sak än att själv utföra fotosyntes."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "book",
+          "page": 267,
+          "label": "Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        },
+        {
+          "kind": "book",
+          "page": 268,
+          "label": "Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "ppt",
+          "page": 2,
+          "label": "PowerPoint bild 2: livsträdet"
+        },
+        {
+          "kind": "ppt",
+          "page": 3,
+          "label": "PowerPoint bild 3: eukaryoter"
+        },
+        {
+          "kind": "ppt",
+          "page": 4,
+          "label": "PowerPoint bild 4: klassisk systematik"
+        },
+        {
+          "kind": "ppt",
+          "page": 36,
+          "label": "PowerPoint bild 36: levnadssätt och fotosyntesprodukter"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Djur, svampar och växter på eukaryotgrenen; skilda riken i klassiska schemat.",
+          "support": "PowerPoint bild 2 · PowerPoint bild 2: livsträdet; PowerPoint bild 4 · PowerPoint bild 4: klassisk systematik"
+        },
+        {
+          "kind": "source",
+          "statement": "Svampcellens uppräknade organeller, kitinvägg och avsaknad av kloroplaster/fotosyntes.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Djur och svampar heterotrofa, men nedbrytning inne i djur respektive utanför svamp.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Hyfer/mycel ger stor kontaktyta; jäst är huvudsakligen encellig.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Fotosyntetiserande växt lämnar socker i utbyte mot svampens resurser.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; PowerPoint bild 36 · PowerPoint bild 36: levnadssätt och fotosyntesprodukter"
+        },
+        {
+          "kind": "inference",
+          "statement": "Samarbete innebär inte att svampen själv får fotosyntes; en egenskap ensam räcker inte för gruppjämförelsen.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; PowerPoint bild 4 · PowerPoint bild 4: klassisk systematik; PowerPoint bild 36 · PowerPoint bild 36: levnadssätt och fotosyntesprodukter"
+        },
+        {
+          "kind": "limitation",
+          "statement": "Detaljer om energilagring och membrankemi tillförs inte eftersom de saknas i de granskade avsnitten.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; PowerPoint bild 2 · PowerPoint bild 2: livsträdet; PowerPoint bild 3 · PowerPoint bild 3: eukaryoter; PowerPoint bild 4 · PowerPoint bild 4: klassisk systematik; PowerPoint bild 36 · PowerPoint bild 36: levnadssätt och fotosyntesprodukter"
+        }
+      ],
+      "uncertainties": [
+        "De granskade källavsnitten ger ingen fullständig djur-/växtcellsjämförelse av cellmembran och väggmaterial.",
+        "Detaljer om energilagring och molekylär släktskapsförklaring saknas."
+      ],
+      "answerGuide": [],
+      "sourceNote": "Källfakta från Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268: ekosystem, lavar och människans användning; PowerPoint bild 2: livsträdet; PowerPoint bild 3: eukaryoter; PowerPoint bild 4: klassisk systematik; PowerPoint bild 36: levnadssätt och fotosyntesprodukter. Stycken som anges som slutsats eller resonemang tillämpar dessa uppgifter; de tillför inga externa faktauppgifter.",
+      "collection": "exam-bank",
+      "provenance": "reported",
+      "revision": 1,
+      "topicId": "struktur-naring",
+      "ordinal": 1
+    },
+    {
+      "id": "reported-beratta-om-en-svamp",
+      "question": "Berätta allting om en svamp.",
+      "answer": "Jag tolkar den breda frågan som att jag får välja en väl underbyggd svampgrupp. Jag väljer därför basidiesvampar och använder presentationens vanliga hattsvamp som modell. Gruppen behandlas utförligt i PowerPointen, medan boken förklarar cellbyggnad, näring, mycel och förökning. Detta är en gruppbeskrivning, inte ett påstående att alla basidiesvampar ser likadana ut eller lever på samma sätt. Om uppgiften uttryckligen kräver en bestämd art behöver artnamnet och de artspecifika uppgifterna anges separat. [PowerPoint bild 19–20.]\n\nEn sådan svamp hör i lärarens klassiska schema till svampriket bland eukaryoterna. Cellerna har cellkärna och membranomslutna organeller, men inga kloroplaster. Cellväggen innehåller bland annat kitin. Näringen kommer alltså inte från egen fotosyntes. Svampen är heterotrof och avger enzymer som bryter ner organiskt material i omgivningen till små molekyler. Dessa kan tas upp av svampen. [Boken s. 266; PowerPoint bild 4.]\n\nDen trådformiga svampens celler bildar hyfer, vars förgreningar tillsammans bildar ett mycel. Tunna trådar ger stor kontaktyta mot materialet som svampen hämtar näring ur. Stora öppningar mellan cellerna gör att näring och andra cellkomponenter kan transporteras genom nätverket. Den synliga hattsvampen är en fruktkropp som växer ut från mycelet; den utgör därför inte hela det utbredda nätverket. När temperatur och fuktighet är gynnsamma kan tillväxten koncentreras till vissa platser, så att fruktkroppar utvecklas snabbt. [Boken s. 266–267.]\n\nHos presentationens hattsvamp finns hatt och fot. På hattens undersida kan skivor, rör eller taggar ge plats åt många basidier. I bild 20 beskrivs en mogen basidie med fyra skaft som bär varsin spor. Det är därmed viktigt att skilja mycelets stora yta för näringsupptag från fruktkroppens ytor för sporbildning: båda har betydelse, men för olika delar av svampens liv. [PowerPoint bild 19–20.]\n\nDen sexuella modellen behöver följas i rätt ordning. Boken beskriver hur mycel av samma slags svamp men motsatta kön kan närma sig varandra genom parningssignalämnen, feromoner. Hyferna förenas så att en cellkärna från varje partner finns i cellen. Kärnorna behöver inte genast slås samman. Vid den senare kärnsammanslagningen uppstår dubbel kromosomuppsättning. Meios ger sedan sporer med enkel kromosomuppsättning. PowerPointens basidiesvampsbild visar kärnstegen i anslutning till basidiet. Sporer sprids och kan gro, växa och bilda nytt mycel om platsens förhållanden är gynnsamma. Boken beskriver dessutom asexuell förökning; förekomst av sporer ensam visar därför inte att förökningen varit sexuell. [Boken s. 269; PowerPoint bild 37 och 39.]\n\nSvampens ekologiska roll måste knytas till det valda exemplet. Materialet beskriver både nedbrytare, parasiter och mykorrhizasamarbete. I mykorrhiza får svampen växtens kolhydrater och lämnar mineraler; parasitiska tickor är däremot ett exempel där träd skadas. Min slutsats är att basidiernas sporbildning och en viss näringsrelation beskriver olika egenskaper. Jag kan därför inte anta att varje basidiesvamp har samma växtpartner, livsmiljö eller effekt på ett träd. Källorna räcker till en sammanhängande gruppmodell, men inte till alla detaljer om en godtyckligt vald art. [Boken s. 267–268; PowerPoint bild 20.]",
+      "sectionIds": [
+        "cellbyggnad",
+        "naringsstrategi",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt",
+        "sexuell-forokning",
+        "asexuell-forokning",
+        "mykorrhiza-parasitism",
+        "ppt-systematik",
+        "ppt-basidiesvampar",
+        "ppt-basidie-livscykel"
+      ],
+      "factIds": [
+        "cellbyggnad-f01",
+        "cellbyggnad-f02",
+        "cellbyggnad-f03",
+        "cellbyggnad-f05",
+        "naringsstrategi-f01",
+        "naringsstrategi-f03",
+        "naringsstrategi-f05",
+        "naringsstrategi-f06",
+        "hyfer-mycel-f03",
+        "hyfer-mycel-f04",
+        "hyfer-mycel-f05",
+        "hyfer-mycel-f06",
+        "hyfer-mycel-f11",
+        "fruktkroppar-tillvaxt-f01",
+        "fruktkroppar-tillvaxt-f05",
+        "fruktkroppar-tillvaxt-f06",
+        "sexuell-forokning-f03",
+        "sexuell-forokning-f05",
+        "sexuell-forokning-f06",
+        "sexuell-forokning-f08",
+        "sexuell-forokning-f09",
+        "sexuell-forokning-f10",
+        "asexuell-forokning-f07",
+        "asexuell-forokning-f08",
+        "asexuell-forokning-f09",
+        "mykorrhiza-parasitism-f06",
+        "ppt-systematik-f11",
+        "ppt-basidiesvampar-f01",
+        "ppt-basidiesvampar-f04",
+        "ppt-basidiesvampar-f05"
+      ],
+      "keyPoints": [
+        "Val och avgränsning: basidiesvampar, med en vanlig hattsvamp som modell",
+        "Cellbyggnad och heterotrofi förklaras tillsammans",
+        "Hyfer → mycel → möjlig fruktkropp; näringsupptag och sporbildning skiljs åt",
+        "Sexuell cykel följs genom hyfförening, separata kärnor, kärnsammanslagning, meios och sporer",
+        "Gruppens fortplantning får inte automatiskt ange varje arts ekologi"
+      ],
+      "criteria": [
+        "Motiverar exemplet med tillgängligt källstöd och redovisar att det är en grupp",
+        "Binder ihop cell, kroppsbyggnad, transport och näringsstrategi",
+        "Förklarar basidiernas och fruktkroppens roller",
+        "Följer livscykeln och undviker att kalla varje spor sexuellt bildad",
+        "Skiljer källans gruppexempel från obelagda artpåståenden och anger hur svaret skulle anpassas"
+      ],
+      "analysis": [
+        {
+          "label": "Avgränsa först",
+          "text": "Frågan allting är obegränsad. Ange vilket exempel och vilken nivå som faktiskt kan beskrivas med materialet."
+        },
+        {
+          "label": "Bygg en organismförklaring",
+          "text": "Följ sambanden cellbyggnad–hyfer–upptag–transport–fruktkropp–fortplantning i löpande text."
+        },
+        {
+          "label": "Variera utan att generalisera",
+          "text": "Fortplantningsgrupp och ekologisk roll är skilda beskrivningar; belägg varje vald arts relation separat."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "book",
+          "page": 267,
+          "label": "Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        },
+        {
+          "kind": "book",
+          "page": 268,
+          "label": "Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "book",
+          "page": 269,
+          "label": "Boken s. 269: asexuell och sexuell förökning"
+        },
+        {
+          "kind": "ppt",
+          "page": 4,
+          "label": "PowerPoint bild 4: klassisk systematik"
+        },
+        {
+          "kind": "ppt",
+          "page": 19,
+          "label": "PowerPoint bild 19: basidiesvampar"
+        },
+        {
+          "kind": "ppt",
+          "page": 20,
+          "label": "PowerPoint bild 20: basidier och fruktkroppsformer"
+        },
+        {
+          "kind": "ppt",
+          "page": 37,
+          "label": "PowerPoint bild 37: synlig livscykel"
+        },
+        {
+          "kind": "ppt",
+          "page": 39,
+          "label": "PowerPoint bild 39: basidiesvampens livscykel"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "limitation",
+          "statement": "Valt exempel är basidiesvampar med en vanlig hattsvamp som modell, inte en bestämd art.",
+          "support": "PowerPoint bild 19 · PowerPoint bild 19: basidiesvampar; PowerPoint bild 20 · PowerPoint bild 20: basidier och fruktkroppsformer"
+        },
+        {
+          "kind": "source",
+          "statement": "Eukaryot, cellvägg med kitin, inga kloroplaster; enzymer och upptag av små molekyler.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Hyfer bildar mycel; stor kontaktyta, transport och möjlig snabb koncentrerad fruktkroppstillväxt.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        },
+        {
+          "kind": "source",
+          "statement": "Hatt/fot; många basidier på skivor/rör/taggar; fyra skaft med en spor var i bild20.",
+          "support": "PowerPoint bild 19 · PowerPoint bild 19: basidiesvampar; PowerPoint bild 20 · PowerPoint bild 20: basidier och fruktkroppsformer"
+        },
+        {
+          "kind": "source",
+          "statement": "Hyfförening före kärnsammanslagning, dubbel uppsättning efter sammanslagning, meios och nya sporer.",
+          "support": "Boken s. 269 · Boken s. 269: asexuell och sexuell förökning; PowerPoint bild 39 · PowerPoint bild 39: basidiesvampens livscykel"
+        },
+        {
+          "kind": "inference",
+          "statement": "Sporer kan bildas asexuellt och därför bevisar spor ensam inte sexuell förökning.",
+          "support": "Boken s. 269 · Boken s. 269: asexuell och sexuell förökning"
+        },
+        {
+          "kind": "inference",
+          "statement": "Mykorrhiza och parasitism är olika ekologiska relationer; ingen enda roll tillskrivs alla basidiesvampar.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning; PowerPoint bild 20 · PowerPoint bild 20: basidier och fruktkroppsformer"
+        }
+      ],
+      "uncertainties": [
+        "Ingen bestämd art har valts; en artspecifik livsmiljö, växtpartner och fullständig klassificering får inte fyllas i från förkunskaper.",
+        "Modellen visar källornas behandlade förlopp och gör inte anspråk på alla biologiska detaljer om basidiesvampar."
+      ],
+      "answerGuide": [
+        {
+          "heading": "Mall för en annan svamp",
+          "text": "Börja: Jag väljer [namn eller grupp] eftersom den behandlas på [sida/bild]. Ange bara belagd grupptillhörighet. Beskriv därefter cellbyggnad och kroppsform, koppla dem till näringsupptaget och förklara eventuell fruktkropp och sporbildning. Följ den livscykel som faktiskt anges för exemplet. Avsluta med belagd livsmiljö eller partner, ekologisk roll och människans användning om det finns i materialet. Markera tydligt vilka delar som gäller svampar i allmänhet och vilka som gäller just exemplet. Skriv uttryckligen när en artspecifik uppgift saknas."
+        },
+        {
+          "heading": "Om frågan avser svampar som organismgrupp",
+          "text": "Inled då med att du beskriver svampar generellt. Jämför encellig jäst med hyfbildande svampar, förklara den gemensamma heterotrofa näringsstrategin och visa variationen nedbrytare–parasiter–samarbete. Beskriv bokens asexuella och sexuella modeller och ange att fruktkroppar bara beskrivs hos vissa arter. Använd basidiesvampen som ett exempel, utan att göra den till modell för alla svampar."
+        }
+      ],
+      "sourceNote": "Källfakta från Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268: ekosystem, lavar och människans användning; Boken s. 269: asexuell och sexuell förökning; PowerPoint bild 4: klassisk systematik; PowerPoint bild 19: basidiesvampar; PowerPoint bild 20: basidier och fruktkroppsformer; PowerPoint bild 37: synlig livscykel; PowerPoint bild 39: basidiesvampens livscykel. Stycken som anges som slutsats eller resonemang tillämpar dessa uppgifter; de tillför inga externa faktauppgifter.",
+      "collection": "exam-bank",
+      "provenance": "reported",
+      "revision": 1,
+      "topicId": "fruktkropp-sporbildning",
+      "ordinal": 2
+    },
+    {
+      "id": "exam-reported-slemsvampar",
+      "category": "reported",
+      "primarySourceKind": "ppt",
+      "question": "Jämför slemsvampar och vanliga svampar.",
+      "answer": "Jag använder här vanliga svampar som de egentliga svamparna, Fungi, och jämför dem med den slemsvampsmodell som presentationen visar. Enligt källan är detta olika grupper: svampar är ett eget rike på sida 15, medan sida 8 uttryckligen säger att slemsvampar inte är riktiga svampar. Sida 6 beskriver dem som svampliknande i en traditionell protistindelning. Namnlikheten ska därför inte användas som bevis för samma tillhörighet. Någon ytterligare modern gruppplacering ges inte i underlaget.\n\nUppbyggnaden beskrivs också olika. Svampar är eukaryoter och kan vara encelliga, som jäst, eller flercelliga. Sida 31 anger cellvägg med kitin, avsaknad av kloroplaster och avlånga celler som bildar hyfer. Hyfernas nätverk kallas mycel, och fruktkroppar kan växa ut från det. Slemsvampens näringsupptagande stadium kallas i stället plasmoid eller supercell på sida 9 och plasmodium i diagrammet på sida 11. Det ska inte automatiskt beskrivas som ett svampmycel. Källorna ger däremot ingen lika detaljerad beskrivning av slemsvampens cellvägg eller interna kärnorganisation. Där kan jämförelsen inte fyllas ut med egna förkunskaper.\n\nEn tydlig processkillnad finns i näringsupptaget. Enligt presentationen innesluter plasmodiet födan och löser upp den. Boken på sida 266 beskriver hur egentliga svampar först avger enzymer som bryter ner stora molekyler utanför organismen och sedan tar upp små molekyler. Min jämförelse är därför att platsen och ordningen skiljer sig: föda innesluts före upplösningen i slemsvampsexemplet, medan yttre nedbrytning föregår upptaget hos bokens svampar. Samma multnande underlag innebär alltså inte att födan tas upp på samma sätt.\n\nRörelse behandlas uttryckligen för plasmodiet. Sida 9 anger ungefär en millimeter per timme. Det är presentationens uppgift, inte en siffra som materialet prövar för alla arter och miljöer. För svampar beskriver källorna i stället hyfernas tillväxt och nätverkets utbredning. Min slutsats är att man måste skilja den beskrivna rörelsen från tillväxt, utan att lägga till en fullständig rörelsejämförelse som materialet inte gör.\n\nBåda framställningarna har sporer och sporbildande strukturer, men mellanformerna skiljer sig. Slemsvampsdiagrammet visar spor, amöboid eller flagellat cell, syngami, zygot, plasmodium och sporangier. Bokens svampcykel beskriver hyfer och mycel som förenas, kärnor som först kan vara åtskilda, senare kärnsammanslagning och meios till sporer. Presentationen kopplar slemsvampens fruktkroppsstadium till näringsbrist, medan svampens fruktkroppsbildning på sida 31 kopplas till lämplig temperatur och fukt. Jag jämför dessa källbeskrivningar utan att göra dem till universella villkor.\n\nÄven ekologin behöver avgränsas. Slemsvampsstadiet placeras i förna och multnande material. Egentliga svampar beskrivs som nedbrytare, parasiter och mykorrhizapartner. Att de kan finnas i liknande miljö räcker därför inte för att ge dem samma roll. Sammantaget är likheten i namn, synliga strukturer och sporbildning verklig i materialets presentation, men skillnaderna i angiven grupptillhörighet, uppbyggnad och näringsprocess är avgörande för jämförelsen.",
+      "sectionIds": [
+        "ppt-slemsvampar",
+        "ppt-slemsvampar-livscykel",
+        "ppt-svampgrupper",
+        "ppt-tillvaxt-nedbrytning",
+        "naringsstrategi",
+        "hyfer-mycel",
+        "cellbyggnad",
+        "sexuell-forokning"
+      ],
+      "factIds": [
+        "ppt-slemsvampar-f01",
+        "ppt-slemsvampar-f03",
+        "ppt-slemsvampar-f05",
+        "ppt-slemsvampar-f07",
+        "ppt-slemsvampar-f08",
+        "ppt-svampgrupper-f01",
+        "ppt-slemsvampar-livscykel-f01"
+      ],
+      "keyPoints": [
+        "Traditionell protistbeskrivning skiljs från svampriket",
+        "Hyfer och mycel jämförs med källans supercell/plasmodium",
+        "Inneslutning jämförs med yttre enzymnedbrytning",
+        "Sporer innebär inte identiska livscykler",
+        "Saknade cell- och systematikdetaljer anges"
+      ],
+      "criteria": [
+        "Jämför samma egenskaper i båda grupperna",
+        "Förklarar processkillnaden i rätt ordning",
+        "Kombinerar minst en bokuppgift med flera PPT-uppgifter",
+        "Skiljer tydligt källuppgift och slutsats",
+        "Använder inga externa gruppnamn eller mekanismer"
+      ],
+      "analysis": [
+        {
+          "label": "Jämförelsestruktur",
+          "text": "Grupptillhörighet → uppbyggnad → föda/rörelse → livscykel → ekologisk avgränsning."
+        },
+        {
+          "label": "Samband",
+          "text": "Liknande livsmiljö eller sporbildning gör inte de beskrivna näringsprocesserna identiska."
+        },
+        {
+          "label": "Källgräns",
+          "text": "Cellvägg och intern kärnorganisation hos slemsvamp kan inte jämföras lika detaljerat ur dessa källor."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "ppt",
+          "page": 6,
+          "label": "Traditionella protistliknelser"
+        },
+        {
+          "kind": "ppt",
+          "page": 8,
+          "label": "Inga riktiga svampar och huvudstadier"
+        },
+        {
+          "kind": "ppt",
+          "page": 9,
+          "label": "Föda, rörelse och näringsbrist"
+        },
+        {
+          "kind": "ppt",
+          "page": 11,
+          "label": "Den märkta slemsvampcykeln"
+        },
+        {
+          "kind": "ppt",
+          "page": 31,
+          "label": "Svampens byggnad och villkor"
+        },
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Yttre enzymnedbrytning, hyfer och celler"
+        },
+        {
+          "kind": "book",
+          "page": 269,
+          "label": "Svampars sexuella förlopp"
+        },
+        {
+          "kind": "ppt",
+          "page": 15,
+          "label": "Svampar som eget rike"
+        },
+        {
+          "kind": "ppt",
+          "page": 36,
+          "label": "Ekologiska roller"
+        }
+      ],
+      "sourceNote": "Endast de angivna originalsidorna i läroboken och PowerPointen används. Stycken märkta som min slutsats eller jämförelse är resonemang utifrån dessa uppgifter.",
+      "uncertainties": [
+        "Slemsvampens cellvägg och interna kärnorganisation beskrivs inte tillräckligt.",
+        "Underlaget ger ingen fullständig senare systematik.",
+        "Sida 8:s text och sida 11:s figur motsäger varandra om vägen från zygot till plasmodium; modellen följer figurens märkta ordning."
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Slemsvampar är inga riktiga svampar; traditionellt svampliknande protister",
+          "support": "PPT6,8"
+        },
+        {
+          "kind": "source",
+          "statement": "Kitin, inga kloroplaster, jäst och hyfer/mycel hos svampar",
+          "support": "PPT31; bok266"
+        },
+        {
+          "kind": "inference",
+          "statement": "Inneslutning kontra yttre enzymer före upptag",
+          "support": "PPT9; bok266"
+        },
+        {
+          "kind": "source",
+          "statement": "Rörelseuppgift och spor-/plasmodiestadier",
+          "support": "PPT8–11"
+        },
+        {
+          "kind": "inference",
+          "statement": "Skilda mellanformer och ekologiska beskrivningar ger inte identisk organismgrupp",
+          "support": "PPT6,8,9,31,36; bok269"
+        }
+      ],
+      "wordCount": 432,
+      "collection": "exam-bank",
+      "provenance": "reported",
+      "revision": 1,
+      "topicId": "slemsvampscykeln",
+      "ordinal": 3
+    },
+    {
+      "id": "reported-film-handling-framtid",
+      "group": "reported",
+      "question": "Vad hände i filmen och vad tror du kommer hända i framtiden?",
+      "primarySourceKind": "film",
+      "answer": "Dokumentären Frisk av magiska svampar undersöker om psykedeliska substanser tillsammans med terapi kan bli nya verktyg vid psykisk ohälsa. Dess två huvudspår måste hållas isär: MDMA tillsammans med terapi vid PTSD och psilocybin tillsammans med terapeutiskt stöd vid depression. Psilocybin beskrivs som ett hallucinogent ämne i magiska svampar. Programmet handlar om medicinsk forskning, men visar också risker, metodkritik och starka framtidsförhoppningar. Uppgifterna hör till filmens kunskapsläge 2022.\n\nFörst följer filmen Ron, vars PTSD efter terrorattacken 2001 inte hade blivit tillräckligt hjälpt av tidigare behandlingar. Han deltar i en MDMA-studie där ungefär hälften får MDMA och resten placebo, medan alla får omfattande terapi. Filmen uppger att två tredjedelar i MDMA-terapigruppen efter två månader inte längre hade PTSD. Ron beskrivs som fortsatt förbättrad två år senare, men berättelsen innehåller också självmordstankar när terapin avslutades för snabbt. Det visar varför både möjlig hjälp och hela behandlingsförloppets svårigheter behöver tas på allvar. Ett enskilt långtidsfall är dessutom inte ett långtidsresultat för hela gruppen.\n\nI psilocybinspåret möter vi Steve, som har levt med depression. Han beskriver starkt förändrade färger och ljud och en förändrad upplevelse av det egna jaget. En andra session är mörk och krävande innan den övergår i starka positiva känslor. Drygt två år efteråt beskrivs han inte längre som deprimerad. Hans berättelse ger ett konkret exempel på möjlig förbättring, men visar inte hur ofta andra patienter får samma resultat eller vad som hade hänt utan behandlingen.\n\nDet brittiska jämförelseförsöket omfattar nästan sextio personer. En grupp får antidepressiv medicin dagligen under sex veckor och den andra två stora doser psilocybin. Båda har terapeuter under två sessioner och samtal före och efter. Filmen uppger minskade depressionssymtom hos nästan 30 procent i läkemedelsgruppen och 60 procent i psilocybingruppen. Det är andelar deltagare med den redovisade förbättringen, inte att varje persons symtom minskar med dessa procenttal eller att motsvarande andel av alla patienter botas permanent. Uppgiften ger enligt min bedömning skäl till fortsatt forskning, men dess räckvidd begränsas av att försöket är litet.\n\nForskarna använder också magnetkamera. Filmens förenklade förklaring är att aktiviteten minskar i kontrollcentrum och att andra hjärndelar kommunicerar friare. Snökulan som skakas om illustrerar förändrade tankemönster. Min tolkning är att detta kan göra en möjlig verkan begriplig, men en hjärnförändring är inte ensam ett mått på klinisk nytta. Den tydliga upplevelsen kan dessutom avslöja försöksgruppen trots avsedd dubbelblindning. Då blir förväntningarnas bidrag svårt att skilja från substansens. Kritikern säger inte att all förbättring har bevisats vara placebo, utan att dess bidrag är osäkert.\n\nSäkerheten är en annan avgörande fråga. Tre självmordsförsök nämns i en större psilocybinstudie och ska undersökas vidare. Filmen fastställer inte att psilocybin orsakade dem. I studiosamtalet uttrycks även oro för osäkra självförsök utan professionellt stöd. Hjärt- och minnesproblem vid långvarigt bruk gäller däremot MDMA-spåret och får inte utan stöd göras till psilocybinresultat. Samtidigt undersöks psilocybin mot depression och dödsångest hos cancerpatienter, vilket gäller psykiskt lidande, inte bot av cancern.\n\nMin egen framtidsbedömning är därför villkorat positiv. Om fortsatt forskning visar tillräckligt varaktig nytta med hanterbara risker, och vården kan ordna lämpligt stöd och uppföljning, kan avgränsad medicinsk användning bli motiverad. Om nytta eller säkerhet inte håller för bättre prövning talar det för begränsning. KI-delen lämnar också öppet om den psykedeliska upplevelsen behövs för eventuell antidepressiv effekt; att undvika hallucinationer är en önskan som måste skiljas från ett redan visat resultat.\n\nEtiskt tycker jag att behovet av hjälp behöver vägas mot ansvaret att inte överdriva löften till utsatta patienter. Patienten bör få begriplig information om både möjligheter och osäkerheter. Företagens patentintresse kan bidra till utveckling, men en stor marknadsprognos bevisar ingen behandlingsnytta. Jag skulle därför låta kliniska resultat, riskutredning och genomförbarhet avgöra utvecklingen, inte entusiasmen ensam. Filmen anger inga säkra framtida årtal och kan inte visa dagens godkännanden eller vårdpraxis. Det är information som saknas här, och därför ger jag ingen säker prognos om när eller hur vanligt detta blir.",
+      "sectionIds": [
+        "film-introduktion",
+        "film-ptsd-ron",
+        "film-mdma-studie",
+        "film-mdma-mekanism-risk",
+        "film-psilocybin-steve",
+        "film-psilocybin-forsok",
+        "film-psilocybin-hjarna",
+        "film-psilocybin-resultat",
+        "film-metodkritik",
+        "film-kommersiellt",
+        "film-miljo-cancer",
+        "film-ki-psilocybin",
+        "film-osakerhet-framtid",
+        "film-lararfragor"
+      ],
+      "factIds": [
+        "film-introduktion-fact-2",
+        "film-introduktion-fact-3",
+        "film-ptsd-ron-fact-1",
+        "film-mdma-studie-fact-2",
+        "film-mdma-studie-fact-3",
+        "film-mdma-studie-fact-4",
+        "film-mdma-mekanism-risk-fact-3",
+        "film-mdma-mekanism-risk-fact-4",
+        "film-mdma-mekanism-risk-fact-5",
+        "film-psilocybin-steve-fact-1",
+        "film-psilocybin-steve-fact-4",
+        "film-psilocybin-steve-fact-5",
+        "film-psilocybin-steve-fact-6",
+        "film-lararfragor-fact-1",
+        "film-lararfragor-fact-2",
+        "film-psilocybin-forsok-fact-1",
+        "film-psilocybin-forsok-fact-2",
+        "film-psilocybin-forsok-fact-3",
+        "film-psilocybin-forsok-fact-4",
+        "film-psilocybin-forsok-fact-5",
+        "film-psilocybin-hjarna-fact-1",
+        "film-psilocybin-hjarna-fact-2",
+        "film-psilocybin-hjarna-fact-3",
+        "film-psilocybin-hjarna-fact-4",
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-3",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-kommersiellt-fact-1",
+        "film-kommersiellt-fact-2",
+        "film-kommersiellt-fact-4",
+        "film-miljo-cancer-fact-4",
+        "film-ki-psilocybin-fact-4",
+        "film-ki-psilocybin-fact-5",
+        "film-osakerhet-framtid-fact-1",
+        "film-osakerhet-framtid-fact-2",
+        "film-osakerhet-framtid-fact-3"
+      ],
+      "keyPoints": [
+        "Sammanfattar filmens faktiska förlopp med Ron och Steve",
+        "Skiljer MDMA/PTSD från psilocybin/depression",
+        "Tolkar 30/60 som andelar och avgränsar uppföljning",
+        "Förklarar hjärnmodell, blindningsproblem och riskuppgifter",
+        "Väger patientbehov, stöd och kommersiellt intresse",
+        "Ger en egen villkorad prognos med tydliga kunskapsluckor"
+      ],
+      "criteria": [
+        "Besvarar både vad filmen visar och framtidsdelen",
+        "Binder ihop konkreta filmuppgifter med deras betydelse",
+        "Skiljer patientfall, gruppresultat, mekanismmodell och åsikt",
+        "Bemöter både överdriven entusiasm och överdriven säkerhet i avvisande",
+        "Anger vad som skulle ändra slutsatsen och skiljer 2022 från dagens läge"
+      ],
+      "analysis": [
+        {
+          "label": "Källuppgift → betydelse",
+          "text": "Filmens förlopp och försök beskrivs före analysen av vad deras olika belägg kan stödja."
+        },
+        {
+          "label": "Argument → motargument",
+          "text": "Behov och lovande förbättring vägs mot blindning, säkerhetshändelser och stödbehov."
+        },
+        {
+          "label": "Egen slutsats → villkor",
+          "text": "Prognosen görs beroende av varaktig nytta, hanterbara risker och genomförbar vård; inga senare resultat antas."
+        }
+      ],
+      "sourceNote": "Enbart dokumentärens lokala VTT, inbrända intervjutext återgiven i OCR och angivna filmankare. Tidsläge 2022. Den egna etiska bedömningen och framtidsprognosen är resonemang utifrån filmuppgifterna.",
+      "uncertainties": [
+        "Dokumentären ger inte dagens godkännanden, vårdpraxis eller senare studieresultat.",
+        "Det saknas fullständig gruppuppföljning över lång tid och ett säkert mått på förväntningarnas respektive substansens bidrag.",
+        "Det är öppet i filmen om den psykedeliska upplevelsen behövs för eventuell antidepressiv nytta."
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "film",
+          "time": "00:03:05",
+          "end": "00:17:32",
+          "label": "Ron och MDMA/PTSD: behov, försök, resultat och risker"
+        },
+        {
+          "kind": "film",
+          "time": "00:18:46",
+          "end": "00:19:12",
+          "label": "Psilocybin och depression"
+        },
+        {
+          "kind": "film",
+          "time": "00:23:15",
+          "end": "00:24:04",
+          "label": "Brittiska försöket och stödet"
+        },
+        {
+          "kind": "film",
+          "time": "00:24:20",
+          "end": "00:30:08",
+          "label": "Steves upplevelser och hjärnmodellen"
+        },
+        {
+          "kind": "film",
+          "time": "00:30:35",
+          "end": "00:30:55",
+          "label": "30/60 och det lilla försöket"
+        },
+        {
+          "kind": "film",
+          "time": "00:32:42",
+          "end": "00:33:28",
+          "label": "Steves personliga uppföljning"
+        },
+        {
+          "kind": "film",
+          "time": "00:34:48",
+          "end": "00:35:24",
+          "label": "Kritik av blindning och placebo"
+        },
+        {
+          "kind": "film",
+          "time": "00:37:25",
+          "end": "00:39:42",
+          "label": "Marknadsintresse, större studie och tre självmordsförsök"
+        },
+        {
+          "kind": "film",
+          "time": "00:45:51",
+          "end": "00:46:00",
+          "label": "Depression och dödsångest hos cancerpatienter"
+        },
+        {
+          "kind": "film",
+          "time": "00:49:05",
+          "end": "00:49:51",
+          "label": "Öppen fråga om den akuta upplevelsen"
+        },
+        {
+          "kind": "film",
+          "time": "00:54:14",
+          "end": "00:54:49",
+          "label": "Preliminärt läge och oro för självförsök"
+        },
+        {
+          "kind": "film",
+          "time": "00:58:03",
+          "end": "00:58:23",
+          "label": "Framtidsfrågan lämnas öppen"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "MDMA/PTSD och psilocybin/depression är filmens skilda huvudspår.",
+          "support": "Filmen 00:03:30–00:03:35 · MDMA/PTSD; Filmen 00:18:46–00:19:12 · Psilocybin/depression"
+        },
+        {
+          "kind": "source",
+          "statement": "Ron har otillräcklig tidigare behandling, deltar i MDMA-studie med stöd och har både förbättring och svårigheter efter avslut.",
+          "support": "Filmen 00:06:26–00:06:46 · Tidigare vård; Filmen 00:10:23–00:11:04 · Upplägg och två tredjedelar; Filmen 00:15:02–00:15:02 · Tvåårsuppgift; Filmen 00:17:01–00:17:06 · Självmordstankar efter terapiavslut"
+        },
+        {
+          "kind": "source",
+          "statement": "Steve beskriver färger/ljud/ego, en mörk andra session och senare förbättring.",
+          "support": "Filmen 00:24:20–00:26:04 · Inbränd intervjutext; Filmen 00:29:28–00:30:08 · Andra sessionen; Filmen 00:32:42–00:33:28 · Individuell uppföljning"
+        },
+        {
+          "kind": "source",
+          "statement": "Nästan sextio deltagare; sex veckors antidepressiva mot två stora psilocybindoser; terapeuter och samtal i båda grupper.",
+          "support": "Filmen 00:23:15–00:23:45 · VTT: studieupplägg"
+        },
+        {
+          "kind": "source",
+          "statement": "Nästan 30% respektive 60% av deltagarna uppges ha minskade depressionssymtom; försöket är litet.",
+          "support": "Filmen 00:30:35–00:30:55 · VTT: andelar och reservation"
+        },
+        {
+          "kind": "source",
+          "statement": "Aktivitet i kontrollcentrum, friare kommunikation och snökuleliknelse är filmens förenklade hjärnförklaring.",
+          "support": "Filmen 00:26:15–00:28:54 · VTT: magnetkamera och modell"
+        },
+        {
+          "kind": "source",
+          "statement": "Tydlig påverkan kan röja grupp; placeboandel är enligt kritikern okänd.",
+          "support": "Filmen 00:23:51–00:24:04 · Märkbar påverkan; Filmen 00:34:48–00:35:24 · Inbränd metodkritik"
+        },
+        {
+          "kind": "source",
+          "statement": "Tre självmordsförsök ska utredas; orsak fastslås inte. Långvariga hjärt/minnesrisker gäller MDMA; psykos nämns vid självförsök.",
+          "support": "Filmen 00:39:19–00:39:42 · Psilocybin: misstänkta allvarliga biverkningar; Filmen 00:12:34–00:12:40 · Långvarigt MDMA-bruk; Filmen 00:54:32–00:54:49 · Självförsök"
+        },
+        {
+          "kind": "source",
+          "statement": "Cancerforskningen gäller depression och dödsångest; KI-frågan om upplevelsens nödvändighet är öppen.",
+          "support": "Filmen 00:45:51–00:46:00 · Psykiskt lidande vid cancer; Filmen 00:49:05–00:49:51 · Öppen forskningsfråga"
+        },
+        {
+          "kind": "source",
+          "statement": "Patent- och marknadsintresse förekommer och stora löften lämnas oprövade i slutet.",
+          "support": "Filmen 00:37:25–00:37:33 · Marknad och patent; Filmen 00:58:23–00:58:23 · Återstår att se"
+        },
+        {
+          "kind": "inference",
+          "statement": "Villkorad framtidsbedömning, information till patienten och krav på underlag är egna slutsatser från de redovisade möjligheterna och osäkerheterna.",
+          "support": "Filmen 00:30:35–00:30:55 · Lovande men litet försök; Filmen 00:39:19–00:39:42 · Riskutredning; Filmen 00:54:14–00:54:49 · Preliminärt läge"
+        }
+      ],
+      "wordCount": 639,
+      "sourceFactIdsVerified": true,
+      "collection": "exam-bank",
+      "provenance": "reported",
+      "revision": 1,
+      "topicId": "film-behandlingsjamforelse",
+      "ordinal": 4
+    },
+    {
+      "id": "reported-om-svampar-forsvann",
+      "question": "Vad skulle hända om svampar försvann?",
+      "answer": "Jag tolkar frågan som ett tankeexperiment där alla egentliga svampar försvinner, även deras mycel och de svampdelar som ingår i samarbeten. Det handlar alltså om mer än att de synliga fruktkropparna tas bort. Källfakta är att svampar deltar i nedbrytning, mykorrhiza, lavar, parasitism och flera av människans verksamheter. De följande konsekvenserna är resonemang utifrån dessa roller, inte något försök eller framtidsförlopp som materialet visar. [Boken s. 266–268.]\n\nDirekta följder vore att svamparnas nedbrytande arbete upphörde och deras samarbeten förlorade svamppartnern. Boken beskriver hur enzymer bryter ner organiskt material och hur ett nedfallet träd kan omvandlas till mull på några år. Min slutsats är att just denna väg för omsättning av död ved skulle försvinna. Dött material skulle inte längre bearbetas av svamparna på det beskrivna sättet, vilket ger skäl att vänta sig förändringar i hur material ansamlas och omvandlas. PowerPointen anger dessutom bakterier tillsammans med svampar som betydelsefulla nedbrytare. Det vore därför obelagt att slå fast att all nedbrytning eller alla näringskretslopp stannar helt. Materialet visar inte i vilken omfattning bakteriernas arbete skulle kunna kompensera, och de exakta följderna för mineralernas omsättning kan inte beräknas. [Boken s. 266 och 268; PowerPoint bild 32.]\n\nMykorrhizan ger en annan orsakskedja. Svampens stora hyfnätverk ökar växtens kontaktyta mot marken och förser växten med fosfater och andra mineraler i utbyte mot kolhydrater. De flesta växter anges bilda mykorrhiza och växa snabbare när samarbetet etablerats. Utan svampen försvinner alltså denna hjälp till mineralupptaget. Där mineraler begränsar biomassan kan försämrad försörjning i sin tur begränsa växternas tillväxt. Minskad avkastning i åkrar och skogar är därför en välgrundad möjlig konsekvens. Det följer däremot inte av uppgifterna att alla växter genast dör. [Boken s. 267–268.]\n\nÄven lavar skulle förlora sin svamppartner. I laven håller hyfnätverket kvar vatten och hjälper den fotosyntetiserande partnern med mineraler. Hyferna bidrar också till vittring, medan laven tillför organiskt material som kan blandas med stenmaterial till jord. Min slutsats är att både det beskrivna samarbetet och dess bidrag till att andra livsformer etableras på kala ytor skulle påverkas. Hur snabbt andra förlopp skulle kunna kompensera saknas underlag för. [Boken s. 268.]\n\nAlla direkta följder skulle inte vara negativa ur samma perspektiv. Svampar som orsakar växtsjukdomar, till exempel honungsskivlingarna med sina rotangrepp, skulle inte längre kunna angripa växter. Det betyder inte att redan uppkomna skador genast skulle försvinna. Det kan gynna växter som annars skadas, samtidigt som mykorrhizans hjälp försvinner. Nettoeffekten för en viss växt går därför inte att avgöra enbart genom att räkna fördelar och nackdelar. För människor skulle användningen av levande jäst vid bakning och jäsning, mögel vid osttillverkning och svampar som källor till läkemedel och industrienzymer påverkas. Materialet säger däremot inte hur befintliga lager eller andra tillverkningssätt skulle påverkas. [Boken s. 267–268.]\n\nIndirekta följder kan resoneras fram stegvis: om mineralupptaget försämras kan växttillväxten minska, vilket kan förändra mängden växtmaterial och därmed förutsättningarna för andra organismer. Detta är min villkorade slutsats från källans resursutbyte och tillväxtsamband, inte en beskriven näringsväv. Osäkra långtidseffekter är hur den biologiska mångfalden och hela ekosystemets sammansättning skulle förändras. Materialet ger varken en fullständig näringsväv eller storleks- och tidsuppgifter för en sådan omställning. Min slutsats är därför att förlusten samtidigt skulle förändra två viktiga delar av ekosystemens funktion: svamparnas omsättning av organiskt material och deras hjälp till växters mineralupptag. Dessa led är väl förankrade i materialet; ett detaljerat scenario om alla arters framtid går längre än vad källorna kan visa.",
+      "sectionIds": [
+        "naringsstrategi",
+        "hyfer-mycel",
+        "mykorrhiza-parasitism",
+        "ekosystem",
+        "lavar",
+        "manniskans-tjanst",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "factIds": [
+        "naringsstrategi-f03",
+        "naringsstrategi-f04",
+        "naringsstrategi-f05",
+        "naringsstrategi-f06",
+        "hyfer-mycel-f11",
+        "mykorrhiza-parasitism-f03",
+        "mykorrhiza-parasitism-f06",
+        "mykorrhiza-parasitism-f07",
+        "mykorrhiza-parasitism-f09",
+        "mykorrhiza-parasitism-f10",
+        "mykorrhiza-parasitism-f11",
+        "ekosystem-f01",
+        "ekosystem-f05",
+        "ekosystem-f06",
+        "ekosystem-f09",
+        "lavar-f02",
+        "lavar-f06",
+        "lavar-f07",
+        "lavar-f09",
+        "lavar-f10",
+        "lavar-f11",
+        "manniskans-tjanst-f01",
+        "manniskans-tjanst-f02",
+        "manniskans-tjanst-f03",
+        "manniskans-tjanst-f07",
+        "manniskans-tjanst-f10",
+        "ppt-tillvaxt-nedbrytning-f01"
+      ],
+      "keyPoints": [
+        "Alla egentliga svampar inklusive mycel avses i tankeexperimentet",
+        "Svamparnas nedbrytning och mykorrhizans mineralutbyte försvinner",
+        "Lavar och deras bidrag till jordbildning förlorar svamppartnern",
+        "Färre svampskador vägs mot förlorade samarbeten och mänsklig användning",
+        "Långsiktiga följder, fullständiga kretslopp och näringsvävar anges som osäkra"
+      ],
+      "criteria": [
+        "Utgår från minst tre belagda roller och utvecklar deras orsakskedjor",
+        "Skiljer direkt bortfall av funktion från indirekt möjlig konsekvens",
+        "Kopplar mineralupptag till begränsande resurser, växttillväxt och avkastning",
+        "Nyanserar med försvunnen parasitism utan att ge en obelagd nettoeffekt",
+        "Undviker att påstå att all nedbrytning stannar eller att alla växter dör och anger saknad information"
+      ],
+      "analysis": [
+        {
+          "label": "Direkt och indirekt",
+          "text": "Svampens mineraltransport försvinner direkt; ändrad växttillväxt är nästa möjliga led och följder för andra organismer ytterligare ett."
+        },
+        {
+          "label": "Flera perspektiv",
+          "text": "En växt kan samtidigt förlora en skadlig parasit och en nyttig svamppartner. Källan ger inte siffror för att väga ihop detta."
+        },
+        {
+          "label": "Gräns för prognosen",
+          "text": "En välgrundad riktning på en orsakskedja är inte samma sak som en bestämd tidsplan eller ett fullständigt ekosystemutfall."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "book",
+          "page": 267,
+          "label": "Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        },
+        {
+          "kind": "book",
+          "page": 268,
+          "label": "Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "ppt",
+          "page": 32,
+          "label": "PowerPoint bild 32: svampar och bakterier som nedbrytare"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Svampar bryter ner organiskt material med enzymer och kan omvandla en nedfallen stam till mull.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Även bakterier anges som betydelsefulla nedbrytare; materialet anger inte deras möjliga kompensation om svampar försvann.",
+          "support": "PowerPoint bild 32 · PowerPoint bild 32: svampar och bakterier som nedbrytare"
+        },
+        {
+          "kind": "inference",
+          "statement": "Svamparnas specifika nedbrytningsväg bortfaller; exakt kvarvarande nedbrytning är inte beskriven.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning; PowerPoint bild 32 · PowerPoint bild 32: svampar och bakterier som nedbrytare"
+        },
+        {
+          "kind": "source",
+          "statement": "Mineralutbyte, stor markkontaktyta, de flesta växters mykorrhiza och betydelsen för avkastning.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "inference",
+          "statement": "Förlorat mykorrhizautbyte kan begränsa växttillväxt där mineraler begränsar biomassa.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Lavens parter, vatten/mineraler, vittring, organiskt material och jordbildning.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Honungsskivlingars skador, växtsjukdomar samt livsmedels-, läkemedels- och enzymanvändning.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "limitation",
+          "statement": "Nettoeffekt för en viss växt, fullständig näringsväv och tidsplan kan inte bestämmas.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "inference",
+          "statement": "Sämre mineralupptag → möjlig minskad växttillväxt → förändrad mängd växtmaterial → möjliga följder för andra organismer är en villkorad orsakskedja, inga ytterligare art- eller näringsvävsfakta.",
+          "support": "Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        }
+      ],
+      "uncertainties": [
+        "Exakt mineraliseringskemi, övriga nedbrytningsvägars kapacitet och ett fullständigt kretslopp saknas.",
+        "Fullständiga näringsvävar, tidsförlopp och kvantitativa följder för biologisk mångfald saknas.",
+        "Fördelningen av olika svamprelationer hos en bestämd växt samt alternativa tillverkningssätt är inte beskriven."
+      ],
+      "answerGuide": [],
+      "sourceNote": "Källfakta från Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267: tillväxt, mykorrhiza och parasitism; Boken s. 268: ekosystem, lavar och människans användning; PowerPoint bild 32: svampar och bakterier som nedbrytare. Stycken som anges som slutsats eller resonemang tillämpar dessa uppgifter; de tillför inga externa faktauppgifter.",
+      "collection": "exam-bank",
+      "provenance": "reported",
+      "revision": 1,
+      "topicId": "ekologiska-relationer",
+      "ordinal": 5
+    },
+    {
+      "id": "practice-lav-samarbete-jordbildning",
+      "question": "Förklara hur lavens byggnad gör samarbetet möjligt och hur laven kan förändra en kal klippa till en miljö där andra livsformer lättare etableras. Skilj det materialet beskriver från en säker framtidsprognos.",
+      "answer": "En lav är ett samarbete mellan svamp och encelliga alger eller fotosyntetiserande bakterier. Den kan alltså inte beskrivas som en ensam svamp som har börjat utföra fotosyntes. Bokens bild visar alger inne i ett nätverk av svamphyfer. Nätverket är glesare i lavens inre än på ytan, och de fotosyntetiserande organismerna ligger inuti det. Algerna bidrar med energirika kolhydrater. Svampen fångar och håller kvar vatten och hjälper partnern att få viktiga mineraler. [Boken s. 268.]\n\nDetta kan kopplas till svampens egen näringsstrategi. Svampen saknar kloroplaster och utför ingen fotosyntes, men är heterotrof. Min slutsats är att samarbetet förenar olika förmågor: svampen kan få organiska ämnen från partnern, samtidigt som dess nätverk bidrar till vatten- och mineralförsörjning. Att partnern finns inne i nätverket är därför en del av hur resurserna kan hållas samman i laven. Det är fortfarande partnerns fotosyntes, inte en ny förmåga hos svampcellerna. [Boken s. 266 och 268.]\n\nSamarbetet får också betydelse utanför själva laven. Boken beskriver lavar som några av de första livsformerna på kal klippa eller kal mark. Svampens hyfer kan växa in i mikroskopiska sprickor och hjälpa klippan eller stenen att vittra. Samtidigt bidrar laven med organiskt material. När stenmaterial blandas med detta organiska material bildas jord. Därigenom banas väg för att andra livsformer kan etableras. Förklaringen är en kedja mellan byggnad, process och konsekvens: tunna hyfer i sprickor bidrar till vittring, materialen blandas och underlaget förändras. [Boken s. 268.]\n\nMin bedömning är därför att laven både utnyttjar en livsmiljö och kan bidra till att förändra den. Däremot ger källan inga hastigheter för vittring eller jordbildning och ingen bestämd följd av senare arter. Man kan därför förklara varför etablering underlättas utan att hävda att varje lavklädd sten säkert utvecklas till en viss vegetation inom en viss tid.",
+      "sectionIds": [
+        "lavar",
+        "cellbyggnad",
+        "naringsstrategi"
+      ],
+      "factIds": [
+        "lavar-f02",
+        "lavar-f03",
+        "lavar-f04",
+        "lavar-f05",
+        "lavar-f06",
+        "lavar-f07",
+        "lavar-f08",
+        "lavar-f09",
+        "lavar-f10",
+        "lavar-f11",
+        "cellbyggnad-f03",
+        "naringsstrategi-f01"
+      ],
+      "keyPoints": [
+        "Lavens två parter och deras skilda bidrag",
+        "Alg/bakterie inne i hyfnätverk; tätare nätverk på ytan",
+        "Heterotrof svamp får tillgång till partnerns kolhydrater",
+        "Hyfer i sprickor → vittring och organiskt material → jord → lättare etablering",
+        "Ingen given tidsplan eller framtida artsammansättning"
+      ],
+      "criteria": [
+        "Beskriver både byggnad och utbyte",
+        "Förklarar varför svamppartnern fortfarande är heterotrof",
+        "Utvecklar hela kedjan till ändrat underlag för andra livsformer",
+        "Använder symbios, hyfer, fotosyntes och organiskt material i rätt samband",
+        "Skiljer källans processbeskrivning från en obelagd exakt prognos"
+      ],
+      "analysis": [
+        {
+          "label": "Byggnad och resurser",
+          "text": "Beskriv var parterna finns och vad var och en bidrar med innan du förklarar nyttan."
+        },
+        {
+          "label": "Skalbyte",
+          "text": "Gå från samarbetet inne i laven till lavens påverkan på underlaget utanför den."
+        },
+        {
+          "label": "Källgräns",
+          "text": "Källan ger en processförklaring men inga exakta hastigheter eller säkra senare artföljder."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "book",
+          "page": 268,
+          "label": "Boken s. 268: ekosystem, lavar och människans användning"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Lavens parter, nätverkets täthet, inre alger, kolhydrater, vatten och mineraler.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Svampen heterotrof utan kloroplaster/fotosyntes.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "inference",
+          "statement": "Kolhydratutbytet låter olika förmågor komplettera varandra utan ny fotosyntes i svampcellen.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Tidig kolonisation, hyfer i sprickor, vittring, organiskt material, jord och senare etablering.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "limitation",
+          "statement": "Ingen bestämd tidsplan eller senare artsammansättning anges.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        }
+      ],
+      "uncertainties": [
+        "Källan ger inga exakta tider och inget komplett förlopp för vilka arter som etableras efter laven."
+      ],
+      "answerGuide": [],
+      "sourceNote": "Källfakta från Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 268: ekosystem, lavar och människans användning. Stycken som anges som slutsats eller resonemang tillämpar dessa uppgifter; de tillför inga externa faktauppgifter.",
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "ekologiska-relationer",
+      "ordinal": 6
+    },
+    {
+      "id": "practice-svampnytta-gen-enzym",
+      "question": "Hur kan samma organismgrupp användas i matproduktion, läkemedel och pappersindustri? Förklara sambandet mellan svampars egenskaper och användningarna, och följ gen–cell–enzym-kedjan i bokens exempel.",
+      "answer": "Boken beskriver flera användningar av svampar som kräver att man skiljer mellan organismen och produkter som kan fås från den. Jäst används i brödbakning, ölbryggning och vinjäsning, medan mögelsvampar kan ge särskilda aromer åt ostar. Svampar används alltså inte på ett enda sätt i livsmedelsproduktionen. De här boksidorna anger användningarna men ger ingen fullständig förklaring av alla reaktioner i jäsning eller osttillverkning. [Boken s. 268.]\n\nFrån svampar har man också utvunnit penicillin och andra antibiotika, kolesterolsänkande läkemedel och cyklosporin. Det sistnämnda beskrivs som ett ämne som trycker tillbaka kroppens specifika försvar så att kroppen kan acceptera transplantationer. Sambandet mellan svamp och medicinsk användning behöver därför redovisas med det konkreta ämne och den effekt som materialet faktiskt anger. Av denna lista följer exempelvis inte att alla svampar är läkemedel eller att alla svampämnen har samma verkan. [Boken s. 268.]\n\nPappersindustrins exempel kan förklaras genom en annan egenskap: svampar avger enzymer som bryter ner organiskt material i omgivningen. Många svampars förmåga att bryta ner träd och växter i olika miljöer gör dem därför till källor till användbara enzymer. I boken gäller det ett enzym som bryter ner lignin, ett klisterämne som försämrar papperskvaliteten. Man har hittat enzymets gen i svampar och satt in den i en cell som tillverkar stora mängder enzym. Därefter används enzymet i pappersindustrin. [Boken s. 266 och 268.]\n\nMin slutsats är att genen, produktionscellen och enzymet har olika roller: genen används för att få cellen att producera enzym, medan det är enzymet som används för nedbrytningen. Man behöver alltså inte påstå att hela fruktkroppar odlas i pappersmassan. Boken anger att enzymatiska processer kan ersätta miljöpåfrestande kemiska processer med skonsammare alternativ. Det stöder en möjlig miljöfördel, men är ingen fullständig jämförelse av varje fabriks totala miljöpåverkan. Varken metoddetaljer för genöverföring eller en sådan miljöberäkning finns i avsnittet.",
+      "sectionIds": [
+        "manniskans-tjanst",
+        "naringsstrategi"
+      ],
+      "factIds": [
+        "manniskans-tjanst-f01",
+        "manniskans-tjanst-f02",
+        "manniskans-tjanst-f03",
+        "manniskans-tjanst-f04",
+        "manniskans-tjanst-f05",
+        "manniskans-tjanst-f06",
+        "manniskans-tjanst-f07",
+        "manniskans-tjanst-f08",
+        "manniskans-tjanst-f09",
+        "manniskans-tjanst-f10",
+        "manniskans-tjanst-f11",
+        "manniskans-tjanst-f12",
+        "naringsstrategi-f03"
+      ],
+      "keyPoints": [
+        "Jäst, mögel och läkemedelsexempel används på källans detaljnivå",
+        "Cyklosporins beskrivna effekt kopplas till transplantationer",
+        "Naturlig enzymatisk nedbrytning förklarar industriintresset",
+        "Gen → produktionscell → enzym → ligninnedbrytning hålls åtskilda",
+        "Skonsammare möjlighet är ingen garanti om total miljöpåverkan"
+      ],
+      "criteria": [
+        "Ger konkreta exempel från matproduktion, medicin och industri",
+        "Förklarar vad som används i varje fall: organism eller framställt/utvunnet ämne",
+        "Kopplar näringsstrategin till enzymets möjliga användning",
+        "Håller gen, cell och enzym biologiskt och språkligt åtskilda",
+        "Anger vilka mekanismer och miljödata som saknas i källan"
+      ],
+      "analysis": [
+        {
+          "label": "Olika användningsnivåer",
+          "text": "Jämför att använda levande organismer med att använda ämnen som utvinns eller produceras."
+        },
+        {
+          "label": "Orsakskedja",
+          "text": "Den givna genen sätts i en producerande cell; enzymet som produceras används sedan i industriprocessen."
+        },
+        {
+          "label": "Nyansering",
+          "text": "Flera exempel visar möjligheter, inte att varje art eller varje process har samma användbarhet."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "book",
+          "page": 268,
+          "label": "Boken s. 268: ekosystem, lavar och människans användning"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Jäst och mögel i livsmedel; penicillin, andra antibiotika, kolesterolsänkande ämnen och cyklosporin.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Cyklosporins effekt på kroppens specifika försvar och transplantationer.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "source",
+          "statement": "Yttre enzymatisk nedbrytning av organiskt material.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Ligninexempel, geninförande, cellproduktion, enzym i papperstillverkning och skonsammare processer.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "inference",
+          "statement": "Gen, cell och enzym måste skiljas; exemplen bevisar inte allmän användbarhet hos varje svamp.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        },
+        {
+          "kind": "limitation",
+          "statement": "Genöverföringsmetod och fullständig miljöpåverkan är inte beskrivna.",
+          "support": "Boken s. 268 · Boken s. 268: ekosystem, lavar och människans användning"
+        }
+      ],
+      "uncertainties": [
+        "Boksidan ger ingen fullständig jäsningsmekanism, genöverföringsmetod eller kvantitativ miljöjämförelse."
+      ],
+      "answerGuide": [],
+      "sourceNote": "Källfakta från Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 268: ekosystem, lavar och människans användning. Stycken som anges som slutsats eller resonemang tillämpar dessa uppgifter; de tillför inga externa faktauppgifter.",
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "manniska-bioteknik",
+      "ordinal": 7
+    },
+    {
+      "id": "practice-naring-form-fruktkropp",
+      "question": "Förklara hur svampens näringsupptag, mycelets byggnad och den snabba tillväxten av fruktkroppar hänger ihop. Varför behöver en svamp som plötsligt syns ovan jord inte vara helt nybildad?",
+      "answer": "Förklaringen börjar med näringsstrategin. Svampen är heterotrof och använder organiskt material från andra livsformer. Den avger enzymer som bryter ner levande eller dött material utanför svampens celler. Vid nedbrytningen bildas små molekyler, till exempel enkla sockerarter och aminosyror, som svampen sedan kan ta upp. Svampen måste alltså komma i kontakt med sin omgivning för att utnyttja materialet på detta sätt. [Boken s. 266.]\n\nHos den hyfbildande svampen är de avlånga cellerna ordnade i trådar, hyfer. Förgreningarna bildar ett mycel. Trådarna är bara några mikrometer tjocka, men deras sammanlagda kontaktyta kan vara stor. Bokens exempel är bortåt en kilometer hyftråd med 300 kvadratcentimeters yta i en kubikcentimeter näringsrik jord. Min slutsats är att byggnaden passar näringsstrategin: ett förgrenat nätverk kan möta mycket av materialet som svampen bryter ner och hämtar ämnen ur. [Boken s. 266.]\n\nDet räcker dock inte med stor yta för att förklara hela svampens tillväxt. Cellerna i hyferna är förenade genom stora öppningar, och näringsämnen samt andra cellkomponenter kan transporteras i nätverket. Hyferna växer i sina ändar. Därmed kan ett mycel som täcker ett stort område koncentrera näring och tillväxt till några platser där fruktkroppar snabbt utvecklas. Boken beskriver stora karljohanssvampar som kan växa fram nära varandra på några timmar. Fruktkropparna består i princip av samma slags celler som mycelet och bildas hos vissa arter när temperatur och fuktighet är rätt. [Boken s. 266–267.]\n\nDen snabba synliga förändringen behöver därför inte betyda att hela svampen uppstått lika snabbt. Ett redan utbrett mycel kan ha funnits i marken före fruktkropparnas uppkomst. Detta är en välgrundad alternativ förklaring, inte ett bevis om varje enskild observation. På samma sätt visar senare frånvaro av fruktkroppar inte ensam att det dolda mycelet har dött. För en viss plats behövs fler observationer av nätverket och miljövillkoren för att avgöra vad som faktiskt har hänt.",
+      "sectionIds": [
+        "naringsstrategi",
+        "hyfer-mycel",
+        "fruktkroppar-tillvaxt"
+      ],
+      "factIds": [
+        "naringsstrategi-f01",
+        "naringsstrategi-f03",
+        "naringsstrategi-f04",
+        "naringsstrategi-f05",
+        "naringsstrategi-f06",
+        "hyfer-mycel-f03",
+        "hyfer-mycel-f04",
+        "hyfer-mycel-f05",
+        "hyfer-mycel-f06",
+        "hyfer-mycel-f10",
+        "hyfer-mycel-f11",
+        "hyfer-mycel-f12",
+        "fruktkroppar-tillvaxt-f01",
+        "fruktkroppar-tillvaxt-f03",
+        "fruktkroppar-tillvaxt-f04",
+        "fruktkroppar-tillvaxt-f05",
+        "fruktkroppar-tillvaxt-f06",
+        "fruktkroppar-tillvaxt-f07"
+      ],
+      "keyPoints": [
+        "Yttre enzymatisk nedbrytning föregår upptag",
+        "Hyfernas förgrening och tunnhet ger stor kontaktyta",
+        "Cellerna är sammanbundna så att resurser kan transporteras",
+        "Ändtillväxt och koncentrerade resurser förklarar snabb fruktkroppsbildning",
+        "Synlig fruktkropp och hela mycelets existens är olika observationsnivåer"
+      ],
+      "criteria": [
+        "Bygger en sammanhängande förklaring från näringskälla till tillväxt",
+        "Kopplar kontaktytan till den yttre nedbrytningen och upptaget",
+        "Använder transport och ändtillväxt för att förklara koncentration av tillväxt",
+        "Skiljer fruktkropp från det utbredda mycelet",
+        "Anger lämpliga miljövillkor och begränsar vad en observation ovan jord bevisar"
+      ],
+      "analysis": [
+        {
+          "label": "Flera led",
+          "text": "Organiskt material → enzymer → små molekyler → upptag → transport → koncentrerad tillväxt."
+        },
+        {
+          "label": "Byggnadens betydelse",
+          "text": "Tunna förgreningar och öppningar mellan celler löser olika delar av svampens behov."
+        },
+        {
+          "label": "Observation och slutsats",
+          "text": "Plötsligt synlig är inte samma sak som helt ny; osynlig är inte samma sak som död."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "book",
+          "page": 266,
+          "label": "Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "book",
+          "page": 267,
+          "label": "Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Näringsstrategi med enzymer, levande/dött material, små molekyler och upptag.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Hyfer, mycel, stor kontaktyta, mikrometertjocklek och bokens numeriska exempel.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "source",
+          "statement": "Transport via öppningar, ändtillväxt och koncentrerad fruktkroppstillväxt.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        },
+        {
+          "kind": "source",
+          "statement": "Fruktkroppsbildningens temperatur/fukt och samma celltyp som mycelet.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer"
+        },
+        {
+          "kind": "inference",
+          "statement": "Synlig tillväxt behöver inte betyda nybildat mycel; frånvaro bevisar inte död.",
+          "support": "Boken s. 266 · Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267 · Boken s. 267: tillväxt, mykorrhiza och parasitism"
+        }
+      ],
+      "uncertainties": [
+        "Det hypotetiska observationsfallet ger inga direkta mätningar av det dolda mycelet eller dess överlevnad."
+      ],
+      "answerGuide": [],
+      "sourceNote": "Källfakta från Boken s. 266: näringsstrategi, cellbyggnad och hyfer; Boken s. 267: tillväxt, mykorrhiza och parasitism. Stycken som anges som slutsats eller resonemang tillämpar dessa uppgifter; de tillför inga externa faktauppgifter.",
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "struktur-naring",
+      "ordinal": 8
+    },
+    {
+      "id": "exam-practice-systematik",
+      "category": "practice",
+      "primarySourceKind": "ppt",
+      "question": "Förklara hur cellbyggnad, cellantal, systematisk nivå och levnadssätt ger olika slags kunskap om en svamp. Använd presentationens hierarki och konkreta exempel.",
+      "answer": "Cellbyggnad, cellantal och grupptillhörighet besvarar olika frågor. Sida 3 beskriver en eukaryot som en organism med en eller flera celler där arvsmassan finns i en avgränsad cellkärna. Sida 31 säger att svampar är eukaryoter men kan vara encelliga, som jäst, eller flercelliga med hyfer. Min slutsats är att encelligt inte betyder bakterie och att flercelligt inte ensamt gör något till en svamp. Antal celler och hur cellerna är byggda måste bedömas var för sig.\n\nSystematiken ordnar i sin tur grupper. I presentationens klassiska rikesschema ingår svampar bland eukaryoter tillsammans med protister, växter och djur. Sida 5 visar de namngivna nivåerna domän, rike, stam, klass, ordning, familj, släkte och art. Figuren visar grupper inuti större grupper, så en art och ett rike är inte utbytbara beteckningar. Liv står som en samlande basetikett, och antalet ritade symboler ger inget verkligt artantal.\n\nÄven gruppnamn behöver kopplas till den uppgift som källan faktiskt ger. Sidorna 20 och 27 jämför basidier med sporsäckar genom var sporerna finns. Sida 16 har däremot kräftpest och mögel på bröd under rubriken Algsvampar utan mer detaljerad taxonomi. Jag återger den rubriken som lärarens modell och lägger inte till artnamn eller senare placeringar som saknas i materialet.\n\nLevnadssättet är ytterligare en dimension. Sida 36 beskriver parasiter som tar näring från levande organismer som skadas, nedbrytare som tar näring från döda delar samt mykorrhiza med ett ömsesidigt resursutbyte. Fruktmögel på sida 25 är samtidigt exempel bland sporsäckssvampar och parasiter. Det visar direkt att sporgrupp och näringsrelation kan beskriva samma organism samtidigt.\n\nEtt utvecklat svar börjar därför med vilken sorts fråga som ställs. Jag anger celltyp och cellantal för uppbyggnaden, hierarki och källans sporstruktur för gruppbeskrivningen och relationen till andra organismer för ekologin. Slutsatsen är att dessa perspektiv kompletterar varandra, medan ett enda yttre drag eller namn inte ersätter alla de andra uppgifterna.",
+      "sectionIds": [
+        "ppt-systematik",
+        "ppt-svampgrupper",
+        "ppt-sporsackssvampar",
+        "ppt-parasitism"
+      ],
+      "factIds": [
+        "ppt-systematik-f08",
+        "ppt-systematik-f09",
+        "ppt-systematik-f11",
+        "ppt-systematik-f13",
+        "ppt-svampgrupper-f03",
+        "ppt-parasitism-f10"
+      ],
+      "keyPoints": [
+        "Cellantal och celltyp skiljs",
+        "Domän till art i källans ordning",
+        "Grupp och levnadssätt kan kombineras",
+        "Fruktmögel ger ett konkret dubbelt exempel",
+        "Klassisk modell återges utan nya placeringar"
+      ],
+      "criteria": [
+        "Förklarar minst tre olika indelningsgrunder",
+        "Använder jäst och fruktmögel för att pröva begreppen",
+        "Kopplar exemplen till källans formuleringar",
+        "Drar en motiverad slutsats om varför nivåer inte är utbytbara",
+        "Anger gränsen för senare taxonomi"
+      ],
+      "analysis": [
+        {
+          "label": "Ordning",
+          "text": "Celltyp/cellantal → hierarki → sporstruktur → näringsrelation."
+        },
+        {
+          "label": "Jämförelse",
+          "text": "En organism kan samtidigt vara eukaryot, encellig och beskrivas med ett levnadssätt."
+        },
+        {
+          "label": "Belägg",
+          "text": "Fruktmöglet visar direkt att gruppnamn och parasitism inte utesluter varandra."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "ppt",
+          "page": 3,
+          "label": "Eukaryot och antal celler"
+        },
+        {
+          "kind": "ppt",
+          "page": 5,
+          "label": "Hierarkin"
+        },
+        {
+          "kind": "ppt",
+          "page": 16,
+          "label": "Källans algsvampsexempel"
+        },
+        {
+          "kind": "ppt",
+          "page": 25,
+          "label": "Fruktmögel i sporsäcksgruppen"
+        },
+        {
+          "kind": "ppt",
+          "page": 31,
+          "label": "Jäst och flercelliga former"
+        },
+        {
+          "kind": "ppt",
+          "page": 36,
+          "label": "Tre näringsrelationer"
+        },
+        {
+          "kind": "ppt",
+          "page": 4,
+          "label": "Klassiska riken"
+        },
+        {
+          "kind": "ppt",
+          "page": 20,
+          "label": "Basidier som gruppdrag"
+        },
+        {
+          "kind": "ppt",
+          "page": 27,
+          "label": "Sporer i sporsäckar"
+        }
+      ],
+      "sourceNote": "Endast de angivna originalsidorna i läroboken och PowerPointen används. Stycken märkta som min slutsats eller jämförelse är resonemang utifrån dessa uppgifter.",
+      "uncertainties": [
+        "Presentationens klassiska gruppnamn ger inte en fullständig senare taxonomi."
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Eukaryot kan vara en- eller flercellig",
+          "support": "PPT3,31"
+        },
+        {
+          "kind": "source",
+          "statement": "Ordningen domän till art",
+          "support": "PPT4–5"
+        },
+        {
+          "kind": "inference",
+          "statement": "Fruktmögel kan beskrivas med grupp och parasitism samtidigt",
+          "support": "PPT25,36"
+        },
+        {
+          "kind": "inference",
+          "statement": "Perspektiven kompletterar varandra",
+          "support": "Samband mellan föregående uppgifter"
+        }
+      ],
+      "wordCount": 301,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "systematik-grupper",
+      "ordinal": 9
+    },
+    {
+      "id": "exam-practice-fruktkropp-spor",
+      "category": "practice",
+      "primarySourceKind": "ppt",
+      "question": "Hur hänger svampens synliga fruktkropp ihop med de små strukturer där sporer bildas? Jämför basidiesvampar och sporsäckssvampar och bedöm vad olika bilder kan visa.",
+      "answer": "Sida 31 beskriver hur avlånga svampceller bildar hyfer och hur deras nätverk kallas mycel. Fruktkroppar kan växa ut från nätverket när temperatur och fukt är lämpliga. I figurerna på sidorna 28–30 skiljs därför den synliga hatten och foten från mycelet under marken. Bilden förstorar också hyfer och den klubbformade cell som kallas basidie. Redan där måste man skilja mellan hel fruktkropp, en tråd och en liten sporbildande struktur.\n\nFör basidiesvampar förklarar sida 20 sambandet med undersidans form. Många basidier får plats på skivor, taggar och i rör. En mogen basidie beskrivs med fyra skaft som bär varsin spor. Sida 39 förstorar samma nivå och visar sporer på utskott utanför basidiet. Min slutsats är att den stora synliga ytan och den lilla cellen har olika roller i beskrivningen: ytan ger plats åt många basidier, medan sporerna knyts till var och en av dessa strukturer.\n\nSporsäckssvamparnas motsvarande uppgift ser annorlunda ut. Sida 27 har en skålsvamp med en linje till en förstoring av sporsäckar, där sporerna finns inuti. Källan nämner också murklor, äkta tryfflar, jäst- och mögelsvampar som exempel i gruppen. Den jämförelse som materialet stödjer är alltså inuti en sporsäck mot på utskott utanpå ett basidium. Hela skålen eller en grop på en hatt är inte samma observationsnivå som de förstorade strukturerna.\n\nFotografiernas utsnitt begränsar vad man kan bedöma. Stensoppsbilden på sida 21 visar tydlig hatt och fot men inte rören under hatten. Fruktmögelfotot på sida 25 har ingen märkt förstoring av sporsäckar. Jag kan därför inte påstå att dessa bilder visar själva sporernas bildningssätt lika tydligt som diagrammen.\n\nEtt välgrundat svar kombinerar således form, funktion och bildens skala. Det väljer en undersidesvy för ytan och en märkt förstoring för sporerna. Slutsatser om exakt art, ett annat reproduktionsstadium eller ätlighet följer inte automatiskt av att en hatt eller ett mögel syns.",
+      "sectionIds": [
+        "ppt-anatomi",
+        "ppt-basidiesvampar",
+        "ppt-sporsackssvampar",
+        "ppt-tillvaxt-nedbrytning"
+      ],
+      "factIds": [
+        "ppt-anatomi-f01",
+        "ppt-anatomi-f03",
+        "ppt-basidiesvampar-f02",
+        "ppt-basidiesvampar-f05",
+        "ppt-basidiesvampar-f14",
+        "ppt-sporsackssvampar-f01",
+        "ppt-sporsackssvampar-f05"
+      ],
+      "keyPoints": [
+        "Mycel och fruktkropp skiljs",
+        "Skivor/rör/taggar ger plats för många basidier",
+        "Utvändig respektive invändig sporplacering jämförs",
+        "Makrofoto och förstoring ger olika information",
+        "Slutsatser begränsas till det som faktiskt visas"
+      ],
+      "criteria": [
+        "Följer sambandet mellan minst tre storleksnivåer",
+        "Förklarar varför undersidans yta är relevant",
+        "Jämför de två sporstrukturerna korrekt",
+        "Använder två konkreta bildbegränsningar",
+        "Anger vad som inte går att artbestämma eller avgöra"
+      ],
+      "analysis": [
+        {
+          "label": "Struktur och funktion",
+          "text": "Många små sporbildande strukturer kan rymmas på en större uppdelad yta."
+        },
+        {
+          "label": "Skala",
+          "text": "Hel fruktkropp, yta, sporbildande cell och spor är olika observationsnivåer."
+        },
+        {
+          "label": "Källkritik",
+          "text": "Ett fotoutsnitt visar inte automatiskt det biologiska drag som bildtexten beskriver."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "ppt",
+          "page": 20,
+          "label": "Basidier och ytor"
+        },
+        {
+          "kind": "ppt",
+          "page": 21,
+          "label": "Stensopp utan tydligt synliga rör"
+        },
+        {
+          "kind": "ppt",
+          "page": 27,
+          "label": "Skålsvamp och sporsäckar"
+        },
+        {
+          "kind": "ppt",
+          "page": 28,
+          "label": "Hyf och basidie"
+        },
+        {
+          "kind": "ppt",
+          "page": 31,
+          "label": "Mycel och fruktkropp"
+        },
+        {
+          "kind": "ppt",
+          "page": 39,
+          "label": "Basidiets utskott"
+        },
+        {
+          "kind": "ppt",
+          "page": 25,
+          "label": "Fruktmögelfoto och dess gräns"
+        }
+      ],
+      "sourceNote": "Endast de angivna originalsidorna i läroboken och PowerPointen används. Stycken märkta som min slutsats eller jämförelse är resonemang utifrån dessa uppgifter.",
+      "uncertainties": [
+        "Fyra sporer är det visade basidieexemplet; generella variationsmönster redovisas inte.",
+        "Fruktmögelfotot visar inte ett säkert reproduktionsstadium."
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Mycel är nätverk av hyfer och fruktkropp växer ut",
+          "support": "PPT31"
+        },
+        {
+          "kind": "source",
+          "statement": "Skivor/taggar/rör rymmer många basidier",
+          "support": "PPT20"
+        },
+        {
+          "kind": "inference",
+          "statement": "Sporer utanpå basidie jämfört med inuti sporsäck",
+          "support": "PPT20,27,39"
+        },
+        {
+          "kind": "inference",
+          "statement": "Översidesfoto ger inte det dolda undersidesdraget",
+          "support": "PPT21 och synligt bildutsnitt"
+        }
+      ],
+      "wordCount": 300,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "fruktkropp-sporbildning",
+      "ordinal": 10
+    },
+    {
+      "id": "exam-practice-basidiecykel",
+      "category": "practice",
+      "primarySourceKind": "ppt",
+      "question": "Förklara den sexuella basidiesvampcykeln från spor till nya sporer. Varför måste mycelförening, tillväxt, kärnsammanslagning och meios hållas isär?",
+      "answer": "Jag utgår från livscykeldiagrammet på sida 39 och jämför det med bokens kärnförklaring på sida 269. Diagrammet visar basidiesporer som hamnar på marken och utvecklas till primärt mycel. Vid pilen Plasmogamy möts mycel och går vidare till sekundärt mycel. Boken beskriver hur förenade hyfer först kan innehålla en kärna från vardera partnern, utan att kärnorna genast slås samman. Därför måste förening av hyfernas innehåll skiljas från den senare föreningen av själva kärnorna.\n\nDet sekundära mycelet kopplas i diagrammet till utvecklat mycel, unga fruktkroppsstadier och en mogen hatt. Min slutsats är att en stor synlig fruktkropp inte ensam visar om kärnsammanslagningen redan har skett. Kroppens storlek och kärnornas tillstånd är olika frågor. I skrivhjälpen n + n är kärnorna fortfarande åtskilda med enkel uppsättning vardera, medan 2n avser dubbel uppsättning i en kärna. Dessa beteckningar sammanfattar bokens förklaring och ersätter den inte.\n\nFrån den mogna hattens skivor leder en förstoring till basidiet och de färgade kärnorna. Vid pilen Fertilization förenas två kärnor. Det kan jämföras med bokens beskrivning av kärnsammanslagning och dubbel uppsättning. Därefter märks Meiosis i diagrammet, som visar fyra kärnor och sporer som bildas på utskott utanpå basidiet. Sporerna kan sedan hamna på marken och fortsätta nästa varv. Boken beskriver meios som återgång till enkel uppsättning hos sporerna.\n\nStegens åtskillnad gör det möjligt att förklara ett samband, inte bara rabbla namn. Mycelföreningen ger inte automatiskt samma kärntillstånd som kärnsammanslagningen. Tillväxten ger en utvecklad kropp men är inte det markerade meiossteget. Kärnsammanslagning och meios innebär i sin tur olika övergångar i den beskrivna kärncykeln.\n\nSida 37 visar översikten spor, hyf, mycel och fruktkropp, men märker inte de två sexuella kärnstegen. Den behöver därför kompletteras med sida 39 och bokens text för att frågan ska besvaras. Detta är den avbildade modellen; underlaget ger inte grund för att göra dess alla tidsförlopp eller antal till en regel för varje svampgrupp.",
+      "sectionIds": [
+        "ppt-basidie-livscykel",
+        "sexuell-forokning",
+        "ppt-anatomi"
+      ],
+      "factIds": [
+        "ppt-basidie-livscykel-f02",
+        "ppt-basidie-livscykel-f03",
+        "ppt-basidie-livscykel-f04",
+        "ppt-basidie-livscykel-f05",
+        "ppt-basidie-livscykel-f06",
+        "ppt-basidie-livscykel-f07",
+        "ppt-basidie-livscykel-f08",
+        "ppt-basidie-livscykel-f10"
+      ],
+      "keyPoints": [
+        "Spor och primärt mycel",
+        "Mycelförening före kärnsammanslagning",
+        "Sekundärt mycel och fruktkroppsutveckling",
+        "Kärnsammanslagning och meios i basidiets förstoring",
+        "Skilda organisationsnivåer och källmodeller"
+      ],
+      "criteria": [
+        "Återger hela förloppet i sammanhängande ordning",
+        "Förklarar varför n+n inte är en diploid kärna",
+        "Kopplar kärnstegen till den märkta förstoringen",
+        "Jämför vad sidorna37 och39 kan förklara",
+        "Avgränsar antals- och tidsuppgifter till det visade exemplet"
+      ],
+      "analysis": [
+        {
+          "label": "Orsak och ordning",
+          "text": "Förening av innehåll måste inte innebära omedelbar förening av kärnor."
+        },
+        {
+          "label": "Skilda nivåer",
+          "text": "En mogen kropp visar inte i sig när en mikroskopisk kärnövergång skett."
+        },
+        {
+          "label": "Källkombination",
+          "text": "Bokens enkel/dubbel gör det färgade kärndiagrammet begripligt utan ytterligare specialisttermer."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "ppt",
+          "page": 35,
+          "label": "Allmän förökningsbeskrivning"
+        },
+        {
+          "kind": "ppt",
+          "page": 37,
+          "label": "Synlig utveckling"
+        },
+        {
+          "kind": "ppt",
+          "page": 39,
+          "label": "Den märkta sexuella basidiemodellen"
+        },
+        {
+          "kind": "book",
+          "page": 269,
+          "label": "Åtskilda kärnor, sammanslagning och meios"
+        }
+      ],
+      "sourceNote": "Endast de angivna originalsidorna i läroboken och PowerPointen används. Stycken märkta som min slutsats eller jämförelse är resonemang utifrån dessa uppgifter.",
+      "uncertainties": [
+        "Bokens allmänna tidsbeskrivning och den specifika basidiemodellen ska inte behandlas som exakt identiska förlopp.",
+        "Inga generella antals- eller tidsgränser för andra arter kan läggas till."
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Primärt/sekundärt mycel och fruktkroppsutveckling",
+          "support": "PPT39"
+        },
+        {
+          "kind": "source",
+          "statement": "Hyfer kan förenas före kärnorna",
+          "support": "bok269; färgade kärnor PPT39"
+        },
+        {
+          "kind": "inference",
+          "statement": "Kärnsammanslagning följd av meios i basidieförstoringen",
+          "support": "PPT39 jämförd med bok269"
+        },
+        {
+          "kind": "inference",
+          "statement": "Storlek är inte i sig belägg för kärntillstånd",
+          "support": "Skillnaden mellan synlig utveckling PPT37 och kärnsekvens PPT39"
+        }
+      ],
+      "wordCount": 308,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "svampars-livscykler",
+      "ordinal": 11
+    },
+    {
+      "id": "exam-practice-tillvaxtvillkor",
+      "category": "practice",
+      "primarySourceKind": "ppt",
+      "question": "En svamp syns inte alltid som fruktkropp, och mögel växer inte lika snabbt i alla miljöer. Förklara hur spridning, groning, myceltillväxt och fruktkroppsbildning hänger ihop med villkoren och vad ett försök skulle kunna visa.",
+      "answer": "Spridning och tillväxt behöver skiljas åt. Sida 35 säger att sporer sprids och kan gro när de hamnar gynnsamt, med fukt, värme och organiskt material som angivna villkor. Efter groningen börjar de växa och ett mycel bildas. Sida 31 beskriver mycelet som ett nätverk av hyfer och säger att fruktkroppar kan växa ut när temperatur och fukt är lämpliga. Min slutsats är att en spor som har nått en plats inte därmed har genomgått alla senare steg.\n\nDen osynliga eller mindre synliga delen är därför relevant. Figuren på sida 37 skiljer hyfer och mycel från unga och mogna fruktkroppar. Ett foto utan hatt räcker inte som belägg för att inget mycel finns. Omvänt visar en synlig fruktkropp att den avbildade kroppen har utvecklats, men inte exakt hur varje föregående miljövillkor såg ut. Det är slutsatser om vad figuren kan och inte kan visa, inte nya experimentresultat.\n\nSida 36 ger konkreta tillämpningar. Svampar växer långsamt när det är torrt och kallt, och texten kopplar god ventilation i bostäder och kylförvaring av känslig mat till minskad mögelrisk. Det kan kombineras med groningsvillkoren för att förklara varför miljöförhållanden påverkar det observerade förloppet. Källan säger långsam tillväxt; den säger inte att alla sporer dödas. Därför vore det för starkt att dra slutsatsen att frånvaro av snabb tillväxt bevisar att ingen senare groning är möjlig.\n\nEtt tänkt jämförande försök skulle kunna ändra ett av de nämnda villkoren och försöka hålla andra förhållanden lika. Jag skulle skilja observationen av tillväxt under försöket från en efterföljande prövning av om ett prov kan börja växa under samma gynnsamma villkor som jämförelseprovet. Återkommen tillväxt skulle tala emot slutsatsen att all groningsförmåga försvunnit. Utebliven tillväxt skulle fortfarande behöva tolkas med hänsyn till om förhållandena och observationstiden räckte.\n\nFörsöket är mitt metodförslag utifrån källans samband. Materialet ger inga exakta temperaturgränser, tider eller resultat för det. Ett fullständigt resonemang förklarar därmed hela kedjan från spridning till kropp, skiljer möjlig mekanism från belägg och undviker garantier som originalet inte ger.",
+      "sectionIds": [
+        "ppt-tillvaxt-nedbrytning",
+        "hyfer-mycel"
+      ],
+      "factIds": [
+        "ppt-tillvaxt-nedbrytning-f03",
+        "ppt-tillvaxt-nedbrytning-f04",
+        "ppt-tillvaxt-nedbrytning-f05",
+        "ppt-tillvaxt-nedbrytning-f06"
+      ],
+      "keyPoints": [
+        "Spridning, groning, mycel och fruktkropp är olika steg",
+        "Gynnsam fukt/temperatur/organiskt material kopplas till processen",
+        "Torrt och kallt bromsar enligt källan",
+        "Långsam tillväxt bevisar inte alla sporers död",
+        "Försöksförslag skiljs från rapporterade fakta"
+      ],
+      "criteria": [
+        "Förklarar en sammanhängande orsakskedja",
+        "Använder både groningsvillkor och fruktkroppsvillkor",
+        "Bedömer vad synlighet och frånvaro kan visa",
+        "Föreslår en jämförelse med kontrollerade skillnader",
+        "Anger saknade exakta gränser och utfall"
+      ],
+      "analysis": [
+        {
+          "label": "Stegvis samband",
+          "text": "En plats kan nås av en spor utan att alla villkor för senare tillväxt är visade."
+        },
+        {
+          "label": "Bevisvärde",
+          "text": "Bromsad tillväxt är en annan observation än bevisad förlust av all groningsförmåga."
+        },
+        {
+          "label": "Prövbar slutsats",
+          "text": "Ett metodförslag kan utveckla resonemanget utan att nya försöksresultat tillförs."
+        }
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "ppt",
+          "page": 31,
+          "label": "Hyfer, mycel och fruktkroppsvillkor"
+        },
+        {
+          "kind": "ppt",
+          "page": 35,
+          "label": "Sporer och gynnsam groning"
+        },
+        {
+          "kind": "ppt",
+          "page": 36,
+          "label": "Torrt, kallt, ventilation och kylförvaring"
+        },
+        {
+          "kind": "ppt",
+          "page": 37,
+          "label": "Synliga utvecklingssteg"
+        }
+      ],
+      "sourceNote": "Endast de angivna originalsidorna i läroboken och PowerPointen används. Stycken märkta som min slutsats eller jämförelse är resonemang utifrån dessa uppgifter.",
+      "uncertainties": [
+        "Materialet anger inga exakta temperaturgränser eller observationstider.",
+        "Det föreslagna försöket är ett resonemang och har inga givna resultat i källan."
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Fukt, värme och organiskt material anges för groning",
+          "support": "PPT35"
+        },
+        {
+          "kind": "source",
+          "statement": "Temperatur och fukt kopplas till fruktkropp",
+          "support": "PPT31"
+        },
+        {
+          "kind": "source",
+          "statement": "Torrt/kallt bromsar och ger källans tillämpningar",
+          "support": "PPT36"
+        },
+        {
+          "kind": "inference",
+          "statement": "Ingen hatt eller långsam tillväxt avgör inte alla andra steg",
+          "support": "PPT31,35–37"
+        },
+        {
+          "kind": "inference",
+          "statement": "Jämförelse av lika prov kan pröva elevens slutsats",
+          "support": "Metodförslag från de angivna villkoren"
+        }
+      ],
+      "wordCount": 327,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "tillvaxt-spridning",
+      "ordinal": 12
+    },
+    {
+      "id": "practice-film-patientfall-evidens",
+      "group": "practice",
+      "primarySourceKind": "film",
+      "question": "Hur kan Steves patientberättelse, gruppjämförelsen och hjärnavbildningen bidra med olika kunskap om psilocybin? Förklara vilka slutsatser som kan och inte kan dras från varje slags belägg.",
+      "answer": "Steves berättelse är viktig därför att den ger innehåll åt vad förbättring kan betyda för en människa. Han beskriver förändrade färger och ljud, en stark förändring av självupplevelsen och en andra session som blir mörk och krävande. Senare berättar han om större motståndskraft, och programmet uppger att han drygt två år efter behandlingen inte längre är deprimerad. Dessa är uppgifter om en individs förlopp, inte ett löfte om samma erfarenhet för varje patient.\n\nFör att resonera vetenskapligt behöver jag skilja mellan akut upplevelse, senare mående och orsak. Ett intensivt rus visar att personen upplever något starkt, men anger inte hur depressionen förändras efteråt. Att förbättring följer efter behandlingen visar inte heller ensamt vilken del som orsakade den. I försöket finns både substans, terapeuter och samtal. Filmens metodkritik lyfter dessutom att förväntningar kan påverka resultatet när den tydliga påverkan avslöjar försöksgruppen. Detta är skäl att begränsa slutsatsen, inte att förneka patientens beskrivning.\n\nGruppjämförelsen tillför annan information. Nästan sextio personer deltar i det brittiska försöket; grupperna får olika läkemedelsupplägg men båda terapeutiskt stöd. Filmen rapporterar minskade depressionssymtom hos nästan 30 procent i gruppen med antidepressiv medicin och 60 procent i psilocybingruppen. Det jämför flera personers utfall under angivna villkor och ger därför bättre grund för en fråga om behandlingseffekt än en ensam berättelse. Ändå kvarstår begränsningarna: försöket är litet och blindningen svår att bevara. Hjärnavbildningen är ytterligare ett slags belägg, men en biologisk förändring ersätter inte uppgifter om symtom, varaktighet och säkerhet.\n\nMin slutsats är att patientfallet och gruppresultatet bör läsas tillsammans utan att blandas ihop. Berättelsen gör möjliga erfarenheter och stödbehov begripliga. Jämförelsen undersöker hur olika behandlingsupplägg utfaller i den studerade gruppen. Steves tvåårsuppgift ger däremot ingen andel fortsatt förbättrade i hela försöket. För en starkare generell slutsats saknas här fullständig långtidsuppföljning av gruppen och ett tydligare svar på förväntningarnas respektive substansens bidrag.",
+      "sectionIds": [
+        "film-psilocybin-steve",
+        "film-psilocybin-forsok",
+        "film-psilocybin-resultat",
+        "film-psilocybin-hjarna",
+        "film-metodkritik",
+        "film-lararfragor"
+      ],
+      "factIds": [
+        "film-psilocybin-steve-fact-4",
+        "film-psilocybin-steve-fact-5",
+        "film-psilocybin-steve-fact-6",
+        "film-psilocybin-steve-knowledge-motstandskraft",
+        "film-psilocybin-forsok-fact-1",
+        "film-psilocybin-forsok-fact-2",
+        "film-psilocybin-forsok-fact-3",
+        "film-psilocybin-forsok-fact-4",
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-3",
+        "film-psilocybin-hjarna-fact-1",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-lararfragor-fact-1"
+      ],
+      "keyPoints": [
+        "Akut upplevelse skiljs från senare mående",
+        "Individfall anger ingen generell andel",
+        "Gruppjämförelsen ger ett annat slags belägg",
+        "Hjärnförändring bevisar inte ensam klinisk nytta",
+        "Liten studie och svår blindning begränsar orsaksbedömning"
+      ],
+      "criteria": [
+        "Jämför alla tre kunskapstyper",
+        "Använder Steves faktiska upplevelser och uppföljning",
+        "Tolkar 30/60 utan löfte om bot",
+        "Utvecklar sambandet mellan jämförelse, förväntningar och orsak",
+        "Anger kvarstående kunskapsluckor"
+      ],
+      "analysis": [
+        {
+          "label": "Patientfall",
+          "text": "Visar ett möjligt individuellt förlopp men inte gruppens vanliga resultat."
+        },
+        {
+          "label": "Gruppjämförelse",
+          "text": "Jämför behandlingar under angivna villkor men behöver bedömas utifrån metod."
+        },
+        {
+          "label": "Biologiskt fynd",
+          "text": "Kan ge mekanismunderlag men måste kopplas till kliniska utfall."
+        }
+      ],
+      "sourceNote": "Dokumentären 00:23:15–00:35:24 och Steves individuella uppföljning. Värderingen av kunskapstyper är egen analys av materialet.",
+      "uncertainties": [
+        "Fullständiga långtidsutfall för hela gruppen och exakt substansspecifikt bidrag redovisas inte."
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "film",
+          "time": "00:23:15",
+          "end": "00:23:45",
+          "label": "Försöksupplägg och stöd"
+        },
+        {
+          "kind": "film",
+          "time": "00:24:20",
+          "end": "00:26:04",
+          "label": "Patientens upplevelse"
+        },
+        {
+          "kind": "film",
+          "time": "00:26:15",
+          "end": "00:28:54",
+          "label": "Hjärnfynd och modell"
+        },
+        {
+          "kind": "film",
+          "time": "00:29:28",
+          "end": "00:30:08",
+          "label": "Andra sessionen"
+        },
+        {
+          "kind": "film",
+          "time": "00:30:35",
+          "end": "00:30:55",
+          "label": "Andelar och försökets storlek"
+        },
+        {
+          "kind": "film",
+          "time": "00:32:42",
+          "end": "00:33:28",
+          "label": "Individuell uppföljning"
+        },
+        {
+          "kind": "film",
+          "time": "00:34:48",
+          "end": "00:35:24",
+          "label": "Metodkritik"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Steves upplevelser och uppföljning är personliga beskrivningar.",
+          "support": "Filmen 00:24:20–00:26:04 · Inbränd intervju; Filmen 00:29:28–00:30:08 · Andra session; Filmen 00:32:42–00:33:28 · Efteråt"
+        },
+        {
+          "kind": "source",
+          "statement": "Gruppförsökets upplägg och 30/60 är filmuppgifter.",
+          "support": "Filmen 00:23:15–00:23:45 · Upplägg; Filmen 00:30:35–00:30:55 · Resultat"
+        },
+        {
+          "kind": "source",
+          "statement": "Magnetkamera används; blindning och placeboandel kritiseras.",
+          "support": "Filmen 00:26:15–00:26:47 · Avbildning; Filmen 00:34:48–00:35:24 · Kritik"
+        },
+        {
+          "kind": "inference",
+          "statement": "Kunskapstypernas olika räckvidd och efterfrågad uppföljning är slutsatser av materialets skillnader och brister.",
+          "support": "Filmen 00:30:35–00:30:55 · Litet försök; Filmen 00:34:48–00:35:24 · Orsaksproblem"
+        }
+      ],
+      "wordCount": 302,
+      "sourceFactIdsVerified": true,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "film-evidens-mekanismer",
+      "ordinal": 13
+    },
+    {
+      "id": "practice-film-stod-substans",
+      "group": "practice",
+      "primarySourceKind": "film",
+      "question": "Varför måste psilocybinförsökets stöd före, under och efter sessionerna tas med när man bedömer resultaten? Resonera om vad som förändras om stöd tas bort och vad materialet inte visar om stödets bidrag.",
+      "answer": "I det brittiska psilocybinförsöket var behandlingen mer än ett piller. Båda grupperna genomgick två sessioner med terapeuter och fick samtal före och efter. Filmens resultat gäller därför ett upplägg där substans eller jämförelseläkemedel ges tillsammans med stöd. Det är en källuppgift. Min slutsats utifrån den är att man ändrar behandlingen om man tar bort samtalen eller lämnar patienten ensam; man kan då inte automatiskt förvänta sig samma utfall.\n\nAtt stödet fanns i båda grupperna betyder inte att det saknade betydelse. En del som är gemensam kan vara viktig för båda gruppernas förbättring utan att ensam förklara skillnaden mellan dem. Försöket redovisar inte en separat jämförelse mellan samma substans med och utan varje stödinsats. Det saknas därför underlag för att ange exakt hur mycket förberedelse, närvaro eller efterföljande samtal bidrog.\n\nFilmen ger ändå skäl att ta sammanhanget på allvar. Steve beskriver en andra session som mörk och som ett möte med erfarenheter han tidigare tryckt undan. Rum och ljud sägs påverka ruset, och musik beskrivs som hjälp att ta emot upplevelsen. Jag tolkar det som att personal kan behöva hjälpa personen att hantera starka reaktioner och ge utrymme att bearbeta dem efteråt. Det är en rimlig förklaring utifrån filmens situationer, inte en uppmätt effekt av varje terapeutiskt steg. Personalens närvaro garanterar heller inte riskfrihet.\n\nMDMA-spåret belyser dessutom tiden efter sessionerna. Ron får allvarliga självmordstankar efter ett alltför snabbt terapiavslut innan han senare förbättras. Det är ett annat ämne och ett individuellt förlopp, så det bevisar inget exakt psilocybinkrav. Däremot ger det ett underlag för mitt resonemang att uppföljning inte bör glömmas bort. Filmens varning för självförsök utan professionellt stöd går i samma riktning.\n\nMin bedömning är därför att möjliga besparingar på stöd behöver vägas mot patientens situation och mot att resultaten då överförs till ett förändrat upplägg. Att stöd kostar resurser är ett relevant argument, men det visar inte att det kan tas bort utan konsekvenser. Inte heller MDMA-uppgiften om fyrtio timmar med två terapeuter anger vad ett psilocybinupplägg måste kräva. Den frågan kan inte avgöras exakt med materialet.",
+      "sectionIds": [
+        "film-psilocybin-forsok",
+        "film-psilocybin-steve",
+        "film-miljo-cancer",
+        "film-mdma-mekanism-risk",
+        "film-svensk-mdma",
+        "film-osakerhet-framtid"
+      ],
+      "factIds": [
+        "film-psilocybin-forsok-fact-4",
+        "film-psilocybin-steve-fact-5",
+        "film-miljo-cancer-fact-1",
+        "film-miljo-cancer-fact-2",
+        "film-mdma-mekanism-risk-fact-3",
+        "film-svensk-mdma-fact-4",
+        "film-osakerhet-framtid-fact-2"
+      ],
+      "keyPoints": [
+        "Stöd ingår i det prövade upplägget",
+        "Gemensam komponent kan ändå vara viktig",
+        "Miljö och krävande upplevelse ger skäl för stödresonemang",
+        "Ingen separat effektstorlek för stödet finns",
+        "MDMA:s avslut och resursuppgift får inte bli exakta psilocybinkrav"
+      ],
+      "criteria": [
+        "Utgår från det faktiska försöksupplägget",
+        "Utvecklar en orsakskedja utan att påstå att den mätts separat",
+        "Bemöter invändningen att lika stöd måste vara betydelselöst",
+        "Skiljer filmfakta från egen slutsats",
+        "Avgränsar MDMA-exemplet och anger vad som saknas"
+      ],
+      "analysis": [
+        {
+          "label": "Upplägg → räckvidd",
+          "text": "Ett resultat gäller den behandling som prövats; ändrat stöd innebär ett ändrat upplägg."
+        },
+        {
+          "label": "Tolkning → begränsning",
+          "text": "Filmens situationer gör stöd begripligt, men fastställer inte ett exakt bidrag."
+        },
+        {
+          "label": "Motargument",
+          "text": "Resursbehov behöver vägas mot stödbehov utan att anta ofarligt borttagande."
+        }
+      ],
+      "sourceNote": "Dokumentären: stöd 00:23:38–00:23:45, mörk session 00:29:28, miljö/musik 00:44:36–00:45:16. MDMA-uppgifter används avgränsat, inte som bevisat psilocybinprotokoll.",
+      "uncertainties": [
+        "Materialet visar inte effekten av att ta bort en viss stödinsats.",
+        "Exakt personalbehov och resursåtgång för allmän psilocybinvård fastställs inte."
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "film",
+          "time": "00:23:38",
+          "end": "00:23:45",
+          "label": "Terapeuter och samtal"
+        },
+        {
+          "kind": "film",
+          "time": "00:29:28",
+          "end": "00:29:40",
+          "label": "Krävande session"
+        },
+        {
+          "kind": "film",
+          "time": "00:44:36",
+          "end": "00:45:16",
+          "label": "Rum, ljud och musik"
+        },
+        {
+          "kind": "film",
+          "time": "00:17:01",
+          "end": "00:17:06",
+          "label": "MDMA: svårt terapiavslut"
+        },
+        {
+          "kind": "film",
+          "time": "00:51:50",
+          "end": "00:52:03",
+          "label": "MDMA: resursuppgift"
+        },
+        {
+          "kind": "film",
+          "time": "00:54:32",
+          "end": "00:54:49",
+          "label": "Oro för självförsök"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Båda grupper har stöd före, under och efter; en session beskrivs som mörk och krävande.",
+          "support": "Filmen 00:23:38–00:23:45 · Stöd; Filmen 00:29:28–00:29:40 · Patientupplevelse"
+        },
+        {
+          "kind": "source",
+          "statement": "Rum, ljud och musik kan påverka upplevelsen enligt filmen.",
+          "support": "Filmen 00:44:36–00:45:16 · Miljö och musik"
+        },
+        {
+          "kind": "source",
+          "statement": "MDMA-spåret innehåller ett svårt terapiavslut och en specifik resursuppgift; självförsök oroar.",
+          "support": "Filmen 00:17:01–00:17:06 · Avslut; Filmen 00:51:50–00:52:03 · Resurser; Filmen 00:54:32–00:54:49 · Självförsök"
+        },
+        {
+          "kind": "inference",
+          "statement": "Att ta bort stöd ändrar insatsen och kan inte antas ge oförändrat resultat. Exakt stödverkan är en kunskapslucka.",
+          "support": "Filmen 00:23:38–00:23:45 · Vad som faktiskt prövades"
+        }
+      ],
+      "wordCount": 338,
+      "sourceFactIdsVerified": true,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "film-risk-etik-vard",
+      "ordinal": 14
+    },
+    {
+      "id": "practice-film-etiskt-beslut",
+      "group": "practice",
+      "primarySourceKind": "film",
+      "question": "Hur skulle du väga patienters behov av nya behandlingar mot osäker effekt, säkerhetssignaler och rättvis tillgång när psykedelisk terapi diskuteras? Utveckla ett eget etiskt ställningstagande med argument och motargument från filmen.",
+      "answer": "Jag skulle börja med att skilja den faktiska kunskapen från mitt etiska ställningstagande. Filmen visar ett behov av fler behandlingsverktyg hos människor som inte fått tillräcklig hjälp. Den rapporterar också en större andel med minskade depressionssymtom i psilocybingruppen i ett litet jämförelseförsök. Detta ger enligt min bedömning ett skäl att undersöka möjligheten vidare. Stort lidande gör däremot inte automatiskt en ny metod effektiv eller säker.\n\nMotargumentet är konkret. Försöket är litet och den märkbara påverkan kan avslöja gruppen, vilket försvårar bedömningen av förväntningarnas bidrag. I en större psilocybinstudie nämns dessutom tre självmordsförsök som ska utredas. Händelserna får inte avfärdas, men filmen fastslår inte att substansen orsakade dem. Om jag gjorde dem till bevisad substansorsak skulle mitt avvisande argument gå lika långt utanför beläggen som ett löfte om riskfri bot.\n\nMin etiska princip är att både möjlig hjälp och skydd mot skada ska väga tungt. Patienten bör därför få begriplig information om lovande resultat, svåra upplevelser och det som fortfarande är osäkert, så att ett frivilligt ställningstagande blir möjligt. Det är en egen värdering, inte en uppgift om att filmen visar ett komplett samtyckesförfarande. Den starka längtan efter hjälp är enligt mitt resonemang ett skäl till särskild tydlighet, snarare än ett skäl att förstärka löften.\n\nTillgång och resurser behöver också diskuteras. Företag vill utveckla egna molekyler och uttrycker förhoppningar om tillgänglighet genom vård eller försäkringar. Det kan öppna möjligheter men bevisar inte att rättvis tillgång redan finns. Den stora resursuppgiften med fyrtio timmar och två terapeuter gäller MDMA. Den får inte användas som ett uträknat psilocybinpris eller bemanningskrav.\n\nMin slutsats är ett villkorat stöd för fortsatt noggrant prövad utveckling, samtidigt som jag vill avvakta långtgående löften om allmän användning. Tydligare specifik effekt, gruppers långtidsutfall och utredning av negativa händelser skulle kunna förändra min bedömning. En försiktigare elev kan väga osäkerheten tyngre och nå ett annat välgrundat ställningstagande. Det avgörande är hur belägg och motargument vägs, inte att välja ett förutbestämt ja eller nej.",
+      "sectionIds": [
+        "film-ptsd-ron",
+        "film-psilocybin-resultat",
+        "film-metodkritik",
+        "film-kommersiellt",
+        "film-svensk-mdma",
+        "film-osakerhet-framtid"
+      ],
+      "factIds": [
+        "film-ptsd-ron-fact-1",
+        "film-psilocybin-resultat-fact-1",
+        "film-psilocybin-resultat-fact-2",
+        "film-psilocybin-resultat-fact-3",
+        "film-metodkritik-fact-1",
+        "film-metodkritik-fact-2",
+        "film-kommersiellt-fact-2",
+        "film-kommersiellt-fact-4",
+        "film-kommersiellt-fact-5",
+        "film-kommersiellt-fact-6",
+        "film-svensk-mdma-fact-4",
+        "film-osakerhet-framtid-fact-1"
+      ],
+      "keyPoints": [
+        "Hjälpbehov motiverar prövning men bevisar inte effekt",
+        "Liten studie och svår blindning begränsar löften",
+        "Allvarliga händelser måste utredas utan förutsatt orsak",
+        "Frivillighet och tydlig information är egna etiska principer",
+        "Tillgång och resurser behöver diskuteras med rätt substans",
+        "Slutsatsen är villkorad och kan omprövas"
+      ],
+      "criteria": [
+        "Formulerar en tydlig egen etisk utgångspunkt",
+        "Stöder argument och motargument med konkreta filmuppgifter",
+        "Skiljer källfakta, metodisk tolkning och normativ princip",
+        "Väger tillgång och resursbehov utan att konstruera kostnader",
+        "Anger villkor för sin slutsats och tillåter andra välgrundade slutsatser"
+      ],
+      "analysis": [
+        {
+          "label": "Behov och bevis",
+          "text": "Stort lidande ger ett skäl att söka hjälp men avgör inte behandlingens resultat."
+        },
+        {
+          "label": "Risk och osäker orsak",
+          "text": "En säkerhetshändelse ska både tas på allvar och bedömas utan ogrundad orsaksbestämning."
+        },
+        {
+          "label": "Egen värdering",
+          "text": "Information, frivillighet och rättvis tillgång används som uttryckliga bedömningsprinciper."
+        }
+      ],
+      "sourceNote": "Dokumentärens behandlingsbehov, lilla jämförelseförsök, metodkritik, företagsmål, säkerhetsuppgifter och MDMA-resurser. Etiska principer är egna resonemang utifrån dessa situationer, inte ytterligare filmfakta.",
+      "uncertainties": [
+        "Dokumentären fastställer inte orsaken till de tre självmordsförsöken.",
+        "Aktuella godkännanden, verklig kostnadseffektivitet och faktisk rättvis tillgång kan inte avgöras här."
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "film",
+          "time": "00:06:26",
+          "end": "00:06:46",
+          "label": "Otillräcklig tidigare hjälp i ett fall"
+        },
+        {
+          "kind": "film",
+          "time": "00:30:35",
+          "end": "00:30:55",
+          "label": "Lovande men litet försök"
+        },
+        {
+          "kind": "film",
+          "time": "00:34:48",
+          "end": "00:35:24",
+          "label": "Blindning och placebo"
+        },
+        {
+          "kind": "film",
+          "time": "00:37:33",
+          "end": "00:37:33",
+          "label": "Patentintresse"
+        },
+        {
+          "kind": "film",
+          "time": "00:39:19",
+          "end": "00:40:00",
+          "label": "Säkerhetssignal och tillgänglighetsmål"
+        },
+        {
+          "kind": "film",
+          "time": "00:51:30",
+          "end": "00:52:03",
+          "label": "Vårdbehov och MDMA-resurser"
+        },
+        {
+          "kind": "film",
+          "time": "00:54:14",
+          "end": "00:54:25",
+          "label": "Preliminärt läge"
+        }
+      ],
+      "claimLedger": [
+        {
+          "kind": "source",
+          "statement": "Tidigare insatser har inte räckt för vissa patienter i filmen.",
+          "support": "Filmen 00:06:26–00:06:46 · Ron; Filmen 00:51:30–00:51:40 · Rajan"
+        },
+        {
+          "kind": "source",
+          "statement": "Positiv andelsskillnad i liten studie måste vägas mot blindningskritik.",
+          "support": "Filmen 00:30:35–00:30:55 · Resultat; Filmen 00:34:48–00:35:24 · Metod"
+        },
+        {
+          "kind": "source",
+          "statement": "Tre självmordsförsök ska utredas, och företaget har mål om tillgänglighet; fyrtio timmar/två terapeuter gäller MDMA.",
+          "support": "Filmen 00:39:19–00:39:42 · Riskhändelser; Filmen 00:39:52–00:40:00 · Tillgänglighetsmål; Filmen 00:51:50–00:52:03 · MDMA-resursuppgift"
+        },
+        {
+          "kind": "inference",
+          "statement": "Information, frivillighet, rimlig prioritering och ett villkorat ställningstagande är egna etiska slutsatser.",
+          "support": "Filmen 00:30:35–00:30:55 · Möjlig nytta; Filmen 00:39:19–00:39:42 · Osäker risk; Filmen 00:51:30–00:52:03 · Behov och resurser"
+        }
+      ],
+      "wordCount": 322,
+      "sourceFactIdsVerified": true,
+      "collection": "exam-bank",
+      "provenance": "practice",
+      "revision": 1,
+      "topicId": "film-risk-etik-vard",
+      "ordinal": 15
     }
   ],
   "coverageQuestions": [
@@ -3165,5 +5203,15 @@
     "angschampinjon": "images/quiz/qaec5611bf97a8010f16635.webp",
     "angsvaxskivling": "images/quiz/q13694a3fb8984a1f1bcdba.webp"
   },
-  "missingPhotos": []
+  "missingPhotos": [],
+  "sourcePolicy": {
+    "revision": "strict-three-sources-2026-10-14",
+    "allowed": [
+      "Boken s. 266–269",
+      "Undervisningens PowerPoint, Svampar.pdf bild 1–39",
+      "Dokumentären Frisk av magiska svampar: tillgängligt film-/textinnehåll"
+    ],
+    "principle": "Fördjupa resonemanget utan att utöka faktaunderlaget. Frågorna styr vad som besvaras. Elevsvar används inte som facit.",
+    "gaps": "Saknade uppgifter markeras; inga externa källor eller förkunskapsfakta fyller luckorna."
+  }
 }

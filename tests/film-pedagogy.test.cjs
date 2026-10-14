@@ -1,16 +1,17 @@
 const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
 const{context,data,root,C}=require('./helpers/atlas.cjs');
 const baseline=JSON.parse(fs.readFileSync(path.join(root,'tests/fixtures/before-film-pedagogy-hashes.json'),'utf8'));
+const{beforeCourse,beforeFileHash}=require('./helpers/source-restriction.cjs'),historical=beforeCourse(data);
 const meta=data.filmPedagogy,proof=JSON.parse(fs.readFileSync(path.join(root,'content/film-pedagogy.json'),'utf8'));
 const canonical=x=>Array.isArray(x)?x.map(canonical):x&&typeof x==='object'?Object.fromEntries(Object.keys(x).sort().map(k=>[k,canonical(x[k])])):x;
 const hash=x=>crypto.createHash('sha256').update(JSON.stringify(canonical(x))).digest('hex');
 const originalQuestions=['Vad är psilocybin?','Vilka sjukdomar eller besvär hoppas forskarna kunna behandla?','Hur beskriver patienterna sina upplevelser av behandlingen?','Vilka positiva effekter nämns i filmen?','Vilka risker eller nackdelar tas upp?','Varför ges behandlingen tillsammans med utbildad personal?','Vilka bevis använder forskarna för att visa att behandlingen fungerar?','Vilka argument framförs av personer som är skeptiska?','Något i filmen som förvånade dig?','Tror du att psilocybin kommer att användas som läkemedel i framtiden? Varför eller varför inte?'];
 
 test('Film pedagogy adds material while preserving all38 old sections, every prior answer, all species, old concepts, source files and shell',()=>{
- assert.equal(Object.keys(baseline.sections).length,38);for(const[id,sha]of Object.entries(baseline.sections))assert.equal(hash(data.sections.find(s=>s.id===id)),sha,id);
+ assert.equal(Object.keys(baseline.sections).length,38);for(const[id,sha]of Object.entries(baseline.sections))assert.equal(hash(historical.sections.find(s=>s.id===id)),sha,id);
  assert.equal(hash(data.species),baseline.species);assert.equal(hash(data.cues),baseline.cues);
- for(const[term,sha]of Object.entries(baseline.concepts))assert.equal(hash(data.concepts.find(c=>c.term===term)),sha,term);
- for(const[file,sha]of Object.entries(baseline.files).filter(([file])=>file!=='index.html'))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),sha,file);
+ for(const[term,sha]of Object.entries(baseline.concepts))assert.equal(hash(historical.concepts.find(c=>c.term===term)),sha,term);
+ for(const[file,sha]of Object.entries(baseline.files).filter(([file])=>file!=='index.html'))assert.equal(beforeFileHash(file),sha,file);
  assert.equal(data.schema,1);assert.equal(data.contentRevision,'film-subject-v2');assert.equal(C.initialState().course,'svampatlas-v1');
 });
 

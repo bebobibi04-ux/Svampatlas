@@ -15,3 +15,11 @@
 @media(max-width:600px){.photo-zoom img{height:280px}.check-status{font-size:.76rem}}
 
 .photo-credit{overflow-wrap:anywhere}
+
+/* Source-bound exam practice, using the existing panels and typography. */
+.exam-question h3{font-family:var(--font-display,inherit);line-height:1.45}
+.reported-links li{padding:.35rem 0}
+.evidence-links{display:flex;gap:.5rem;flex-wrap:wrap;margin:.8rem 0}
+.assessment details{margin:1rem 0}
+.assessment dd{margin:0 0 1rem 0}
+.exam-question,.assessment{min-width:0;overflow-wrap:anywhere}
