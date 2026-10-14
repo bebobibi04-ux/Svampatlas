@@ -63,7 +63,7 @@ test('The expanded checklist retains all 467 old items and 720 old units exactly
 test('Original and new progress, own answers and unfinished checks survive backup without identity or schema changes',()=>{
  const{A,E}=extension(),old=extra.questions[0],q=v.questions[0],item=E.cat.items.find(x=>x.entityId===q.id);for(const model of [old,q]){E.input({id:'advanced-own-answer',dataset:{question:model.id},value:'Sparad text '+model.id});A.rate(model.id,'again')}
  const check={id:'new-check',mode:'targeted',order:[item.id],index:0,answers:{[item.id]:{selected:'Mitt svar',checked:true,skipped:false,correct:null,selfRating:'unsure',at:10}},started:1,finished:null,submitted:false};A.state.additions.checks.active=check;const raw=plain(A.state),restored=C.validateBackup(raw,new Set(A.entities.keys()));restored.additions=E.sanitize(raw.additions);assert.equal(restored.schema,1);assert.deepEqual(plain(restored.reviews),raw.reviews);assert.deepEqual(plain(restored.additions.advancedResponses),raw.additions.advancedResponses);assert.deepEqual(plain(restored.additions.checks.active),check);
- const plan=E.view('repetition');assert(plan.includes('#provfragor/'+q.id));assert(!plan.includes('#aniva/'+q.id));assert(E.repetition().includes('1 frågevarianter behöver repeteras'));
+ const plan=E.view('repetition');assert(plan.includes('#provfragor/'+q.id));assert(!plan.includes('#aniva/'+q.id));assert(E.repetition().includes('1 frågevariant behöver repeteras'));
 });
 
 test('All changed runtime resources have content versions while the existing source/style prefix and standalone navigation are preserved',()=>{
